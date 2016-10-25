@@ -32,4 +32,5 @@ It reads a pdf file and exports all pages & texts with coordinates. This can be 
 ##TODO
 
 docu: utils for table parsing
+
 tests
