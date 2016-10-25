@@ -1,4 +1,4 @@
-# pdf-extract
+# pdf.js-extract
 
 extracts data from XLSX files with low memory footprint
 
@@ -8,19 +8,19 @@ It reads a pdf file and exports all pages & texts with coordinates. This can be 
 
 ##Install
 
-[![NPM](https://nodei.co/npm/pdf-extract.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pdf-extract/)
+[![NPM](https://nodei.co/npm/pdf.js-extract.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pdf.js-extract/)
 
-[![dependencies](https://img.shields.io/david/ffalt/pdf-extract.svg)](https://www.npmjs.com/package/pdf-extract)
+[![dependencies](https://img.shields.io/david/ffalt/pdf.js-extract.svg)](https://www.npmjs.com/package/pdf.js-extract)
 
-[![license](https://img.shields.io/npm/l/pdf-extract.svg)](http://opensource.org/licenses/MIT)
+[![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT)
 
-[![developer](https://img.shields.io/badge/developer-awesome-brightgreen.svg)](https://github.com/ffalt/pdf-extract)
+[![developer](https://img.shields.io/badge/developer-awesome-brightgreen.svg)](https://github.com/ffalt/pdf.js-extract)
 
 ##Convenience API
 
 ```javascript
 
-    var PDFExtract = require('pdf-extract').PDFExtract;
+    var PDFExtract = require('pdf.js-extract').PDFExtract;
 	pdfExtract.extract(filename, {} /* options, currently nothing available*/, function (err, data) {
 		if (err) return console.log(err);
 		console.log(data);
