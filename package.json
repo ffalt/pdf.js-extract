@@ -9,17 +9,13 @@
   "bugs": {
     "url": "https://github.com/ffalt/pdf.js-extract/issues"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "ffalt"
   },
   "contributors": [
   ],
   "main": "./lib",
-  "scripts": {
-    "cover": "istanbul cover _mocha",
-    "test": "mocha"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -1,8 +1,8 @@
 # pdf.js-extract
 
-extracts data from XLSX files with low memory footprint
+extracts text from PDF files
 
-this is just a library packaged out of the examples for usage of pdf.js with nodejs.
+This is just a library packaged out of the examples for usage of pdf.js with nodejs.
 
 It reads a pdf file and exports all pages & texts with coordinates. This can be e.g. used to extract structured table data.
 
