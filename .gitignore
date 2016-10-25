@@ -1,0 +1,17 @@
+lib-cov
+coverage
+*.seed
+*.log
+*.pdf
+*.dat
+*.out
+*.pid
+*.gz
+.idea
+pids
+logs
+results
+local
+npm-debug.log
+node_modules
+.DS_Store

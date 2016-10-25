@@ -1,0 +1,35 @@
+{
+  "name": "pdf-extract",
+  "description": "super-simple async PDF reader that extracts text with x,y page positions based on pdf.js",
+  "homepage": "https://github.com/ffalt/pdf-extract",
+  "keywords": [
+    "pdf",
+    "extract"
+  ],
+  "bugs": {
+    "url": "https://github.com/ffalt/pdf-extract/issues"
+  },
+  "version": "0.0.1",
+  "author": {
+    "name": "ffalt"
+  },
+  "contributors": [
+  ],
+  "main": "./lib",
+  "scripts": {
+    "cover": "istanbul cover _mocha",
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ffalt/pdf-extract"
+  },
+  "dependencies": {
+    "pdfjs-dist-for-node": "^1.0.892-rc.1"
+  },
+  "engines": {
+    "node": ">= 0.8.15"
+  },
+  "readmeFilename": "README.md"
+}
