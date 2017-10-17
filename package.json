@@ -9,12 +9,11 @@
   "bugs": {
     "url": "https://github.com/ffalt/pdf.js-extract/issues"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": {
     "name": "ffalt"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "main": "./lib",
   "license": "MIT",
   "repository": {
@@ -22,7 +21,6 @@
     "url": "https://github.com/ffalt/pdf.js-extract"
   },
   "dependencies": {
-    "pdfjs-dist-for-node": "^1.0.892-rc.1"
   },
   "engines": {
     "node": ">= 0.8.15"

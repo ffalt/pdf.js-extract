@@ -4,3 +4,7 @@ local
 coverage
 .git
 node_modules
+update_pdfjs.sh
+README.md
+.gitignore
+example
