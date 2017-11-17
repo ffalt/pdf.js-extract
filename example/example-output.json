@@ -1,5 +1,4 @@
 {
-	"filename": "./example.pdf",
 	"meta": {
 		"info": {
 			"PDFFormatVersion": "1.3",
@@ -335,5 +334,6 @@
 		"numPages": 1,
 		"fingerprint": "4dc91a1875a6d707aec203bb021c93a0",
 		"encrypted": false
-	}
+	},
+	"filename": "./example.pdf"
 }
