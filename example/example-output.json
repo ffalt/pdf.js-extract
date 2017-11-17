@@ -45,7 +45,7 @@
 					"str": "Adobe Acrobat PDF Files",
 					"dir": "ltr",
 					"width": 168.10513199999997,
-					"height": 197.12159999999997,
+					"height": 14.04,
 					"fontName": "Helvetica"
 				},
 				{
@@ -54,7 +54,7 @@
 					"str": "Adobe® Portable Document Format (PDF) is a universal file format that preserves all",
 					"dir": "ltr",
 					"width": 415.7076000000002,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -63,7 +63,7 @@
 					"str": "of  the  fonts,  formatting,  colours  and  graphics  of  any  source  document,  regardless  of",
 					"dir": "ltr",
 					"width": 415.84680000000014,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -72,7 +72,7 @@
 					"str": "the application and platform used to create it.",
 					"dir": "ltr",
 					"width": 217.27679999999998,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -81,7 +81,7 @@
 					"str": "Adobe PDF is an ideal format for electronic document distribution as it overcomes the",
 					"dir": "ltr",
 					"width": 415.8216,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -90,7 +90,7 @@
 					"str": "problems commonly encountered with electronic file sharing.",
 					"dir": "ltr",
 					"width": 295.4172000000001,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -99,7 +99,7 @@
 					"str": "•",
 					"dir": "ltr",
 					"width": 5.5200000000000005,
-					"height": 144,
+					"height": 12,
 					"fontName": "Symbol"
 				},
 				{
@@ -108,7 +108,7 @@
 					"str": " ",
 					"dir": "ltr",
 					"width": 3.3360000000000003,
-					"height": 144,
+					"height": 12,
 					"fontName": "Helvetica"
 				},
 				{
@@ -117,7 +117,7 @@
 					"str": "Anyone, anywhere",
 					"dir": "ltr",
 					"width": 92.93399999999998,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -126,7 +126,7 @@
 					"str": " can open a PDF file. All you need is the free Adobe Acrobat",
 					"dir": "ltr",
 					"width": 304.9320000000001,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -135,7 +135,7 @@
 					"str": "Reader.  Recipients  of  other  file  formats  sometimes  can't  open  files  because  they",
 					"dir": "ltr",
 					"width": 398.05200000000013,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -144,7 +144,7 @@
 					"str": "don't have the applications used to create the documents.",
 					"dir": "ltr",
 					"width": 272.448,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -153,7 +153,7 @@
 					"str": "•",
 					"dir": "ltr",
 					"width": 5.5200000000000005,
-					"height": 144,
+					"height": 12,
 					"fontName": "Symbol"
 				},
 				{
@@ -162,7 +162,7 @@
 					"str": " ",
 					"dir": "ltr",
 					"width": 3.3360000000000003,
-					"height": 144,
+					"height": 12,
 					"fontName": "Helvetica"
 				},
 				{
@@ -171,7 +171,7 @@
 					"str": "PDF files ",
 					"dir": "ltr",
 					"width": 48.60000000000001,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -180,7 +180,7 @@
 					"str": "always print correctly",
 					"dir": "ltr",
 					"width": 106.74719999999998,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -189,7 +189,7 @@
 					"str": " on any printing device.",
 					"dir": "ltr",
 					"width": 113.64599999999999,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -198,7 +198,7 @@
 					"str": "•",
 					"dir": "ltr",
 					"width": 5.5200000000000005,
-					"height": 144,
+					"height": 12,
 					"fontName": "Symbol"
 				},
 				{
@@ -207,7 +207,7 @@
 					"str": " ",
 					"dir": "ltr",
 					"width": 3.3360000000000003,
-					"height": 144,
+					"height": 12,
 					"fontName": "Helvetica"
 				},
 				{
@@ -216,7 +216,7 @@
 					"str": "PDF  files  always  display  ",
 					"dir": "ltr",
 					"width": 131.166,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -225,7 +225,7 @@
 					"str": "exactly",
 					"dir": "ltr",
 					"width": 34.766400000000004,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -234,7 +234,7 @@
 					"str": "  as  created,  regardless  of  fonts,  software,  and",
 					"dir": "ltr",
 					"width": 231.87,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -243,7 +243,7 @@
 					"str": "operating systems. Fonts, and graphics are not lost due to platform, software, and",
 					"dir": "ltr",
 					"width": 397.8359999999998,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -252,7 +252,7 @@
 					"str": "version incompatibilities.",
 					"dir": "ltr",
 					"width": 122.05439999999999,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -261,7 +261,7 @@
 					"str": "•",
 					"dir": "ltr",
 					"width": 5.5200000000000005,
-					"height": 144,
+					"height": 12,
 					"fontName": "Symbol"
 				},
 				{
@@ -270,7 +270,7 @@
 					"str": " ",
 					"dir": "ltr",
 					"width": 3.3360000000000003,
-					"height": 144,
+					"height": 12,
 					"fontName": "Helvetica"
 				},
 				{
@@ -279,7 +279,7 @@
 					"str": "The  free  Acrobat  Reader  is  easy  to  download  and  can  be  freely  distributed  by",
 					"dir": "ltr",
 					"width": 397.9728000000001,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -288,7 +288,7 @@
 					"str": "anyone.",
 					"dir": "ltr",
 					"width": 37.5192,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -297,7 +297,7 @@
 					"str": "•",
 					"dir": "ltr",
 					"width": 5.5200000000000005,
-					"height": 144,
+					"height": 12,
 					"fontName": "Symbol"
 				},
 				{
@@ -306,7 +306,7 @@
 					"str": " ",
 					"dir": "ltr",
 					"width": 3.3360000000000003,
-					"height": 144,
+					"height": 12,
 					"fontName": "Helvetica"
 				},
 				{
@@ -315,7 +315,7 @@
 					"str": "Compact   PDF   files   are   smaller   than   their   source   files   and   download   a",
 					"dir": "ltr",
 					"width": 397.96080000000006,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				},
 				{
@@ -324,7 +324,7 @@
 					"str": "page at a time for fast display on the Web.",
 					"dir": "ltr",
 					"width": 203.2452,
-					"height": 144,
+					"height": 12,
 					"fontName": "Times"
 				}
 			]
