@@ -9,11 +9,14 @@
   "bugs": {
     "url": "https://github.com/ffalt/pdf.js-extract/issues"
   },
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": {
     "name": "ffalt"
   },
-  "contributors": [],
+  "contributors": [{
+    "name": "Chad Kirby",
+    "url": "https://github.com/chadkirby"
+  }],
   "main": "./lib",
   "license": "MIT",
   "repository": {
