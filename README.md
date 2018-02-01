@@ -24,7 +24,8 @@ Note: NO OCR!
 
     var PDFExtract = require('pdf.js-extract').PDFExtract;
 	var pdfExtract = new PDFExtract();
-	pdfExtract.extract(filename, {} /* options, currently nothing available*/, function (err, data) {
+	var options = {}; /* options are handed over to pdf.js e.g, { password: 'somepassword' } */
+	pdfExtract.extract(filename, options , function (err, data) {
 		if (err) return console.log(err);
 		console.log(data);
 	});
