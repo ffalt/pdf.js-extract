@@ -1,0 +1,101 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.7",
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"Author": "Ilan Copelyn\u0000",
+			"Creator": "Microsoft® Word 2016\u0000",
+			"Producer": "Microsoft® Word 2016\u0000",
+			"CreationDate": "D:20180201124627+02'00'",
+			"ModDate": "D:20180201124627+02'00'"
+		},
+		"metadata": {
+			"_metadata": {
+				"pdf:producer": "Microsoft® Word 2016",
+				"dc:creator": "Ilan Copelyn",
+				"xmp:creatortool": "Microsoft® Word 2016",
+				"xmp:createdate": "2018-02-01T12:46:27+02:00",
+				"xmp:modifydate": "2018-02-01T12:46:27+02:00",
+				"xmpmm:documentid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483",
+				"xmpmm:instanceid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483"
+			}
+		}
+	},
+	"pages": [
+		{
+			"pageInfo": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.32,
+				"height": 841.92,
+				"fontScale": 1
+			},
+			"content": [
+				{
+					"x": 72.024,
+					"y": 82.43999999999994,
+					"str": "Hello I",
+					"dir": "ltr",
+					"width": 28.549439999999997,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 100.58,
+					"y": 82.43999999999994,
+					"str": "’",
+					"dir": "ltr",
+					"width": 2.76,
+					"height": 11.04,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 103.22,
+					"y": 82.43999999999994,
+					"str": "m an e",
+					"dir": "ltr",
+					"width": 30.326880000000003,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 133.58,
+					"y": 82.43999999999994,
+					"str": "ncr",
+					"dir": "ltr",
+					"width": 14.285759999999998,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 147.86,
+					"y": 82.43999999999994,
+					"str": "ypted pdf",
+					"dir": "ltr",
+					"width": 43.07807999999999,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 190.85,
+					"y": 82.43999999999994,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.49504,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				}
+			]
+		}
+	],
+	"pdfInfo": {
+		"numPages": 1,
+		"fingerprint": "2e22bde07d96d0408524c26eeecd3483",
+		"encrypted": true
+	},
+	"filename": "./encrypted.pdf"
+}
