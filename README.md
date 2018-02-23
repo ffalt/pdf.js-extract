@@ -6,7 +6,7 @@ This is just a library packaged out of the examples for usage of pdf.js with nod
 
 It reads a pdf file and exports all pages & texts with coordinates. This can be e.g. used to extract structured table data.
 
-This package includes a single file build of [pdf.js](https://github.com/mozilla/pdf.js), so it does not depend on other npm packages any more.
+This package includes a build of [pdf.js](https://github.com/mozilla/pdf.js). why? [pdfs-dist](https://github.com/mozilla/pdfjs-dist) installs not needed dependencies into production deployment.
 
 Note: NO OCR!
 
@@ -73,8 +73,7 @@ Example Output
 	],
 	"pdfInfo": {
 		"numPages": 1,
-		"fingerprint": "1ee9219eb9eaa49acbfc20155ac359c3",
-		"encrypted": false
+		"fingerprint": "1ee9219eb9eaa49acbfc20155ac359c3"
 	}
 }
 ```
