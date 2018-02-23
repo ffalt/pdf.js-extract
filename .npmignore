@@ -7,4 +7,6 @@ node_modules
 update_pdfjs.sh
 README.md
 .gitignore
+test
 example
+.eslintrc.js
