@@ -20,7 +20,8 @@
 				"xmpmm:documentid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483",
 				"xmpmm:instanceid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483"
 			}
-		}
+		},
+		"contentDispositionFilename": null
 	},
 	"pages": [
 		{
@@ -94,8 +95,7 @@
 	],
 	"pdfInfo": {
 		"numPages": 1,
-		"fingerprint": "2e22bde07d96d0408524c26eeecd3483",
-		"encrypted": true
+		"fingerprint": "2e22bde07d96d0408524c26eeecd3483"
 	},
 	"filename": "./encrypted.pdf"
 }

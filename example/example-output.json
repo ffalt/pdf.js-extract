@@ -24,7 +24,8 @@
 				"xmpmm:documentid": "uuid:0805e221-80a8-459e-a522-635ed5c1e2e6",
 				"xmpmm:instanceid": "uuid:62d6ae6d-43c4-472d-9b28-7c4add8f9e46"
 			}
-		}
+		},
+		"contentDispositionFilename": null
 	},
 	"pages": [
 		{
@@ -332,8 +333,7 @@
 	],
 	"pdfInfo": {
 		"numPages": 1,
-		"fingerprint": "4dc91a1875a6d707aec203bb021c93a0",
-		"encrypted": false
+		"fingerprint": "4dc91a1875a6d707aec203bb021c93a0"
 	},
 	"filename": "./example.pdf"
 }
