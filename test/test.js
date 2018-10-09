@@ -1,33 +1,31 @@
-var path = require('path');
-var fs = require('fs');
-var assert = require('assert');
-var PDFExtract = require('../lib').PDFExtract;
-var pdfLib = require('../lib/pdfjs/pdf.js');
+const path = require('path');
+const fs = require('fs');
+const PDFExtract = require('../lib').PDFExtract;
 const chai = require('chai');
 const chaiExclude = require('chai-exclude');
 chai.use(chaiExclude);
 
-var pdf_directory = path.resolve(__dirname, '../example/');
-var sample_file = path.join(pdf_directory, 'example.pdf');
-var sample_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'example-output.json')).toString());
-var sample_encrypted_file = path.join(pdf_directory, 'encrypted.pdf');
-var sample_encrypted_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'encrypted-output.json')).toString());
+const pdf_directory = path.resolve(__dirname, '../example/');
+const sample_file = path.join(pdf_directory, 'example.pdf');
+const sample_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'example-output.json')).toString());
+const sample_encrypted_file = path.join(pdf_directory, 'encrypted.pdf');
+const sample_encrypted_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'encrypted-output.json')).toString());
 
-describe('PDFExtract', function () {
+describe('PDFExtract', () => {
 
-	describe('#extractBuffer()', function () {
-		it('should extract pdf buffer without error', function (done) {
-			var extract = new PDFExtract();
-			var buffer = fs.readFileSync(sample_file);
-			extract.extractBuffer(buffer, {}, function (err) {
+	describe('#extractBuffer()', () => {
+		it('should extract pdf buffer without error', done => {
+			const extract = new PDFExtract();
+			const buffer = fs.readFileSync(sample_file);
+			extract.extractBuffer(buffer, {}, err => {
 				if (err) done(err);
 				else done();
 			});
 		});
-		it('should extract pdf buffer with right data', function (done) {
-			var extract = new PDFExtract();
-			var buffer = fs.readFileSync(sample_file);
-			extract.extractBuffer(buffer, {}, function (err, data) {
+		it('should extract pdf buffer with right data', done => {
+			const extract = new PDFExtract();
+			const buffer = fs.readFileSync(sample_file);
+			extract.extractBuffer(buffer, {}, (err, data) => {
 				if (err) return done(err);
 				try {
 					// fontNames may be generated ids
@@ -39,18 +37,18 @@ describe('PDFExtract', function () {
 				}
 			});
 		});
-		it('should extract encrypted pdf buffer without error', function (done) {
-			var extract = new PDFExtract();
-			var buffer = fs.readFileSync(sample_encrypted_file);
-			extract.extractBuffer(buffer, {password: 'password'}, function (err) {
+		it('should extract encrypted pdf buffer without error', done => {
+			const extract = new PDFExtract();
+			const buffer = fs.readFileSync(sample_encrypted_file);
+			extract.extractBuffer(buffer, {password: 'password'}, err => {
 				if (err) done(err);
 				else done();
 			});
 		});
-		it('should extract encrypted pdf buffer with right data', function (done) {
-			var extract = new PDFExtract();
-			var buffer = fs.readFileSync(sample_encrypted_file);
-			extract.extractBuffer(buffer, {password: 'password'}, function (err, data) {
+		it('should extract encrypted pdf buffer with right data', done => {
+			const extract = new PDFExtract();
+			const buffer = fs.readFileSync(sample_encrypted_file);
+			extract.extractBuffer(buffer, {password: 'password'}, (err, data) => {
 				if (err) return done(err);
 				try {
 					// fontNames may be generated ids
@@ -62,12 +60,12 @@ describe('PDFExtract', function () {
 				}
 			});
 		});
-		it('should fail with wrong password on encrypted pdf buffer with error', function (done) {
-			var extract = new PDFExtract();
-			var buffer = fs.readFileSync(sample_encrypted_file);
-			extract.extractBuffer(buffer, {password: 'wrong'}, function (err) {
+		it('should fail with wrong password on encrypted pdf buffer with error', done => {
+			const extract = new PDFExtract();
+			const buffer = fs.readFileSync(sample_encrypted_file);
+			extract.extractBuffer(buffer, {password: 'wrong'}, err => {
 				try {
-					chai.expect(err).to.be.an.instanceof(pdfLib.PDFJS.PasswordException);
+					chai.expect(err.name).to.be.equal('PasswordException');
 					done();
 				} catch (error) {
 					done(error);
@@ -76,26 +74,26 @@ describe('PDFExtract', function () {
 		});
 	});
 
-	describe('#extract()', function () {
-		it('should load and extract pdf without error', function (done) {
-			var extract = new PDFExtract();
-			extract.extract(sample_file, {}, function (err) {
+	describe('#extract()', () => {
+		it('should load and extract pdf without error', done => {
+			const extract = new PDFExtract();
+			extract.extract(sample_file, {}, err => {
 				if (err) done(err);
 				else done();
 			});
 		});
-		it('should load and extract encrypted pdf without error', function (done) {
-			var extract = new PDFExtract();
-			extract.extract(sample_encrypted_file, {password: 'password'}, function (err) {
+		it('should load and extract encrypted pdf without error', done => {
+			const extract = new PDFExtract();
+			extract.extract(sample_encrypted_file, {password: 'password'}, err => {
 				if (err) done(err);
 				else done();
 			});
 		});
-		it('should load and fail with wrong password on encrypted pdf with error', function (done) {
-			var extract = new PDFExtract();
-			extract.extract(sample_encrypted_file, {password: 'wrong'}, function (err) {
+		it('should load and fail with wrong password on encrypted pdf with error', done => {
+			const extract = new PDFExtract();
+			extract.extract(sample_encrypted_file, {password: 'wrong'}, err => {
 				try {
-					chai.expect(err).to.be.an.instanceof(pdfLib.PDFJS.PasswordException);
+					chai.expect(err.name).to.be.equal('PasswordException');
 					done();
 				} catch (error) {
 					done(error);
@@ -106,21 +104,19 @@ describe('PDFExtract', function () {
 
 });
 
-describe('PDFExtract.tools', function () {
-	describe('pageToLines', function () {
-		it('should return the correct example lines', function (done) {
-			var extract = new PDFExtract();
-			extract.extract(sample_file, {}, function (err, data) {
+describe('PDFExtract.tools', () => {
+	describe('pageToLines', () => {
+		it('should return the correct example lines', done => {
+			const extract = new PDFExtract();
+			extract.extract(sample_file, {}, (err, data) => {
 				if (err) return done(err);
-				var page = data.pages[0];
-				var lines = PDFExtract.utils.pageToLines(page, 2);
-				var rows = PDFExtract.utils.extractTextRows(lines);
+				const page = data.pages[0];
+				const lines = PDFExtract.utils.pageToLines(page, 2);
+				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
 					chai.expect(rows.length).to.be.equal(17);
-					var text = rows.map(function (row) {
-						return row.join('');
-					});
-					var content = [
+					const text = rows.map(row => row.join(''));
+					const content = [
 						"Adobe Acrobat PDF Files",
 						"Adobe® Portable Document Format (PDF) is a universal file format that preserves all",
 						"of  the  fonts,  formatting,  colours  and  graphics  of  any  source  document,  regardless  of",
@@ -150,27 +146,21 @@ describe('PDFExtract.tools', function () {
 				// console.log('pages',text);
 			});
 		});
-		it('should return the correct encrypted example lines', function (done) {
-			var extract = new PDFExtract();
-			extract.extract(sample_encrypted_file, {password: 'password'}, function (err, data) {
+		it('should return the correct encrypted example lines', done => {
+			const extract = new PDFExtract();
+			extract.extract(sample_encrypted_file, {password: 'password'}, (err, data) => {
 				if (err) return done(err);
-				var page = data.pages[0];
-				var lines = PDFExtract.utils.pageToLines(page, 2);
-				var rows = PDFExtract.utils.extractTextRows(lines);
+				const page = data.pages[0];
+				const lines = PDFExtract.utils.pageToLines(page, 2);
+				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
 					chai.expect(rows.length).to.be.equal(1);
-					var text = rows.map(function (row) {
-						return row.join('');
-					}).join('\n');
+					const text = rows.map(row => row.join('')).join('\n');
 					chai.expect(text).to.equal('Hello I’m an encrypted pdf ');
 					done();
 				} catch (error) {
 					done(error);
 				}
-
-				// .join('\n');
-				// console.log('page',rows.length);
-				// console.log('pages',text);
 			});
 		});
 	});

@@ -14,21 +14,31 @@ Note: NO OCR!
 
 [![NPM](https://nodei.co/npm/pdf.js-extract.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pdf.js-extract/)
 
+[![Build Status](https://travis-ci.org/ffalt/pdf.js-extract.svg?branch=master)](https://travis-ci.org/ffalt/pdf.js-extract)
 [![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT) [![developer](https://img.shields.io/badge/developer-awesome-brightgreen.svg)](https://github.com/ffalt/pdf.js-extract) [![Greenkeeper badge](https://badges.greenkeeper.io/ffalt/pdf.js-extract.svg)](https://greenkeeper.io/)
 
 ## Convenience API
 
 ```javascript
+const PDFExtract = require('pdf.js-extract').PDFExtract;
+const pdfExtract = new PDFExtract();
+const options = {}; /* see below */
+pdfExtract.extract(filename, options, (err, data) => {
+    if (err) return console.log(err);
+    console.log(data);
+});
+```
 
-    var PDFExtract = require('pdf.js-extract').PDFExtract;
-	var pdfExtract = new PDFExtract();
-	var options = {}; /* options are handed over to pdf.js e.g, { password: 'somepassword' } */
-	pdfExtract.extract(filename, options , function (err, data) {
-		if (err) return console.log(err);
-		console.log(data);
-	});
-
-
+## Options
+```typescript
+export interface PDFExtractOptions {
+    firstPage?: number; // default:`1` - start extract at page nr
+    lastPage?: number; //  stop extract at page nr, no default value
+    password?: string; //  for decrypting password-protected PDFs., no default value
+    verbosity?: number; // default:`-1` - log level of pdf.js
+    normalizeWhitespace?: boolean; // default:`false` - replaces all occurrences of whitespace with standard spaces (0x20).
+    disableCombineTextItems?: boolean; // default:`false` - do not attempt to combine  same line {@link TextItem}'s.
+}
 ```
 
 Example Output
@@ -53,8 +63,7 @@ Example Output
 				"offsetX": 0,
 				"offsetY": 0,
 				"width": 200,
-				"height": 200,
-				"fontScale": 1
+				"height": 200
 			},
 			"content": [
 				{
@@ -79,5 +88,5 @@ Example Output
 
 ## TODO
 
-docu: utils for table parsing
-
+-  docu: utils for table parsing
+-  es6: offer Promise api, e.g. `extractBufferAsync(...):  Promise<PDFExtractResult>`
