@@ -3,6 +3,7 @@
 		"info": {
 			"PDFFormatVersion": "1.3",
 			"IsAcroFormPresent": false,
+			"IsLinearized": true,
 			"IsXFAPresent": false,
 			"Title": "This is a test PDF file",
 			"Author": "cdaily",
@@ -36,8 +37,7 @@
 				"offsetX": 0,
 				"offsetY": 0,
 				"width": 595,
-				"height": 842,
-				"fontScale": 1
+				"height": 842
 			},
 			"content": [
 				{
