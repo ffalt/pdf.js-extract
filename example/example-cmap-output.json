@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"Producer": "FPDF 1.52",
+			"CreationDate": "D:20130729015932"
+		},
+		"metadata": null,
+		"contentDispositionFilename": null
+	},
+	"pages": [
+		{
+			"pageInfo": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.28,
+				"height": 841.89
+			},
+			"content": [
+				{
+					"x": 28.35,
+					"y": 48.51999999999998,
+					"str": "我们都是黑体字",
+					"dir": "ltr",
+					"width": 140,
+					"height": 20,
+					"fontName": "ºÚÌå"
+				}
+			]
+		}
+	],
+	"filename": "./example-cmap.pdf"
+}

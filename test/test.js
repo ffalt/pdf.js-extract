@@ -9,6 +9,7 @@ const pdf_directory = path.resolve(__dirname, '../example/');
 const sample_file = path.join(pdf_directory, 'example.pdf');
 const sample_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'example-output.json')).toString());
 const sample_encrypted_file = path.join(pdf_directory, 'encrypted.pdf');
+const sample_cmap_file = path.join(pdf_directory, 'example-cmap.pdf');
 const sample_encrypted_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'encrypted-output.json')).toString());
 
 describe('PDFExtract', () => {
@@ -100,6 +101,13 @@ describe('PDFExtract', () => {
 				}
 			});
 		});
+		it('should load and extract cmap-pdf without error', done => {
+			const extract = new PDFExtract();
+			extract.extract(sample_cmap_file, {}, err => {
+				if (err) done(err);
+				else done();
+			});
+		});
 	});
 
 });
@@ -157,6 +165,23 @@ describe('PDFExtract.tools', () => {
 					chai.expect(rows.length).to.be.equal(1);
 					const text = rows.map(row => row.join('')).join('\n');
 					chai.expect(text).to.equal('Hello I’m an encrypted pdf ');
+					done();
+				} catch (error) {
+					done(error);
+				}
+			});
+		});
+		it('should return the correct cmap example lines', done => {
+			const extract = new PDFExtract();
+			extract.extract(sample_cmap_file, {}, (err, data) => {
+				if (err) return done(err);
+				const page = data.pages[0];
+				const lines = PDFExtract.utils.pageToLines(page, 2);
+				const rows = PDFExtract.utils.extractTextRows(lines);
+				try {
+					chai.expect(rows.length).to.be.equal(1);
+					const text = rows.map(row => row.join('')).join('\n');
+					chai.expect(text).to.equal('我们都是黑体字');
 					done();
 				} catch (error) {
 					done(error);
