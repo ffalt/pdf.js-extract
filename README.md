@@ -16,7 +16,6 @@ Note: NO OCR!
 
 [![Build Status](https://travis-ci.org/ffalt/pdf.js-extract.svg?branch=master)](https://travis-ci.org/ffalt/pdf.js-extract)
 [![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT) 
-[![Greenkeeper badge](https://badges.greenkeeper.io/ffalt/pdf.js-extract.svg)](https://greenkeeper.io/)
 
 ## Convenience API
 
