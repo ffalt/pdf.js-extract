@@ -1,8 +1,10 @@
 declare module 'pdf.js-extract' {
 	export class PDFExtract {
-		extract(filename: string, options: PDFExtractOptions, callback: (err: Error | null, pdf?: PDFExtractResult) => void);
+		extract(filename: string, options: PDFExtractOptions, callback: (err: Error | null, pdf?: PDFExtractResult) => void): void;
+		extract(filename: string, options: PDFExtractOptions): Promise<PDFExtractResult>;
 
-		extractBuffer(buffer: Buffer, options: PDFExtractOptions, callback: (err: Error | null, pdf?: PDFExtractResult) => void);
+		extractBuffer(buffer: Buffer, options: PDFExtractOptions, callback: (err: Error | null, pdf?: PDFExtractResult) => void): void;
+		extractBuffer(buffer: Buffer, options: PDFExtractOptions): Promise<PDFExtractResult>;
 	}
 
 	export interface PDFExtractOptions {
@@ -20,6 +22,7 @@ declare module 'pdf.js-extract' {
 			info?: {
 				PDFFormatVersion?: string;
 				IsAcroFormPresent?: boolean,
+				IsCollectionPresent?: boolean,
 				IsLinearized?: boolean,
 				IsXFAPresent?: boolean,
 				Title?: string;

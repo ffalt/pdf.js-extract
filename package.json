@@ -39,9 +39,9 @@
   },
   "readmeFilename": "README.md",
   "devDependencies": {
-    "@types/node": "^10.12.11",
+    "@types/node": "^12.7.4",
     "chai": "^4.2.0",
-    "chai-exclude": "^1.0.12",
-    "mocha": "^5.2.0"
+    "chai-exclude": "^2.0.2",
+    "mocha": "^6.2.0"
   }
 }

@@ -38,6 +38,13 @@ describe('PDFExtract', () => {
 				}
 			});
 		});
+		it('should async extract pdf buffer with right data', async () => {
+			const extract = new PDFExtract();
+			const buffer = await fs.promises.readFile(sample_file);
+			const data = await extract.extractBuffer(buffer, {});
+			chai.expect(data.meta).excludingEvery('fontName').to.deep.equal(sample_output.meta);
+			chai.expect(data.pages).excludingEvery('fontName').to.deep.equal(sample_output.pages);
+		});
 		it('should extract encrypted pdf buffer without error', done => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sample_encrypted_file);
@@ -82,6 +89,12 @@ describe('PDFExtract', () => {
 				if (err) done(err);
 				else done();
 			});
+		});
+		it('should async load and extract pdf with the right data', async () => {
+			const extract = new PDFExtract();
+			const data = await extract.extract(sample_file, {});
+			chai.expect(data.meta).excludingEvery('fontName').to.deep.equal(sample_output.meta);
+			chai.expect(data.pages).excludingEvery('fontName').to.deep.equal(sample_output.pages);
 		});
 		it('should load and extract encrypted pdf without error', done => {
 			const extract = new PDFExtract();
