@@ -12,6 +12,19 @@ const sample_encrypted_file = path.join(pdf_directory, 'encrypted.pdf');
 const sample_cmap_file = path.join(pdf_directory, 'example-cmap.pdf');
 const sample_encrypted_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'encrypted-output.json')).toString());
 
+function readFileAsync(filename) {
+	return new Promise((resolve, reject) => {
+		fs.readFile(filename, (err, data) => {
+			if (err) {
+				reject(err);
+			} else {
+				resolve(data);
+			}
+		})
+	});
+}
+
+
 describe('PDFExtract', () => {
 
 	describe('#extractBuffer()', () => {
@@ -40,7 +53,7 @@ describe('PDFExtract', () => {
 		});
 		it('should async extract pdf buffer with right data', async () => {
 			const extract = new PDFExtract();
-			const buffer = await fs.promises.readFile(sample_file);
+			const buffer = await readFileAsync(sample_file);
 			const data = await extract.extractBuffer(buffer, {});
 			chai.expect(data.meta).excludingEvery('fontName').to.deep.equal(sample_output.meta);
 			chai.expect(data.pages).excludingEvery('fontName').to.deep.equal(sample_output.pages);
