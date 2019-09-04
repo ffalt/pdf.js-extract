@@ -17,17 +17,27 @@ Note: NO OCR!
 [![Build Status](https://travis-ci.org/ffalt/pdf.js-extract.svg?branch=master)](https://travis-ci.org/ffalt/pdf.js-extract)
 [![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT) 
 
-## Convenience API
+## Example Usage
 
+javascript async with callback
 ```javascript
 const PDFExtract = require('pdf.js-extract').PDFExtract;
-// import {PDFExtract} from 'pdf.js-extract'; // or with typescript
 const pdfExtract = new PDFExtract();
 const options = {}; /* see below */
-pdfExtract.extract(filename, options, (err, data) => {
+pdfExtract.extract('test.pdf', options, (err, data) => {
     if (err) return console.log(err);
     console.log(data);
 });
+```
+
+typescript async with promise
+```typescript
+import {PDFExtract} from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const options = {}; /* see below */
+pdfExtract.extract('test.pdf', options)
+  .then(data => console.log(data))
+  .catch(err=> console.log(err));
 ```
 
 ## Options
@@ -85,9 +95,3 @@ Example Output
 	}
 }
 ```
-
-
-## TODO
-
--  docu: utils for table parsing
--  es6: offer Promise api, e.g. `extractBufferAsync(...):  Promise<PDFExtractResult>`
