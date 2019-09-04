@@ -1,7 +1,7 @@
 <a name="0.1.2"></a>
 # 0.1.2 (2019/09/04)
 ### Features
-* Promise Api
+* Additional Promise Api
   - extract(filename, options): Promise&lt;PDFExtractResult&gt;
   - extractBuffer(buffer, options): Promise&lt;PDFExtractResult&gt;
 * pdf.js version 2.3.146
