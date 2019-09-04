@@ -3,6 +3,7 @@
 		"info": {
 			"PDFFormatVersion": "1.7",
 			"IsAcroFormPresent": false,
+			"IsCollectionPresent": false,
 			"IsLinearized": false,
 			"IsXFAPresent": false,
 			"Author": "Ilan Copelyn\u0000",

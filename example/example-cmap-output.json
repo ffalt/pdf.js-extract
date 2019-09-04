@@ -4,6 +4,7 @@
 			"PDFFormatVersion": "1.3",
 			"IsLinearized": false,
 			"IsAcroFormPresent": false,
+			"IsCollectionPresent": false,
 			"IsXFAPresent": false,
 			"Producer": "FPDF 1.52",
 			"CreationDate": "D:20130729015932"

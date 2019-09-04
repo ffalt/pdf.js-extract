@@ -3,6 +3,7 @@
 		"info": {
 			"PDFFormatVersion": "1.3",
 			"IsAcroFormPresent": false,
+			"IsCollectionPresent": false,
 			"IsLinearized": true,
 			"IsXFAPresent": false,
 			"Title": "This is a test PDF file",
