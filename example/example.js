@@ -10,6 +10,6 @@ pdfExtract.extract("./example.pdf", {} /* options*/, function (err, data) {
 
 	const lines = PDFExtract.utils.pageToLines(data.pages[0], 2);
 	const rows = PDFExtract.utils.extractTextRows(lines);
-	const text = rows.map(row => row.join("")).join("\n");
+	const text = rows.map((row) => row.join("")).join("\n");
 	fs.writeFileSync("./example-output.txt", text);
 });

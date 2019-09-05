@@ -30,7 +30,7 @@ describe("PDFExtract", () => {
 		it("should extract pdf buffer without error", (done) => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sampleFile);
-			extract.extractBuffer(buffer, {}, err => {
+			extract.extractBuffer(buffer, {}, (err) => {
 				if (err) done(err);
 				else done();
 			});
@@ -60,7 +60,7 @@ describe("PDFExtract", () => {
 		it("should extract encrypted pdf buffer without error", (done) => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sampleEncryptedFile);
-			extract.extractBuffer(buffer, {password: "password"}, err => {
+			extract.extractBuffer(buffer, {password: "password"}, (err) => {
 				if (err) done(err);
 				else done();
 			});
@@ -83,7 +83,7 @@ describe("PDFExtract", () => {
 		it("should fail with wrong password on encrypted pdf buffer with error", (done) => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sampleEncryptedFile);
-			extract.extractBuffer(buffer, {password: "wrong"}, err => {
+			extract.extractBuffer(buffer, {password: "wrong"}, (err) => {
 				try {
 					chai.expect(err.name).to.be.equal("PasswordException");
 					done();
@@ -97,7 +97,7 @@ describe("PDFExtract", () => {
 	describe("#extract()", () => {
 		it("should load and extract pdf without error", (done) => {
 			const extract = new PDFExtract();
-			extract.extract(sampleFile, {}, err => {
+			extract.extract(sampleFile, {}, (err) => {
 				if (err) done(err);
 				else done();
 			});
@@ -110,14 +110,14 @@ describe("PDFExtract", () => {
 		});
 		it("should load and extract encrypted pdf without error", (done) => {
 			const extract = new PDFExtract();
-			extract.extract(sampleEncryptedFile, {password: "password"}, err => {
+			extract.extract(sampleEncryptedFile, {password: "password"}, (err) => {
 				if (err) done(err);
 				else done();
 			});
 		});
 		it("should load and fail with wrong password on encrypted pdf with error", (done) => {
 			const extract = new PDFExtract();
-			extract.extract(sampleEncryptedFile, {password: "wrong"}, err => {
+			extract.extract(sampleEncryptedFile, {password: "wrong"}, (err) => {
 				try {
 					chai.expect(err.name).to.be.equal("PasswordException");
 					done();
@@ -128,7 +128,7 @@ describe("PDFExtract", () => {
 		});
 		it("should load and extract cmap-pdf without error", (done) => {
 			const extract = new PDFExtract();
-			extract.extract(sampleCmapFile, {}, err => {
+			extract.extract(sampleCmapFile, {}, (err) => {
 				if (err) done(err);
 				else done();
 			});
@@ -148,7 +148,7 @@ describe("PDFExtract.tools", () => {
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
 					chai.expect(rows.length).to.be.equal(17);
-					const text = rows.map(row => row.join(""));
+					const text = rows.map((row) => row.join(""));
 					const content = [
 						"Adobe Acrobat PDF Files",
 						"Adobe® Portable Document Format (PDF) is a universal file format that preserves all",
@@ -188,7 +188,7 @@ describe("PDFExtract.tools", () => {
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
 					chai.expect(rows.length).to.be.equal(1);
-					const text = rows.map(row => row.join("")).join("\n");
+					const text = rows.map((row) => row.join("")).join("\n");
 					chai.expect(text).to.equal("Hello I’m an encrypted pdf ");
 					done();
 				} catch (error) {
@@ -205,7 +205,7 @@ describe("PDFExtract.tools", () => {
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
 					chai.expect(rows.length).to.be.equal(1);
-					const text = rows.map(row => row.join("")).join("\n");
+					const text = rows.map((row) => row.join("")).join("\n");
 					chai.expect(text).to.equal("我们都是黑体字");
 					done();
 				} catch (error) {
