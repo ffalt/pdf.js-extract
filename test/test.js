@@ -1,16 +1,16 @@
-const path = require('path');
-const fs = require('fs');
-const PDFExtract = require('../lib').PDFExtract;
-const chai = require('chai');
-const chaiExclude = require('chai-exclude');
+const path = require("path");
+const fs = require("fs");
+const PDFExtract = require("../lib").PDFExtract;
+const chai = require("chai");
+const chaiExclude = require("chai-exclude");
 chai.use(chaiExclude);
 
-const pdf_directory = path.resolve(__dirname, '../example/');
-const sample_file = path.join(pdf_directory, 'example.pdf');
-const sample_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'example-output.json')).toString());
-const sample_encrypted_file = path.join(pdf_directory, 'encrypted.pdf');
-const sample_cmap_file = path.join(pdf_directory, 'example-cmap.pdf');
-const sample_encrypted_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, 'encrypted-output.json')).toString());
+const pdf_directory = path.resolve(__dirname, "../example/");
+const sample_file = path.join(pdf_directory, "example.pdf");
+const sample_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, "example-output.json")).toString());
+const sample_encrypted_file = path.join(pdf_directory, "encrypted.pdf");
+const sample_cmap_file = path.join(pdf_directory, "example-cmap.pdf");
+const sample_encrypted_output = JSON.parse(fs.readFileSync(path.join(pdf_directory, "encrypted-output.json")).toString());
 
 function readFileAsync(filename) {
 	return new Promise((resolve, reject) => {
@@ -24,11 +24,10 @@ function readFileAsync(filename) {
 	});
 }
 
+describe("PDFExtract", () => {
 
-describe('PDFExtract', () => {
-
-	describe('#extractBuffer()', () => {
-		it('should extract pdf buffer without error', done => {
+	describe("#extractBuffer()", () => {
+		it("should extract pdf buffer without error", done => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sample_file);
 			extract.extractBuffer(buffer, {}, err => {
@@ -36,57 +35,57 @@ describe('PDFExtract', () => {
 				else done();
 			});
 		});
-		it('should extract pdf buffer with right data', done => {
+		it("should extract pdf buffer with right data", done => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sample_file);
 			extract.extractBuffer(buffer, {}, (err, data) => {
 				if (err) return done(err);
 				try {
 					// fontNames may be generated ids
-					chai.expect(data.meta).excludingEvery('fontName').to.deep.equal(sample_output.meta);
-					chai.expect(data.pages).excludingEvery('fontName').to.deep.equal(sample_output.pages);
+					chai.expect(data.meta).excludingEvery("fontName").to.deep.equal(sample_output.meta);
+					chai.expect(data.pages).excludingEvery("fontName").to.deep.equal(sample_output.pages);
 					done();
 				} catch (error) {
 					done(error);
 				}
 			});
 		});
-		it('should async extract pdf buffer with right data', async () => {
+		it("should async extract pdf buffer with right data", async () => {
 			const extract = new PDFExtract();
 			const buffer = await readFileAsync(sample_file);
 			const data = await extract.extractBuffer(buffer, {});
-			chai.expect(data.meta).excludingEvery('fontName').to.deep.equal(sample_output.meta);
-			chai.expect(data.pages).excludingEvery('fontName').to.deep.equal(sample_output.pages);
+			chai.expect(data.meta).excludingEvery("fontName").to.deep.equal(sample_output.meta);
+			chai.expect(data.pages).excludingEvery("fontName").to.deep.equal(sample_output.pages);
 		});
-		it('should extract encrypted pdf buffer without error', done => {
+		it("should extract encrypted pdf buffer without error", done => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sample_encrypted_file);
-			extract.extractBuffer(buffer, {password: 'password'}, err => {
+			extract.extractBuffer(buffer, {password: "password"}, err => {
 				if (err) done(err);
 				else done();
 			});
 		});
-		it('should extract encrypted pdf buffer with right data', done => {
+		it("should extract encrypted pdf buffer with right data", done => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sample_encrypted_file);
-			extract.extractBuffer(buffer, {password: 'password'}, (err, data) => {
+			extract.extractBuffer(buffer, {password: "password"}, (err, data) => {
 				if (err) return done(err);
 				try {
 					// fontNames may be generated ids
-					chai.expect(data.meta).excludingEvery('fontName').to.deep.equal(sample_encrypted_output.meta);
-					chai.expect(data.pages).excludingEvery('fontName').to.deep.equal(sample_encrypted_output.pages);
+					chai.expect(data.meta).excludingEvery("fontName").to.deep.equal(sample_encrypted_output.meta);
+					chai.expect(data.pages).excludingEvery("fontName").to.deep.equal(sample_encrypted_output.pages);
 					done();
 				} catch (error) {
 					done(error);
 				}
 			});
 		});
-		it('should fail with wrong password on encrypted pdf buffer with error', done => {
+		it("should fail with wrong password on encrypted pdf buffer with error", done => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(sample_encrypted_file);
-			extract.extractBuffer(buffer, {password: 'wrong'}, err => {
+			extract.extractBuffer(buffer, {password: "wrong"}, err => {
 				try {
-					chai.expect(err.name).to.be.equal('PasswordException');
+					chai.expect(err.name).to.be.equal("PasswordException");
 					done();
 				} catch (error) {
 					done(error);
@@ -95,39 +94,39 @@ describe('PDFExtract', () => {
 		});
 	});
 
-	describe('#extract()', () => {
-		it('should load and extract pdf without error', done => {
+	describe("#extract()", () => {
+		it("should load and extract pdf without error", done => {
 			const extract = new PDFExtract();
 			extract.extract(sample_file, {}, err => {
 				if (err) done(err);
 				else done();
 			});
 		});
-		it('should async load and extract pdf with the right data', async () => {
+		it("should async load and extract pdf with the right data", async () => {
 			const extract = new PDFExtract();
 			const data = await extract.extract(sample_file, {});
-			chai.expect(data.meta).excludingEvery('fontName').to.deep.equal(sample_output.meta);
-			chai.expect(data.pages).excludingEvery('fontName').to.deep.equal(sample_output.pages);
+			chai.expect(data.meta).excludingEvery("fontName").to.deep.equal(sample_output.meta);
+			chai.expect(data.pages).excludingEvery("fontName").to.deep.equal(sample_output.pages);
 		});
-		it('should load and extract encrypted pdf without error', done => {
+		it("should load and extract encrypted pdf without error", done => {
 			const extract = new PDFExtract();
-			extract.extract(sample_encrypted_file, {password: 'password'}, err => {
+			extract.extract(sample_encrypted_file, {password: "password"}, err => {
 				if (err) done(err);
 				else done();
 			});
 		});
-		it('should load and fail with wrong password on encrypted pdf with error', done => {
+		it("should load and fail with wrong password on encrypted pdf with error", done => {
 			const extract = new PDFExtract();
-			extract.extract(sample_encrypted_file, {password: 'wrong'}, err => {
+			extract.extract(sample_encrypted_file, {password: "wrong"}, err => {
 				try {
-					chai.expect(err.name).to.be.equal('PasswordException');
+					chai.expect(err.name).to.be.equal("PasswordException");
 					done();
 				} catch (error) {
 					done(error);
 				}
 			});
 		});
-		it('should load and extract cmap-pdf without error', done => {
+		it("should load and extract cmap-pdf without error", done => {
 			const extract = new PDFExtract();
 			extract.extract(sample_cmap_file, {}, err => {
 				if (err) done(err);
@@ -138,9 +137,9 @@ describe('PDFExtract', () => {
 
 });
 
-describe('PDFExtract.tools', () => {
-	describe('pageToLines', () => {
-		it('should return the correct example lines', done => {
+describe("PDFExtract.tools", () => {
+	describe("pageToLines", () => {
+		it("should return the correct example lines", done => {
 			const extract = new PDFExtract();
 			extract.extract(sample_file, {}, (err, data) => {
 				if (err) return done(err);
@@ -149,7 +148,7 @@ describe('PDFExtract.tools', () => {
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
 					chai.expect(rows.length).to.be.equal(17);
-					const text = rows.map(row => row.join(''));
+					const text = rows.map(row => row.join(""));
 					const content = [
 						"Adobe Acrobat PDF Files",
 						"Adobe® Portable Document Format (PDF) is a universal file format that preserves all",
@@ -175,29 +174,29 @@ describe('PDFExtract.tools', () => {
 					done(error);
 				}
 
-				// .join('\n');
-				// console.log('page',rows.length);
-				// console.log('pages',text);
+				// .join("\n");
+				// console.log("page",rows.length);
+				// console.log("pages",text);
 			});
 		});
-		it('should return the correct encrypted example lines', done => {
+		it("should return the correct encrypted example lines", done => {
 			const extract = new PDFExtract();
-			extract.extract(sample_encrypted_file, {password: 'password'}, (err, data) => {
+			extract.extract(sample_encrypted_file, {password: "password"}, (err, data) => {
 				if (err) return done(err);
 				const page = data.pages[0];
 				const lines = PDFExtract.utils.pageToLines(page, 2);
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
 					chai.expect(rows.length).to.be.equal(1);
-					const text = rows.map(row => row.join('')).join('\n');
-					chai.expect(text).to.equal('Hello I’m an encrypted pdf ');
+					const text = rows.map(row => row.join("")).join("\n");
+					chai.expect(text).to.equal("Hello I’m an encrypted pdf ");
 					done();
 				} catch (error) {
 					done(error);
 				}
 			});
 		});
-		it('should return the correct cmap example lines', done => {
+		it("should return the correct cmap example lines", done => {
 			const extract = new PDFExtract();
 			extract.extract(sample_cmap_file, {}, (err, data) => {
 				if (err) return done(err);
@@ -206,8 +205,8 @@ describe('PDFExtract.tools', () => {
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
 					chai.expect(rows.length).to.be.equal(1);
-					const text = rows.map(row => row.join('')).join('\n');
-					chai.expect(text).to.equal('我们都是黑体字');
+					const text = rows.map(row => row.join("")).join("\n");
+					chai.expect(text).to.equal("我们都是黑体字");
 					done();
 				} catch (error) {
 					done(error);
