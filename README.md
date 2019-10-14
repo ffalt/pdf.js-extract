@@ -91,6 +91,9 @@ Example Output
         "width": 200,
         "height": 200
       },
+      "links": [
+        "https://github.com"
+      ],
       "content": [
         {
           "x": 70,
