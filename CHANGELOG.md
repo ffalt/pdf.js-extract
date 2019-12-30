@@ -1,3 +1,8 @@
+<a name="0.1.4"></a>
+## 0.1.4 (2019/12/30)
+### Fixes
+*  sort result pages to make ensure ascending order
+
 <a name="0.1.3"></a>
 ## 0.1.3 (2019/10/14)
 ### Features
