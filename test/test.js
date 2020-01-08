@@ -1,9 +1,6 @@
 const path = require("path");
 const fs = require("fs");
 const PDFExtract = require("../lib").PDFExtract;
-const chai = require("chai");
-const chaiExclude = require("chai-exclude");
-chai.use(chaiExclude);
 
 const pdfDirectory = path.resolve(__dirname, "../example/");
 const sampleFile = path.join(pdfDirectory, "example.pdf");
@@ -24,6 +21,25 @@ function readFileAsync(filename) {
 	});
 }
 
+function deepEqualPages(a, b, ignoreProperties) {
+	// fontNames may be generated ids
+	const cloneA = a.map(item => {
+		return {
+			...item, content: item.content.map(entry => {
+				return {...entry, fontName: undefined}
+			})
+		};
+	});
+	const cloneB = a.map(item => {
+		return {
+			...item, content: item.content.map(entry => {
+				return {...entry, fontName: undefined}
+			})
+		};
+	});
+	expect(cloneA).toEqual(cloneB);
+}
+
 describe("PDFExtract", () => {
 
 	describe("#extractBuffer()", () => {
@@ -41,9 +57,8 @@ describe("PDFExtract", () => {
 			extract.extractBuffer(buffer, {}, (err, data) => {
 				if (err) return done(err);
 				try {
-					// fontNames may be generated ids
-					chai.expect(data.meta).excludingEvery("fontName").to.deep.equal(sampleOutput.meta);
-					chai.expect(data.pages).excludingEvery("fontName").to.deep.equal(sampleOutput.pages);
+					expect(data.meta).toEqual(sampleOutput.meta);
+					deepEqualPages(data.pages, sampleOutput.pages, ['fontName']);
 					done();
 				} catch (error) {
 					done(error);
@@ -54,8 +69,8 @@ describe("PDFExtract", () => {
 			const extract = new PDFExtract();
 			const buffer = await readFileAsync(sampleFile);
 			const data = await extract.extractBuffer(buffer, {});
-			chai.expect(data.meta).excludingEvery("fontName").to.deep.equal(sampleOutput.meta);
-			chai.expect(data.pages).excludingEvery("fontName").to.deep.equal(sampleOutput.pages);
+			expect(data.meta).toEqual(sampleOutput.meta);
+			deepEqualPages(data.pages, sampleOutput.pages, ['fontName']);
 		});
 		it("should extract encrypted pdf buffer without error", (done) => {
 			const extract = new PDFExtract();
@@ -71,9 +86,8 @@ describe("PDFExtract", () => {
 			extract.extractBuffer(buffer, {password: "password"}, (err, data) => {
 				if (err) return done(err);
 				try {
-					// fontNames may be generated ids
-					chai.expect(data.meta).excludingEvery("fontName").to.deep.equal(sampleEncryptedOutput.meta);
-					chai.expect(data.pages).excludingEvery("fontName").to.deep.equal(sampleEncryptedOutput.pages);
+					expect(data.meta).toEqual(sampleEncryptedOutput.meta);
+					deepEqualPages(data.pages, sampleEncryptedOutput.pages, ['fontName']);
 					done();
 				} catch (error) {
 					done(error);
@@ -85,7 +99,7 @@ describe("PDFExtract", () => {
 			const buffer = fs.readFileSync(sampleEncryptedFile);
 			extract.extractBuffer(buffer, {password: "wrong"}, (err) => {
 				try {
-					chai.expect(err.name).to.be.equal("PasswordException");
+					expect(err.name).toBe("PasswordException");
 					done();
 				} catch (error) {
 					done(error);
@@ -93,7 +107,6 @@ describe("PDFExtract", () => {
 			});
 		});
 	});
-
 	describe("#extract()", () => {
 		it("should load and extract pdf without error", (done) => {
 			const extract = new PDFExtract();
@@ -105,8 +118,9 @@ describe("PDFExtract", () => {
 		it("should async load and extract pdf with the right data", async () => {
 			const extract = new PDFExtract();
 			const data = await extract.extract(sampleFile, {});
-			chai.expect(data.meta).excludingEvery("fontName").to.deep.equal(sampleOutput.meta);
-			chai.expect(data.pages).excludingEvery("fontName").to.deep.equal(sampleOutput.pages);
+			//excludingEvery("fontName")
+			expect(data.meta).toEqual(sampleOutput.meta);
+			deepEqualPages(data.pages, sampleOutput.pages, ['fontName']);
 		});
 		it("should load and extract encrypted pdf without error", (done) => {
 			const extract = new PDFExtract();
@@ -119,7 +133,7 @@ describe("PDFExtract", () => {
 			const extract = new PDFExtract();
 			extract.extract(sampleEncryptedFile, {password: "wrong"}, (err) => {
 				try {
-					chai.expect(err.name).to.be.equal("PasswordException");
+					expect(err.name).toBe("PasswordException");
 					done();
 				} catch (error) {
 					done(error);
@@ -147,7 +161,7 @@ describe("PDFExtract.tools", () => {
 				const lines = PDFExtract.utils.pageToLines(page, 2);
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
-					chai.expect(rows.length).to.be.equal(17);
+					expect(rows.length).toBe(17);
 					const text = rows.map((row) => row.join(""));
 					const content = [
 						"Adobe Acrobat PDF Files",
@@ -168,15 +182,11 @@ describe("PDFExtract.tools", () => {
 						"• Compact   PDF   files   are   smaller   than   their   source   files   and   download   a",
 						"page at a time for fast display on the Web."
 					];
-					chai.expect(text).to.deep.equal(content);
+					expect(text.join('\n')).toBe(content.join('\n'));
 					done();
 				} catch (error) {
 					done(error);
 				}
-
-				// .join("\n");
-				// console.log("page",rows.length);
-				// console.log("pages",text);
 			});
 		});
 		it("should return the correct encrypted example lines", (done) => {
@@ -187,9 +197,9 @@ describe("PDFExtract.tools", () => {
 				const lines = PDFExtract.utils.pageToLines(page, 2);
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
-					chai.expect(rows.length).to.be.equal(1);
+					expect(rows.length).toBe(1);
 					const text = rows.map((row) => row.join("")).join("\n");
-					chai.expect(text).to.equal("Hello I’m an encrypted pdf ");
+					expect(text).toBe("Hello I’m an encrypted pdf ");
 					done();
 				} catch (error) {
 					done(error);
@@ -204,9 +214,9 @@ describe("PDFExtract.tools", () => {
 				const lines = PDFExtract.utils.pageToLines(page, 2);
 				const rows = PDFExtract.utils.extractTextRows(lines);
 				try {
-					chai.expect(rows.length).to.be.equal(1);
+					expect(rows.length).toBe(1);
 					const text = rows.map((row) => row.join("")).join("\n");
-					chai.expect(text).to.equal("我们都是黑体字");
+					expect(text).toBe("我们都是黑体字");
 					done();
 				} catch (error) {
 					done(error);
