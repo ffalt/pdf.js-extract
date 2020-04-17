@@ -43,7 +43,7 @@
   },
   "readmeFilename": "README.md",
   "devDependencies": {
-    "@types/node": "13.7.6",
-    "jest": "25.1.0"
+    "@types/node": "13.11.1",
+    "jest": "25.3.0"
   }
 }
