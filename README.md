@@ -13,8 +13,7 @@ Note: NO OCR!
 ## Install
 
 [![NPM](https://nodei.co/npm/pdf.js-extract.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pdf.js-extract/)
-
-[![Build Status](https://travis-ci.org/ffalt/pdf.js-extract.svg?branch=master)](https://travis-ci.org/ffalt/pdf.js-extract)
+![test](https://github.com/ffalt/pdf.js-extract/workflows/test/badge.svg)
 [![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT) 
 
 ## Example Usage
