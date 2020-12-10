@@ -1,10 +1,10 @@
 declare module "pdf.js-extract" {
 	export class PDFExtract {
 		extract(filename: string, options: PDFExtractOptions, callback: (err: Error | null, pdf?: PDFExtractResult) => void): void;
-		extract(filename: string, options: PDFExtractOptions): Promise<PDFExtractResult>;
+		extract(filename: string, options?: PDFExtractOptions): Promise<PDFExtractResult>;
 
 		extractBuffer(buffer: Buffer, options: PDFExtractOptions, callback: (err: Error | null, pdf?: PDFExtractResult) => void): void;
-		extractBuffer(buffer: Buffer, options: PDFExtractOptions): Promise<PDFExtractResult>;
+		extractBuffer(buffer: Buffer, options?: PDFExtractOptions): Promise<PDFExtractResult>;
 	}
 
 	export interface PDFExtractOptions {
