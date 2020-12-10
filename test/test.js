@@ -59,7 +59,7 @@ describe("PDFExtract", () => {
 				if (err) return done(err);
 				try {
 					expect(data.meta).toEqual(sampleOutput.meta);
-					deepEqualPages(data.pages, sampleOutput.pages, ['fontName']);
+					deepEqualPages(data.pages, sampleOutput.pages, ["fontName"]);
 					done();
 				} catch (error) {
 					done(error);
@@ -71,7 +71,7 @@ describe("PDFExtract", () => {
 			const buffer = await readFileAsync(sampleFile);
 			const data = await extract.extractBuffer(buffer, {});
 			expect(data.meta).toEqual(sampleOutput.meta);
-			deepEqualPages(data.pages, sampleOutput.pages, ['fontName']);
+			deepEqualPages(data.pages, sampleOutput.pages, ["fontName"]);
 		});
 		it("should extract encrypted pdf buffer without error", (done) => {
 			const extract = new PDFExtract();
@@ -88,7 +88,7 @@ describe("PDFExtract", () => {
 				if (err) return done(err);
 				try {
 					expect(data.meta).toEqual(sampleEncryptedOutput.meta);
-					deepEqualPages(data.pages, sampleEncryptedOutput.pages, ['fontName']);
+					deepEqualPages(data.pages, sampleEncryptedOutput.pages, ["fontName"]);
 					done();
 				} catch (error) {
 					done(error);
@@ -121,7 +121,7 @@ describe("PDFExtract", () => {
 			const data = await extract.extract(sampleFile, {});
 			//excludingEvery("fontName")
 			expect(data.meta).toEqual(sampleOutput.meta);
-			deepEqualPages(data.pages, sampleOutput.pages, ['fontName']);
+			deepEqualPages(data.pages, sampleOutput.pages, ["fontName"]);
 		});
 		it("should load and extract encrypted pdf without error", (done) => {
 			const extract = new PDFExtract();
@@ -152,7 +152,7 @@ describe("PDFExtract", () => {
 			const extract = new PDFExtract();
 			const data = await extract.extract(sampleCmapFile);
 			expect(data.meta).toEqual(sampleCmapOutput.meta);
-			deepEqualPages(data.pages, sampleCmapOutput.pages, ['fontName']);
+			deepEqualPages(data.pages, sampleCmapOutput.pages, ["fontName"]);
 		});
 	});
 
@@ -189,7 +189,7 @@ describe("PDFExtract.tools", () => {
 						"• Compact   PDF   files   are   smaller   than   their   source   files   and   download   a",
 						"page at a time for fast display on the Web."
 					];
-					expect(text.join('\n')).toBe(content.join('\n'));
+					expect(text.join("\n")).toBe(content.join("\n"));
 					done();
 				} catch (error) {
 					done(error);

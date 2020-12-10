@@ -1,3 +1,9 @@
+<a name="0.1.5"></a>
+## 0.1.5 (2020/12/10)
+### Features
+*  option object optional
+*  pdf.js version 2.7.355
+
 <a name="0.1.4"></a>
 ## 0.1.4 (2019/12/30)
 ### Fixes
