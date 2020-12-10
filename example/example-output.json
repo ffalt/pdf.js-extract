@@ -27,7 +27,8 @@
 				"xmpmm:instanceid": "uuid:62d6ae6d-43c4-472d-9b28-7c4add8f9e46"
 			}
 		},
-		"contentDispositionFilename": null
+		"contentDispositionFilename": null,
+		"contentLength": null
 	},
 	"pages": [
 		{

@@ -6,8 +6,9 @@ const pdfDirectory = path.resolve(__dirname, "../example/");
 const sampleFile = path.join(pdfDirectory, "example.pdf");
 const sampleOutput = JSON.parse(fs.readFileSync(path.join(pdfDirectory, "example-output.json")).toString());
 const sampleEncryptedFile = path.join(pdfDirectory, "encrypted.pdf");
-const sampleCmapFile = path.join(pdfDirectory, "example-cmap.pdf");
 const sampleEncryptedOutput = JSON.parse(fs.readFileSync(path.join(pdfDirectory, "encrypted-output.json")).toString());
+const sampleCmapFile = path.join(pdfDirectory, "example-cmap.pdf");
+const sampleCmapOutput = JSON.parse(fs.readFileSync(path.join(pdfDirectory, "example-cmap-output.json")).toString());
 
 function readFileAsync(filename) {
 	return new Promise((resolve, reject) => {
@@ -146,6 +147,12 @@ describe("PDFExtract", () => {
 				if (err) done(err);
 				else done();
 			});
+		});
+		it("should load and extract cmap-pdf with the right data", async () => {
+			const extract = new PDFExtract();
+			const data = await extract.extract(sampleCmapFile);
+			expect(data.meta).toEqual(sampleCmapOutput.meta);
+			deepEqualPages(data.pages, sampleCmapOutput.pages, ['fontName']);
 		});
 	});
 
