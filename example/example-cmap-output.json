@@ -6,12 +6,13 @@
 			"IsAcroFormPresent": false,
 			"IsCollectionPresent": false,
 			"IsXFAPresent": false,
+			"IsSignaturesPresent": false,
+			"EncryptFilterName": null,
+			"Language": null,
 			"Producer": "FPDF 1.52",
 			"CreationDate": "D:20130729015932"
 		},
-		"metadata": null,
-		"contentDispositionFilename": null,
-		"contentLength": null
+		"metadata": null
 	},
 	"pages": [
 		{

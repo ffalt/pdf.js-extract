@@ -2,33 +2,34 @@
 	"meta": {
 		"info": {
 			"PDFFormatVersion": "1.3",
-			"IsAcroFormPresent": false,
-			"IsCollectionPresent": false,
+			"Language": null,
+			"EncryptFilterName": null,
 			"IsLinearized": true,
+			"IsAcroFormPresent": false,
 			"IsXFAPresent": false,
-			"Title": "This is a test PDF file",
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
 			"Author": "cdaily",
-			"Creator": "Microsoft Word 8.0",
-			"Producer": "Acrobat Distiller 4.0 for Windows",
 			"CreationDate": "D:20000629102108+11'00'",
-			"ModDate": "D:20131028152413-04'00'"
+			"Creator": "Microsoft Word 8.0",
+			"ModDate": "D:20131028152413-04'00'",
+			"Producer": "Acrobat Distiller 4.0 for Windows",
+			"Title": "This is a test PDF file"
 		},
 		"metadata": {
-			"_metadata": {
-				"dc:format": "application/pdf",
-				"dc:creator": "cdaily",
-				"dc:title": "This is a test PDF file",
-				"xmp:createdate": "2000-06-29T10:21:08+11:00",
-				"xmp:creatortool": "Microsoft Word 8.0",
-				"xmp:modifydate": "2013-10-28T15:24:13-04:00",
-				"xmp:metadatadate": "2013-10-28T15:24:13-04:00",
-				"pdf:producer": "Acrobat Distiller 4.0 for Windows",
-				"xmpmm:documentid": "uuid:0805e221-80a8-459e-a522-635ed5c1e2e6",
-				"xmpmm:instanceid": "uuid:62d6ae6d-43c4-472d-9b28-7c4add8f9e46"
-			}
-		},
-		"contentDispositionFilename": null,
-		"contentLength": null
+			"dc:format": "application/pdf",
+			"dc:creator": [
+				"cdaily"
+			],
+			"dc:title": "This is a test PDF file",
+			"xmp:createdate": "2000-06-29T10:21:08+11:00",
+			"xmp:creatortool": "Microsoft Word 8.0",
+			"xmp:modifydate": "2013-10-28T15:24:13-04:00",
+			"xmp:metadatadate": "2013-10-28T15:24:13-04:00",
+			"pdf:producer": "Acrobat Distiller 4.0 for Windows",
+			"xmpmm:documentid": "uuid:0805e221-80a8-459e-a522-635ed5c1e2e6",
+			"xmpmm:instanceid": "uuid:62d6ae6d-43c4-472d-9b28-7c4add8f9e46"
+		}
 	},
 	"pages": [
 		{
@@ -48,25 +49,34 @@
 					"y": 84.9597,
 					"str": "Adobe Acrobat PDF Files",
 					"dir": "ltr",
-					"width": 168.10513199999997,
+					"width": 168.14163600000012,
 					"height": 14.04,
 					"fontName": "Helvetica"
 				},
 				{
 					"x": 89.9206,
 					"y": 112.67970000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 89.9206,
+					"y": 112.67970000000003,
 					"str": "Adobe® Portable Document Format (PDF) is a universal file format that preserves all",
 					"dir": "ltr",
-					"width": 415.7076000000002,
+					"width": 415.7183999999994,
 					"height": 12,
 					"fontName": "Times"
 				},
 				{
 					"x": 89.9206,
 					"y": 126.47969999999998,
-					"str": "of  the  fonts,  formatting,  colours  and  graphics  of  any  source  document,  regardless  of",
+					"str": "of the fonts, formatting, colours and graphics of any source document, regardless of",
 					"dir": "ltr",
-					"width": 415.84680000000014,
+					"width": 415.8371999999997,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -75,7 +85,7 @@
 					"y": 140.27969999999993,
 					"str": "the application and platform used to create it.",
 					"dir": "ltr",
-					"width": 217.27679999999998,
+					"width": 217.28160000000037,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -84,7 +94,7 @@
 					"y": 167.87969999999996,
 					"str": "Adobe PDF is an ideal format for electronic document distribution as it overcomes the",
 					"dir": "ltr",
-					"width": 415.8216,
+					"width": 415.8264000000006,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -93,9 +103,18 @@
 					"y": 181.6796999999999,
 					"str": "problems commonly encountered with electronic file sharing.",
 					"dir": "ltr",
-					"width": 295.4172000000001,
+					"width": 295.42560000000026,
 					"height": 12,
 					"fontName": "Times"
+				},
+				{
+					"x": 89.9206,
+					"y": 210.23969999999986,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "Symbol"
 				},
 				{
 					"x": 89.9206,
@@ -111,34 +130,43 @@
 					"y": 210.23969999999986,
 					"str": " ",
 					"dir": "ltr",
-					"width": 3.3360000000000003,
+					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Helvetica"
+					"fontName": "Symbol"
 				},
 				{
 					"x": 107.9206,
 					"y": 210.23969999999986,
 					"str": "Anyone, anywhere",
 					"dir": "ltr",
-					"width": 92.93399999999998,
+					"width": 92.92799999999998,
 					"height": 12,
 					"fontName": "Times"
 				},
 				{
-					"x": 200.80059999999997,
+					"x": 200.8486,
 					"y": 210.23969999999986,
-					"str": " can open a PDF file. All you need is the free Adobe Acrobat",
+					"str": " ",
 					"dir": "ltr",
-					"width": 304.9320000000001,
+					"width": 0.3159999999999978,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 204.64059999999998,
+					"y": 210.23969999999986,
+					"str": "can open a PDF file. All you need is the free Adobe Acrobat",
+					"dir": "ltr",
+					"width": 301.10399999999964,
 					"height": 12,
 					"fontName": "Times"
 				},
 				{
 					"x": 107.92059999999998,
 					"y": 223.9196999999998,
-					"str": "Reader.  Recipients  of  other  file  formats  sometimes  can't  open  files  because  they",
+					"str": "Reader. Recipients of other file formats sometimes can't open files because they",
 					"dir": "ltr",
-					"width": 398.05200000000013,
+					"width": 398.03519999999986,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -147,9 +175,18 @@
 					"y": 237.71969999999976,
 					"str": "don't have the applications used to create the documents.",
 					"dir": "ltr",
-					"width": 272.448,
+					"width": 272.4528000000005,
 					"height": 12,
 					"fontName": "Times"
+				},
+				{
+					"x": 89.92059999999998,
+					"y": 266.2796999999997,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "Symbol"
 				},
 				{
 					"x": 89.92059999999998,
@@ -165,16 +202,25 @@
 					"y": 266.2796999999997,
 					"str": " ",
 					"dir": "ltr",
-					"width": 3.3360000000000003,
+					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Helvetica"
+					"fontName": "Symbol"
 				},
 				{
 					"x": 107.92059999999998,
 					"y": 266.2796999999997,
-					"str": "PDF files ",
+					"str": "PDF files",
 					"dir": "ltr",
-					"width": 48.60000000000001,
+					"width": 45.583199999999984,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 153.5038,
+					"y": 266.2796999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.25139999999999674,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -183,18 +229,36 @@
 					"y": 266.2796999999997,
 					"str": "always print correctly",
 					"dir": "ltr",
-					"width": 106.74719999999998,
+					"width": 106.72919999999998,
 					"height": 12,
 					"fontName": "Times"
 				},
 				{
-					"x": 263.2006,
+					"x": 263.2498,
 					"y": 266.2796999999997,
-					"str": " on any printing device.",
+					"str": " ",
 					"dir": "ltr",
-					"width": 113.64599999999999,
+					"width": 0.24590000000000126,
 					"height": 12,
 					"fontName": "Times"
+				},
+				{
+					"x": 266.2006,
+					"y": 266.2796999999997,
+					"str": "on any printing device.",
+					"dir": "ltr",
+					"width": 110.64839999999971,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 89.92060000000001,
+					"y": 294.83969999999965,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "Symbol"
 				},
 				{
 					"x": 89.92060000000001,
@@ -210,16 +274,25 @@
 					"y": 294.83969999999965,
 					"str": " ",
 					"dir": "ltr",
-					"width": 3.3360000000000003,
+					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Helvetica"
+					"fontName": "Symbol"
 				},
 				{
 					"x": 107.92060000000001,
 					"y": 294.83969999999965,
-					"str": "PDF  files  always  display  ",
+					"str": "PDF files always display",
 					"dir": "ltr",
-					"width": 131.166,
+					"width": 126.24599999999994,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 234.1666,
+					"y": 294.83969999999965,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.4195000000000017,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -228,16 +301,25 @@
 					"y": 294.83969999999965,
 					"str": "exactly",
 					"dir": "ltr",
-					"width": 34.766400000000004,
+					"width": 34.76039999999988,
 					"height": 12,
 					"fontName": "Times"
 				},
 				{
-					"x": 273.8806,
+					"x": 273.9609999999999,
 					"y": 294.83969999999965,
-					"str": "  as  created,  regardless  of  fonts,  software,  and",
+					"str": " ",
 					"dir": "ltr",
-					"width": 231.87,
+					"width": 0.4333000000000074,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 279.1606,
+					"y": 294.83969999999965,
+					"str": "as created, regardless of fonts, software, and",
+					"dir": "ltr",
+					"width": 226.60079999999942,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -246,7 +328,7 @@
 					"y": 308.5196999999996,
 					"str": "operating systems. Fonts, and graphics are not lost due to platform, software, and",
 					"dir": "ltr",
-					"width": 397.8359999999998,
+					"width": 397.84080000000057,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -255,9 +337,18 @@
 					"y": 322.31969999999956,
 					"str": "version incompatibilities.",
 					"dir": "ltr",
-					"width": 122.05439999999999,
+					"width": 122.0399999999999,
 					"height": 12,
 					"fontName": "Times"
+				},
+				{
+					"x": 89.92060000000001,
+					"y": 350.87969999999956,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "Symbol"
 				},
 				{
 					"x": 89.92060000000001,
@@ -273,16 +364,16 @@
 					"y": 350.87969999999956,
 					"str": " ",
 					"dir": "ltr",
-					"width": 3.3360000000000003,
+					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Helvetica"
+					"fontName": "Symbol"
 				},
 				{
 					"x": 107.92060000000001,
 					"y": 350.87969999999956,
-					"str": "The  free  Acrobat  Reader  is  easy  to  download  and  can  be  freely  distributed  by",
+					"str": "The free Acrobat Reader is easy to download and can be freely distributed by",
 					"dir": "ltr",
-					"width": 397.9728000000001,
+					"width": 397.98719999999963,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -291,9 +382,18 @@
 					"y": 364.55969999999957,
 					"str": "anyone.",
 					"dir": "ltr",
-					"width": 37.5192,
+					"width": 37.56480000000001,
 					"height": 12,
 					"fontName": "Times"
+				},
+				{
+					"x": 89.92060000000001,
+					"y": 393.11969999999957,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "Symbol"
 				},
 				{
 					"x": 89.92060000000001,
@@ -309,16 +409,214 @@
 					"y": 393.11969999999957,
 					"str": " ",
 					"dir": "ltr",
-					"width": 3.3360000000000003,
+					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Helvetica"
+					"fontName": "Symbol"
 				},
 				{
 					"x": 107.92060000000001,
 					"y": 393.11969999999957,
-					"str": "Compact   PDF   files   are   smaller   than   their   source   files   and   download   a",
+					"str": "Compact",
 					"dir": "ltr",
-					"width": 397.96080000000006,
+					"width": 43.30320000000002,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 151.22380000000004,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7321999999999989,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 160.01020000000003,
+					"y": 393.11969999999957,
+					"str": "PDF",
+					"dir": "ltr",
+					"width": 22.039200000000015,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 182.04940000000002,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7237999999999994,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 190.735,
+					"y": 393.11969999999957,
+					"str": "files",
+					"dir": "ltr",
+					"width": 20.6136,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 211.34860000000006,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7312999999999997,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 220.12420000000006,
+					"y": 393.11969999999957,
+					"str": "are",
+					"dir": "ltr",
+					"width": 14.690399999999997,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 234.81460000000007,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.736199999999999,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 243.64900000000006,
+					"y": 393.11969999999957,
+					"str": "smaller",
+					"dir": "ltr",
+					"width": 35.29920000000007,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 278.9482000000001,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7369999999999995,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 287.7922000000001,
+					"y": 393.11969999999957,
+					"str": "than",
+					"dir": "ltr",
+					"width": 20.649600000000035,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 308.4418000000001,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7399999999999997,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 317.3218000000001,
+					"y": 393.11969999999957,
+					"str": "their",
+					"dir": "ltr",
+					"width": 22.112400000000058,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 339.43420000000015,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7369999999999995,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 348.27820000000014,
+					"y": 393.11969999999957,
+					"str": "source",
+					"dir": "ltr",
+					"width": 31.346400000000024,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 379.6246000000001,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7362000000000014,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 388.4590000000001,
+					"y": 393.11969999999957,
+					"str": "files",
+					"dir": "ltr",
+					"width": 20.613600000000034,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 409.07260000000014,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7413000000000002,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 417.96820000000014,
+					"y": 393.11969999999957,
+					"str": "and",
+					"dir": "ltr",
+					"width": 17.298000000000027,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 435.26620000000014,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7413000000000002,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 444.16180000000014,
+					"y": 393.11969999999957,
+					"str": "download",
+					"dir": "ltr",
+					"width": 47.48040000000005,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 491.6422000000002,
+					"y": 393.11969999999957,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7413000000000002,
+					"height": 12,
+					"fontName": "Times"
+				},
+				{
+					"x": 500.5378000000002,
+					"y": 393.11969999999957,
+					"str": "a",
+					"dir": "ltr",
+					"width": 5.328,
 					"height": 12,
 					"fontName": "Times"
 				},
@@ -327,16 +625,12 @@
 					"y": 406.7996999999996,
 					"str": "page at a time for fast display on the Web.",
 					"dir": "ltr",
-					"width": 203.2452,
+					"width": 203.2296000000003,
 					"height": 12,
 					"fontName": "Times"
 				}
 			]
 		}
 	],
-	"pdfInfo": {
-		"numPages": 1,
-		"fingerprint": "4dc91a1875a6d707aec203bb021c93a0"
-	},
 	"filename": "./example.pdf"
 }

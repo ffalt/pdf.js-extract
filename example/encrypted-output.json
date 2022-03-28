@@ -6,25 +6,24 @@
 			"IsCollectionPresent": false,
 			"IsLinearized": false,
 			"IsXFAPresent": false,
+			"IsSignaturesPresent": false,
+			"Language": "en-GB",
 			"Author": "Ilan Copelyn\u0000",
 			"Creator": "Microsoft® Word 2016\u0000",
+			"EncryptFilterName": "Standard",
 			"Producer": "Microsoft® Word 2016\u0000",
 			"CreationDate": "D:20180201124627+02'00'",
 			"ModDate": "D:20180201124627+02'00'"
 		},
 		"metadata": {
-			"_metadata": {
-				"pdf:producer": "Microsoft® Word 2016",
-				"dc:creator": "Ilan Copelyn",
-				"xmp:creatortool": "Microsoft® Word 2016",
-				"xmp:createdate": "2018-02-01T12:46:27+02:00",
-				"xmp:modifydate": "2018-02-01T12:46:27+02:00",
-				"xmpmm:documentid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483",
-				"xmpmm:instanceid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483"
-			}
-		},
-		"contentDispositionFilename": null,
-		"contentLength": null
+			"pdf:producer": "Microsoft® Word 2016",
+			"dc:creator": ["Ilan Copelyn"],
+			"xmp:creatortool": "Microsoft® Word 2016",
+			"xmp:createdate": "2018-02-01T12:46:27+02:00",
+			"xmp:modifydate": "2018-02-01T12:46:27+02:00",
+			"xmpmm:documentid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483",
+			"xmpmm:instanceid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483"
+		}
 	},
 	"pages": [
 		{
