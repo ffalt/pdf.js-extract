@@ -33,9 +33,7 @@ declare module "pdf.js-extract" {
 				ModDate?: string;
 			},
 			metadata?: {
-				_metadata: {
-					[name: string]: string;
-				}
+				[name: string]: string;
 			}
 		};
 		pages: Array<PDFExtractPage>;
