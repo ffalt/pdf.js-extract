@@ -5,7 +5,8 @@
 *  imports: Safeguard stubbing in case of shared library [#27](https://github.com/ffalt/pdf.js-extract/issues/27)
 
 ### BREAKING
-*  metadata obj keys are included directly (no longer in a child object _metadata)
+* metadata obj keys are included directly (no longer in a child object _metadata)
+* node 12 is minimum version
 
 <a name="0.1.5"></a>
 ## 0.1.5 (2020/12/10)
