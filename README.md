@@ -66,18 +66,16 @@ Example Output
       "IsXFAPresent": false
     },
     "metadata": {
-      "_metadata": {
-        "dc:format": "application/pdf",
-        "dc:creator": "someone",
-        "dc:title": "This is a hello world PDF file",
-        "xmp:createdate": "2000-06-29T10:21:08+11:00",
-        "xmp:creatortool": "Microsoft Word 8.0",
-        "xmp:modifydate": "2013-10-28T15:24:13-04:00",
-        "xmp:metadatadate": "2013-10-28T15:24:13-04:00",
-        "pdf:producer": "Acrobat Distiller 4.0 for Windows",
-        "xmpmm:documentid": "uuid:0205e221-80a8-459e-a522-635ed5c1e2e6",
-        "xmpmm:instanceid": "uuid:68d6ae6d-43c4-472d-9b28-7c4add8f9e46"
-      }
+      "dc:format": "application/pdf",
+      "dc:creator": "someone",
+      "dc:title": "This is a hello world PDF file",
+      "xmp:createdate": "2000-06-29T10:21:08+11:00",
+      "xmp:creatortool": "Microsoft Word 8.0",
+      "xmp:modifydate": "2013-10-28T15:24:13-04:00",
+      "xmp:metadatadate": "2013-10-28T15:24:13-04:00",
+      "pdf:producer": "Acrobat Distiller 4.0 for Windows",
+      "xmpmm:documentid": "uuid:0205e221-80a8-459e-a522-635ed5c1e2e6",
+      "xmpmm:instanceid": "uuid:68d6ae6d-43c4-472d-9b28-7c4add8f9e46"
     }
   },
   "pages": [

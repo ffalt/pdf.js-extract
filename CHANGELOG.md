@@ -1,3 +1,12 @@
+<a name="0.1.6"></a>
+## 0.2.0 (2022/03/29)
+### Features
+*  pdf.js version 2.14.110
+*  imports: Safeguard stubbing in case of shared library [#27](https://github.com/ffalt/pdf.js-extract/issues/27)
+
+### BREAKING
+*  metadata obj keys are included directly (no longer in a child object _metadata)
+
 <a name="0.1.5"></a>
 ## 0.1.5 (2020/12/10)
 ### Features
