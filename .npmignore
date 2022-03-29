@@ -12,3 +12,4 @@ test
 example
 .travis.yml
 .github
+jest.config.js
