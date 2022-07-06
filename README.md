@@ -30,6 +30,19 @@ pdfExtract.extract('test.pdf', options, (err, data) => {
 });
 ```
 
+javascript async with callback using buffer
+```javascript
+const PDFExtract = require('pdf.js-extract').PDFExtract;
+const pdfExtract = new PDFExtract();
+const fs = require('fs');
+const buffer = fs.readFileSync("./example.pdf");
+const options = {}; /* see below */
+pdfExtract.extractBuffer(buffer, options, (err, data) => {
+  if (err) return console.log(err);
+  console.log(data);
+});
+```
+
 typescript async with promise
 ```typescript
 import {PDFExtract, PDFExtractOptions} from 'pdf.js-extract';
