@@ -1,4 +1,9 @@
-<a name="0.1.6"></a>
+<a name="0.2.1"></a>
+## 0.2.1 (2022/11/07)
+### Features
+*  don't clobber global.document if it already exists [#38](https://github.com/ffalt/pdf.js-extract/pull/38)
+
+<a name="0.2.0"></a>
 ## 0.2.0 (2022/03/29)
 ### Features
 *  pdf.js version 2.14.110
