@@ -51,7 +51,7 @@
 					"dir": "ltr",
 					"width": 168.14163600000012,
 					"height": 14.04,
-					"fontName": "Helvetica"
+					"fontName": "g_d0_f1"
 				},
 				{
 					"x": 89.9206,
@@ -60,7 +60,7 @@
 					"dir": "ltr",
 					"width": 0,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.9206,
@@ -69,7 +69,7 @@
 					"dir": "ltr",
 					"width": 415.7183999999994,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.9206,
@@ -78,7 +78,7 @@
 					"dir": "ltr",
 					"width": 415.8371999999997,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.9206,
@@ -87,7 +87,7 @@
 					"dir": "ltr",
 					"width": 217.28160000000037,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.9206,
@@ -96,7 +96,7 @@
 					"dir": "ltr",
 					"width": 415.8264000000006,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.9206,
@@ -105,7 +105,7 @@
 					"dir": "ltr",
 					"width": 295.42560000000026,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.9206,
@@ -114,7 +114,7 @@
 					"dir": "ltr",
 					"width": 0,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 89.9206,
@@ -123,7 +123,7 @@
 					"dir": "ltr",
 					"width": 5.5200000000000005,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 95.44059999999999,
@@ -132,7 +132,7 @@
 					"dir": "ltr",
 					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 107.9206,
@@ -141,7 +141,7 @@
 					"dir": "ltr",
 					"width": 92.92799999999998,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f5"
 				},
 				{
 					"x": 200.8486,
@@ -150,7 +150,7 @@
 					"dir": "ltr",
 					"width": 0.3159999999999978,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f5"
 				},
 				{
 					"x": 204.64059999999998,
@@ -159,7 +159,7 @@
 					"dir": "ltr",
 					"width": 301.10399999999964,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 107.92059999999998,
@@ -168,7 +168,7 @@
 					"dir": "ltr",
 					"width": 398.03519999999986,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 107.92059999999998,
@@ -177,7 +177,7 @@
 					"dir": "ltr",
 					"width": 272.4528000000005,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.92059999999998,
@@ -186,7 +186,7 @@
 					"dir": "ltr",
 					"width": 0,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 89.92059999999998,
@@ -195,7 +195,7 @@
 					"dir": "ltr",
 					"width": 5.5200000000000005,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 95.44059999999998,
@@ -204,7 +204,7 @@
 					"dir": "ltr",
 					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 107.92059999999998,
@@ -213,7 +213,7 @@
 					"dir": "ltr",
 					"width": 45.583199999999984,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 153.5038,
@@ -222,7 +222,7 @@
 					"dir": "ltr",
 					"width": 0.25139999999999674,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 156.52059999999997,
@@ -231,7 +231,7 @@
 					"dir": "ltr",
 					"width": 106.72919999999998,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f5"
 				},
 				{
 					"x": 263.2498,
@@ -240,7 +240,7 @@
 					"dir": "ltr",
 					"width": 0.24590000000000126,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f5"
 				},
 				{
 					"x": 266.2006,
@@ -249,7 +249,7 @@
 					"dir": "ltr",
 					"width": 110.64839999999971,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.92060000000001,
@@ -258,7 +258,7 @@
 					"dir": "ltr",
 					"width": 0,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 89.92060000000001,
@@ -267,7 +267,7 @@
 					"dir": "ltr",
 					"width": 5.5200000000000005,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 95.4406,
@@ -276,7 +276,7 @@
 					"dir": "ltr",
 					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 107.92060000000001,
@@ -285,7 +285,7 @@
 					"dir": "ltr",
 					"width": 126.24599999999994,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 234.1666,
@@ -294,7 +294,7 @@
 					"dir": "ltr",
 					"width": 0.4195000000000017,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 239.2006,
@@ -303,7 +303,7 @@
 					"dir": "ltr",
 					"width": 34.76039999999988,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f5"
 				},
 				{
 					"x": 273.9609999999999,
@@ -312,7 +312,7 @@
 					"dir": "ltr",
 					"width": 0.4333000000000074,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f5"
 				},
 				{
 					"x": 279.1606,
@@ -321,7 +321,7 @@
 					"dir": "ltr",
 					"width": 226.60079999999942,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 107.92060000000001,
@@ -330,7 +330,7 @@
 					"dir": "ltr",
 					"width": 397.84080000000057,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 107.92060000000001,
@@ -339,7 +339,7 @@
 					"dir": "ltr",
 					"width": 122.0399999999999,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.92060000000001,
@@ -348,7 +348,7 @@
 					"dir": "ltr",
 					"width": 0,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 89.92060000000001,
@@ -357,7 +357,7 @@
 					"dir": "ltr",
 					"width": 5.5200000000000005,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 95.4406,
@@ -366,7 +366,7 @@
 					"dir": "ltr",
 					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 107.92060000000001,
@@ -375,7 +375,7 @@
 					"dir": "ltr",
 					"width": 397.98719999999963,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 107.92060000000001,
@@ -384,7 +384,7 @@
 					"dir": "ltr",
 					"width": 37.56480000000001,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 89.92060000000001,
@@ -393,7 +393,7 @@
 					"dir": "ltr",
 					"width": 0,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 89.92060000000001,
@@ -402,7 +402,7 @@
 					"dir": "ltr",
 					"width": 5.5200000000000005,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 95.4406,
@@ -411,7 +411,7 @@
 					"dir": "ltr",
 					"width": 1.0400000000000003,
 					"height": 12,
-					"fontName": "Symbol"
+					"fontName": "g_d0_f3"
 				},
 				{
 					"x": 107.92060000000001,
@@ -420,7 +420,7 @@
 					"dir": "ltr",
 					"width": 43.30320000000002,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 151.22380000000004,
@@ -429,7 +429,7 @@
 					"dir": "ltr",
 					"width": 0.7321999999999989,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 160.01020000000003,
@@ -438,7 +438,7 @@
 					"dir": "ltr",
 					"width": 22.039200000000015,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 182.04940000000002,
@@ -447,7 +447,7 @@
 					"dir": "ltr",
 					"width": 0.7237999999999994,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 190.735,
@@ -456,7 +456,7 @@
 					"dir": "ltr",
 					"width": 20.6136,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 211.34860000000006,
@@ -465,7 +465,7 @@
 					"dir": "ltr",
 					"width": 0.7312999999999997,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 220.12420000000006,
@@ -474,7 +474,7 @@
 					"dir": "ltr",
 					"width": 14.690399999999997,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 234.81460000000007,
@@ -483,7 +483,7 @@
 					"dir": "ltr",
 					"width": 0.736199999999999,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 243.64900000000006,
@@ -492,7 +492,7 @@
 					"dir": "ltr",
 					"width": 35.29920000000007,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 278.9482000000001,
@@ -501,7 +501,7 @@
 					"dir": "ltr",
 					"width": 0.7369999999999995,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 287.7922000000001,
@@ -510,7 +510,7 @@
 					"dir": "ltr",
 					"width": 20.649600000000035,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 308.4418000000001,
@@ -519,7 +519,7 @@
 					"dir": "ltr",
 					"width": 0.7399999999999997,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 317.3218000000001,
@@ -528,7 +528,7 @@
 					"dir": "ltr",
 					"width": 22.112400000000058,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 339.43420000000015,
@@ -537,7 +537,7 @@
 					"dir": "ltr",
 					"width": 0.7369999999999995,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 348.27820000000014,
@@ -546,7 +546,7 @@
 					"dir": "ltr",
 					"width": 31.346400000000024,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 379.6246000000001,
@@ -555,7 +555,7 @@
 					"dir": "ltr",
 					"width": 0.7362000000000014,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 388.4590000000001,
@@ -564,7 +564,7 @@
 					"dir": "ltr",
 					"width": 20.613600000000034,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 409.07260000000014,
@@ -573,7 +573,7 @@
 					"dir": "ltr",
 					"width": 0.7413000000000002,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 417.96820000000014,
@@ -582,7 +582,7 @@
 					"dir": "ltr",
 					"width": 17.298000000000027,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 435.26620000000014,
@@ -591,7 +591,7 @@
 					"dir": "ltr",
 					"width": 0.7413000000000002,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 444.16180000000014,
@@ -600,7 +600,7 @@
 					"dir": "ltr",
 					"width": 47.48040000000005,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 491.6422000000002,
@@ -609,7 +609,7 @@
 					"dir": "ltr",
 					"width": 0.7413000000000002,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 500.5378000000002,
@@ -618,7 +618,7 @@
 					"dir": "ltr",
 					"width": 5.328,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				},
 				{
 					"x": 107.92060000000001,
@@ -627,7 +627,7 @@
 					"dir": "ltr",
 					"width": 203.2296000000003,
 					"height": 12,
-					"fontName": "Times"
+					"fontName": "g_d0_f2"
 				}
 			]
 		}
