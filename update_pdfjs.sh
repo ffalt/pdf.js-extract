@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Clone repo
 git clone https://github.com/mozilla/pdf.js pdfjs-temp
 
