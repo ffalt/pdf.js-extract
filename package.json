@@ -2,7 +2,7 @@
   "name": "pdf.js-extract",
   "description": "super-simple async PDF reader that extracts text with x,y page positions based on pdf.js",
   "homepage": "https://github.com/ffalt/pdf.js-extract",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "author": {
