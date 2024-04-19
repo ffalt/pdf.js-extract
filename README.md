@@ -15,26 +15,44 @@ Note: NO OCR!
 [![NPM](https://nodei.co/npm/pdf.js-extract.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pdf.js-extract/)
 
 ![test](https://github.com/ffalt/pdf.js-extract/workflows/test/badge.svg)
-[![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT) 
+[![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT)
 
 ## Example Usage
 
-javascript async with callback
+### Esm version >= 1.0.0
+
+javascript async with promise
+
 ```javascript
-const PDFExtract = require('pdf.js-extract').PDFExtract;
+import { PDFExtract } from "pdf.js-extract";
 const pdfExtract = new PDFExtract();
 const options = {}; /* see below */
-pdfExtract.extract('test.pdf', options, (err, data) => {
+pdfExtract
+  .extract("example.pdf", options)
+  .then((data) => console.log(data))
+  .catch((err) => console.log(err));
+```
+
+### Commonjs version < 1.0.0
+
+javascript async with callback
+
+```javascript
+const PDFExtract = require("pdf.js-extract").PDFExtract;
+const pdfExtract = new PDFExtract();
+const options = {}; /* see below */
+pdfExtract.extract("example.pdf", options, (err, data) => {
   if (err) return console.log(err);
   console.log(data);
 });
 ```
 
 javascript async with callback using buffer
+
 ```javascript
-const PDFExtract = require('pdf.js-extract').PDFExtract;
+const PDFExtract = require("pdf.js-extract").PDFExtract;
 const pdfExtract = new PDFExtract();
-const fs = require('fs');
+const fs = require("fs");
 const buffer = fs.readFileSync("./example.pdf");
 const options = {}; /* see below */
 pdfExtract.extractBuffer(buffer, options, (err, data) => {
@@ -43,17 +61,22 @@ pdfExtract.extractBuffer(buffer, options, (err, data) => {
 });
 ```
 
+### Typescript
+
 typescript async with promise
+
 ```typescript
-import {PDFExtract, PDFExtractOptions} from 'pdf.js-extract';
+import { PDFExtract, PDFExtractOptions } from "pdf.js-extract";
 const pdfExtract = new PDFExtract();
 const options: PDFExtractOptions = {}; /* see below */
-pdfExtract.extract('test.pdf', options)
-  .then(data => console.log(data))
-  .catch(err=> console.log(err));
+pdfExtract
+  .extract("example.pdf", options)
+  .then((data) => console.log(data))
+  .catch((err) => console.log(err));
 ```
 
 ## Options
+
 ```typescript
 export interface PDFExtractOptions {
   firstPage?: number; // default:`1` - start extract at page nr
@@ -73,14 +96,23 @@ Example Output
   "meta": {
     "info": {
       "PDFFormatVersion": "1.7",
+      "Language": null,
+      "EncryptFilterName": null,
+      "IsLinearized": false,
       "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
       "IsCollectionPresent": false,
-      "IsLinearized": true,
-      "IsXFAPresent": false
+      "IsSignaturesPresent": false,
+      "Author": "someone",
+      "CreationDate": "D:20000629102108+11'00'",
+      "Creator": "Microsoft Word 8.0",
+      "ModDate": "D:20131028152413-04'00'",
+      "Producer": "Acrobat Distiller 4.0 for Windows",
+      "Title": "This is a test PDF file"
     },
     "metadata": {
       "dc:format": "application/pdf",
-      "dc:creator": "someone",
+      "dc:creator": ["someone"],
       "dc:title": "This is a hello world PDF file",
       "xmp:createdate": "2000-06-29T10:21:08+11:00",
       "xmp:creatortool": "Microsoft Word 8.0",
@@ -102,9 +134,7 @@ Example Output
         "width": 200,
         "height": 200
       },
-      "links": [
-        "https://github.com"
-      ],
+      "links": ["https://github.com"],
       "content": [
         {
           "x": 70,
@@ -113,7 +143,7 @@ Example Output
           "dir": "ltr",
           "width": 64.656,
           "height": 12,
-          "fontName": "Times"
+          "fontName": "g_d0_f1"
         }
       ]
     }
