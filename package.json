@@ -45,7 +45,6 @@
   },
   "main": "./lib/index.mjs",
   "types": "./lib/index.d.ts",
-  "typings": "./lib/index.d.ts",
   "readmeFilename": "README.md",
   "dependencies": {
     "dommatrix": "1.0.3",
