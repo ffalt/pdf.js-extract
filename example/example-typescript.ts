@@ -11,9 +11,11 @@ async function run(): Promise<void> {
     "./example.pdf",
     options,
   );
+  // eslint-disable-next-line no-console
   console.log(JSON.stringify(data, null, "\t"));
 }
 
 run().catch((e) => {
+  // eslint-disable-next-line no-console
   return console.error(e);
 });

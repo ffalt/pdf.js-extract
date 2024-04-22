@@ -9,6 +9,7 @@ const buffer = readFileSync("./example.pdf");
 
 pdfExtract.extractBuffer(buffer, {}, (err, data) => {
   if (err) {
+    // eslint-disable-next-line no-console
     return console.error(err);
   }
 

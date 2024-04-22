@@ -5,6 +5,7 @@ async function run() {
   const pdfExtract = new PDFExtract();
   const options = { normalizeWhitespace: true };
   const data = await pdfExtract.extract("./example.pdf", options);
+  // eslint-disable-next-line no-console
   console.log(JSON.stringify(data, null, "\t"));
 
   writeFileSync("./example-output.json", JSON.stringify(data, null, "\t"));
@@ -16,5 +17,6 @@ async function run() {
 }
 
 run().catch((e) => {
+  // eslint-disable-next-line no-console
   return console.error(e);
 });
