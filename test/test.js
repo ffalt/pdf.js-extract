@@ -23,7 +23,7 @@ const sampleCmapOutput = JSON.parse(
 
 function readFileAsync(filename) {
   return new Promise((resolve, reject) => {
-    readFile(filename, (err, data) => {
+    readFile(filename.toString(), (err, data) => {
       if (err) {
         reject(err);
       } else {
@@ -39,15 +39,15 @@ function deepEqualPages(a, b, ignoreProperties) {
     return {
       ...item,
       content: item.content.map((entry) => {
-        return { ...entry, fontName: undefined };
+        return { ...entry, fontName: null };
       }),
     };
   });
-  const cloneB = a.map((item) => {
+  const cloneB = b.map((item) => {
     return {
       ...item,
       content: item.content.map((entry) => {
-        return { ...entry, fontName: undefined };
+        return { ...entry, fontName: null };
       }),
     };
   });
