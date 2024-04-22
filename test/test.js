@@ -38,17 +38,13 @@ function deepEqualPages(a, b, ignoreProperties) {
   const cloneA = a.map((item) => {
     return {
       ...item,
-      content: item.content.map((entry) => {
-        return { ...entry, fontName: null };
-      }),
+      content: item.content.map((entry) => ({ ...entry, fontName: null })),
     };
   });
   const cloneB = b.map((item) => {
     return {
       ...item,
-      content: item.content.map((entry) => {
-        return { ...entry, fontName: null };
-      }),
+      content: item.content.map((entry) => ({ ...entry, fontName: null })),
     };
   });
   expect(cloneA).toEqual(cloneB);
