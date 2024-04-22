@@ -5,6 +5,7 @@ const pdfExtract = new PDFExtract();
 
 pdfExtract.extract("./example-cmap.pdf", {}, function (err, data) {
   if (err) {
+    // eslint-disable-next-line no-console
     return console.error(err);
   }
   writeFileSync("./example-cmap-output.json", JSON.stringify(data, null, "\t"));
