@@ -4,19 +4,16 @@
 			"PDFFormatVersion": "1.3",
 			"IsLinearized": false,
 			"IsAcroFormPresent": false,
-			"IsCollectionPresent": false,
 			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
 			"IsSignaturesPresent": false,
-			"EncryptFilterName": null,
-			"Language": null,
 			"Producer": "FPDF 1.52",
 			"CreationDate": "D:20130729015932"
-		},
-		"metadata": null
+		}
 	},
 	"pages": [
 		{
-			"pageInfo": {
+			"info": {
 				"num": 1,
 				"scale": 1,
 				"rotation": 0,
@@ -25,19 +22,42 @@
 				"width": 595.28,
 				"height": 841.89
 			},
-			"links": [],
+			"annotations": [],
 			"content": [
 				{
+					"str": "我们都是黑体字",
 					"x": 28.35,
 					"y": 48.51999999999998,
-					"str": "我们都是黑体字",
-					"dir": "ltr",
 					"width": 140,
 					"height": 20,
-					"fontName": "ºÚÌå"
+					"transform": [
+						20,
+						0,
+						0,
+						20,
+						28.35,
+						793.37
+					],
+					"font": {
+						"size": 20,
+						"name": "ºÚÌå",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.8,
+						"descent": -0.2
+					},
+					"dir": "ltr",
+					"hasEOL": false
 				}
 			]
 		}
 	],
-	"filename": "./example-cmap.pdf"
+	"attachments": [],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"4eb217876b18ea1871ffdc1692df906d"
+		]
+	},
+	"filename": "./cmap.pdf"
 }
