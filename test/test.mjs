@@ -10,28 +10,24 @@ const pdfDirectory = path.resolve(__dirname, "../example/");
 
 const testCases = [
 	{
-		name: "example",
 		file: "example.pdf",
 		outputFile: "example.json",
 		textFile: "example.txt",
 		password: undefined
 	},
 	{
-		name: "encrypted",
 		file: "encrypted.pdf",
 		outputFile: "encrypted.json",
 		textFile: "encrypted.txt",
 		password: "password"
 	},
 	{
-		name: "cmap",
 		file: "cmap.pdf",
 		outputFile: "cmap.json",
 		textFile: "cmap.txt",
 		password: undefined
 	},
 	{
-		name: "attachment",
 		file: "attachment.pdf",
 		outputFile: "attachment.json",
 		textFile: "attachment.txt",
@@ -79,9 +75,9 @@ function deepEqualPages(a, b, ignoreKeys = []) {
 }
 
 describe("PDFExtract", () => {
-	describe("#extractBuffer()", () => {
+	describe.each(loadedTestCases)("#extractBuffer() for $file", (testCase) => {
 
-		it.each(loadedTestCases)("should extract $name pdf buffer without error", (testCase, done) => {
+		it("should extract pdf buffer without error", (done) => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(testCase.filePath);
 			const options = testCase.password ? { password: testCase.password } : {};
@@ -91,7 +87,7 @@ describe("PDFExtract", () => {
 			});
 		});
 
-		it.each(loadedTestCases)("should extract $name pdf buffer with right data", (testCase, done) => {
+		it("should extract pdf buffer with right data", (done) => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(testCase.filePath);
 			const options = testCase.password ? { password: testCase.password } : {};
@@ -107,7 +103,7 @@ describe("PDFExtract", () => {
 			});
 		});
 
-		it.each(loadedTestCases)("should async extract $name pdf buffer with right data", async (testCase) => {
+		it("should async extract pdf buffer with right data", async () => {
 			const extract = new PDFExtract();
 			const buffer = await readFileAsync(testCase.filePath);
 			const options = testCase.password ? { password: testCase.password } : {};
@@ -116,24 +112,24 @@ describe("PDFExtract", () => {
 			deepEqualPages(data.pages, testCase.output.pages, ["fontName"]);
 		});
 
-		it("should fail with wrong password on encrypted pdf buffer with error", (done) => {
-			const extract = new PDFExtract();
-			const buffer = fs.readFileSync(path.join(pdfDirectory, "encrypted.pdf"));
-			extract.extractBuffer(buffer, { password: "wrong" }, (err) => {
-				try {
-					expect(err.name).toBe("PasswordException");
-					done();
-				} catch (error) {
-					done(error);
-				}
-			});
-		});
-
 	});
 
-	describe("#extract()", () => {
+	it("should fail with wrong password on encrypted pdf buffer with error", (done) => {
+		const extract = new PDFExtract();
+		const buffer = fs.readFileSync(path.join(pdfDirectory, "encrypted.pdf"));
+		extract.extractBuffer(buffer, { password: "wrong" }, (err) => {
+			try {
+				expect(err.name).toBe("PasswordException");
+				done();
+			} catch (error) {
+				done(error);
+			}
+		});
+	});
 
-		it.each(loadedTestCases)("should load and extract $name pdf without error", (testCase, done) => {
+	describe.each(loadedTestCases)("#extract() for $file", (testCase) => {
+
+		it("should load and extract pdf without error", (done) => {
 			const extract = new PDFExtract();
 			const options = testCase.password ? { password: testCase.password } : {};
 			extract.extract(testCase.filePath, options, (err) => {
@@ -142,7 +138,7 @@ describe("PDFExtract", () => {
 			});
 		});
 
-		it.each(loadedTestCases)("should async load and extract $name pdf with the right data", async (testCase) => {
+		it("should async load and extract pdf with the right data", async () => {
 			const extract = new PDFExtract();
 			const options = testCase.password ? { password: testCase.password } : {};
 			const data = await extract.extract(testCase.filePath, options);
@@ -150,24 +146,25 @@ describe("PDFExtract", () => {
 			deepEqualPages(data.pages, testCase.output.pages, ["fontName"]);
 		});
 
-		it("should load and fail with wrong password on encrypted pdf with error", (done) => {
-			const extract = new PDFExtract();
-			extract.extract(path.join(pdfDirectory, "encrypted.pdf"), { password: "wrong" }, (err) => {
-				try {
-					expect(err.name).toBe("PasswordException");
-					done();
-				} catch (error) {
-					done(error);
-				}
-			});
+	});
+
+	it("should load and fail with wrong password on encrypted pdf with error", (done) => {
+		const extract = new PDFExtract();
+		extract.extract(path.join(pdfDirectory, "encrypted.pdf"), { password: "wrong" }, (err) => {
+			try {
+				expect(err.name).toBe("PasswordException");
+				done();
+			} catch (error) {
+				done(error);
+			}
 		});
 
 	});
 });
 
 describe("PDFExtract.tools", () => {
-	describe("pageToLines", () => {
-		it.each(loadedTestCases)("should return the correct $name example lines", (testCase, done) => {
+	describe.each(loadedTestCases)("pageToLines for $file", (testCase) => {
+		it("should return the correct example lines", (done) => {
 			const extract = new PDFExtract();
 			const options = testCase.password ? { password: testCase.password } : {};
 			extract.extract(testCase.filePath, options, (err, data) => {
