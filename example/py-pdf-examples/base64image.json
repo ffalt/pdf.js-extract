@@ -1,0 +1,76 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Producer": "PDF Annotator 8.0.0.837",
+			"Creator": "PDF Annotator",
+			"CreationDate": "D:20220920081517+02'00'",
+			"ModDate": "D:20220920081702+02'00'"
+		},
+		"metadata": {
+			"dc:format": "application/pdf",
+			"dc:creator": [
+				""
+			],
+			"dc:description": "",
+			"dc:title": "",
+			"xmp:createdate": "2022-09-20T08:15:17+02:00",
+			"xmp:creatortool": "PDF Annotator",
+			"xmp:modifydate": "2022-09-20T08:17:02+02:00",
+			"pdf:keywords": "",
+			"pdf:producer": "PDF Annotator 8.0.0.837"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.2756,
+				"height": 841.8898
+			},
+			"content": [
+				{
+					"str": "Produced with a Trial Version of PDF Annotator - www.PDFAnnotator.com",
+					"x": 20,
+					"y": 20.000036220000084,
+					"width": 394.8000000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						20,
+						821.88976378
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"3c7f19ace154260b7df8ced811fdb3c4"
+		]
+	},
+	"filename": "./py-pdf-examples/base64image.pdf"
+}

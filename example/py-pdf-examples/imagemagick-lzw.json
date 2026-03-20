@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "info": {
+      "PDFFormatVersion": "1.7",
+      "IsLinearized": false,
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "IsCollectionPresent": false,
+      "IsSignaturesPresent": false,
+      "Title": "imagemagick-lzw\u0000",
+      "CreationDate": "D:20220415114209",
+      "ModDate": "D:20220415114209",
+      "Producer": "https://imagemagick.org"
+    }
+  },
+  "pages": [
+    {
+      "info": {
+        "num": 1,
+        "scale": 1,
+        "rotation": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 3.84,
+        "height": 3.84
+      },
+      "content": []
+    }
+  ],
+  "info": {
+    "numPages": 1,
+    "fingerprints": [
+      "2f64d64e0cfa0d81aa16a030be73e382077d66c7ab5a27fd8bf9b7f04eb48f74"
+    ]
+  }
+}

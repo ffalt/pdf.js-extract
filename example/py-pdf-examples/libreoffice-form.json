@@ -1,0 +1,1008 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"Language": "en-US",
+			"IsLinearized": false,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Creator": "Writer",
+			"Producer": "LibreOffice 6.4",
+			"CreationDate": "D:20220626105843+02'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.303937007874,
+				"height": 841.889763779528
+			},
+			"annotations": [
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "6R",
+					"rect": [
+						273.349,
+						712.34,
+						357.001,
+						716.188
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "Last Name",
+					"fieldValue": "",
+					"defaultFieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 11,
+						"fontName": "F3",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 357.001,
+					"y": 716.188
+				},
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "4R",
+					"rect": [
+						119.549,
+						710.39,
+						203.901,
+						718.138
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "First Name",
+					"fieldValue": "Alice",
+					"defaultFieldValue": "Alice",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 11,
+						"fontName": "F3",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 203.901,
+					"y": 718.138
+				},
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "10R",
+					"rect": [
+						119.699,
+						692.64,
+						232.551,
+						704.638
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "Birthday",
+					"fieldValue": "",
+					"defaultFieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 11,
+						"fontName": "F3",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 232.551,
+					"y": 704.638
+				},
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "7R",
+					"rect": [
+						57.799,
+						649.44,
+						68.851,
+						660.488
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "female",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 49152,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": false,
+					"radioButton": true,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"buttonValue": "1",
+					"x": 68.851,
+					"y": 660.488
+				},
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "9R",
+					"rect": [
+						114.499,
+						649.44,
+						125.551,
+						660.488
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "female",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 49152,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": false,
+					"radioButton": true,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"buttonValue": "2",
+					"x": 125.551,
+					"y": 660.488
+				},
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "14R",
+					"rect": [
+						59.449,
+						585.89,
+						224.351,
+						603.488
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "Nationality",
+					"fieldValue": [
+						""
+					],
+					"defaultFieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 11,
+						"fontName": "F3",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Ch",
+					"fieldFlags": 131072,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"options": [
+						{
+							"exportValue": "Unknown",
+							"displayValue": "Unknown"
+						},
+						{
+							"exportValue": "German",
+							"displayValue": "German"
+						},
+						{
+							"exportValue": "Indonesian",
+							"displayValue": "Indonesian"
+						},
+						{
+							"exportValue": "US-American",
+							"displayValue": "US-American"
+						},
+						{
+							"exportValue": "French",
+							"displayValue": "French"
+						},
+						{
+							"exportValue": "Spanish",
+							"displayValue": "Spanish"
+						},
+						{
+							"exportValue": "Italian",
+							"displayValue": "Italian"
+						}
+					],
+					"combo": true,
+					"multiSelect": false,
+					"x": 224.351,
+					"y": 603.488
+				},
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "11R",
+					"rect": [
+						57.799,
+						555.59,
+						68.851,
+						566.638
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "gdpr",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "F5",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 0,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": true,
+					"radioButton": false,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"exportValue": "Yes",
+					"x": 68.851,
+					"y": 566.638
+				},
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "12R",
+					"rect": [
+						57.799,
+						539.89,
+						68.851,
+						550.938
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "other",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "F5",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 0,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": true,
+					"radioButton": false,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"exportValue": "Yes",
+					"x": 68.851,
+					"y": 550.938
+				},
+				{
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "13R",
+					"rect": [
+						77.249,
+						490.99,
+						230.801,
+						499.438
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 20,
+					"fieldName": "First Name_2",
+					"fieldValue": "Bob",
+					"defaultFieldValue": "Bob",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 11,
+						"fontName": "F3",
+						"fontColor": [76, 76, 76]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 230.801,
+					"y": 499.438
+				}
+			],
+			"content": [
+				{
+					"str": "Example for a Form",
+					"x": 167.1,
+					"y": 95.00076377952803,
+					"width": 261.184,
+					"height": 28,
+					"transform": [
+						28,
+						0,
+						0,
+						28,
+						167.1,
+						746.889
+					],
+					"font": {
+						"size": 28,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 177.00076377952803,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						664.889
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Gender:",
+					"x": 56.8,
+					"y": 177.00076377952803,
+					"width": 38.616,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						664.889
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 219.30076377952798,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						622.589
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Nationality:",
+					"x": 56.8,
+					"y": 219.30076377952798,
+					"width": 57.20399999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						622.589
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.7,
+					"y": 131.70076377952807,
+					"width": 0,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						56.7,
+						710.189
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "First Name",
+					"x": 56.7,
+					"y": 131.70076377952807,
+					"width": 54.19699999999999,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						56.7,
+						710.189
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 110.89699999999999,
+					"y": 131.70076377952807,
+					"width": 104.803,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						110.89699999999999,
+						710.189
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Last Name",
+					"x": 215.7,
+					"y": 131.70076377952807,
+					"width": 52.70100000000002,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						215.7,
+						710.189
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.7,
+					"y": 147.400763779528,
+					"width": 0,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						56.7,
+						694.489
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Birthday",
+					"x": 56.7,
+					"y": 147.400763779528,
+					"width": 42.51499999999999,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						56.7,
+						694.489
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 73.3,
+					"y": 191.00076377952803,
+					"width": 0,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						73.3,
+						650.889
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Female",
+					"x": 73.3,
+					"y": 191.00076377952803,
+					"width": 36.24500000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						73.3,
+						650.889
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 109.54500000000002,
+					"y": 191.00076377952803,
+					"width": 20.454999999999984,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						109.54500000000002,
+						650.889
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Male",
+					"x": 130,
+					"y": 191.00076377952803,
+					"width": 24.441999999999986,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						130,
+						650.889
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 73.3,
+					"y": 284.900763779528,
+					"width": 0,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						73.3,
+						556.989
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Agree to privacy policy",
+					"x": 73.3,
+					"y": 284.900763779528,
+					"width": 112.98099999999998,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						73.3,
+						556.989
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 73.3,
+					"y": 300.60076377952805,
+					"width": 0,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						73.3,
+						541.289
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Other",
+					"x": 73.3,
+					"y": 300.60076377952805,
+					"width": 29.633999999999993,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						73.3,
+						541.289
+					],
+					"font": {
+						"size": 11,
+						"name": "EAAAAA+Ubuntu",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.932,
+						"descent": -0.189
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"98ed9df66f580020efde11d68b1f71b3"
+		]
+	},
+	"filename": "./py-pdf-examples/libreoffice-form.pdf"
+}

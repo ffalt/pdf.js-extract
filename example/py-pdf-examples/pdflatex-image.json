@@ -1,0 +1,444 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Producer": "pdfTeX-1.40.23",
+			"Creator": "TeX",
+			"CreationDate": "D:20220403194732+02'00'",
+			"ModDate": "D:20220403194732+02'00'",
+			"Trapped": {
+				"name": "False"
+			},
+			"Custom": {
+				"PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) kpathsea version 6.3.3"
+			}
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.276,
+				"height": 841.89
+			},
+			"content": [
+				{
+					"str": "1 Your Chapter",
+					"x": 89.291,
+					"y": 151.21799999999996,
+					"width": 149.37127875000002,
+					"height": 20.6625,
+					"transform": [
+						20.6625,
+						0,
+						0,
+						20.6625,
+						89.291,
+						690.672
+					],
+					"font": {
+						"size": 20.6625,
+						"name": "XXLAWB+CMSSBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 89.291,
+					"y": 188.139,
+					"width": 0,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						89.291,
+						653.751
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
+					"x": 89.291,
+					"y": 188.139,
+					"width": 416.69161996999975,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						89.291,
+						653.751
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+					"x": 89.291,
+					"y": 201.68899999999996,
+					"width": 341.14392065000004,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						89.291,
+						640.201
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 430.43492064999987,
+					"y": 201.68899999999996,
+					"width": 6.818187500000022,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						430.43492064999987,
+						640.201
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "At vero eos et",
+					"x": 437.2531081499999,
+					"y": 201.68899999999996,
+					"width": 68.73714819000001,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						437.2531081499999,
+						640.201
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "accusam et justo duo dolores et ea rebum.",
+					"x": 89.291,
+					"y": 215.23799999999994,
+					"width": 201.75398630999996,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						89.291,
+						626.652
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 100.2,
+					"y": 452.697,
+					"width": 0,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						100.2,
+						389.193
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+					"x": 100.2,
+					"y": 452.697,
+					"width": 405.78688360999996,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						100.2,
+						389.193
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
+					"x": 89.291,
+					"y": 466.246,
+					"width": 416.69161996999975,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						89.291,
+						375.644
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+					"x": 89.291,
+					"y": 479.79499999999996,
+					"width": 341.14392065000004,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						89.291,
+						362.095
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 430.43492064999987,
+					"y": 479.79499999999996,
+					"width": 6.818187500000022,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						430.43492064999987,
+						362.095
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "At vero eos et",
+					"x": 437.2531081499999,
+					"y": 479.79499999999996,
+					"width": 68.73714819000001,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						437.2531081499999,
+						362.095
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata",
+					"x": 89.291,
+					"y": 493.34399999999994,
+					"width": 416.68943814999955,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						89.291,
+						348.54600000000005
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "sanctus est Lorem ipsum dolor sit amet.",
+					"x": 89.291,
+					"y": 506.89399999999995,
+					"width": 192.02961456999998,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						89.291,
+						334.99600000000004
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1",
+					"x": 294.911,
+					"y": 725.1859999999999,
+					"width": 5.454550000000001,
+					"height": 10.9091,
+					"transform": [
+						10.9091,
+						0,
+						0,
+						10.9091,
+						294.911,
+						116.70400000000004
+					],
+					"font": {
+						"size": 10.9091,
+						"name": "LFWRAR+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"8262563d81c662f18a9340943aa122d3"
+		]
+	},
+	"filename": "./py-pdf-examples/pdflatex-image.pdf"
+}

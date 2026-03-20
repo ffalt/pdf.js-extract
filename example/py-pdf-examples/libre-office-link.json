@@ -1,0 +1,176 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"Language": "en-US",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Creator": "Writer",
+			"Producer": "LibreOffice 6.4",
+			"CreationDate": "D:20220731114853+02'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.303937007874,
+				"height": 841.889763779528
+			},
+			"annotations": [
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [0, 0, 0],
+					"borderColor": [0, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "4R",
+					"rect": [
+						92.043,
+						771.389,
+						217.757,
+						785.189
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"url": "https://martin-thoma.com/",
+					"unsafeUrl": "https://martin-thoma.com/",
+					"x": 217.757,
+					"y": 785.189
+				}
+			],
+			"content": [
+				{
+					"str": "This is",
+					"x": 56.8,
+					"y": 67.900763779528,
+					"width": 32.256,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						773.989
+					],
+					"font": {
+						"size": 12,
+						"name": "BAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 89.05600000000001,
+					"y": 67.900763779528,
+					"width": 3.1439999999999912,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.05600000000001,
+						773.989
+					],
+					"font": {
+						"size": 12,
+						"name": "BAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "a link to an awesome blog",
+					"x": 92.2,
+					"y": 67.900763779528,
+					"width": 125.56800000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						92.2,
+						773.989
+					],
+					"font": {
+						"size": 12,
+						"name": "BAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ".",
+					"x": 217.8,
+					"y": 67.900763779528,
+					"width": 3,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						217.8,
+						773.989
+					],
+					"font": {
+						"size": 12,
+						"name": "BAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"a1c71ff861f2a3c511c581513519adcb"
+		]
+	},
+	"filename": "./py-pdf-examples/libre-office-link.pdf"
+}

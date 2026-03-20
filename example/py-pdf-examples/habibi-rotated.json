@@ -1,0 +1,274 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.7",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Producer": "pypdf"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 90,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.889764,
+				"height": 595.275591
+			},
+			"content": [
+				{
+					"str": "habibi يبيبَح",
+					"x": 768.5010925,
+					"y": 62.25,
+					"width": 30.168,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						62.25,
+						768.5010925
+					],
+					"font": {
+						"size": 12,
+						"name": "XGBNKK+DejaVuSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " يبيبَح˴ ϲΒϴΒ\u0003",
+					"x": 768.5010925,
+					"y": 92.41799999999999,
+					"width": 23.060999999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						92.41799999999999,
+						768.5010925
+					],
+					"font": {
+						"size": 12,
+						"name": "DWGDXP+TimesNewRoman",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 180,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.275591,
+				"height": 841.889764
+			},
+			"content": [
+				{
+					"str": "habibi يبيبَح",
+					"x": 533.025591,
+					"y": 768.5010925,
+					"width": 30.168,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						62.25,
+						768.5010925
+					],
+					"font": {
+						"size": 12,
+						"name": "XGBNKK+DejaVuSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " يبيبَح˴ ϲΒϴΒ\u0003",
+					"x": 502.85759099999996,
+					"y": 768.5010925,
+					"width": 23.060999999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						92.41799999999999,
+						768.5010925
+					],
+					"font": {
+						"size": 12,
+						"name": "DWGDXP+TimesNewRoman",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 270,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.889764,
+				"height": 595.275591
+			},
+			"content": [
+				{
+					"str": "habibi يبيبَح",
+					"x": 73.38867149999999,
+					"y": 533.025591,
+					"width": 30.168,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						62.25,
+						768.5010925
+					],
+					"font": {
+						"size": 12,
+						"name": "XGBNKK+DejaVuSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " يبيبَح˴ ϲΒϴΒ\u0003",
+					"x": 73.38867149999999,
+					"y": 502.85759099999996,
+					"width": 23.060999999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						92.41799999999999,
+						768.5010925
+					],
+					"font": {
+						"size": 12,
+						"name": "DWGDXP+TimesNewRoman",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.275591,
+				"height": 841.889764
+			},
+			"content": [
+				{
+					"str": "habibi يبيبَح",
+					"x": 62.25,
+					"y": 73.38867149999999,
+					"width": 30.168,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						62.25,
+						768.5010925
+					],
+					"font": {
+						"size": 12,
+						"name": "XGBNKK+DejaVuSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " يبيبَح˴ ϲΒϴΒ\u0003",
+					"x": 92.41799999999999,
+					"y": 73.38867149999999,
+					"width": 23.060999999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						92.41799999999999,
+						768.5010925
+					],
+					"font": {
+						"size": 12,
+						"name": "DWGDXP+TimesNewRoman",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 4,
+		"fingerprints": [
+			"3d1cadedc971cea768828713dadeed2a"
+		]
+	},
+	"filename": "./py-pdf-examples/habibi-rotated.pdf"
+}

@@ -1,0 +1,113 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Producer": "PyPDF2",
+			"Custom": {
+				"NeedAppearances": true
+			}
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.2756,
+				"height": 841.8898
+			},
+			"content": [
+				{
+					"str": "Name: Foo Bar",
+					"x": 235.2756,
+					"y": 824.88193,
+					"width": 59.38769519999995,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						235.2756,
+						17.00787
+					],
+					"font": {
+						"size": 9,
+						"name": "AAAAAA+Roboto-Regular",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.927734375,
+						"descent": -0.244140625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Fingerprint: asdfSa2123",
+					"x": 235.2756,
+					"y": 815.88391,
+					"width": 95.765625,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						235.2756,
+						26.00589
+					],
+					"font": {
+						"size": 9,
+						"name": "AAAAAA+Roboto-Regular",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.927734375,
+						"descent": -0.244140625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Signed: 12-34-2007T12:34:56",
+					"x": 235.2756,
+					"y": 806.88589,
+					"width": 117.2373003,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						235.2756,
+						35.00391
+					],
+					"font": {
+						"size": 9,
+						"name": "AAAAAA+Roboto-Regular",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.927734375,
+						"descent": -0.244140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"15561589c018032cc857918a9e931e68"
+		]
+	},
+	"filename": "./py-pdf-examples/reportlab-overlay.pdf"
+}

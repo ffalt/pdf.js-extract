@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "info": {
+      "PDFFormatVersion": "1.7",
+      "IsLinearized": false,
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "IsCollectionPresent": false,
+      "IsSignaturesPresent": false
+    }
+  },
+  "pages": [
+    {
+      "info": {
+        "num": 1,
+        "scale": 1,
+        "rotation": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 243,
+        "height": 337.5
+      },
+      "content": []
+    }
+  ],
+  "info": {
+    "numPages": 1,
+    "fingerprints": [
+      "2c2763e2ff229adabdcecae1d7b0f21a"
+    ]
+  }
+}

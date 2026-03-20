@@ -2,45 +2,79 @@ import path from "path";
 import fs from "fs";
 import { fileURLToPath } from "url";
 import { PDFExtract } from "../lib/index.mjs";
+import { extractAllPagesTextRows } from "../lib/utils.mjs";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const pdfDirectory = path.resolve(__dirname, "../example/");
 
-const testCases = [
-	{
-		file: "example.pdf",
-		outputFile: "example.json",
-		textFile: "example.txt",
-		password: undefined
-	},
-	{
-		file: "encrypted.pdf",
-		outputFile: "encrypted.json",
-		textFile: "encrypted.txt",
-		password: "password"
-	},
-	{
-		file: "cmap.pdf",
-		outputFile: "cmap.json",
-		textFile: "cmap.txt",
-		password: undefined
-	},
-	{
-		file: "attachment.pdf",
-		outputFile: "attachment.json",
-		textFile: "attachment.txt",
-		password: undefined
-	}
+const simpleTestCases = [
+	"example.pdf",
+	"cmap.pdf",
+	"attachment.pdf",
+	"py-pdf-examples/002-trivial-libre-office-writer.pdf",
+	"py-pdf-examples/annotated_pdf.pdf",
+	"py-pdf-examples/base64image.pdf",
+	"py-pdf-examples/cmyk-image.pdf",
+	"py-pdf-examples/crazyones-pdfa.pdf",
+	"py-pdf-examples/habibi-oneline-cmap.pdf",
+	"py-pdf-examples/habibi-rotated.pdf",
+	"py-pdf-examples/habibi.pdf",
+	"py-pdf-examples/libre-office-link.pdf",
+	"py-pdf-examples/libreoffice-form.pdf",
+	"py-pdf-examples/minimal-document.pdf",
+	"py-pdf-examples/mistitled_outlines_example.pdf",
+	"py-pdf-examples/multicolumn.pdf",
+	"py-pdf-examples/output_with_metadata_pymupdf.pdf",
+	"py-pdf-examples/pdfkit.pdf",
+	"py-pdf-examples/pdflatex-4-pages.pdf",
+	"py-pdf-examples/pdflatex-forms.pdf",
+	"py-pdf-examples/pdflatex-image.pdf",
+	"py-pdf-examples/pdflatex-outline.pdf",
+	"py-pdf-examples/reportlab-overlay.pdf",
+	"py-pdf-examples/with-attachment.pdf",
+	"py-pdf-examples/google-doc-document.pdf",
+	"py-pdf-examples/imagemagick-ASCII85Decode.pdf",
+	"py-pdf-examples/imagemagick-CCITTFaxDecode.pdf",
+	"py-pdf-examples/imagemagick-images.pdf",
+	"py-pdf-examples/imagemagick-lzw.pdf",
+	"py-pdf-examples/grayscale-image.pdf"
 ];
 
-const loadedTestCases = testCases.map(tc => ({
-	...tc,
-	filePath: path.join(pdfDirectory, tc.file),
-	output: JSON.parse(fs.readFileSync(path.join(pdfDirectory, tc.outputFile)).toString()),
-	expectedText: fs.readFileSync(path.join(pdfDirectory, tc.textFile)).toString().trim().split('\n')
-}));
+const passwordTestCases = [
+	{ file: "encrypted.pdf", password: "password" },
+	{ file: "py-pdf-examples/libreoffice-writer-password.pdf", password: "openpassword" }
+];
+
+const testCases = [
+	...simpleTestCases.map(file => ({ file })),
+	...passwordTestCases
+];
+
+const loadedTestCases = testCases.map(tc => {
+	const baseName = path.parse(tc.file).name;
+	const dir = path.dirname(tc.file);
+	const fileDir = dir === "." ? "" : dir + "/";
+	const outputFile = `${fileDir}${baseName}.json`;
+	const textFile = `${fileDir}${baseName}.txt`;
+	let output = {};
+	if (fs.existsSync(path.join(pdfDirectory, outputFile))) {
+		output = JSON.parse(fs.readFileSync(path.join(pdfDirectory, outputFile)).toString());
+	}
+	let expectedText = [];
+	if (fs.existsSync(path.join(pdfDirectory, textFile))) {
+		expectedText = fs.readFileSync(path.join(pdfDirectory, textFile)).toString().trim().split('\n');
+	}
+	return {
+		...tc,
+		outputFile,
+		textFile,
+		filePath: path.join(pdfDirectory, tc.file),
+		output,
+		expectedText
+	};
+});
 
 function readFileAsync(filename) {
 	return new Promise((resolve, reject) => {
@@ -94,6 +128,7 @@ describe("PDFExtract", () => {
 			extract.extractBuffer(buffer, options, (err, data) => {
 				if (err) return done(err);
 				try {
+					// console.log(JSON.stringify(data));
 					expect(data.meta).toEqual(testCase.output.meta);
 					deepEqualPages(data.pages, testCase.output.pages, ["fontName"]);
 					done();
@@ -169,11 +204,11 @@ describe("PDFExtract.tools", () => {
 			const options = testCase.password ? { password: testCase.password } : {};
 			extract.extract(testCase.filePath, options, (err, data) => {
 				if (err) return done(err);
-				const page = data.pages[0];
-				const lines = PDFExtract.utils.pageToLines(page, 2);
-				const rows = PDFExtract.utils.extractTextRows(lines);
+				const rows = PDFExtract.utils.extractAllPagesTextRows(data.pages, 2).flat();
+				// console.log(rows.map(row => row.join("")).join("\n"));
 				try {
-					expect(rows.length).toBe(testCase.expectedText.length);
+					const expectedLength = testCase.expectedText.length === 1 && testCase.expectedText.at(0) === '' ? 0 : testCase.expectedText.length;
+					expect(rows.length).toBe(expectedLength);
 					const text = rows.map((row) => row.join(""));
 					expect(text.join("\n")).toBe(testCase.expectedText.join("\n"));
 					done();
@@ -181,6 +216,27 @@ describe("PDFExtract.tools", () => {
 					done(error);
 				}
 			});
-		});
+		}, 30000);
+	});
+
+	describe.each(loadedTestCases)("extractAllPagesTextRows for $file", (testCase) => {
+		it("should collect rows from all pages", (done) => {
+			const extract = new PDFExtract();
+			const options = testCase.password ? { password: testCase.password } : {};
+			extract.extract(testCase.filePath, options, (err, data) => {
+				if (err) return done(err);
+				try {
+					const allPageRows = PDFExtract.utils.extractAllPagesTextRows(data.pages, 2);
+					expect(Array.isArray(allPageRows)).toBe(true);
+					expect(allPageRows.length).toBe(data.pages.length);
+					allPageRows.forEach((pageRows) => {
+						expect(Array.isArray(pageRows)).toBe(true);
+					});
+					done();
+				} catch (error) {
+					done(error);
+				}
+			});
+		}, 30000);
 	});
 });

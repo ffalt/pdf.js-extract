@@ -1,0 +1,7614 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Keywords": "",
+			"Creator": "LaTeX with hyperref",
+			"ModDate": "D:20220716172303-05'00'",
+			"Trapped": {
+				"name": "False"
+			},
+			"CreationDate": "D:20220406201541+02'00'",
+			"Subject": "",
+			"Producer": "pdfTeX-1.40.23",
+			"Custom": {
+				"PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) kpathsea version 6.3.3",
+				"PXCViewerInfo": "PDF-XChange Viewer;2.5.316.0;Jan 11 2016;19:55:07;D:20220716172303-05'00'"
+			},
+			"Author": "",
+			"Title": ""
+		},
+		"metadata": {
+			"xap:createdate": "2022-04-06T13:15:41-05:00",
+			"xap:modifydate": "2022-07-16T17:23:03-05:00",
+			"xap:creatortool": "LaTeX with hyperref",
+			"pdf:producer": "pdfTeX-1.40.23",
+			"dc:format": "application/pdf",
+			"dc:description": "",
+			"dc:title": ""
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.276,
+				"height": 841.89
+			},
+			"annotations": [
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor": [255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "19R",
+					"rect": [
+						123.806,
+						683.215,
+						158.772,
+						692.043
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.1",
+					"x": 158.772,
+					"y": 692.043
+				},
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor":[255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "20R",
+					"rect": [
+						123.806,
+						661.297,
+						159.18,
+						670.125
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.2",
+					"x": 159.18,
+					"y": 670.125
+				},
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor": [255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "21R",
+					"rect": [
+						123.806,
+						639.379,
+						159.553,
+						648.207
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.3",
+					"x": 159.553,
+					"y": 648.207
+				},
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor": [255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "22R",
+					"rect": [
+						123.806,
+						617.461,
+						158.772,
+						626.289
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.4",
+					"x": 158.772,
+					"y": 626.289
+				},
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor": [255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "23R",
+					"rect": [
+						123.806,
+						595.543,
+						159.18,
+						604.372
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.5",
+					"x": 159.18,
+					"y": 604.372
+				},
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor": [255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "24R",
+					"rect": [
+						123.806,
+						573.626,
+						159.553,
+						582.454
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.6",
+					"x": 159.553,
+					"y": 582.454
+				},
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor": [255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "25R",
+					"rect": [
+						123.806,
+						551.708,
+						158.772,
+						560.536
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.7",
+					"x": 158.772,
+					"y": 560.536
+				},
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor": [255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "26R",
+					"rect": [
+						123.806,
+						529.79,
+						159.18,
+						538.618
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.8",
+					"x": 159.18,
+					"y": 538.618
+				},
+				{
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [255, 0, 0],
+					"borderColor": [255, 0, 0],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "27R",
+					"rect": [
+						123.806,
+						507.872,
+						159.553,
+						516.7
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"annotationType": 2,
+					"dest": "section.9",
+					"x": 159.553,
+					"y": 516.7
+				}
+			],
+			"content": [
+				{
+					"str": "Contents",
+					"x": 124.802,
+					"y": 135.76099999999997,
+					"width": 63.05298361999999,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						706.129
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 157.67899999999997,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						684.211
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1",
+					"x": 124.802,
+					"y": 157.67899999999997,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						684.211
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 157.67899999999997,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						684.211
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Foo",
+					"x": 139.7459,
+					"y": 157.67899999999997,
+					"width": 18.02832095999999,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						684.211
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 157.77422096,
+					"y": 157.67899999999997,
+					"width": 305.0149616,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						157.77422096,
+						684.211
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "2",
+					"x": 462.78918256,
+					"y": 157.67899999999997,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78918256,
+						684.211
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "2",
+					"x": 124.802,
+					"y": 179.59699999999998,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						662.293
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 179.59699999999998,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						662.293
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Bar",
+					"x": 139.7459,
+					"y": 179.59699999999998,
+					"width": 18.43778382,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						662.293
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 158.18368382000003,
+					"y": 179.59699999999998,
+					"width": 304.5965324,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						158.18368382000003,
+						662.293
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "2",
+					"x": 462.78021622000006,
+					"y": 179.59699999999998,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78021622000006,
+						662.293
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "3",
+					"x": 124.802,
+					"y": 201.515,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						640.375
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 201.515,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						640.375
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Baz",
+					"x": 139.7459,
+					"y": 201.515,
+					"width": 18.811381320000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						640.375
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 158.55728132000002,
+					"y": 201.515,
+					"width": 304.2279162,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						158.55728132000002,
+						640.375
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "2",
+					"x": 462.78519752,
+					"y": 201.515,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78519752,
+						640.375
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "4",
+					"x": 124.802,
+					"y": 223.43200000000002,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						618.458
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 223.43200000000002,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						618.458
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Foo",
+					"x": 139.7459,
+					"y": 223.43200000000002,
+					"width": 18.02832095999999,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						618.458
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 157.77422096,
+					"y": 223.43200000000002,
+					"width": 305.0149616,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						157.77422096,
+						618.458
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "2",
+					"x": 462.78918256,
+					"y": 223.43200000000002,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78918256,
+						618.458
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "5",
+					"x": 124.802,
+					"y": 245.35000000000002,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						596.54
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 245.35000000000002,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						596.54
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Bar",
+					"x": 139.7459,
+					"y": 245.35000000000002,
+					"width": 18.43778382,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						596.54
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 158.18368382000003,
+					"y": 245.35000000000002,
+					"width": 304.5965324,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						158.18368382000003,
+						596.54
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "3",
+					"x": 462.78021622000006,
+					"y": 245.35000000000002,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78021622000006,
+						596.54
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "6",
+					"x": 124.802,
+					"y": 267.26800000000003,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						574.622
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 267.26800000000003,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						574.622
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Baz",
+					"x": 139.7459,
+					"y": 267.26800000000003,
+					"width": 18.811381320000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						574.622
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 158.55728132000002,
+					"y": 267.26800000000003,
+					"width": 304.2279162,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						158.55728132000002,
+						574.622
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "3",
+					"x": 462.78519752,
+					"y": 267.26800000000003,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78519752,
+						574.622
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "7",
+					"x": 124.802,
+					"y": 289.18600000000004,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						552.704
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 289.18600000000004,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						552.704
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Foo",
+					"x": 139.7459,
+					"y": 289.18600000000004,
+					"width": 18.02832095999999,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						552.704
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 157.77422096,
+					"y": 289.18600000000004,
+					"width": 305.0149616,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						157.77422096,
+						552.704
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "3",
+					"x": 462.78918256,
+					"y": 289.18600000000004,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78918256,
+						552.704
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "8",
+					"x": 124.802,
+					"y": 311.10400000000004,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						530.786
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 311.10400000000004,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						530.786
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Bar",
+					"x": 139.7459,
+					"y": 311.10400000000004,
+					"width": 18.43778382,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						530.786
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 158.18368382000003,
+					"y": 311.10400000000004,
+					"width": 304.5965324,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						158.18368382000003,
+						530.786
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "4",
+					"x": 462.78021622000006,
+					"y": 311.10400000000004,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78021622000006,
+						530.786
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "9",
+					"x": 124.802,
+					"y": 333.02200000000005,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						508.86799999999994
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 130.530495,
+					"y": 333.02200000000005,
+					"width": 9.215405000000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						130.530495,
+						508.86799999999994
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Baz",
+					"x": 139.7459,
+					"y": 333.02200000000005,
+					"width": 18.811381320000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						139.7459,
+						508.86799999999994
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 158.55728132000002,
+					"y": 333.02200000000005,
+					"width": 304.2279162,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						158.55728132000002,
+						508.86799999999994
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "4",
+					"x": 462.78519752,
+					"y": 333.02200000000005,
+					"width": 5.728495000000001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						462.78519752,
+						508.86799999999994
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "RDMIXZ+CMBX10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 294.16700000000003,
+					"y": 751.452,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						294.16700000000003,
+						90.43799999999993
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1",
+					"x": 294.16700000000003,
+					"y": 751.452,
+					"width": 4.9813,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						294.16700000000003,
+						90.43799999999993
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.276,
+				"height": 841.89
+			},
+			"content": [
+				{
+					"str": "1",
+					"x": 124.802,
+					"y": 135.76099999999997,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						706.129
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 135.76099999999997,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						706.129
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Foo",
+					"x": 149.0112125,
+					"y": 135.76099999999997,
+					"width": 25.381297040000014,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						706.129
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 157.582,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						684.308
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 157.582,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						684.308
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 157.582,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						684.308
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 157.582,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						684.308
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 169.53700000000003,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						672.353
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 169.53700000000003,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						672.353
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 169.53700000000003,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						672.353
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 181.49200000000008,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						660.3979999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 193.4480000000001,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						648.4419999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 193.4480000000001,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						648.4419999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 193.4480000000001,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						648.4419999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 193.4480000000001,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						648.4419999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 193.4480000000001,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						648.4419999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 205.40300000000013,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						636.4869999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "written and an impression of the look. This text should contain all letters of the",
+					"x": 124.802,
+					"y": 217.35800000000017,
+					"width": 343.71069625999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						624.5319999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "alphabet and it should be written in of the original language. There is no need",
+					"x": 124.802,
+					"y": 229.31300000000022,
+					"width": 343.71169252000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						612.5769999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for special content, but the length of words should match the language. Hello,",
+					"x": 124.802,
+					"y": 241.26800000000026,
+					"width": 343.71169251999993,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						600.6219999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "here is some text without a meaning. This text should show what a printed text",
+					"x": 124.802,
+					"y": 253.2230000000003,
+					"width": 343.7136850400001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						588.6669999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "will look like at this place. If you read this text, you will get no information.",
+					"x": 124.802,
+					"y": 265.1790000000003,
+					"width": 343.7087037400001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						576.7109999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Really?",
+					"x": 124.802,
+					"y": 277.13400000000036,
+					"width": 32.23996986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						564.7559999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 157.04196986000005,
+					"y": 277.13400000000036,
+					"width": 6.894119200000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						157.04196986000005,
+						564.7559999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Is there no information?",
+					"x": 163.93608906000006,
+					"y": 277.13400000000036,
+					"width": 108.01052415999999,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						163.93608906000006,
+						564.7559999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 271.94661322000013,
+					"y": 277.13400000000036,
+					"width": 6.894119199999977,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						271.94661322000013,
+						564.7559999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Is there a difference between this text and",
+					"x": 278.8407324200001,
+					"y": 277.13400000000036,
+					"width": 189.67296009999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						278.8407324200001,
+						564.7559999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "some nonsense like “Huardest gefburn”? Kjift – not at all! A blind text like this",
+					"x": 124.802,
+					"y": 289.0890000000004,
+					"width": 343.70970000000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						552.8009999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "gives you information about the selected font, how the letters are written and",
+					"x": 124.802,
+					"y": 301.04400000000044,
+					"width": 343.7126887800002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						540.8459999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "an impression of the look. This text should contain all letters of the alphabet",
+					"x": 124.802,
+					"y": 312.9990000000005,
+					"width": 343.71268878000035,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						528.8909999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and it should be written in of the original language. There is no need for special",
+					"x": 124.802,
+					"y": 324.9540000000005,
+					"width": 343.70970000000017,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						516.9359999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "content, but the length of words should match the language.",
+					"x": 124.802,
+					"y": 336.91000000000054,
+					"width": 263.87639742,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						504.97999999999945
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 369.85600000000056,
+					"width": 0,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						472.0339999999994
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "2",
+					"x": 124.802,
+					"y": 369.85600000000056,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						472.0339999999994
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 369.85600000000056,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						472.0339999999994
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Bar",
+					"x": 149.0112125,
+					"y": 369.85600000000056,
+					"width": 25.91210644,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						472.0339999999994
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 391.67600000000056,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						450.21399999999943
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 391.67600000000056,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						450.21399999999943
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 391.67600000000056,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						450.21399999999943
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 391.67600000000056,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						450.21399999999943
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 403.6320000000006,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						438.2579999999994
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 403.6320000000006,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						438.2579999999994
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 403.6320000000006,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						438.2579999999994
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 415.58700000000056,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						426.30299999999943
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 427.54200000000054,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						414.34799999999944
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 427.54200000000054,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						414.34799999999944
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 427.54200000000054,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						414.34799999999944
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 427.54200000000054,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						414.34799999999944
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 427.54200000000054,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						414.34799999999944
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 439.4970000000005,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						402.39299999999946
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "written and an impression of the look.",
+					"x": 124.802,
+					"y": 451.4520000000005,
+					"width": 170.88050772000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						390.4379999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 295.68250772000005,
+					"y": 451.4520000000005,
+					"width": 6.346176200000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						295.68250772000005,
+						390.4379999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should contain all letters of",
+					"x": 302.02868392000005,
+					"y": 451.4520000000005,
+					"width": 166.48500859999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						302.02868392000005,
+						390.4379999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the alphabet and it should be written in of the original language. There is no",
+					"x": 124.802,
+					"y": 463.4070000000005,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						378.4829999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "need for special content, but the length of words should match the language. 7",
+					"x": 124.802,
+					"y": 475.3630000000005,
+					"width": 343.10596644,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						366.5269999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 508.30900000000054,
+					"width": 0,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						333.58099999999945
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "3",
+					"x": 124.802,
+					"y": 508.30900000000054,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						333.58099999999945
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 508.30900000000054,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						333.58099999999945
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Baz",
+					"x": 149.0112125,
+					"y": 508.30900000000054,
+					"width": 26.493127539999996,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						333.58099999999945
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 530.1290000000006,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						311.76099999999946
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 530.1290000000006,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						311.76099999999946
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 530.1290000000006,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						311.76099999999946
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 530.1290000000006,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						311.76099999999946
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 542.0850000000005,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						299.80499999999944
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 542.0850000000005,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						299.80499999999944
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 542.0850000000005,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						299.80499999999944
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 554.0400000000005,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						287.84999999999945
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 565.9950000000006,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						275.89499999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 565.9950000000006,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						275.89499999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 565.9950000000006,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						275.89499999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 565.9950000000006,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						275.89499999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 565.9950000000006,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						275.89499999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 577.9500000000005,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						263.9399999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "written and an impression of the look.",
+					"x": 124.802,
+					"y": 589.9050000000005,
+					"width": 170.88050772000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						251.98499999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 295.68250772000005,
+					"y": 589.9050000000005,
+					"width": 6.346176200000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						295.68250772000005,
+						251.98499999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should contain all letters of",
+					"x": 302.02868392000005,
+					"y": 589.9050000000005,
+					"width": 166.48500859999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						302.02868392000005,
+						251.98499999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the alphabet and it should be written in of the original language. There is no",
+					"x": 124.802,
+					"y": 601.8600000000006,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						240.02999999999946
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "need for special content, but the length of words should match the language. 5",
+					"x": 124.802,
+					"y": 613.8160000000005,
+					"width": 343.10596644,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						228.07399999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 646.7620000000005,
+					"width": 0,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						195.12799999999947
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "4",
+					"x": 124.802,
+					"y": 646.7620000000005,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						195.12799999999947
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 646.7620000000005,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						195.12799999999947
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Foo",
+					"x": 149.0112125,
+					"y": 646.7620000000005,
+					"width": 25.381297040000014,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						195.12799999999947
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 668.5820000000006,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						173.30799999999948
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 668.5820000000006,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						173.30799999999948
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 668.5820000000006,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						173.30799999999948
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 668.5820000000006,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						173.30799999999948
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 680.5380000000005,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						161.3519999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 680.5380000000005,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						161.3519999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 680.5380000000005,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						161.3519999999995
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 692.4930000000005,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						149.39699999999948
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 704.4480000000005,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						137.44199999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 704.4480000000005,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						137.44199999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 704.4480000000005,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						137.44199999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 704.4480000000005,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						137.44199999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 704.4480000000005,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						137.44199999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 716.4030000000005,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						125.48699999999947
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "2",
+					"x": 294.16700000000003,
+					"y": 751.4520000000005,
+					"width": 4.9813,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						294.16700000000003,
+						90.43799999999948
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.276,
+				"height": 841.89
+			},
+			"content": [
+				{
+					"str": "written and an impression of the look. This text should contain all letters of the",
+					"x": 124.802,
+					"y": 135.76099999999997,
+					"width": 343.71069625999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						706.129
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "alphabet and it should be written in of the original language. There is no need",
+					"x": 124.802,
+					"y": 147.716,
+					"width": 343.71169252000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						694.174
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for special content, but the length of words should match the language. Hello,",
+					"x": 124.802,
+					"y": 159.67100000000005,
+					"width": 343.71169251999993,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						682.2189999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "here is some text without a meaning. This text should show what a printed text",
+					"x": 124.802,
+					"y": 171.62700000000007,
+					"width": 343.7136850400001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						670.2629999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "will look like at this place. If you read this text, you will get no information.",
+					"x": 124.802,
+					"y": 183.5820000000001,
+					"width": 343.7087037400001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						658.3079999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Really?",
+					"x": 124.802,
+					"y": 195.53700000000015,
+					"width": 32.23996986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						646.3529999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 157.04196986000005,
+					"y": 195.53700000000015,
+					"width": 6.894119200000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						157.04196986000005,
+						646.3529999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Is there no information?",
+					"x": 163.93608906000006,
+					"y": 195.53700000000015,
+					"width": 108.01052415999999,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						163.93608906000006,
+						646.3529999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 271.94661322000013,
+					"y": 195.53700000000015,
+					"width": 6.894119199999977,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						271.94661322000013,
+						646.3529999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Is there a difference between this text and",
+					"x": 278.8407324200001,
+					"y": 195.53700000000015,
+					"width": 189.67296009999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						278.8407324200001,
+						646.3529999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "some nonsense like “Huardest gefburn”? Kjift – not at all! A blind text like this",
+					"x": 124.802,
+					"y": 207.4920000000002,
+					"width": 343.70970000000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						634.3979999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "gives you information about the selected font, how the letters are written and",
+					"x": 124.802,
+					"y": 219.44700000000023,
+					"width": 343.7126887800002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						622.4429999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "an impression of the look. This text should contain all letters of the alphabet",
+					"x": 124.802,
+					"y": 231.40300000000025,
+					"width": 343.71268878000035,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						610.4869999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and it should be written in of the original language. There is no need for special",
+					"x": 124.802,
+					"y": 243.3580000000003,
+					"width": 343.70970000000017,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						598.5319999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "content, but the length of words should match the language.",
+					"x": 124.802,
+					"y": 255.31300000000033,
+					"width": 263.87639742,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						586.5769999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 288.25900000000036,
+					"width": 0,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						553.6309999999996
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "5",
+					"x": 124.802,
+					"y": 288.25900000000036,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						553.6309999999996
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 288.25900000000036,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						553.6309999999996
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Bar",
+					"x": 149.0112125,
+					"y": 288.25900000000036,
+					"width": 25.91210644,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						553.6309999999996
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 310.0800000000004,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						531.8099999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 310.0800000000004,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						531.8099999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 310.0800000000004,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						531.8099999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 310.0800000000004,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						531.8099999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 322.0350000000004,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						519.8549999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 322.0350000000004,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						519.8549999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 322.0350000000004,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						519.8549999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 333.9900000000004,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						507.8999999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 345.9450000000004,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						495.9449999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 345.9450000000004,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						495.9449999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 345.9450000000004,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						495.9449999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 345.9450000000004,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						495.9449999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 345.9450000000004,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						495.9449999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 357.9000000000004,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						483.9899999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "written and an impression of the look.",
+					"x": 124.802,
+					"y": 369.8560000000004,
+					"width": 170.88050772000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						472.0339999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 295.68250772000005,
+					"y": 369.8560000000004,
+					"width": 6.346176200000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						295.68250772000005,
+						472.0339999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should contain all letters of",
+					"x": 302.02868392000005,
+					"y": 369.8560000000004,
+					"width": 166.48500859999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						302.02868392000005,
+						472.0339999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the alphabet and it should be written in of the original language. There is no",
+					"x": 124.802,
+					"y": 381.8110000000004,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						460.0789999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "need for special content, but the length of words should match the language. 7",
+					"x": 124.802,
+					"y": 393.76600000000036,
+					"width": 343.10596644,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						448.1239999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 426.71200000000033,
+					"width": 0,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						415.17799999999966
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "6",
+					"x": 124.802,
+					"y": 426.71200000000033,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						415.17799999999966
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 426.71200000000033,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						415.17799999999966
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Baz",
+					"x": 149.0112125,
+					"y": 426.71200000000033,
+					"width": 26.493127539999996,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						415.17799999999966
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 448.53300000000036,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						393.35699999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 448.53300000000036,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						393.35699999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 448.53300000000036,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						393.35699999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 448.53300000000036,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						393.35699999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 460.48800000000034,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						381.40199999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 460.48800000000034,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						381.40199999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 460.48800000000034,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						381.40199999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 472.4430000000003,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						369.44699999999966
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 484.3980000000003,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						357.4919999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 484.3980000000003,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						357.4919999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 484.3980000000003,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						357.4919999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 484.3980000000003,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						357.4919999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 484.3980000000003,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						357.4919999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 496.3530000000003,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						345.5369999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "written and an impression of the look.",
+					"x": 124.802,
+					"y": 508.3090000000003,
+					"width": 170.88050772000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						333.5809999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 295.68250772000005,
+					"y": 508.3090000000003,
+					"width": 6.346176200000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						295.68250772000005,
+						333.5809999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should contain all letters of",
+					"x": 302.02868392000005,
+					"y": 508.3090000000003,
+					"width": 166.48500859999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						302.02868392000005,
+						333.5809999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the alphabet and it should be written in of the original language. There is no",
+					"x": 124.802,
+					"y": 520.2640000000004,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						321.6259999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "need for special content, but the length of words should match the language. 5",
+					"x": 124.802,
+					"y": 532.2190000000003,
+					"width": 343.10596644,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						309.6709999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 565.1650000000003,
+					"width": 0,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						276.7249999999997
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "7",
+					"x": 124.802,
+					"y": 565.1650000000003,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						276.7249999999997
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 565.1650000000003,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						276.7249999999997
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Foo",
+					"x": 149.0112125,
+					"y": 565.1650000000003,
+					"width": 25.381297040000014,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						276.7249999999997
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 586.9860000000003,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						254.90399999999968
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 586.9860000000003,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						254.90399999999968
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 586.9860000000003,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						254.90399999999968
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 586.9860000000003,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						254.90399999999968
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 598.9410000000003,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						242.94899999999967
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 598.9410000000003,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						242.94899999999967
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 598.9410000000003,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						242.94899999999967
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 610.8960000000003,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						230.99399999999966
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 622.8510000000003,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						219.03899999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 622.8510000000003,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						219.03899999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 622.8510000000003,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						219.03899999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 622.8510000000003,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						219.03899999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 622.8510000000003,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						219.03899999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 634.8060000000004,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						207.08399999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "written and an impression of the look. This text should contain all letters of the",
+					"x": 124.802,
+					"y": 646.7620000000004,
+					"width": 343.71069625999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						195.12799999999964
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "alphabet and it should be written in of the original language. There is no need",
+					"x": 124.802,
+					"y": 658.7170000000003,
+					"width": 343.71169252000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						183.17299999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for special content, but the length of words should match the language. Hello,",
+					"x": 124.802,
+					"y": 670.6720000000004,
+					"width": 343.71169251999993,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						171.21799999999962
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "here is some text without a meaning. This text should show what a printed text",
+					"x": 124.802,
+					"y": 682.6270000000004,
+					"width": 343.7136850400001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						159.2629999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "will look like at this place. If you read this text, you will get no information.",
+					"x": 124.802,
+					"y": 694.5820000000003,
+					"width": 343.7087037400001,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						147.3079999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Really?",
+					"x": 124.802,
+					"y": 706.5370000000004,
+					"width": 32.23996986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						135.35299999999958
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 157.04196986000005,
+					"y": 706.5370000000004,
+					"width": 6.894119200000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						157.04196986000005,
+						135.35299999999958
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Is there no information?",
+					"x": 163.93608906000006,
+					"y": 706.5370000000004,
+					"width": 108.01052415999999,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						163.93608906000006,
+						135.35299999999958
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 271.94661322000013,
+					"y": 706.5370000000004,
+					"width": 6.894119199999977,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						271.94661322000013,
+						135.35299999999958
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Is there a difference between this text and",
+					"x": 278.8407324200001,
+					"y": 706.5370000000004,
+					"width": 189.67296009999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						278.8407324200001,
+						135.35299999999958
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "some nonsense like “Huardest gefburn”? Kjift – not at all! A blind text like this",
+					"x": 124.802,
+					"y": 718.4930000000004,
+					"width": 343.70970000000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						123.39699999999958
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "3",
+					"x": 294.16700000000003,
+					"y": 751.4530000000004,
+					"width": 4.9813,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						294.16700000000003,
+						90.43699999999959
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.276,
+				"height": 841.89
+			},
+			"content": [
+				{
+					"str": "gives you information about the selected font, how the letters are written and",
+					"x": 124.802,
+					"y": 135.76099999999997,
+					"width": 343.7126887800002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						706.129
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "an impression of the look. This text should contain all letters of the alphabet",
+					"x": 124.802,
+					"y": 147.716,
+					"width": 343.71268878000035,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						694.174
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and it should be written in of the original language. There is no need for special",
+					"x": 124.802,
+					"y": 159.67100000000005,
+					"width": 343.70970000000017,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						682.2189999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "content, but the length of words should match the language.",
+					"x": 124.802,
+					"y": 171.62700000000007,
+					"width": 263.87639742,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						670.2629999999999
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 204.57200000000012,
+					"width": 0,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						637.3179999999999
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "8",
+					"x": 124.802,
+					"y": 204.57200000000012,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						637.3179999999999
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 204.57200000000012,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						637.3179999999999
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Bar",
+					"x": 149.0112125,
+					"y": 204.57200000000012,
+					"width": 25.91210644,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						637.3179999999999
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 226.39300000000014,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						615.4969999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 226.39300000000014,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						615.4969999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 226.39300000000014,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						615.4969999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 226.39300000000014,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						615.4969999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 238.34900000000016,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						603.5409999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 238.34900000000016,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						603.5409999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 238.34900000000016,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						603.5409999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 250.3040000000002,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						591.5859999999998
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 262.25900000000024,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						579.6309999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 262.25900000000024,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						579.6309999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 262.25900000000024,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						579.6309999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 262.25900000000024,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						579.6309999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 262.25900000000024,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						579.6309999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 274.2140000000003,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						567.6759999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "written and an impression of the look.",
+					"x": 124.802,
+					"y": 286.1690000000003,
+					"width": 170.88050772000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						555.7209999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 295.68250772000005,
+					"y": 286.1690000000003,
+					"width": 6.346176200000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						295.68250772000005,
+						555.7209999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should contain all letters of",
+					"x": 302.02868392000005,
+					"y": 286.1690000000003,
+					"width": 166.48500859999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						302.02868392000005,
+						555.7209999999997
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the alphabet and it should be written in of the original language. There is no",
+					"x": 124.802,
+					"y": 298.12400000000036,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						543.7659999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "need for special content, but the length of words should match the language. 7",
+					"x": 124.802,
+					"y": 310.0800000000004,
+					"width": 343.10596644,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						531.8099999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 343.0250000000004,
+					"width": 0,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						498.8649999999996
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "9",
+					"x": 124.802,
+					"y": 343.0250000000004,
+					"width": 8.0697375,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						124.802,
+						498.8649999999996
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.8717375,
+					"y": 343.0250000000004,
+					"width": 16.139475000000004,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						132.8717375,
+						498.8649999999996
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Baz",
+					"x": 149.0112125,
+					"y": 343.0250000000004,
+					"width": 26.493127539999996,
+					"height": 14.3462,
+					"transform": [
+						14.3462,
+						0,
+						0,
+						14.3462,
+						149.0112125,
+						498.8649999999996
+					],
+					"font": {
+						"size": 14.3462,
+						"name": "PHGXPC+CMBX12",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 124.802,
+					"y": 364.8460000000004,
+					"width": 0,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						477.0439999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hello, here is some text without a meaning.",
+					"x": 124.802,
+					"y": 364.8460000000004,
+					"width": 199.59770222000006,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						477.0439999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.3997022200001,
+					"y": 364.8460000000004,
+					"width": 8.179294599999992,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						324.3997022200001,
+						477.0439999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should show what a",
+					"x": 332.5789968200001,
+					"y": 364.8460000000004,
+					"width": 135.93868073999988,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						332.5789968200001,
+						477.0439999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "printed text will look like at this place.",
+					"x": 124.802,
+					"y": 376.8020000000004,
+					"width": 174.41723072000008,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						465.08799999999957
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 299.2192307200001,
+					"y": 376.8020000000004,
+					"width": 6.087148599999978,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						299.2192307200001,
+						465.08799999999957
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "If you read this text, you will get no",
+					"x": 305.3063793200001,
+					"y": 376.8020000000004,
+					"width": 163.20930571999986,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						305.3063793200001,
+						465.08799999999957
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information. Really? Is there no information? Is there a difference between this",
+					"x": 124.802,
+					"y": 388.7570000000004,
+					"width": 343.71069626000013,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						453.1329999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text and some nonsense like “Huardest gefburn”?",
+					"x": 124.802,
+					"y": 400.7120000000004,
+					"width": 219.48404808000004,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						441.1779999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 344.2860480800001,
+					"y": 400.7120000000004,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						344.2860480800001,
+						441.1779999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kjift – not at all!",
+					"x": 350.6720746800001,
+					"y": 400.7120000000004,
+					"width": 77.87266289999991,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						350.6720746800001,
+						441.1779999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 428.54473757999995,
+					"y": 400.7120000000004,
+					"width": 6.38602659999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						428.54473757999995,
+						441.1779999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "A blind",
+					"x": 434.9307641799999,
+					"y": 400.7120000000004,
+					"width": 33.57794703999998,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						434.9307641799999,
+						441.1779999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text like this gives you information about the selected font, how the letters are",
+					"x": 124.802,
+					"y": 412.66700000000037,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						429.2229999999996
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "written and an impression of the look.",
+					"x": 124.802,
+					"y": 424.62200000000036,
+					"width": 170.88050772000005,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						417.26799999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 295.68250772000005,
+					"y": 424.62200000000036,
+					"width": 6.346176200000002,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						295.68250772000005,
+						417.26799999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "This text should contain all letters of",
+					"x": 302.02868392000005,
+					"y": 424.62200000000036,
+					"width": 166.48500859999996,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						302.02868392000005,
+						417.26799999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the alphabet and it should be written in of the original language. There is no",
+					"x": 124.802,
+					"y": 436.57700000000034,
+					"width": 343.71069626,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						405.31299999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "need for special content, but the length of words should match the language. 5",
+					"x": 124.802,
+					"y": 448.53300000000036,
+					"width": 343.10596644,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						124.802,
+						393.35699999999963
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "4",
+					"x": 294.16700000000003,
+					"y": 751.4520000000003,
+					"width": 4.9813,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						294.16700000000003,
+						90.43799999999965
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "VVNDXJ+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 4,
+		"fingerprints": [
+			"20c8633a70f8e4e9ccaf7e2d557eb95e"
+		]
+	},
+	"filename": "./py-pdf-examples/mistitled_outlines_example.pdf"
+}
