@@ -1,14 +1,18 @@
 # pdf.js-extract
 
-extracts text from PDF files
+Extracts text/annotations/attachments/images from PDF files
 
-This is just a library packaged out of the examples for usage of pdf.js with nodejs.
+> [!NOTE]
+> This library is for **Node.js**. If you want to use pdf.js in the browser, please check out the [pdf.js project](https://github.com/mozilla/pdf.js).
 
-It reads a pdf file and exports all pages & texts with coordinates. This can be e.g. used to extract structured table data.
+Read a PDF file and exports all pages & texts with coordinates. 
+This can be e.g. used to extract structured table data.
+Options include extracting attachments and images as well.
 
-This package includes a build of [pdf.js](https://github.com/mozilla/pdf.js). why? [pdfs-dist](https://github.com/mozilla/pdfjs-dist) installs not needed dependencies into production deployment.
+This package includes a build of [pdf.js](https://github.com/mozilla/pdf.js).
 
-Note: NO OCR!
+> [!IMPORTANT]
+> NO OCR!
 
 ## Install
 
@@ -21,7 +25,7 @@ Note: NO OCR!
 
 javascript async with callback
 ```javascript
-const PDFExtract = require('pdf.js-extract').PDFExtract;
+import { PDFExtract } from 'pdf.js-extract';
 const pdfExtract = new PDFExtract();
 const options = {}; /* see below */
 pdfExtract.extract('test.pdf', options, (err, data) => {
@@ -32,9 +36,9 @@ pdfExtract.extract('test.pdf', options, (err, data) => {
 
 javascript async with callback using buffer
 ```javascript
-const PDFExtract = require('pdf.js-extract').PDFExtract;
+import { PDFExtract } from 'pdf.js-extract';
+import fs from 'node:fs';
 const pdfExtract = new PDFExtract();
-const fs = require('fs');
 const buffer = fs.readFileSync("./example.pdf");
 const options = {}; /* see below */
 pdfExtract.extractBuffer(buffer, options, (err, data) => {
@@ -62,8 +66,63 @@ export interface PDFExtractOptions {
   verbosity?: number; // default:`-1` - log level of pdf.js
   normalizeWhitespace?: boolean; // default:`false` - replaces all occurrences of whitespace with standard spaces (0x20).
   disableCombineTextItems?: boolean; // default:`false` - do not attempt to combine  same line {@link TextItem}'s.
+  includeAttachments?: boolean; // include attachments as base64. The default value is `false`.
+  includeImages?: boolean; // include images as base64. The default value is `false`.
 }
 ```
+
+## Image Extraction
+
+The library can extracts images from PDF documents using multiple methods.
+
+### Basic Image Extraction
+
+```javascript
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf', { includeImages: true });
+
+// Access images for each page
+data.pages.forEach((page) => {
+  if (page.images && page.images.length > 0) {
+    console.log(`Page ${page.info.num} has ${page.images.length} images`);
+    
+    page.images.forEach((img) => {
+      console.log(`  Image ${img.index}: ${img.width}x${img.height}px (${img.colorSpace})`);
+      
+      // Save image if data available
+      if (img.base64data) {
+        const buffer = Buffer.from(img.base64data, 'base64');
+        fs.writeFileSync(`image_${img.index}.jpg`, buffer);
+      }
+    });
+  }
+});
+```
+
+### Image Properties
+
+Each extracted image contains:
+
+```typescript
+interface PDFExtractImage {
+  index: number;              // Image index on the page
+  width: number;              // Image width in pixels
+  height: number;             // Image height in pixels
+  kind: number;               // Image type: 1=XObject, 2=Inline, 3=Form
+  base64data?: string;        // Base64-encoded image data
+  colorSpace?: string;        // Color space (DeviceRGB, DeviceGray, DeviceCMYK, etc.)
+  bitsPerComponent?: number;  // Bits per component (typically 8)
+  filter?: string;            // Compression filter (DCTDecode, FlateDecode, etc.)
+}
+```
+
+### Image Types
+
+- **kind 1 - XObject**: Standard image objects from page resources (most common)
+- **kind 2 - Inline**: Images embedded directly in content streams
+- **kind 3 - Form**: Images contained within Form XObjects
+
+### Full Documentation
 
 Example Output
 
@@ -115,6 +174,18 @@ Example Output
           "height": 12,
           "fontName": "Times"
         }
+      ],
+      "images": [
+        {
+          "index": 0,
+          "width": 100,
+          "height": 100,
+          "kind": 1,
+          "colorSpace": "DeviceRGB",
+          "bitsPerComponent": 8,
+          "filter": "DCTDecode",
+          "base64data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg=="
+        }
       ]
     }
   ],
@@ -124,3 +195,5 @@ Example Output
   }
 }
 ```
+
+_Note: The `images` array is optional and only included when images are detected in the PDF. The `base64data` field shown is truncated for example purposes.

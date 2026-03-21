@@ -110,11 +110,17 @@ function deepEqualPages(a, b, ignoreKeys = []) {
 
 describe("PDFExtract", () => {
 	describe.each(loadedTestCases)("#extractBuffer() for $file", (testCase) => {
+		const options = {
+			includeImages: true,
+			includeAttachments: true
+		};
+		if (testCase.password) {
+			options.password = testCase.password;
+		}
 
 		it("should extract pdf buffer without error", (done) => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(testCase.filePath);
-			const options = testCase.password ? { password: testCase.password } : {};
 			extract.extractBuffer(buffer, options, (err) => {
 				if (err) done(err);
 				else done();
@@ -124,7 +130,6 @@ describe("PDFExtract", () => {
 		it("should extract pdf buffer with right data", (done) => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(testCase.filePath);
-			const options = testCase.password ? { password: testCase.password } : {};
 			extract.extractBuffer(buffer, options, (err, data) => {
 				if (err) return done(err);
 				try {
@@ -141,7 +146,6 @@ describe("PDFExtract", () => {
 		it("should async extract pdf buffer with right data", async () => {
 			const extract = new PDFExtract();
 			const buffer = await readFileAsync(testCase.filePath);
-			const options = testCase.password ? { password: testCase.password } : {};
 			const data = await extract.extractBuffer(buffer, options);
 			expect(data.meta).toEqual(testCase.output.meta);
 			deepEqualPages(data.pages, testCase.output.pages, ["fontName"]);
@@ -163,10 +167,16 @@ describe("PDFExtract", () => {
 	});
 
 	describe.each(loadedTestCases)("#extract() for $file", (testCase) => {
+		const options = {
+			includeImages: true,
+			includeAttachments: true
+		};
+		if (testCase.password) {
+			options.password = testCase.password;
+		}
 
 		it("should load and extract pdf without error", (done) => {
 			const extract = new PDFExtract();
-			const options = testCase.password ? { password: testCase.password } : {};
 			extract.extract(testCase.filePath, options, (err) => {
 				if (err) done(err);
 				else done();
@@ -175,7 +185,6 @@ describe("PDFExtract", () => {
 
 		it("should async load and extract pdf with the right data", async () => {
 			const extract = new PDFExtract();
-			const options = testCase.password ? { password: testCase.password } : {};
 			const data = await extract.extract(testCase.filePath, options);
 			expect(data.meta).toEqual(testCase.output.meta);
 			deepEqualPages(data.pages, testCase.output.pages, ["fontName"]);
@@ -199,9 +208,16 @@ describe("PDFExtract", () => {
 
 describe("PDFExtract.tools", () => {
 	describe.each(loadedTestCases)("pageToLines for $file", (testCase) => {
+		const options = {
+			includeImages: false,
+			includeAttachments: false
+		};
+		if (testCase.password) {
+			options.password = testCase.password;
+		}
+
 		it("should return the correct example lines", (done) => {
 			const extract = new PDFExtract();
-			const options = testCase.password ? { password: testCase.password } : {};
 			extract.extract(testCase.filePath, options, (err, data) => {
 				if (err) return done(err);
 				const rows = PDFExtract.utils.extractAllPagesTextRows(data.pages, 2).flat();
@@ -220,9 +236,16 @@ describe("PDFExtract.tools", () => {
 	});
 
 	describe.each(loadedTestCases)("extractAllPagesTextRows for $file", (testCase) => {
+		const options = {
+			includeImages: false,
+			includeAttachments: false
+		};
+		if (testCase.password) {
+			options.password = testCase.password;
+		}
+
 		it("should collect rows from all pages", (done) => {
 			const extract = new PDFExtract();
-			const options = testCase.password ? { password: testCase.password } : {};
 			extract.extract(testCase.filePath, options, (err, data) => {
 				if (err) return done(err);
 				try {

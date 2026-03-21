@@ -2805,11 +2805,11 @@
       ]
     }
   ],
-  "attachments": [],
   "info": {
     "numPages": 1,
     "fingerprints": [
       "4720ad1c319946ed7559f933f2968e7a"
     ]
-  }
+  },
+  "filename": "example/py-pdf-examples/google-doc-document.pdf"
 }

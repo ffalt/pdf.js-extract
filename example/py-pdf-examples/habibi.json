@@ -1,86 +1,86 @@
 {
-	"meta": {
-		"info": {
-			"PDFFormatVersion": "1.7",
-			"IsLinearized": false,
-			"IsAcroFormPresent": false,
-			"IsXFAPresent": false,
-			"IsCollectionPresent": false,
-			"IsSignaturesPresent": false,
-			"Title": "habibi",
-			"Producer": "WeasyPrint 54.1"
-		}
-	},
-	"pages": [
-		{
-			"info": {
-				"num": 1,
-				"scale": 1,
-				"rotation": 0,
-				"offsetX": 0,
-				"offsetY": 0,
-				"width": 595.275591,
-				"height": 841.889764
-			},
-			"content": [
-				{
-					"str": "habibi يبيبَح",
-					"x": 62.25,
-					"y": 73.38867149999999,
-					"width": 30.168,
-					"height": 12,
-					"transform": [
-						12,
-						0,
-						0,
-						12,
-						62.25,
-						768.5010925
-					],
-					"font": {
-						"size": 12,
-						"name": "XGBNKK+DejaVuSerif",
-						"family": "serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "rtl",
-					"hasEOL": false
-				},
-				{
-					"str": " يبيبَح˴ ϲΒϴΒ\u0003",
-					"x": 92.41799999999999,
-					"y": 73.38867149999999,
-					"width": 23.060999999999996,
-					"height": 12,
-					"transform": [
-						12,
-						0,
-						0,
-						12,
-						92.41799999999999,
-						768.5010925
-					],
-					"font": {
-						"size": 12,
-						"name": "DWGDXP+TimesNewRoman",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.89111328125,
-						"descent": -0.21630859375
-					},
-					"dir": "rtl",
-					"hasEOL": false
-				}
-			]
-		}
-	],
-	"info": {
-		"numPages": 1,
-		"fingerprints": [
-			"af95c27de34c1b067b9f3b0d27e12e12"
-		]
-	},
-	"filename": "./py-pdf-examples/habibi.pdf"
+  "meta": {
+    "info": {
+      "PDFFormatVersion": "1.7",
+      "IsLinearized": false,
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "IsCollectionPresent": false,
+      "IsSignaturesPresent": false,
+      "Title": "habibi",
+      "Producer": "WeasyPrint 54.1"
+    }
+  },
+  "pages": [
+    {
+      "info": {
+        "num": 1,
+        "scale": 1,
+        "rotation": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 595.275591,
+        "height": 841.889764
+      },
+      "content": [
+        {
+          "str": "habibi يبيبَح",
+          "x": 62.25,
+          "y": 73.38867149999999,
+          "width": 30.168,
+          "height": 12,
+          "transform": [
+            12,
+            0,
+            0,
+            12,
+            62.25,
+            768.5010925
+          ],
+          "font": {
+            "size": 12,
+            "name": "XGBNKK+DejaVuSerif",
+            "family": "serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "rtl",
+          "hasEOL": false
+        },
+        {
+          "str": " يبيبَح˴ ϲΒϴΒ\u0003",
+          "x": 92.41799999999999,
+          "y": 73.38867149999999,
+          "width": 23.060999999999996,
+          "height": 12,
+          "transform": [
+            12,
+            0,
+            0,
+            12,
+            92.41799999999999,
+            768.5010925
+          ],
+          "font": {
+            "size": 12,
+            "name": "DWGDXP+TimesNewRoman",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.89111328125,
+            "descent": -0.21630859375
+          },
+          "dir": "rtl",
+          "hasEOL": false
+        }
+      ]
+    }
+  ],
+  "info": {
+    "numPages": 1,
+    "fingerprints": [
+      "af95c27de34c1b067b9f3b0d27e12e12"
+    ]
+  },
+  "filename": "example/py-pdf-examples/habibi.pdf"
 }

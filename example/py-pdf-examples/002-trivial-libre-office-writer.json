@@ -1,363 +1,363 @@
 {
-	"meta": {
-		"info": {
-			"PDFFormatVersion": "1.5",
-			"Language": "en-US",
-			"IsLinearized": false,
-			"IsAcroFormPresent": false,
-			"IsXFAPresent": false,
-			"IsCollectionPresent": false,
-			"IsSignaturesPresent": false,
-			"Creator": "Writer",
-			"Producer": "LibreOffice 6.4",
-			"CreationDate": "D:20220403193102+02'00'"
-		}
-	},
-	"pages": [
-		{
-			"info": {
-				"num": 1,
-				"scale": 1,
-				"rotation": 0,
-				"offsetX": 0,
-				"offsetY": 0,
-				"width": 595.303937007874,
-				"height": 841.889763779528
-			},
-			"content": [
-				{
-					"str": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
-					"x": 56.8,
-					"y": 67.900763779528,
-					"width": 450.4299999999998,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						773.989
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 56.8,
-					"y": 81.50076377952803,
-					"width": 0,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						760.389
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam",
-					"x": 56.8,
-					"y": 81.50076377952803,
-					"width": 469.9400000000002,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						760.389
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 56.8,
-					"y": 95.00076377952803,
-					"width": 0,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						746.889
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem",
-					"x": 56.8,
-					"y": 95.00076377952803,
-					"width": 477.74000000000007,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						746.889
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 56.8,
-					"y": 108.60076377952805,
-					"width": 0,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						733.289
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam",
-					"x": 56.8,
-					"y": 108.60076377952805,
-					"width": 438.34999999999997,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						733.289
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 56.8,
-					"y": 122.10076377952805,
-					"width": 0,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						719.789
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-					"x": 56.8,
-					"y": 122.10076377952805,
-					"width": 471.0900000000004,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						719.789
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 56.8,
-					"y": 135.70076377952807,
-					"width": 0,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						706.189
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
-					"x": 56.8,
-					"y": 135.70076377952807,
-					"width": 455.9200000000002,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						706.189
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 56.8,
-					"y": 149.20076377952807,
-					"width": 0,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						692.689
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "takimata sanctus est Lorem ipsum dolor sit amet.",
-					"x": 56.8,
-					"y": 149.20076377952807,
-					"width": 248.67000000000013,
-					"height": 10,
-					"transform": [
-						10,
-						0,
-						0,
-						10,
-						56.8,
-						692.689
-					],
-					"font": {
-						"size": 10,
-						"name": "BAAAAA+DejaVuSans",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.92822265625,
-						"descent": -0.23583984375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				}
-			]
-		}
-	],
-	"info": {
-		"numPages": 1,
-		"fingerprints": [
-			"6285dcd147bbd7c07d63844c37b01d23"
-		]
-	},
-	"filename": "./py-pdf-examples/002-trivial-libre-office-writer.pdf"
+  "meta": {
+    "info": {
+      "PDFFormatVersion": "1.5",
+      "Language": "en-US",
+      "IsLinearized": false,
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "IsCollectionPresent": false,
+      "IsSignaturesPresent": false,
+      "Creator": "Writer",
+      "Producer": "LibreOffice 6.4",
+      "CreationDate": "D:20220403193102+02'00'"
+    }
+  },
+  "pages": [
+    {
+      "info": {
+        "num": 1,
+        "scale": 1,
+        "rotation": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 595.303937007874,
+        "height": 841.889763779528
+      },
+      "content": [
+        {
+          "str": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor",
+          "x": 56.8,
+          "y": 67.900763779528,
+          "width": 450.4299999999998,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            773.989
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "",
+          "x": 56.8,
+          "y": 81.50076377952803,
+          "width": 0,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            760.389
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam",
+          "x": 56.8,
+          "y": 81.50076377952803,
+          "width": 469.9400000000002,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            760.389
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "",
+          "x": 56.8,
+          "y": 95.00076377952803,
+          "width": 0,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            746.889
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem",
+          "x": 56.8,
+          "y": 95.00076377952803,
+          "width": 477.74000000000007,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            746.889
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "",
+          "x": 56.8,
+          "y": 108.60076377952805,
+          "width": 0,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            733.289
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam",
+          "x": 56.8,
+          "y": 108.60076377952805,
+          "width": 438.34999999999997,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            733.289
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "",
+          "x": 56.8,
+          "y": 122.10076377952805,
+          "width": 0,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            719.789
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "x": 56.8,
+          "y": 122.10076377952805,
+          "width": 471.0900000000004,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            719.789
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "",
+          "x": 56.8,
+          "y": 135.70076377952807,
+          "width": 0,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            706.189
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea",
+          "x": 56.8,
+          "y": 135.70076377952807,
+          "width": 455.9200000000002,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            706.189
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "",
+          "x": 56.8,
+          "y": 149.20076377952807,
+          "width": 0,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            692.689
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "takimata sanctus est Lorem ipsum dolor sit amet.",
+          "x": 56.8,
+          "y": 149.20076377952807,
+          "width": 248.67000000000013,
+          "height": 10,
+          "transform": [
+            10,
+            0,
+            0,
+            10,
+            56.8,
+            692.689
+          ],
+          "font": {
+            "size": 10,
+            "name": "BAAAAA+DejaVuSans",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.92822265625,
+            "descent": -0.23583984375
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        }
+      ]
+    }
+  ],
+  "info": {
+    "numPages": 1,
+    "fingerprints": [
+      "6285dcd147bbd7c07d63844c37b01d23"
+    ]
+  },
+  "filename": "example/py-pdf-examples/002-trivial-libre-office-writer.pdf"
 }

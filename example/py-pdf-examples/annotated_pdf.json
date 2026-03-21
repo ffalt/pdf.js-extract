@@ -1,339 +1,347 @@
 {
-	"meta": {
-		"info": {
-			"PDFFormatVersion": "1.6",
-			"IsLinearized": false,
-			"IsAcroFormPresent": false,
-			"IsXFAPresent": false,
-			"IsCollectionPresent": false,
-			"IsSignaturesPresent": false,
-			"CreationDate": "D:19900428000000+02'00'",
-			"Creator": "created by Martin Thoma",
-			"Producer": "produced by FPDF2",
-			"Title": "Annotated PDF"
-		}
-	},
-	"pages": [
-		{
-			"info": {
-				"num": 1,
-				"scale": 1,
-				"rotation": 0,
-				"offsetX": 0,
-				"offsetY": 0,
-				"width": 595.28,
-				"height": 841.89
-			},
-			"annotations": [
-				{
-					"annotationFlags": 4,
-					"borderStyle": {
-						"width": 0,
-						"style": 1,
-						"dashArray": [
-							3
-						],
-						"horizontalCornerRadius": 0,
-						"verticalCornerRadius": 0
-					},
-					"rotation": 0,
-					"contentsObj": {
-						"str": "This is a text annotation.",
-						"dir": "ltr"
-					},
-					"hasAppearance": false,
-					"id": "annot_p0_1",
-					"rect": [
-						170.08,
-						763.2,
-						192.08,
-						785.2
-					],
-					"subtype": "Text",
-					"hasOwnCanvas": true,
-					"noRotate": true,
-					"noHTML": false,
-					"titleObj": {
-						"str": "",
-						"dir": "ltr"
-					},
-					"annotationType": 1,
-					"name": "Note",
-					"x": 192.08,
-					"y": 785.2
-				},
-				{
-					"annotationFlags": 4,
-					"borderStyle": {
-						"width": 0,
-						"style": 1,
-						"dashArray": [
-							3
-						],
-						"horizontalCornerRadius": 0,
-						"verticalCornerRadius": 0
-					},
-					"color": [255, 255, 0],
-					"rotation": 0,
-					"contentsObj": {
-						"str": "Highlight comment",
-						"dir": "ltr"
-					},
-					"hasAppearance": false,
-					"id": "annot_p0_2",
-					"modificationDate": "D:19900428000000",
-					"rect": [
-						28.35,
-						676.16,
-						207.11,
-						719.36
-					],
-					"subtype": "Highlight",
-					"hasOwnCanvas": false,
-					"noRotate": false,
-					"noHTML": false,
-					"titleObj": {
-						"str": "",
-						"dir": "ltr"
-					},
-					"annotationType": 9,
-					"quadPoints": [
-						[
-							{
-								"x": 141.73,
-								"y": 719.36
-							},
-							{
-								"x": 207.11,
-								"y": 719.36
-							},
-							{
-								"x": 141.73,
-								"y": 695.36
-							},
-							{
-								"x": 207.11,
-								"y": 695.36
-							}
-						],
-						[
-							{
-								"x": 28.35,
-								"y": 700.16
-							},
-							{
-								"x": 113.39,
-								"y": 700.16
-							},
-							{
-								"x": 28.35,
-								"y": 676.16
-							},
-							{
-								"x": 113.39,
-								"y": 676.16
-							}
-						]
-					],
-					"x": 207.11,
-					"y": 719.36
-				},
-				{
-					"annotationFlags": 4,
-					"borderStyle": {
-						"width": 1,
-						"style": 1,
-						"dashArray": [
-							3
-						],
-						"horizontalCornerRadius": 0,
-						"verticalCornerRadius": 0
-					},
-					"color": [255, 255, 0],
-					"rotation": 0,
-					"contentsObj": {
-						"str": "Hello world!",
-						"dir": "ltr"
-					},
-					"hasAppearance": false,
-					"id": "annot_p0_3",
-					"rect": [
-						26.35,
-						471.39,
-						87.04,
-						532.08
-					],
-					"subtype": "Ink",
-					"hasOwnCanvas": false,
-					"noRotate": false,
-					"noHTML": false,
-					"titleObj": {
-						"str": "Lucas",
-						"dir": "ltr"
-					},
-					"annotationType": 15,
-					"inkLists": [
-						[
-							{
-								"x": 28.35,
-								"y": 501.73
-							},
-							{
-								"x": 56.69,
-								"y": 530.08
-							},
-							{
-								"x": 85.04,
-								"y": 501.73
-							},
-							{
-								"x": 56.69,
-								"y": 473.39
-							},
-							{
-								"x": 28.35,
-								"y": 501.73
-							}
-						]
-					],
-					"x": 87.04,
-					"y": 532.08
-				}
-			],
-			"content": [
-				{
-					"str": "Some text.",
-					"x": 28.35,
-					"y": 56.68999999999994,
-					"width": 114.71999999999997,
-					"height": 24,
-					"transform": [
-						24,
-						0,
-						0,
-						24,
-						28.35,
-						785.2
-					],
-					"font": {
-						"size": 24,
-						"name": "Helvetica",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.718,
-						"descent": -0.207
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "Line 1",
-					"x": 141.73,
-					"y": 141.73000000000002,
-					"width": 65.37599999999999,
-					"height": 24,
-					"transform": [
-						24,
-						0,
-						0,
-						24,
-						141.73,
-						700.16
-					],
-					"font": {
-						"size": 24,
-						"name": "Helvetica",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.718,
-						"descent": -0.207
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "Line 2",
-					"x": 31.18,
-					"y": 160.92999999999995,
-					"width": 65.37599999999999,
-					"height": 24,
-					"transform": [
-						24,
-						0,
-						0,
-						24,
-						31.18,
-						680.96
-					],
-					"font": {
-						"size": 24,
-						"name": "Helvetica",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.718,
-						"descent": -0.207
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": " ",
-					"x": 96.556,
-					"y": 160.92999999999995,
-					"width": 19.664,
-					"height": 24,
-					"transform": [
-						24,
-						0,
-						0,
-						24,
-						96.556,
-						680.96
-					],
-					"font": {
-						"size": 24,
-						"name": "Helvetica",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.718,
-						"descent": -0.207
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "Not highlighted",
-					"x": 116.22,
-					"y": 184.92999999999995,
-					"width": 160.07999999999998,
-					"height": 24,
-					"transform": [
-						24,
-						0,
-						0,
-						24,
-						116.22,
-						656.96
-					],
-					"font": {
-						"size": 24,
-						"name": "Helvetica",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.718,
-						"descent": -0.207
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				}
-			]
-		}
-	],
-	"info": {
-		"numPages": 1,
-		"fingerprints": [
-			"606048e42a87110676a423b622dc5662"
-		]
-	},
-	"filename": "./py-pdf-examples/annotated_pdf.pdf"
+  "meta": {
+    "info": {
+      "PDFFormatVersion": "1.6",
+      "IsLinearized": false,
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "IsCollectionPresent": false,
+      "IsSignaturesPresent": false,
+      "CreationDate": "D:19900428000000+02'00'",
+      "Creator": "created by Martin Thoma",
+      "Producer": "produced by FPDF2",
+      "Title": "Annotated PDF"
+    }
+  },
+  "pages": [
+    {
+      "info": {
+        "num": 1,
+        "scale": 1,
+        "rotation": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 595.28,
+        "height": 841.89
+      },
+      "annotations": [
+        {
+          "annotationFlags": 4,
+          "borderStyle": {
+            "width": 0,
+            "style": 1,
+            "dashArray": [
+              3
+            ],
+            "horizontalCornerRadius": 0,
+            "verticalCornerRadius": 0
+          },
+          "rotation": 0,
+          "contentsObj": {
+            "str": "This is a text annotation.",
+            "dir": "ltr"
+          },
+          "hasAppearance": false,
+          "id": "annot_p0_1",
+          "rect": [
+            170.08,
+            763.2,
+            192.08,
+            785.2
+          ],
+          "subtype": "Text",
+          "hasOwnCanvas": true,
+          "noRotate": true,
+          "noHTML": false,
+          "titleObj": {
+            "str": "",
+            "dir": "ltr"
+          },
+          "annotationType": 1,
+          "name": "Note",
+          "x": 192.08,
+          "y": 785.2
+        },
+        {
+          "annotationFlags": 4,
+          "borderStyle": {
+            "width": 0,
+            "style": 1,
+            "dashArray": [
+              3
+            ],
+            "horizontalCornerRadius": 0,
+            "verticalCornerRadius": 0
+          },
+          "color": [
+            255,
+            255,
+            0
+          ],
+          "rotation": 0,
+          "contentsObj": {
+            "str": "Highlight comment",
+            "dir": "ltr"
+          },
+          "hasAppearance": false,
+          "id": "annot_p0_2",
+          "modificationDate": "D:19900428000000",
+          "rect": [
+            28.35,
+            676.16,
+            207.11,
+            719.36
+          ],
+          "subtype": "Highlight",
+          "hasOwnCanvas": false,
+          "noRotate": false,
+          "noHTML": false,
+          "titleObj": {
+            "str": "",
+            "dir": "ltr"
+          },
+          "annotationType": 9,
+          "quadPoints": [
+            [
+              {
+                "x": 141.73,
+                "y": 719.36
+              },
+              {
+                "x": 207.11,
+                "y": 719.36
+              },
+              {
+                "x": 141.73,
+                "y": 695.36
+              },
+              {
+                "x": 207.11,
+                "y": 695.36
+              }
+            ],
+            [
+              {
+                "x": 28.35,
+                "y": 700.16
+              },
+              {
+                "x": 113.39,
+                "y": 700.16
+              },
+              {
+                "x": 28.35,
+                "y": 676.16
+              },
+              {
+                "x": 113.39,
+                "y": 676.16
+              }
+            ]
+          ],
+          "x": 207.11,
+          "y": 719.36
+        },
+        {
+          "annotationFlags": 4,
+          "borderStyle": {
+            "width": 1,
+            "style": 1,
+            "dashArray": [
+              3
+            ],
+            "horizontalCornerRadius": 0,
+            "verticalCornerRadius": 0
+          },
+          "color": [
+            255,
+            255,
+            0
+          ],
+          "rotation": 0,
+          "contentsObj": {
+            "str": "Hello world!",
+            "dir": "ltr"
+          },
+          "hasAppearance": false,
+          "id": "annot_p0_3",
+          "rect": [
+            26.35,
+            471.39,
+            87.04,
+            532.08
+          ],
+          "subtype": "Ink",
+          "hasOwnCanvas": false,
+          "noRotate": false,
+          "noHTML": false,
+          "titleObj": {
+            "str": "Lucas",
+            "dir": "ltr"
+          },
+          "annotationType": 15,
+          "inkLists": [
+            [
+              {
+                "x": 28.35,
+                "y": 501.73
+              },
+              {
+                "x": 56.69,
+                "y": 530.08
+              },
+              {
+                "x": 85.04,
+                "y": 501.73
+              },
+              {
+                "x": 56.69,
+                "y": 473.39
+              },
+              {
+                "x": 28.35,
+                "y": 501.73
+              }
+            ]
+          ],
+          "x": 87.04,
+          "y": 532.08
+        }
+      ],
+      "content": [
+        {
+          "str": "Some text.",
+          "x": 28.35,
+          "y": 56.68999999999994,
+          "width": 114.71999999999997,
+          "height": 24,
+          "transform": [
+            24,
+            0,
+            0,
+            24,
+            28.35,
+            785.2
+          ],
+          "font": {
+            "size": 24,
+            "name": "Helvetica",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.718,
+            "descent": -0.207
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "Line 1",
+          "x": 141.73,
+          "y": 141.73000000000002,
+          "width": 65.37599999999999,
+          "height": 24,
+          "transform": [
+            24,
+            0,
+            0,
+            24,
+            141.73,
+            700.16
+          ],
+          "font": {
+            "size": 24,
+            "name": "Helvetica",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.718,
+            "descent": -0.207
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "Line 2",
+          "x": 31.18,
+          "y": 160.92999999999995,
+          "width": 65.37599999999999,
+          "height": 24,
+          "transform": [
+            24,
+            0,
+            0,
+            24,
+            31.18,
+            680.96
+          ],
+          "font": {
+            "size": 24,
+            "name": "Helvetica",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.718,
+            "descent": -0.207
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": " ",
+          "x": 96.556,
+          "y": 160.92999999999995,
+          "width": 19.664,
+          "height": 24,
+          "transform": [
+            24,
+            0,
+            0,
+            24,
+            96.556,
+            680.96
+          ],
+          "font": {
+            "size": 24,
+            "name": "Helvetica",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.718,
+            "descent": -0.207
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "Not highlighted",
+          "x": 116.22,
+          "y": 184.92999999999995,
+          "width": 160.07999999999998,
+          "height": 24,
+          "transform": [
+            24,
+            0,
+            0,
+            24,
+            116.22,
+            656.96
+          ],
+          "font": {
+            "size": 24,
+            "name": "Helvetica",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.718,
+            "descent": -0.207
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        }
+      ]
+    }
+  ],
+  "info": {
+    "numPages": 1,
+    "fingerprints": [
+      "606048e42a87110676a423b622dc5662"
+    ]
+  },
+  "filename": "example/py-pdf-examples/annotated_pdf.pdf"
 }

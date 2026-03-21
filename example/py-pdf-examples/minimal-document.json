@@ -1,369 +1,369 @@
 {
-	"meta": {
-		"info": {
-			"PDFFormatVersion": "1.5",
-			"IsLinearized": false,
-			"IsAcroFormPresent": false,
-			"IsXFAPresent": false,
-			"IsCollectionPresent": false,
-			"IsSignaturesPresent": false,
-			"Producer": "pdfTeX-1.40.23",
-			"Creator": "TeX",
-			"CreationDate": "D:20220403180542+02'00'",
-			"ModDate": "D:20220403180542+02'00'",
-			"Trapped": {
-				"name": "False"
-			},
-			"Custom": {
-				"PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) kpathsea version 6.3.3"
-			}
-		}
-	},
-	"pages": [
-		{
-			"info": {
-				"num": 1,
-				"scale": 1,
-				"rotation": 0,
-				"offsetX": 0,
-				"offsetY": 0,
-				"width": 595.276,
-				"height": 841.89
-			},
-			"content": [
-				{
-					"str": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod",
-					"x": 100.2,
-					"y": 95.14800000000002,
-					"width": 405.78361087999986,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						100.2,
-						746.742
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero",
-					"x": 89.291,
-					"y": 108.697,
-					"width": 416.69707451999966,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						89.291,
-						733.193
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea taki-",
-					"x": 89.291,
-					"y": 122.24599999999998,
-					"width": 416.6916199699995,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						89.291,
-						719.644
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "mata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur",
-					"x": 89.291,
-					"y": 135.79599999999994,
-					"width": 416.6938017899997,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						89.291,
-						706.094
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
-					"x": 89.291,
-					"y": 149.3449999999999,
-					"width": 416.69598360999953,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						89.291,
-						692.5450000000001
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "aliquyam erat, sed diam voluptua.",
-					"x": 89.291,
-					"y": 162.8939999999999,
-					"width": 166.69213890999995,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						89.291,
-						678.9960000000001
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": " ",
-					"x": 255.98313890999992,
-					"y": 162.8939999999999,
-					"width": 7.156369600000005,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						255.98313890999992,
-						678.9960000000001
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "At vero eos et accusam et justo duo dolores et ea",
-					"x": 263.1395085099999,
-					"y": 162.8939999999999,
-					"width": 242.84311146000002,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						263.1395085099999,
-						678.9960000000001
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "rebum.",
-					"x": 89.291,
-					"y": 176.44299999999987,
-					"width": 33.364391440000006,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						89.291,
-						665.4470000000001
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": " ",
-					"x": 122.65539144,
-					"y": 176.44299999999987,
-					"width": 6.970914900000011,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						122.65539144,
-						665.4470000000001
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit",
-					"x": 129.62630634,
-					"y": 176.44299999999987,
-					"width": 376.36067726999977,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						129.62630634,
-						665.4470000000001
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "amet.",
-					"x": 89.291,
-					"y": 189.99199999999985,
-					"width": 26.666204040000004,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						89.291,
-						651.8980000000001
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "1",
-					"x": 294.911,
-					"y": 725.1859999999998,
-					"width": 5.454550000000001,
-					"height": 10.9091,
-					"transform": [
-						10.9091,
-						0,
-						0,
-						10.9091,
-						294.911,
-						116.70400000000018
-					],
-					"font": {
-						"size": 10.9091,
-						"name": "KNEUFH+CMR10",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.694,
-						"descent": -0.194
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				}
-			]
-		}
-	],
-	"info": {
-		"numPages": 1,
-		"fingerprints": [
-			"7196c3e355c17c9f53ba9a0dca70cdd0"
-		]
-	},
-	"filename": "./py-pdf-examples/minimal-document.pdf"
+  "meta": {
+    "info": {
+      "PDFFormatVersion": "1.5",
+      "IsLinearized": false,
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "IsCollectionPresent": false,
+      "IsSignaturesPresent": false,
+      "Producer": "pdfTeX-1.40.23",
+      "Creator": "TeX",
+      "CreationDate": "D:20220403180542+02'00'",
+      "ModDate": "D:20220403180542+02'00'",
+      "Trapped": {
+        "name": "False"
+      },
+      "Custom": {
+        "PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) kpathsea version 6.3.3"
+      }
+    }
+  },
+  "pages": [
+    {
+      "info": {
+        "num": 1,
+        "scale": 1,
+        "rotation": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 595.276,
+        "height": 841.89
+      },
+      "content": [
+        {
+          "str": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod",
+          "x": 100.2,
+          "y": 95.14800000000002,
+          "width": 405.78361087999986,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            100.2,
+            746.742
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero",
+          "x": 89.291,
+          "y": 108.697,
+          "width": 416.69707451999966,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            89.291,
+            733.193
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea taki-",
+          "x": 89.291,
+          "y": 122.24599999999998,
+          "width": 416.6916199699995,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            89.291,
+            719.644
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "mata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur",
+          "x": 89.291,
+          "y": 135.79599999999994,
+          "width": 416.6938017899997,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            89.291,
+            706.094
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+          "x": 89.291,
+          "y": 149.3449999999999,
+          "width": 416.69598360999953,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            89.291,
+            692.5450000000001
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "aliquyam erat, sed diam voluptua.",
+          "x": 89.291,
+          "y": 162.8939999999999,
+          "width": 166.69213890999995,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            89.291,
+            678.9960000000001
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": " ",
+          "x": 255.98313890999992,
+          "y": 162.8939999999999,
+          "width": 7.156369600000005,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            255.98313890999992,
+            678.9960000000001
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "At vero eos et accusam et justo duo dolores et ea",
+          "x": 263.1395085099999,
+          "y": 162.8939999999999,
+          "width": 242.84311146000002,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            263.1395085099999,
+            678.9960000000001
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "rebum.",
+          "x": 89.291,
+          "y": 176.44299999999987,
+          "width": 33.364391440000006,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            89.291,
+            665.4470000000001
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": " ",
+          "x": 122.65539144,
+          "y": 176.44299999999987,
+          "width": 6.970914900000011,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            122.65539144,
+            665.4470000000001
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit",
+          "x": 129.62630634,
+          "y": 176.44299999999987,
+          "width": 376.36067726999977,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            129.62630634,
+            665.4470000000001
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "amet.",
+          "x": 89.291,
+          "y": 189.99199999999985,
+          "width": 26.666204040000004,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            89.291,
+            651.8980000000001
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "1",
+          "x": 294.911,
+          "y": 725.1859999999998,
+          "width": 5.454550000000001,
+          "height": 10.9091,
+          "transform": [
+            10.9091,
+            0,
+            0,
+            10.9091,
+            294.911,
+            116.70400000000018
+          ],
+          "font": {
+            "size": 10.9091,
+            "name": "KNEUFH+CMR10",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.694,
+            "descent": -0.194
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        }
+      ]
+    }
+  ],
+  "info": {
+    "numPages": 1,
+    "fingerprints": [
+      "7196c3e355c17c9f53ba9a0dca70cdd0"
+    ]
+  },
+  "filename": "example/py-pdf-examples/minimal-document.pdf"
 }

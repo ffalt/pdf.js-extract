@@ -33,6 +33,8 @@ declare module "pdf.js-extract" {
     verbosity?: number; // log level of pdf.js, default value is `-1`
     normalizeWhitespace?: boolean; //replaces all occurrences of whitespace with standard spaces (0x20). The default value is `false`.
     disableCombineTextItems?: boolean; // do not attempt to combine  same line {@link TextItem}'s. The default value is `false`.
+    includeAttachments?: boolean; // include attachments as base64. The default value is `false`.
+    includeImages?: boolean; // include images as base64. The default value is `false`.
   }
 
   export interface PDFExtractResult {
@@ -97,6 +99,18 @@ declare module "pdf.js-extract" {
     info: PDFExtractPageInfo;
     content: Array<PDFExtractText>;
     annotations?: Array<PDFExtractAnnotation>;
+    images?: Array<PDFExtractImage>;
+  }
+
+  export interface PDFExtractImage {
+    index: number;
+    width: number;
+    height: number;
+    kind: number;
+    base64data?: string;
+    colorSpace?: string;
+    bitsPerComponent?: number;
+    filter?: string;
   }
 
   export interface PDFExtractText {

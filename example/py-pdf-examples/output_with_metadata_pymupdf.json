@@ -1,70 +1,70 @@
 {
-	"meta": {
-		"info": {
-			"PDFFormatVersion": "1.3",
-			"IsLinearized": false,
-			"IsAcroFormPresent": false,
-			"IsXFAPresent": false,
-			"IsCollectionPresent": false,
-			"IsSignaturesPresent": false,
-			"CreationDate": "D:20230410074654Z07'46'"
-		},
-		"metadata": {
-			"pdfx:style": "FooBarStyle",
-			"dc:creator": [
-				"John Doe"
-			],
-			"dc:description": "This is a text",
-			"dc:date": "1990-04-28",
-			"dc:title": "Sample PDF with XMP Metadata"
-		}
-	},
-	"pages": [
-		{
-			"info": {
-				"num": 1,
-				"scale": 1,
-				"rotation": 0,
-				"offsetX": 0,
-				"offsetY": 0,
-				"width": 595.28,
-				"height": 841.89
-			},
-			"content": [
-				{
-					"str": "Hello, World!",
-					"x": 277.47,
-					"y": 46.120000000000005,
-					"width": 68.67600000000002,
-					"height": 12,
-					"transform": [
-						12,
-						0,
-						0,
-						12,
-						277.47,
-						795.77
-					],
-					"font": {
-						"size": 12,
-						"name": "Helvetica",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.718,
-						"descent": -0.207
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				}
-			]
-		}
-	],
-	"info": {
-		"numPages": 1,
-		"fingerprints": [
-			"df9f9c87a10e1d92f0ba408982849944",
-			"198f2d782bb1bc05c563cb02c6fb9d9d"
-		]
-	},
-	"filename": "./py-pdf-examples/output_with_metadata_pymupdf.pdf"
+  "meta": {
+    "info": {
+      "PDFFormatVersion": "1.3",
+      "IsLinearized": false,
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "IsCollectionPresent": false,
+      "IsSignaturesPresent": false,
+      "CreationDate": "D:20230410074654Z07'46'"
+    },
+    "metadata": {
+      "pdfx:style": "FooBarStyle",
+      "dc:creator": [
+        "John Doe"
+      ],
+      "dc:description": "This is a text",
+      "dc:date": "1990-04-28",
+      "dc:title": "Sample PDF with XMP Metadata"
+    }
+  },
+  "pages": [
+    {
+      "info": {
+        "num": 1,
+        "scale": 1,
+        "rotation": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 595.28,
+        "height": 841.89
+      },
+      "content": [
+        {
+          "str": "Hello, World!",
+          "x": 277.47,
+          "y": 46.120000000000005,
+          "width": 68.67600000000002,
+          "height": 12,
+          "transform": [
+            12,
+            0,
+            0,
+            12,
+            277.47,
+            795.77
+          ],
+          "font": {
+            "size": 12,
+            "name": "Helvetica",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.718,
+            "descent": -0.207
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        }
+      ]
+    }
+  ],
+  "info": {
+    "numPages": 1,
+    "fingerprints": [
+      "df9f9c87a10e1d92f0ba408982849944",
+      "198f2d782bb1bc05c563cb02c6fb9d9d"
+    ]
+  },
+  "filename": "example/py-pdf-examples/output_with_metadata_pymupdf.pdf"
 }

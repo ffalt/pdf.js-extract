@@ -24,7 +24,16 @@
         "width": 3.84,
         "height": 3.84
       },
-      "content": []
+      "content": [],
+      "images": [
+        {
+          "index": 0,
+          "width": 16,
+          "height": 16,
+          "kind": 1,
+          "base64data": "AAAAAAAAEAgAAAEAAQABAAEAAAAQEBAwD+AAAAAAAAA="
+        }
+      ]
     }
   ],
   "info": {
@@ -32,5 +41,6 @@
     "fingerprints": [
       "2f64d64e0cfa0d81aa16a030be73e382077d66c7ab5a27fd8bf9b7f04eb48f74"
     ]
-  }
+  },
+  "filename": "example/py-pdf-examples/imagemagick-CCITTFaxDecode.pdf"
 }

@@ -1,554 +1,554 @@
 {
-	"meta": {
-		"info": {
-			"PDFFormatVersion": "1.4",
-			"IsLinearized": false,
-			"IsAcroFormPresent": false,
-			"IsXFAPresent": false,
-			"IsCollectionPresent": false,
-			"IsSignaturesPresent": false,
-			"Producer": "GPL Ghostscript 10.00.0",
-			"CreationDate": "D:20230423175904+08'00'",
-			"ModDate": "D:20230423175904+08'00'",
-			"Creator": "",
-			"Title": "",
-			"Author": "",
-			"Subject": "",
-			"Keywords": ""
-		},
-		"metadata": {
-			"pdf:producer": "GPL Ghostscript 10.00.0",
-			"pdf:keywords": "",
-			"xmp:modifydate": "2023-04-23T17:59:04+08:00",
-			"xmp:createdate": "2023-04-23T17:59:04+08:00",
-			"xmp:creatortool": "",
-			"dc:title": "",
-			"dc:creator": [
-				""
-			],
-			"dc:description": ""
-		}
-	},
-	"pages": [
-		{
-			"info": {
-				"num": 1,
-				"scale": 1,
-				"rotation": 0,
-				"offsetX": 0,
-				"offsetY": 0,
-				"width": 612,
-				"height": 792
-			},
-			"content": [
-				{
-					"str": "The Crazy Ones",
-					"x": 72,
-					"y": 81.96000000000004,
-					"width": 97.338525310665,
-					"height": 14.346,
-					"transform": [
-						14.346,
-						0,
-						0,
-						14.346,
-						72,
-						710.04
-					],
-					"font": {
-						"size": 14.346,
-						"name": "ZVXQMA+SFTI1440",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.705,
-						"descent": -0.203
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 72,
-					"y": 101.88970000000006,
-					"width": 0,
-					"height": 11.955,
-					"transform": [
-						11.955,
-						0,
-						0,
-						11.955,
-						72,
-						690.1102999999999
-					],
-					"font": {
-						"size": 11.955,
-						"name": "PRVLLB+SFTI1200",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.706,
-						"descent": -0.193
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "October 14, 1998",
-					"x": 72,
-					"y": 101.88970000000006,
-					"width": 87.11649969623548,
-					"height": 11.955,
-					"transform": [
-						11.955,
-						0,
-						0,
-						11.955,
-						72,
-						690.1102999999999
-					],
-					"font": {
-						"size": 11.955,
-						"name": "PRVLLB+SFTI1200",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.706,
-						"descent": -0.193
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 83.9602,
-					"y": 123.81000000000006,
-					"width": 0,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						83.9602,
-						668.1899999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "Heres to the crazy ones. The misfits. The rebels. The troublemakers.",
-					"x": 83.9602,
-					"y": 123.81000000000006,
-					"width": 280.14041006236346,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						83.9602,
-						668.1899999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "The round pegs in the square holes.",
-					"x": 95.91019999999997,
-					"y": 135.7600000000001,
-					"width": 144.5449223820215,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999997,
-						656.2399999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "The ones who see things differently. Theyre not fond of rules. And",
-					"x": 83.96019999999997,
-					"y": 151.69950000000006,
-					"width": 270.0125636038939,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						83.96019999999997,
-						640.3004999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "they have no respect for the status quo. You can quote them,",
-					"x": 95.91019999999997,
-					"y": 163.66000000000008,
-					"width": 249.01783501903427,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999997,
-						628.3399999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "disagree with them, glorify or vilify them.",
-					"x": 95.91019999999997,
-					"y": 175.61000000000013,
-					"width": 168.72949035421703,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999997,
-						616.3899999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "About the only thing you cant do is ignore them. Because they change",
-					"x": 83.96019999999997,
-					"y": 191.54980000000012,
-					"width": 286.936688848306,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						83.96019999999997,
-						600.4501999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "things. They invent. They imagine. They heal. They explore. They",
-					"x": 95.91019999999997,
-					"y": 203.5100000000001,
-					"width": 274.9062943414312,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999997,
-						588.4899999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "create. They inspire. They push the human race forward.",
-					"x": 95.91019999999995,
-					"y": 215.46000000000015,
-					"width": 232.87405702410632,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999995,
-						576.5399999999998
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "Maybe they have to be crazy.",
-					"x": 83.96019999999994,
-					"y": 231.39980000000014,
-					"width": 119.05994817855003,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						83.96019999999994,
-						560.6001999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "How else can you stare at an empty canvas and see a work of art? Or",
-					"x": 83.96019999999994,
-					"y": 247.33960000000013,
-					"width": 281.3083319999999,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						83.96019999999994,
-						544.6603999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "sit in silence and hear a song thats never been written? Or gaze at",
-					"x": 95.91019999999992,
-					"y": 259.2998000000001,
-					"width": 270.06750545546794,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999992,
-						532.7001999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "a red planet and see a laboratory on wheels?",
-					"x": 95.91019999999992,
-					"y": 271.24980000000016,
-					"width": 180.6279624461274,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999992,
-						520.7501999999998
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "We make tools for these kinds of people.",
-					"x": 83.96019999999992,
-					"y": 287.18960000000015,
-					"width": 163.1890032864302,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						83.96019999999992,
-						504.81039999999985
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "While some see them as the crazy ones, we see genius. Because the",
-					"x": 83.96019999999992,
-					"y": 303.12940000000015,
-					"width": 271.2954151894759,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						83.96019999999992,
-						488.87059999999985
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "people who are crazy enough to think they can change the world,",
-					"x": 95.91019999999992,
-					"y": 315.0892000000001,
-					"width": 264.23730999999975,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999992,
-						476.9107999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": true
-				},
-				{
-					"str": "are the ones who do.",
-					"x": 95.91019999999992,
-					"y": 327.0392000000001,
-					"width": 83.53139835117561,
-					"height": 8.966,
-					"transform": [
-						8.966,
-						0,
-						0,
-						8.966,
-						95.91019999999992,
-						464.9607999999999
-					],
-					"font": {
-						"size": 8.966,
-						"name": "VTKHKO+SFRM0900",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.717,
-						"descent": -0.205
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				}
-			]
-		}
-	],
-	"info": {
-		"numPages": 1,
-		"fingerprints": [
-			"a5b5717f62471c2f98fab3acc2b46721"
-		]
-	},
-	"filename": "./py-pdf-examples/crazyones-pdfa.pdf"
+  "meta": {
+    "info": {
+      "PDFFormatVersion": "1.4",
+      "IsLinearized": false,
+      "IsAcroFormPresent": false,
+      "IsXFAPresent": false,
+      "IsCollectionPresent": false,
+      "IsSignaturesPresent": false,
+      "Producer": "GPL Ghostscript 10.00.0",
+      "CreationDate": "D:20230423175904+08'00'",
+      "ModDate": "D:20230423175904+08'00'",
+      "Creator": "",
+      "Title": "",
+      "Author": "",
+      "Subject": "",
+      "Keywords": ""
+    },
+    "metadata": {
+      "pdf:producer": "GPL Ghostscript 10.00.0",
+      "pdf:keywords": "",
+      "xmp:modifydate": "2023-04-23T17:59:04+08:00",
+      "xmp:createdate": "2023-04-23T17:59:04+08:00",
+      "xmp:creatortool": "",
+      "dc:title": "",
+      "dc:creator": [
+        ""
+      ],
+      "dc:description": ""
+    }
+  },
+  "pages": [
+    {
+      "info": {
+        "num": 1,
+        "scale": 1,
+        "rotation": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "width": 612,
+        "height": 792
+      },
+      "content": [
+        {
+          "str": "The Crazy Ones",
+          "x": 72,
+          "y": 81.96000000000004,
+          "width": 97.338525310665,
+          "height": 14.346,
+          "transform": [
+            14.346,
+            0,
+            0,
+            14.346,
+            72,
+            710.04
+          ],
+          "font": {
+            "size": 14.346,
+            "name": "ZVXQMA+SFTI1440",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.705,
+            "descent": -0.203
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "",
+          "x": 72,
+          "y": 101.88970000000006,
+          "width": 0,
+          "height": 11.955,
+          "transform": [
+            11.955,
+            0,
+            0,
+            11.955,
+            72,
+            690.1102999999999
+          ],
+          "font": {
+            "size": 11.955,
+            "name": "PRVLLB+SFTI1200",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.706,
+            "descent": -0.193
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "October 14, 1998",
+          "x": 72,
+          "y": 101.88970000000006,
+          "width": 87.11649969623548,
+          "height": 11.955,
+          "transform": [
+            11.955,
+            0,
+            0,
+            11.955,
+            72,
+            690.1102999999999
+          ],
+          "font": {
+            "size": 11.955,
+            "name": "PRVLLB+SFTI1200",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.706,
+            "descent": -0.193
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        },
+        {
+          "str": "",
+          "x": 83.9602,
+          "y": 123.81000000000006,
+          "width": 0,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            83.9602,
+            668.1899999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "Heres to the crazy ones. The misfits. The rebels. The troublemakers.",
+          "x": 83.9602,
+          "y": 123.81000000000006,
+          "width": 280.14041006236346,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            83.9602,
+            668.1899999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "The round pegs in the square holes.",
+          "x": 95.91019999999997,
+          "y": 135.7600000000001,
+          "width": 144.5449223820215,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999997,
+            656.2399999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "The ones who see things differently. Theyre not fond of rules. And",
+          "x": 83.96019999999997,
+          "y": 151.69950000000006,
+          "width": 270.0125636038939,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            83.96019999999997,
+            640.3004999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "they have no respect for the status quo. You can quote them,",
+          "x": 95.91019999999997,
+          "y": 163.66000000000008,
+          "width": 249.01783501903427,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999997,
+            628.3399999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "disagree with them, glorify or vilify them.",
+          "x": 95.91019999999997,
+          "y": 175.61000000000013,
+          "width": 168.72949035421703,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999997,
+            616.3899999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "About the only thing you cant do is ignore them. Because they change",
+          "x": 83.96019999999997,
+          "y": 191.54980000000012,
+          "width": 286.936688848306,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            83.96019999999997,
+            600.4501999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "things. They invent. They imagine. They heal. They explore. They",
+          "x": 95.91019999999997,
+          "y": 203.5100000000001,
+          "width": 274.9062943414312,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999997,
+            588.4899999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "create. They inspire. They push the human race forward.",
+          "x": 95.91019999999995,
+          "y": 215.46000000000015,
+          "width": 232.87405702410632,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999995,
+            576.5399999999998
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "Maybe they have to be crazy.",
+          "x": 83.96019999999994,
+          "y": 231.39980000000014,
+          "width": 119.05994817855003,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            83.96019999999994,
+            560.6001999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "How else can you stare at an empty canvas and see a work of art? Or",
+          "x": 83.96019999999994,
+          "y": 247.33960000000013,
+          "width": 281.3083319999999,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            83.96019999999994,
+            544.6603999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "sit in silence and hear a song thats never been written? Or gaze at",
+          "x": 95.91019999999992,
+          "y": 259.2998000000001,
+          "width": 270.06750545546794,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999992,
+            532.7001999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "a red planet and see a laboratory on wheels?",
+          "x": 95.91019999999992,
+          "y": 271.24980000000016,
+          "width": 180.6279624461274,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999992,
+            520.7501999999998
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "We make tools for these kinds of people.",
+          "x": 83.96019999999992,
+          "y": 287.18960000000015,
+          "width": 163.1890032864302,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            83.96019999999992,
+            504.81039999999985
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "While some see them as the crazy ones, we see genius. Because the",
+          "x": 83.96019999999992,
+          "y": 303.12940000000015,
+          "width": 271.2954151894759,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            83.96019999999992,
+            488.87059999999985
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "people who are crazy enough to think they can change the world,",
+          "x": 95.91019999999992,
+          "y": 315.0892000000001,
+          "width": 264.23730999999975,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999992,
+            476.9107999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": true
+        },
+        {
+          "str": "are the ones who do.",
+          "x": 95.91019999999992,
+          "y": 327.0392000000001,
+          "width": 83.53139835117561,
+          "height": 8.966,
+          "transform": [
+            8.966,
+            0,
+            0,
+            8.966,
+            95.91019999999992,
+            464.9607999999999
+          ],
+          "font": {
+            "size": 8.966,
+            "name": "VTKHKO+SFRM0900",
+            "family": "sans-serif",
+            "vertical": false,
+            "ascent": 0.717,
+            "descent": -0.205
+          },
+          "dir": "ltr",
+          "hasEOL": false
+        }
+      ]
+    }
+  ],
+  "info": {
+    "numPages": 1,
+    "fingerprints": [
+      "a5b5717f62471c2f98fab3acc2b46721"
+    ]
+  },
+  "filename": "example/py-pdf-examples/crazyones-pdfa.pdf"
 }
