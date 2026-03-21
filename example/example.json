@@ -38,7 +38,13 @@
 				"offsetX": 0,
 				"offsetY": 0,
 				"width": 595,
-				"height": 842
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
 			},
 			"content": [
 				{
@@ -1645,6 +1651,5 @@
 			"4dc91a1875a6d707aec203bb021c93a0",
 			"f6c92b368a8a13408457a1d395a37eb9"
 		]
-	},
-	"filename": "./example.pdf"
+	}
 }

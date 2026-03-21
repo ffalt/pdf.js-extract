@@ -159,7 +159,8 @@ Example Output
         "offsetX": 0,
         "offsetY": 0,
         "width": 200,
-        "height": 200
+        "height": 200,
+        "view": { "minX": 0, "minY": 0, "maxX": 200, "maxY": 200 }
       },
       "links": [
         "https://github.com"

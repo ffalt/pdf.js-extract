@@ -50,7 +50,8 @@
   },
   "scripts": {
     "lint": "eslint --ext .cjs,.mjs .",
-    "test": "NODE_OPTIONS=\"--experimental-vm-modules\" jest"
+    "test": "NODE_OPTIONS=\"--experimental-vm-modules\" jest",
+    "fixtures": "node ./scripts/update-fixtures.mjs"
   },
   "dependencies": {
     "dommatrix": "0.1.1",

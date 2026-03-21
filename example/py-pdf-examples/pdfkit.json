@@ -1,263 +1,268 @@
 {
-  "meta": {
-    "info": {
-      "PDFFormatVersion": "1.4",
-      "IsLinearized": false,
-      "IsAcroFormPresent": false,
-      "IsXFAPresent": false,
-      "IsCollectionPresent": false,
-      "IsSignaturesPresent": false,
-      "Title": "",
-      "Creator": "wkhtmltopdf 0.12.5",
-      "Producer": "Qt 5.12.8",
-      "CreationDate": "D:20230913134006+02'00'"
-    }
-  },
-  "pages": [
-    {
-      "info": {
-        "num": 1,
-        "scale": 1,
-        "rotation": 0,
-        "offsetX": 0,
-        "offsetY": 0,
-        "width": 595,
-        "height": 842
-      },
-      "content": [
-        {
-          "str": "Header",
-          "x": 9.75,
-          "y": 32.80155486000001,
-          "width": 101.0102565660144,
-          "height": 24.7804214745,
-          "transform": [
-            24.7804214745,
-            0,
-            0,
-            24.7804214745,
-            9.75,
-            809.19844514
-          ],
-          "font": {
-            "size": 24.7804214745,
-            "name": "QTAAAA+DejaVuSans-Bold",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": false
-        },
-        {
-          "str": "",
-          "x": 9.75,
-          "y": 50.66650987649996,
-          "width": 0,
-          "height": 12.102066301499999,
-          "transform": [
-            12.102066301499999,
-            0,
-            0,
-            12.102066301499999,
-            9.75,
-            791.3334901235
-          ],
-          "font": {
-            "size": 12.102066301499999,
-            "name": "QTAAAA+DejaVuSans-Bold",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": true
-        },
-        {
-          "str": "Foo:",
-          "x": 9.75,
-          "y": 50.66650987649996,
-          "width": 29.729302158506254,
-          "height": 12.102066301499999,
-          "transform": [
-            12.102066301499999,
-            0,
-            0,
-            12.102066301499999,
-            9.75,
-            791.3334901235
-          ],
-          "font": {
-            "size": 12.102066301499999,
-            "name": "QTAAAA+DejaVuSans-Bold",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": false
-        },
-        {
-          "str": " ",
-          "x": 39.47930215850624,
-          "y": 50.66650987649996,
-          "width": 6.662500000000009,
-          "height": 12.102066301499999,
-          "transform": [
-            12.102066301499999,
-            0,
-            0,
-            12.102066301499999,
-            39.47930215850624,
-            791.3334901235
-          ],
-          "font": {
-            "size": 12.102066301499999,
-            "name": "QTAAAA+DejaVuSans-Bold",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": false
-        },
-        {
-          "str": "bar",
-          "x": 43.318826764875,
-          "y": 50.66650987649996,
-          "width": 20.065514072322742,
-          "height": 12.102066301499999,
-          "transform": [
-            12.102066301499999,
-            0,
-            0,
-            12.102066301499999,
-            43.318826764875,
-            791.3334901235
-          ],
-          "font": {
-            "size": 12.102066301499999,
-            "name": "QNAAAA+DejaVuSans",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": false
-        },
-        {
-          "str": "",
-          "x": 9.75,
-          "y": 65.07373166399998,
-          "width": 0,
-          "height": 12.102066301499999,
-          "transform": [
-            12.102066301499999,
-            0,
-            0,
-            12.102066301499999,
-            9.75,
-            776.926268336
-          ],
-          "font": {
-            "size": 12.102066301499999,
-            "name": "QTAAAA+DejaVuSans-Bold",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": true
-        },
-        {
-          "str": "ABC:",
-          "x": 9.75,
-          "y": 65.07373166399998,
-          "width": 32.304593053021875,
-          "height": 12.102066301499999,
-          "transform": [
-            12.102066301499999,
-            0,
-            0,
-            12.102066301499999,
-            9.75,
-            776.926268336
-          ],
-          "font": {
-            "size": 12.102066301499999,
-            "name": "QTAAAA+DejaVuSans-Bold",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": false
-        },
-        {
-          "str": " ",
-          "x": 42.054593053021875,
-          "y": 65.07373166399998,
-          "width": 6.662499999999997,
-          "height": 12.102066301499999,
-          "transform": [
-            12.102066301499999,
-            0,
-            0,
-            12.102066301499999,
-            42.054593053021875,
-            776.926268336
-          ],
-          "font": {
-            "size": 12.102066301499999,
-            "name": "QTAAAA+DejaVuSans-Bold",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": false
-        },
-        {
-          "str": "DEF",
-          "x": 45.89411765939062,
-          "y": 65.07373166399998,
-          "width": 23.914187264526557,
-          "height": 12.102066301499999,
-          "transform": [
-            12.102066301499999,
-            0,
-            0,
-            12.102066301499999,
-            45.89411765939062,
-            776.926268336
-          ],
-          "font": {
-            "size": 12.102066301499999,
-            "name": "QNAAAA+DejaVuSans",
-            "family": "sans-serif",
-            "vertical": false,
-            "ascent": 0.92822265625,
-            "descent": -0.23583984375
-          },
-          "dir": "ltr",
-          "hasEOL": false
-        }
-      ]
-    }
-  ],
-  "info": {
-    "numPages": 1,
-    "fingerprints": [
-      "17fd758a2429b03f1494e670eca88669"
-    ]
-  },
-  "filename": "example/py-pdf-examples/pdfkit.pdf"
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Title": "",
+			"Creator": "wkhtmltopdf 0.12.5",
+			"Producer": "Qt 5.12.8",
+			"CreationDate": "D:20230913134006+02'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Header",
+					"x": 9.75,
+					"y": 32.80155486000001,
+					"width": 101.0102565660144,
+					"height": 24.7804214745,
+					"transform": [
+						24.7804214745,
+						0,
+						0,
+						24.7804214745,
+						9.75,
+						809.19844514
+					],
+					"font": {
+						"size": 24.7804214745,
+						"name": "QTAAAA+DejaVuSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 9.75,
+					"y": 50.66650987649996,
+					"width": 0,
+					"height": 12.102066301499999,
+					"transform": [
+						12.102066301499999,
+						0,
+						0,
+						12.102066301499999,
+						9.75,
+						791.3334901235
+					],
+					"font": {
+						"size": 12.102066301499999,
+						"name": "QTAAAA+DejaVuSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Foo:",
+					"x": 9.75,
+					"y": 50.66650987649996,
+					"width": 29.729302158506254,
+					"height": 12.102066301499999,
+					"transform": [
+						12.102066301499999,
+						0,
+						0,
+						12.102066301499999,
+						9.75,
+						791.3334901235
+					],
+					"font": {
+						"size": 12.102066301499999,
+						"name": "QTAAAA+DejaVuSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 39.47930215850624,
+					"y": 50.66650987649996,
+					"width": 6.662500000000009,
+					"height": 12.102066301499999,
+					"transform": [
+						12.102066301499999,
+						0,
+						0,
+						12.102066301499999,
+						39.47930215850624,
+						791.3334901235
+					],
+					"font": {
+						"size": 12.102066301499999,
+						"name": "QTAAAA+DejaVuSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "bar",
+					"x": 43.318826764875,
+					"y": 50.66650987649996,
+					"width": 20.065514072322742,
+					"height": 12.102066301499999,
+					"transform": [
+						12.102066301499999,
+						0,
+						0,
+						12.102066301499999,
+						43.318826764875,
+						791.3334901235
+					],
+					"font": {
+						"size": 12.102066301499999,
+						"name": "QNAAAA+DejaVuSans",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 9.75,
+					"y": 65.07373166399998,
+					"width": 0,
+					"height": 12.102066301499999,
+					"transform": [
+						12.102066301499999,
+						0,
+						0,
+						12.102066301499999,
+						9.75,
+						776.926268336
+					],
+					"font": {
+						"size": 12.102066301499999,
+						"name": "QTAAAA+DejaVuSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ABC:",
+					"x": 9.75,
+					"y": 65.07373166399998,
+					"width": 32.304593053021875,
+					"height": 12.102066301499999,
+					"transform": [
+						12.102066301499999,
+						0,
+						0,
+						12.102066301499999,
+						9.75,
+						776.926268336
+					],
+					"font": {
+						"size": 12.102066301499999,
+						"name": "QTAAAA+DejaVuSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 42.054593053021875,
+					"y": 65.07373166399998,
+					"width": 6.662499999999997,
+					"height": 12.102066301499999,
+					"transform": [
+						12.102066301499999,
+						0,
+						0,
+						12.102066301499999,
+						42.054593053021875,
+						776.926268336
+					],
+					"font": {
+						"size": 12.102066301499999,
+						"name": "QTAAAA+DejaVuSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "DEF",
+					"x": 45.89411765939062,
+					"y": 65.07373166399998,
+					"width": 23.914187264526557,
+					"height": 12.102066301499999,
+					"transform": [
+						12.102066301499999,
+						0,
+						0,
+						12.102066301499999,
+						45.89411765939062,
+						776.926268336
+					],
+					"font": {
+						"size": 12.102066301499999,
+						"name": "QNAAAA+DejaVuSans",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.92822265625,
+						"descent": -0.23583984375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"17fd758a2429b03f1494e670eca88669"
+		]
+	}
 }

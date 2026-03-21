@@ -36,7 +36,13 @@
 				"offsetX": 0,
 				"offsetY": 0,
 				"width": 595.32,
-				"height": 841.92
+				"height": 841.92,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.32,
+					"maxY": 841.92
+				}
 			},
 			"content": [
 				{
@@ -172,6 +178,5 @@
 		"fingerprints": [
 			"2e22bde07d96d0408524c26eeecd3483"
 		]
-	},
-	"filename": "./encrypted.pdf"
+	}
 }

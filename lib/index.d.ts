@@ -93,6 +93,7 @@ declare module "pdf.js-extract" {
     offsetY: number;
     width: number;
     height: number;
+    view: { minX: number; minY: number; maxX: number; maxY: number };
   }
 
   export interface PDFExtractPage {

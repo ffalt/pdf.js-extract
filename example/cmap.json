@@ -20,7 +20,13 @@
 				"offsetX": 0,
 				"offsetY": 0,
 				"width": 595.28,
-				"height": 841.89
+				"height": 841.89,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.28,
+					"maxY": 841.89
+				}
 			},
 			"content": [
 				{
@@ -56,6 +62,5 @@
 		"fingerprints": [
 			"4eb217876b18ea1871ffdc1692df906d"
 		]
-	},
-	"filename": "./cmap.pdf"
+	}
 }
