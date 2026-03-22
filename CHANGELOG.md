@@ -1,6 +1,7 @@
 ## unrelease (2026/04/01)
 
 ### Features
+* pdf.js version 5.5.207
 * option to extract attachments
 * option to extract images
 * full extraction of annotations (including links)
