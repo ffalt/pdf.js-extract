@@ -1,4 +1,3 @@
-lib-cov
 coverage
 *.seed
 *.log
@@ -9,9 +8,8 @@ coverage
 .idea
 pids
 logs
-results
 local
 npm-debug.log
 node_modules
 .DS_Store
-pdfjs-temp/
+scripts/pdfjs-temp/

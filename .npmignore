@@ -11,4 +11,4 @@ test
 scripts
 .github
 jest.config.mjs
-selint.config.mjs
+eslint.config.mjs

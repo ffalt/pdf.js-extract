@@ -3,7 +3,7 @@
 Extracts text/annotations/attachments/images from PDF files
 
 > [!NOTE]
-> This library is for **Node.js**. If is not meant to be used in the browser.
+> This library is for **Node.js**. It is not meant to be used in the browser.
 
 Read a PDF file and exports all pages & texts with coordinates. 
 This can be e.g. used to extract structured table data.
@@ -71,10 +71,6 @@ export interface PDFExtractOptions {
 }
 ```
 
-## Image Extraction
-
-The library can extracts images from PDF documents using multiple methods.
-
 ### Basic Image Extraction
 
 ```javascript
@@ -122,9 +118,7 @@ interface PDFExtractImage {
 - **kind 2 - Inline**: Images embedded directly in content streams
 - **kind 3 - Form**: Images contained within Form XObjects
 
-### Full Documentation
-
-Example Output
+## Example Output
 
 ```json
 {
@@ -219,6 +213,12 @@ Example Output
       ]
     }
   ],
+  "attachments": [
+    {
+      "filename": "My first attachment",
+      "base64data": "VGhpcyBpcyB0aGUgY29udGVudHMgb2YgYSBub24gb3Mgc3BlY2lmaWMgZW1iZWRkZWQgZmlsZQ=="
+    }
+  ],
   "pdfInfo": {
     "numPages": 1,
     "fingerprint": "1ee9219eb9eaa49acbfc20155ac359c3"
@@ -226,4 +226,4 @@ Example Output
 }
 ```
 
-Note: The `images` array is optional and only included when images are detected in the PDF. The `base64data` field shown is truncated for example purposes.
+Note: The `images` and `attachments` array is optional and only included when images are detected in the PDF. 
