@@ -3,7 +3,7 @@
 Extracts text/annotations/attachments/images from PDF files
 
 > [!NOTE]
-> This library is for **Node.js**. If you want to use pdf.js in the browser, please check out the [pdf.js project](https://github.com/mozilla/pdf.js).
+> This library is for **Node.js**. If is not meant to be used in the browser.
 
 Read a PDF file and exports all pages & texts with coordinates. 
 This can be e.g. used to extract structured table data.
@@ -162,8 +162,40 @@ Example Output
         "height": 200,
         "view": { "minX": 0, "minY": 0, "maxX": 200, "maxY": 200 }
       },
-      "links": [
-        "https://github.com"
+      "annotations": [
+        {
+          "annotationType": 2,
+          "annotationFlags": 0,
+          "borderStyle": {
+            "width": 0,
+            "rawWidth": 1,
+            "style": 1,
+            "dashArray": [3],
+            "horizontalCornerRadius": 0,
+            "verticalCornerRadius": 0
+          },
+          "color": [0, 0, 0],
+          "borderColor": [0, 0, 0],
+          "rotation": 0,
+          "contentsObj": {
+            "str": "",
+            "dir": "ltr"
+          },
+          "hasAppearance": false,
+          "id": "4R",
+          "rect": [92.043, 771.389, 217.757, 785.189],
+          "subtype": "Link",
+          "hasOwnCanvas": false,
+          "noRotate": false,
+          "noHTML": false,
+          "isEditable": false,
+          "structParent": -1,
+          "url": "https://example.com/",
+          "unsafeUrl": "https://example.com/",
+          "overlaidText": "a link to an awesome site",
+          "x": 217.757,
+          "y": 785.189
+        }
       ],
       "content": [
         {
@@ -179,13 +211,10 @@ Example Output
       "images": [
         {
           "index": 0,
-          "width": 100,
-          "height": 100,
+          "width": 16,
+          "height": 16,
           "kind": 1,
-          "colorSpace": "DeviceRGB",
-          "bitsPerComponent": 8,
-          "filter": "DCTDecode",
-          "base64data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg=="
+          "base64data": "AAAAAAAAEAgAAAEAAQABAAEAAAAQEBAwD+AAAAAAAAA="
         }
       ]
     }
@@ -197,4 +226,4 @@ Example Output
 }
 ```
 
-_Note: The `images` array is optional and only included when images are detected in the PDF. The `base64data` field shown is truncated for example purposes.
+Note: The `images` array is optional and only included when images are detected in the PDF. The `base64data` field shown is truncated for example purposes.

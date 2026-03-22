@@ -96,10 +96,10 @@
 					"hasEOL": false
 				},
 				{
-					"str": "m an e",
+					"str": "m an encrypted pdf",
 					"x": 103.22,
 					"y": 82.43999999999994,
-					"width": 30.326879999999996,
+					"width": 87.71807999999999,
 					"height": 11.04,
 					"transform": [
 						11.04,
@@ -107,56 +107,6 @@
 						0,
 						11.04,
 						103.22,
-						759.48
-					],
-					"font": {
-						"size": 11.04,
-						"name": "BCDEEE+Calibri",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.75,
-						"descent": -0.25
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "ncr",
-					"x": 133.58,
-					"y": 82.43999999999994,
-					"width": 14.285760000000002,
-					"height": 11.04,
-					"transform": [
-						11.04,
-						0,
-						0,
-						11.04,
-						133.58,
-						759.48
-					],
-					"font": {
-						"size": 11.04,
-						"name": "BCDEEE+Calibri",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.75,
-						"descent": -0.25
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "ypted pdf",
-					"x": 147.86,
-					"y": 82.43999999999994,
-					"width": 43.07807999999997,
-					"height": 11.04,
-					"transform": [
-						11.04,
-						0,
-						0,
-						11.04,
-						147.86,
 						759.48
 					],
 					"font": {

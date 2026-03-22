@@ -32,10 +32,10 @@
 			},
 			"content": [
 				{
-					"str": "This is",
+					"str": "This is a link to an awesome blog.",
 					"x": 56.8,
 					"y": 67.900763779528,
-					"width": 32.256,
+					"width": 164,
 					"height": 12,
 					"transform": [
 						12,
@@ -55,88 +55,15 @@
 					},
 					"dir": "ltr",
 					"hasEOL": false
-				},
-				{
-					"str": " ",
-					"x": 89.05600000000001,
-					"y": 67.900763779528,
-					"width": 3.1439999999999912,
-					"height": 12,
-					"transform": [
-						12,
-						0,
-						0,
-						12,
-						89.05600000000001,
-						773.989
-					],
-					"font": {
-						"size": 12,
-						"name": "BAAAAA+LiberationSerif",
-						"family": "serif",
-						"vertical": false,
-						"ascent": 0.89111328125,
-						"descent": -0.21630859375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "a link to an awesome blog",
-					"x": 92.2,
-					"y": 67.900763779528,
-					"width": 125.56800000000001,
-					"height": 12,
-					"transform": [
-						12,
-						0,
-						0,
-						12,
-						92.2,
-						773.989
-					],
-					"font": {
-						"size": 12,
-						"name": "BAAAAA+LiberationSerif",
-						"family": "serif",
-						"vertical": false,
-						"ascent": 0.89111328125,
-						"descent": -0.21630859375
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": ".",
-					"x": 217.8,
-					"y": 67.900763779528,
-					"width": 3,
-					"height": 12,
-					"transform": [
-						12,
-						0,
-						0,
-						12,
-						217.8,
-						773.989
-					],
-					"font": {
-						"size": 12,
-						"name": "BAAAAA+LiberationSerif",
-						"family": "serif",
-						"vertical": false,
-						"ascent": 0.89111328125,
-						"descent": -0.21630859375
-					},
-					"dir": "ltr",
-					"hasEOL": false
 				}
 			],
 			"annotations": [
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -171,9 +98,11 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"url": "https://martin-thoma.com/",
 					"unsafeUrl": "https://martin-thoma.com/",
+					"overlaidText": "a link to an awesome blog",
 					"x": 217.757,
 					"y": 785.189
 				}

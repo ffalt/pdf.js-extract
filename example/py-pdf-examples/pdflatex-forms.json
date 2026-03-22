@@ -144,9 +144,11 @@
 			],
 			"annotations": [
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -186,7 +188,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "Name",
 					"fieldValue": "",
 					"defaultFieldValue": "",
@@ -202,6 +205,7 @@
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -214,9 +218,11 @@
 					"y": 668.194
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -256,7 +262,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "Check",
 					"fieldValue": "Off",
 					"defaultFieldValue": "Off",
@@ -272,6 +279,7 @@
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -284,9 +292,11 @@
 					"y": 640.697
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -321,7 +331,8 @@
 					"hasOwnCanvas": true,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "Submit",
 					"alternativeText": "",
 					"defaultAppearanceData": {
@@ -335,6 +346,7 @@
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 65540,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,

@@ -1269,9 +1269,11 @@
 			],
 			"annotations": [
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1306,15 +1308,19 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.1",
+					"overlaidText": "1 Foo",
 					"x": 158.772,
 					"y": 692.043
 				},
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1349,15 +1355,19 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.2",
+					"overlaidText": "2 Bar",
 					"x": 159.18,
 					"y": 670.125
 				},
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1392,15 +1402,19 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.3",
+					"overlaidText": "3 Baz",
 					"x": 159.553,
 					"y": 648.207
 				},
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1435,15 +1449,19 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.4",
+					"overlaidText": "4 Foo",
 					"x": 158.772,
 					"y": 626.289
 				},
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1478,15 +1496,19 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.5",
+					"overlaidText": "5 Bar",
 					"x": 159.18,
 					"y": 604.372
 				},
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1521,15 +1543,19 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.6",
+					"overlaidText": "6 Baz",
 					"x": 159.553,
 					"y": 582.454
 				},
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1564,15 +1590,19 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.7",
+					"overlaidText": "7 Foo",
 					"x": 158.772,
 					"y": 560.536
 				},
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1607,15 +1637,19 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.8",
+					"overlaidText": "8 Bar",
 					"x": 159.18,
 					"y": 538.618
 				},
 				{
+					"annotationType": 2,
 					"annotationFlags": 0,
 					"borderStyle": {
 						"width": 1,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1650,8 +1684,10 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 2,
+					"isEditable": false,
+					"structParent": -1,
 					"dest": "section.9",
+					"overlaidText": "9 Baz",
 					"x": 159.553,
 					"y": 516.7
 				}

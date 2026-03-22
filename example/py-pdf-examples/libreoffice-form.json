@@ -104,31 +104,6 @@
 						"descent": -0.21630859375
 					},
 					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 56.8,
-					"y": 219.30076377952798,
-					"width": 0,
-					"height": 12,
-					"transform": [
-						12,
-						0,
-						0,
-						12,
-						56.8,
-						622.589
-					],
-					"font": {
-						"size": 12,
-						"name": "CAAAAA+LiberationSerif",
-						"family": "serif",
-						"vertical": false,
-						"ascent": 0.89111328125,
-						"descent": -0.21630859375
-					},
-					"dir": "ltr",
 					"hasEOL": true
 				},
 				{
@@ -254,31 +229,6 @@
 						"descent": -0.189
 					},
 					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 56.7,
-					"y": 147.400763779528,
-					"width": 0,
-					"height": 11,
-					"transform": [
-						11,
-						0,
-						0,
-						11,
-						56.7,
-						694.489
-					],
-					"font": {
-						"size": 11,
-						"name": "EAAAAA+Ubuntu",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.932,
-						"descent": -0.189
-					},
-					"dir": "ltr",
 					"hasEOL": true
 				},
 				{
@@ -294,31 +244,6 @@
 						11,
 						56.7,
 						694.489
-					],
-					"font": {
-						"size": 11,
-						"name": "EAAAAA+Ubuntu",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.932,
-						"descent": -0.189
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 73.3,
-					"y": 191.00076377952803,
-					"width": 0,
-					"height": 11,
-					"transform": [
-						11,
-						0,
-						0,
-						11,
-						73.3,
-						650.889
 					],
 					"font": {
 						"size": 11,
@@ -404,31 +329,6 @@
 						"descent": -0.189
 					},
 					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 73.3,
-					"y": 284.900763779528,
-					"width": 0,
-					"height": 11,
-					"transform": [
-						11,
-						0,
-						0,
-						11,
-						73.3,
-						556.989
-					],
-					"font": {
-						"size": 11,
-						"name": "EAAAAA+Ubuntu",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.932,
-						"descent": -0.189
-					},
-					"dir": "ltr",
 					"hasEOL": true
 				},
 				{
@@ -444,31 +344,6 @@
 						11,
 						73.3,
 						556.989
-					],
-					"font": {
-						"size": 11,
-						"name": "EAAAAA+Ubuntu",
-						"family": "sans-serif",
-						"vertical": false,
-						"ascent": 0.932,
-						"descent": -0.189
-					},
-					"dir": "ltr",
-					"hasEOL": false
-				},
-				{
-					"str": "",
-					"x": 73.3,
-					"y": 300.60076377952805,
-					"width": 0,
-					"height": 11,
-					"transform": [
-						11,
-						0,
-						0,
-						11,
-						73.3,
-						541.289
 					],
 					"font": {
 						"size": 11,
@@ -509,9 +384,11 @@
 			],
 			"annotations": [
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -541,7 +418,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "Last Name",
 					"fieldValue": "",
 					"defaultFieldValue": "",
@@ -557,6 +435,7 @@
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -568,9 +447,11 @@
 					"y": 716.188
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -600,7 +481,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "First Name",
 					"fieldValue": "Alice",
 					"defaultFieldValue": "Alice",
@@ -616,6 +498,7 @@
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -627,9 +510,11 @@
 					"y": 718.138
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -659,7 +544,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "Birthday",
 					"fieldValue": "",
 					"defaultFieldValue": "",
@@ -675,6 +561,7 @@
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -686,9 +573,11 @@
 					"y": 704.638
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -718,7 +607,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "female",
 					"fieldValue": "Off",
 					"defaultFieldValue": "Off",
@@ -734,6 +624,7 @@
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -746,9 +637,11 @@
 					"y": 660.488
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -778,7 +671,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "female",
 					"fieldValue": "Off",
 					"defaultFieldValue": "Off",
@@ -794,6 +688,7 @@
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -806,9 +701,11 @@
 					"y": 660.488
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -838,7 +735,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "Nationality",
 					"fieldValue": [
 						""
@@ -856,6 +754,7 @@
 					},
 					"fieldType": "Ch",
 					"fieldFlags": 131072,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -895,9 +794,11 @@
 					"y": 603.488
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -927,7 +828,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "gdpr",
 					"fieldValue": "Off",
 					"defaultFieldValue": "Off",
@@ -943,6 +845,7 @@
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -955,9 +858,11 @@
 					"y": 566.638
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -987,7 +892,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "other",
 					"fieldValue": "Off",
 					"defaultFieldValue": "Off",
@@ -1003,6 +909,7 @@
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,
@@ -1015,9 +922,11 @@
 					"y": 550.938
 				},
 				{
+					"annotationType": 20,
 					"annotationFlags": 4,
 					"borderStyle": {
 						"width": 0,
+						"rawWidth": 1,
 						"style": 1,
 						"dashArray": [
 							3
@@ -1047,7 +956,8 @@
 					"hasOwnCanvas": false,
 					"noRotate": false,
 					"noHTML": false,
-					"annotationType": 20,
+					"isEditable": false,
+					"structParent": -1,
 					"fieldName": "First Name_2",
 					"fieldValue": "Bob",
 					"defaultFieldValue": "Bob",
@@ -1063,6 +973,7 @@
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
+					"password": false,
 					"readOnly": false,
 					"required": false,
 					"hidden": false,

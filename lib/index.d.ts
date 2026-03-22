@@ -130,6 +130,7 @@ declare module "pdf.js-extract" {
     name: string;
     family: string;
     size: number;
+    vertical?: boolean;
     ascent?: number;
     descent?: number;
   }
@@ -178,7 +179,9 @@ declare module "pdf.js-extract" {
 
   export interface PDFExtractAnnotBorderStyle {
     width: number;
-    type: PDFExtractAnnotBorderStyleType;
+    rawWidth?: number;
+    type?: PDFExtractAnnotBorderStyleType;
+    style?: number;
     dashArray: number[];
     horizontalCornerRadius: number;
     verticalCornerRadius: number;
@@ -378,21 +381,24 @@ declare module "pdf.js-extract" {
     x?: number;
     y?: number;
     annotationFlags: PDFExtractAnnotFlag;
-    color: Uint8ClampedArray;
-    backgroundColor: Uint8ClampedArray;
+    color?: Uint8ClampedArray;
+    backgroundColor?: Uint8ClampedArray;
     borderStyle: PDFExtractAnnotBorderStyle;
-    borderColor: Uint8ClampedArray;
+    borderColor?: Uint8ClampedArray;
     rotation: number;
     contentsObj: PDFExtractBidiText;
     richText?: PDFExtractAnnotRichText;
     hasAppearance: boolean;
     id: string;
-    modificationDate: string;
+    modificationDate?: string;
     rect: PDFExtractAnnotRect;
     subtype?: PDFExtractAnnotType;
     hasOwnCanvas: boolean;
     noRotate: boolean;
     noHTML: boolean;
+    opacity?: number;
+    isEditable?: boolean;
+    structParent?: number;
 
     kidIds?: string[];
     actions?: PDFExtractAnnotActions;
@@ -418,6 +424,7 @@ declare module "pdf.js-extract" {
     fieldFlags?: PDFExtractAnnotFieldFlag;
     readOnly?: boolean;
     hidden?: boolean;
+    password?: boolean;
 
     required?: boolean;
     /* ~ */
@@ -466,6 +473,8 @@ declare module "pdf.js-extract" {
     ]; /* LineAnnotation, PolylineAnnotation */
 
     inkLists?: PDFExtractAnnotPoint[][]; /* InkAnnotation */
+
+    overlaidText?: string; /* MarkupAnnotation */
 
     //
 
