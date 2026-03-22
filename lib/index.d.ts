@@ -105,9 +105,12 @@ declare module "pdf.js-extract" {
 
   export interface PDFExtractImage {
     index: number;
+    x: number;
+    y: number;
     width: number;
     height: number;
     kind: number;
+    transform?: number[];
     base64data?: string;
     colorSpace?: string;
     bitsPerComponent?: number;
