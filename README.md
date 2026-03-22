@@ -21,42 +21,6 @@ This package includes a build of [pdf.js](https://github.com/mozilla/pdf.js).
 ![test](https://github.com/ffalt/pdf.js-extract/workflows/test/badge.svg)
 [![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT) 
 
-## Example Usage
-
-javascript async with callback
-```javascript
-import { PDFExtract } from 'pdf.js-extract';
-const pdfExtract = new PDFExtract();
-const options = {}; /* see below */
-pdfExtract.extract('test.pdf', options, (err, data) => {
-  if (err) return console.log(err);
-  console.log(data);
-});
-```
-
-javascript async with callback using buffer
-```javascript
-import { PDFExtract } from 'pdf.js-extract';
-import fs from 'node:fs';
-const pdfExtract = new PDFExtract();
-const buffer = fs.readFileSync("./example.pdf");
-const options = {}; /* see below */
-pdfExtract.extractBuffer(buffer, options, (err, data) => {
-  if (err) return console.log(err);
-  console.log(data);
-});
-```
-
-typescript async with promise
-```typescript
-import {PDFExtract, PDFExtractOptions} from 'pdf.js-extract';
-const pdfExtract = new PDFExtract();
-const options: PDFExtractOptions = {}; /* see below */
-pdfExtract.extract('test.pdf', options)
-  .then(data => console.log(data))
-  .catch(err=> console.log(err));
-```
-
 ## Options
 ```typescript
 export interface PDFExtractOptions {
@@ -69,6 +33,45 @@ export interface PDFExtractOptions {
   includeAttachments?: boolean; // include attachments as base64. The default value is `false`.
   includeImages?: boolean; // include images as base64. The default value is `false`.
 }
+```
+
+## Example Usage
+
+### Async Javascript with Callback using Buffer
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+import fs from 'node:fs';
+const pdfExtract = new PDFExtract();
+const buffer = fs.readFileSync("./example.pdf");
+const options = {}; 
+pdfExtract.extractBuffer(buffer, options, (err, data) => {
+  if (err) return console.log(err);
+  console.log(data);
+});
+```
+
+### Async Javascript with Callback
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const options = {}; 
+pdfExtract.extract('test.pdf', options, (err, data) => {
+  if (err) return console.log(err);
+  console.log(data);
+});
+```
+
+### Async Typescript with Promise
+
+```typescript
+import {PDFExtract, PDFExtractOptions} from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const options: PDFExtractOptions = {}; 
+pdfExtract.extract('test.pdf', options)
+  .then(data => console.log(data))
+  .catch(err=> console.log(err));
 ```
 
 ### Extract Specific Pages
@@ -90,6 +93,20 @@ const pdfExtract = new PDFExtract();
 
 const data = await pdfExtract.extract('secure.pdf', { password: 'my-secret' });
 console.log(data.pages[0].content.map(item => item.str).join(' '));
+```
+
+### Collect All Text from a PDF
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf', { normalizeWhitespace: true });
+
+const fullText = data.pages
+  .map(page => page.content.map(item => item.str).join(' '))
+  .join('\n\n');
+
+console.log(fullText);
 ```
 
 ### Extract Text as Lines and Rows (Table Data)
@@ -167,21 +184,7 @@ if (data.attachments) {
 }
 ```
 
-### Collect All Text from a PDF
-
-```javascript
-import { PDFExtract } from 'pdf.js-extract';
-const pdfExtract = new PDFExtract();
-const data = await pdfExtract.extract('document.pdf', { normalizeWhitespace: true });
-
-const fullText = data.pages
-  .map(page => page.content.map(item => item.str).join(' '))
-  .join('\n\n');
-
-console.log(fullText);
-```
-
-### Basic Image Extraction
+### Extract Images
 
 ```javascript
 const pdfExtract = new PDFExtract();
@@ -205,7 +208,7 @@ data.pages.forEach((page) => {
 });
 ```
 
-### Image Properties
+#### Image Properties
 
 Each extracted image contains:
 
@@ -222,7 +225,7 @@ interface PDFExtractImage {
 }
 ```
 
-### Image Types
+#### Image Types
 
 - **kind 1 - XObject**: Standard image objects from page resources (most common)
 - **kind 2 - Inline**: Images embedded directly in content streams
@@ -336,4 +339,4 @@ interface PDFExtractImage {
 }
 ```
 
-Note: The `images` and `attachments` array is optional and only included when images are detected in the PDF. 
+Note: The `images` and `attachments` arrays are optional and only included when they are detected in the PDF. 
