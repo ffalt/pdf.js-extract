@@ -35,7 +35,7 @@ const testCases = findPdfs(pdfDirectory);
 const loadedTestCases = testCases.map(file => {
 	const baseName = path.parse(file).name;
 	const dir = path.dirname(file);
-	const fileDir = dir === "." ? "" : dir + "/";
+	const fileDir = dir === "." ? "" : `${dir}/`;
 	const outputFile = `${fileDir}${baseName}.json`;
 	const textFile = `${fileDir}${baseName}.txt`;
 	let output = {};
@@ -70,8 +70,7 @@ function readFileAsync(filename) {
 }
 
 function cloneWithIgnore(obj, ignoreKeys = []) {
-	return obj.map(item => {
-		return {
+	return obj.map(item => ({
 			...item, content: item.content.map(entry => {
 				const cloned = { ...entry };
 				ignoreKeys.forEach(key => {
@@ -79,8 +78,7 @@ function cloneWithIgnore(obj, ignoreKeys = []) {
 				});
 				return cloned;
 			})
-		};
-	});
+		}));
 }
 
 function deepEqualPages(a, b, ignoreKeys = []) {
@@ -90,7 +88,7 @@ function deepEqualPages(a, b, ignoreKeys = []) {
 }
 
 describe("PDFExtract", () => {
-	describe.each(loadedTestCases)("#extractBuffer() for $file", (testCase) => {
+	describe.each(loadedTestCases)("#extractBuffer() for $file", testCase => {
 		const options = {
 			includeImages: true,
 			includeAttachments: true
@@ -99,16 +97,16 @@ describe("PDFExtract", () => {
 			options.password = testCase.password;
 		}
 
-		it("should extract pdf buffer without error", (done) => {
+		it("should extract pdf buffer without error", done => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(testCase.filePath);
-			extract.extractBuffer(buffer, options, (err) => {
+			extract.extractBuffer(buffer, options, err => {
 				if (err) done(err);
 				else done();
 			});
 		});
 
-		it("should extract pdf buffer with right data", (done) => {
+		it("should extract pdf buffer with right data", done => {
 			const extract = new PDFExtract();
 			const buffer = fs.readFileSync(testCase.filePath);
 			extract.extractBuffer(buffer, options, (err, data) => {
@@ -134,10 +132,10 @@ describe("PDFExtract", () => {
 
 	});
 
-	it("should fail with wrong password on encrypted pdf buffer with error", (done) => {
+	it("should fail with wrong password on encrypted pdf buffer with error", done => {
 		const extract = new PDFExtract();
 		const buffer = fs.readFileSync(path.join(pdfDirectory, "encrypted.pdf"));
-		extract.extractBuffer(buffer, { password: "wrong" }, (err) => {
+		extract.extractBuffer(buffer, { password: "wrong" }, err => {
 			try {
 				expect(err.name).toBe("PasswordException");
 				done();
@@ -147,7 +145,7 @@ describe("PDFExtract", () => {
 		});
 	});
 
-	describe.each(loadedTestCases)("#extract() for $file", (testCase) => {
+	describe.each(loadedTestCases)("#extract() for $file", testCase => {
 		const options = {
 			includeImages: true,
 			includeAttachments: true
@@ -156,9 +154,9 @@ describe("PDFExtract", () => {
 			options.password = testCase.password;
 		}
 
-		it("should load and extract pdf without error", (done) => {
+		it("should load and extract pdf without error", done => {
 			const extract = new PDFExtract();
-			extract.extract(testCase.filePath, options, (err) => {
+			extract.extract(testCase.filePath, options, err => {
 				if (err) done(err);
 				else done();
 			});
@@ -173,9 +171,9 @@ describe("PDFExtract", () => {
 
 	});
 
-	it("should load and fail with wrong password on encrypted pdf with error", (done) => {
+	it("should load and fail with wrong password on encrypted pdf with error", done => {
 		const extract = new PDFExtract();
-		extract.extract(path.join(pdfDirectory, "encrypted.pdf"), { password: "wrong" }, (err) => {
+		extract.extract(path.join(pdfDirectory, "encrypted.pdf"), { password: "wrong" }, err => {
 			try {
 				expect(err.name).toBe("PasswordException");
 				done();
@@ -188,7 +186,7 @@ describe("PDFExtract", () => {
 });
 
 describe("PDFExtract.tools", () => {
-	describe.each(loadedTestCases)("pageToLines for $file", (testCase) => {
+	describe.each(loadedTestCases)("pageToLines for $file", testCase => {
 		const options = {
 			includeImages: false,
 			includeAttachments: false
@@ -197,7 +195,7 @@ describe("PDFExtract.tools", () => {
 			options.password = testCase.password;
 		}
 
-		it("should return the correct example lines", (done) => {
+		it("should return the correct example lines", done => {
 			const extract = new PDFExtract();
 			extract.extract(testCase.filePath, options, (err, data) => {
 				if (err) return done(err);
@@ -206,7 +204,7 @@ describe("PDFExtract.tools", () => {
 				try {
 					const expectedLength = testCase.expectedText.length === 1 && testCase.expectedText.at(0) === '' ? 0 : testCase.expectedText.length;
 					expect(rows.length).toBe(expectedLength);
-					const text = rows.map((row) => row.join(""));
+					const text = rows.map(row => row.join(""));
 					expect(text.join("\n")).toBe(testCase.expectedText.join("\n"));
 					done();
 				} catch (error) {
@@ -216,7 +214,7 @@ describe("PDFExtract.tools", () => {
 		}, 30000);
 	});
 
-	describe.each(loadedTestCases)("extractAllPagesTextRows for $file", (testCase) => {
+	describe.each(loadedTestCases)("extractAllPagesTextRows for $file", testCase => {
 		const options = {
 			includeImages: false,
 			includeAttachments: false
@@ -225,7 +223,7 @@ describe("PDFExtract.tools", () => {
 			options.password = testCase.password;
 		}
 
-		it("should collect rows from all pages", (done) => {
+		it("should collect rows from all pages", done => {
 			const extract = new PDFExtract();
 			extract.extract(testCase.filePath, options, (err, data) => {
 				if (err) return done(err);
@@ -233,7 +231,7 @@ describe("PDFExtract.tools", () => {
 					const allPageRows = PDFExtract.utils.extractAllPagesTextRows(data.pages, 2);
 					expect(Array.isArray(allPageRows)).toBe(true);
 					expect(allPageRows.length).toBe(data.pages.length);
-					allPageRows.forEach((pageRows) => {
+					allPageRows.forEach(pageRows => {
 						expect(Array.isArray(pageRows)).toBe(true);
 					});
 					done();

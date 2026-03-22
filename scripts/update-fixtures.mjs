@@ -1,7 +1,7 @@
 import { PDFExtract } from "../lib/index.mjs";
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const pdfDirectory = path.resolve(__dirname, "../test/fixtures/");
@@ -31,7 +31,6 @@ function findPdfs(dir, base = dir) {
 
 const extract = new PDFExtract();
 const pdfFiles = findPdfs(pdfDirectory);
-
 
 for (const file of pdfFiles) {
 	const options = { includeImages: true, includeAttachments: true };
