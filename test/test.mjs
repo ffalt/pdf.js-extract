@@ -2,7 +2,6 @@ import path from "path";
 import fs from "fs";
 import { fileURLToPath } from "url";
 import { PDFExtract } from "../lib/index.mjs";
-import { extractAllPagesTextRows } from "../lib/utils.mjs";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
