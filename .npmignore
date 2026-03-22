@@ -8,7 +8,6 @@ README.md
 .gitignore
 .gitattributes
 test
-example
 scripts
 .github
 jest.config.mjs

@@ -4,7 +4,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const pdfDirectory = path.resolve(__dirname, "../example/");
+const pdfDirectory = path.resolve(__dirname, "../test/fixtures/");
 
 const passwords = {
 	"encrypted.pdf": "password",
@@ -31,10 +31,6 @@ function findPdfs(dir, base = dir) {
 
 const extract = new PDFExtract();
 const pdfFiles = findPdfs(pdfDirectory);
-
-const writeJson = (filename, data) => {
-
-}
 
 
 for (const file of pdfFiles) {
