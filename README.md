@@ -16,7 +16,7 @@ This package includes a build of [pdf.js](https://github.com/mozilla/pdf.js).
 
 ## Install
 
-[![NPM](https://nodei.co/npm/pdf.js-extract.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/pdf.js-extract/)
+[![NPM](https://nodei.co/npm/pdf.js-extract.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pdf.js-extract)
 
 ![test](https://github.com/ffalt/pdf.js-extract/workflows/test/badge.svg)
 [![license](https://img.shields.io/npm/l/pdf.js-extract.svg)](http://opensource.org/licenses/MIT) 
