@@ -76,6 +76,7 @@ declare module "pdf.js-extract" {
 
   export interface PDFExtractAttachment {
     filename?: string;
+    description?: string;
     base64data?: string;
   }
 
