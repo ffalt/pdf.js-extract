@@ -1,0 +1,142 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"IsLinearized": false,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Creator": "",
+			"Producer": "3.0.22 (5.1.7) ",
+			"CreationDate": "D:20220404135153+02'00'",
+			"ModDate": "D:20241211204534+01'00'",
+			"Keywords": "",
+			"Title": "",
+			"Author": "",
+			"Subject": ""
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 594.95996,
+				"height": 841.91998,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 594.95996,
+					"maxY": 841.91998
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0.72,
+						"rawWidth": 0.72,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						1,
+						87,
+						155
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "11R",
+					"rect": [
+						30,
+						780,
+						206,
+						825
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Name",
+					"fieldValue": "Content",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 0,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2,
+						7.5876
+					],
+					"textContent": [
+						"Content"
+					],
+					"x": 206,
+					"y": 825
+				}
+			],
+			"images": [
+				{
+					"index": 0,
+					"width": 1,
+					"height": 1,
+					"kind": 3,
+					"x": 25.010508,
+					"y": 813.783158,
+					"transform": [
+						3.1263134,
+						0,
+						0,
+						-3.1263134,
+						25.010508,
+						28.136822
+					],
+					"base64data": "AAAAAA=="
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"87314e7838b56b1431bc6f61fce7340c"
+		]
+	}
+}

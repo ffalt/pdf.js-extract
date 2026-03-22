@@ -1,0 +1,222 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Title": "PDFBox",
+			"Author": "",
+			"Subject": "",
+			"Producer": "Mac OS X 10.9.2 Quartz PDFContext",
+			"Creator": "Pages",
+			"CreationDate": "D:20140316204231Z00'00'",
+			"ModDate": "D:20140316204231Z00'00'",
+			"Keywords": ""
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 842,
+				"height": 1191,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 842,
+					"maxY": 1191
+				}
+			},
+			"content": [
+				{
+					"str": "Apache PDFBox",
+					"x": 162.8,
+					"y": 1087.7028,
+					"width": 175.122,
+					"height": 23,
+					"transform": [
+						23,
+						0,
+						0,
+						23,
+						162.8,
+						103.2972
+					],
+					"font": {
+						"size": 23,
+						"name": "MJUKEC+HelveticaNeue-Medium",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.975,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Copyright 2014 The Apache Software Foundation",
+					"x": 162.8,
+					"y": 1112.9695,
+					"width": 523.2500000000001,
+					"height": 23,
+					"transform": [
+						23,
+						0,
+						0,
+						23,
+						162.8,
+						78.0305
+					],
+					"font": {
+						"size": 23,
+						"name": "MJUKEC+HelveticaNeue-Medium",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.975,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 162.8,
+					"y": 91.30400000000009,
+					"width": 0,
+					"height": 76,
+					"transform": [
+						76,
+						0,
+						0,
+						76,
+						162.8,
+						1099.696
+					],
+					"font": {
+						"size": 76,
+						"name": "QIDALC+HelveticaNeue-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.975,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Apache",
+					"x": 162.8,
+					"y": 91.30400000000009,
+					"width": 270.6360000000001,
+					"height": 76,
+					"transform": [
+						76,
+						0,
+						0,
+						76,
+						162.8,
+						1099.696
+					],
+					"font": {
+						"size": 76,
+						"name": "QIDALC+HelveticaNeue-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.975,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "PDFBox",
+					"x": 162.8,
+					"y": 165.34500000000003,
+					"width": 289.0280000000001,
+					"height": 76,
+					"transform": [
+						76,
+						0,
+						0,
+						76,
+						162.8,
+						1025.655
+					],
+					"font": {
+						"size": 76,
+						"name": "QIDALC+HelveticaNeue-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.975,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Digital",
+					"x": 162.8,
+					"y": 239.38559999999995,
+					"width": 227.39200000000005,
+					"height": 76,
+					"transform": [
+						76,
+						0,
+						0,
+						76,
+						162.8,
+						951.6144
+					],
+					"font": {
+						"size": 76,
+						"name": "QIDALC+HelveticaNeue-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.975,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Signature",
+					"x": 162.8,
+					"y": 313.4266,
+					"width": 341.61999999999995,
+					"height": 76,
+					"transform": [
+						76,
+						0,
+						0,
+						76,
+						162.8,
+						877.5734
+					],
+					"font": {
+						"size": 76,
+						"name": "QIDALC+HelveticaNeue-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.975,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"b9cca6fedb1045e6bb8bc3be455c4f41"
+		]
+	}
+}

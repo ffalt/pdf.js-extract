@@ -1,0 +1,4242 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20061204162007-07'00'",
+			"Producer": "iText 1.3 by lowagie.com (based on itext-paulo-153)",
+			"ModDate": "D:20061204162007-07'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "LINE 1",
+					"x": 36,
+					"y": 47.700000000000045,
+					"width": 16.140959999999993,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						744.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 55.799999999999955,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						736.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 63.89999999999998,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						728.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 72,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						720
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 80.09999999999991,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						711.9000000000001
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 88.20000000000005,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						703.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 96.29999999999995,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						695.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 104.39999999999998,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						687.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 112.5,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						679.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 120.59999999999991,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						671.4000000000001
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 11",
+					"x": 36,
+					"y": 128.70000000000005,
+					"width": 19.07663999999999,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						663.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 136.79999999999995,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						655.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 144.89999999999998,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						647.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 153,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						639
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 161.10000000000002,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						630.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 169.20000000000005,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						622.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 177.29999999999995,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						614.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 185.39999999999998,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						606.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 193.5,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						598.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 201.60000000000002,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						590.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 21",
+					"x": 36,
+					"y": 209.70000000000005,
+					"width": 19.07663999999999,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						582.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 217.79999999999995,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						574.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 225.89999999999998,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						566.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 234,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						558
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 242.10000000000002,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						549.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 250.20000000000005,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						541.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 258.29999999999995,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						533.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 266.4,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						525.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 274.5,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						517.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 282.6,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						509.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 31",
+					"x": 36,
+					"y": 290.7,
+					"width": 19.07663999999999,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						501.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 298.8,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						493.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 306.9,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						485.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 315,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						477
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 323.1,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						468.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 331.2,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						460.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 339.3,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						452.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 347.4,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						444.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 355.5,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						436.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 363.6,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						428.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 41",
+					"x": 36,
+					"y": 371.7,
+					"width": 19.07663999999999,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						420.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LAST line",
+					"x": 36,
+					"y": 379.8,
+					"width": 22.888799999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						412.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "LINE 1",
+					"x": 306,
+					"y": 47.700000000000045,
+					"width": 16.14096000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						744.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 55.799999999999955,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						736.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 63.89999999999998,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						728.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 72,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						720
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 80.09999999999991,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						711.9000000000001
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 88.20000000000005,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						703.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 96.29999999999995,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						695.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 104.39999999999998,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						687.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 112.5,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						679.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 120.59999999999991,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						671.4000000000001
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 11",
+					"x": 306,
+					"y": 128.70000000000005,
+					"width": 19.07664000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						663.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 136.79999999999995,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						655.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 144.89999999999998,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						647.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 153,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						639
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 161.10000000000002,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						630.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 169.20000000000005,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						622.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 177.29999999999995,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						614.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 185.39999999999998,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						606.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 193.5,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						598.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 201.60000000000002,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						590.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 21",
+					"x": 306,
+					"y": 209.70000000000005,
+					"width": 19.07664000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						582.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 217.79999999999995,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						574.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 225.89999999999998,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						566.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 234,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						558
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 242.10000000000002,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						549.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 250.20000000000005,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						541.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 258.29999999999995,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						533.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 266.4,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						525.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 274.5,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						517.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 282.6,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						509.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 31",
+					"x": 306,
+					"y": 290.7,
+					"width": 19.07664000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						501.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 298.8,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						493.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 306.9,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						485.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 315,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						477
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 323.1,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						468.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 331.2,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						460.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 339.3,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						452.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 347.4,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						444.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 355.5,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						436.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 363.6,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						428.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 41",
+					"x": 306,
+					"y": 371.7,
+					"width": 19.07664000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						420.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LAST line",
+					"x": 306,
+					"y": 379.8,
+					"width": 22.888799999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						412.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "LINE 1",
+					"x": 36,
+					"y": 407.7,
+					"width": 16.140959999999993,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						384.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 415.8,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						376.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 423.9,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						368.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 432,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						360
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 440.09999999999997,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						351.90000000000003
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 448.2,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						343.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 456.3,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						335.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 464.4,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						327.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 472.5,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						319.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 480.59999999999997,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						311.40000000000003
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 11",
+					"x": 36,
+					"y": 488.7,
+					"width": 19.07663999999999,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						303.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 496.8,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						295.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 504.9,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						287.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 513,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						279
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 521.1,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						270.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 529.2,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						262.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 537.3,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						254.70000000000002
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 545.4,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						246.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 553.5,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						238.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 561.6,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						230.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 21",
+					"x": 36,
+					"y": 569.7,
+					"width": 19.07663999999999,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						222.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 577.8,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						214.20000000000002
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 585.9,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						206.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 594,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						198
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 602.1,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						189.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 610.2,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						181.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 618.3,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						173.70000000000002
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 626.4,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						165.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 634.5,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						157.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 642.6,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						149.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 31",
+					"x": 36,
+					"y": 650.7,
+					"width": 19.07663999999999,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						141.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 658.8,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						133.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 666.9,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						125.10000000000001
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 675,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						117
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 683.1,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						108.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 691.2,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						100.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 699.3,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						92.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 707.4,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						84.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 715.5,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						76.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 36,
+					"y": 723.6,
+					"width": 17.603519999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						68.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 41",
+					"x": 36,
+					"y": 731.7,
+					"width": 19.07663999999999,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						60.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LAST line",
+					"x": 36,
+					"y": 739.8,
+					"width": 22.888799999999996,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						36,
+						52.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "LINE 1",
+					"x": 306,
+					"y": 407.7,
+					"width": 16.14096000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						384.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 415.8,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						376.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 423.9,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						368.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 432,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						360
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 440.09999999999997,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						351.90000000000003
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 448.2,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						343.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 456.3,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						335.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 464.4,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						327.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 472.5,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						319.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 480.59999999999997,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						311.40000000000003
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 11",
+					"x": 306,
+					"y": 488.7,
+					"width": 19.07664000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						303.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 496.8,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						295.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 504.9,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						287.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 513,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						279
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 521.1,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						270.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 529.2,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						262.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 537.3,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						254.70000000000002
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 545.4,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						246.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 553.5,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						238.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 561.6,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						230.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 21",
+					"x": 306,
+					"y": 569.7,
+					"width": 19.07664000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						222.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 577.8,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						214.20000000000002
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 585.9,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						206.1
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 594,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						198
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 602.1,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						189.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 610.2,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						181.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 618.3,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						173.70000000000002
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 626.4,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						165.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 634.5,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						157.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 642.6,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						149.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 31",
+					"x": 306,
+					"y": 650.7,
+					"width": 19.07664000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						141.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 658.8,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						133.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 666.9,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						125.10000000000001
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 675,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						117
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 683.1,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						108.9
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 691.2,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						100.8
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 699.3,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						92.7
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 707.4,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						84.6
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 715.5,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						76.5
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "xxx line",
+					"x": 306,
+					"y": 723.6,
+					"width": 17.603519999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						68.4
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINE 41",
+					"x": 306,
+					"y": 731.7,
+					"width": 19.07664000000002,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						60.3
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LAST line",
+					"x": 306,
+					"y": 739.8,
+					"width": 22.888799999999968,
+					"height": 5.4,
+					"transform": [
+						5.28,
+						0,
+						0,
+						5.4,
+						306,
+						52.2
+					],
+					"font": {
+						"size": 5.4,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"ea1c890f51920a67408c6d79e3be3878"
+		]
+	}
+}

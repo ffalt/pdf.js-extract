@@ -5,55 +5,36 @@ import { PDFExtract } from "../lib/index.mjs";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
 const pdfDirectory = path.resolve(__dirname, "../example/");
 
-const simpleTestCases = [
-	"example.pdf",
-	"cmap.pdf",
-	"attachment.pdf",
-	"py-pdf-examples/002-trivial-libre-office-writer.pdf",
-	"py-pdf-examples/annotated_pdf.pdf",
-	"py-pdf-examples/base64image.pdf",
-	"py-pdf-examples/cmyk-image.pdf",
-	"py-pdf-examples/crazyones-pdfa.pdf",
-	"py-pdf-examples/habibi-oneline-cmap.pdf",
-	"py-pdf-examples/habibi-rotated.pdf",
-	"py-pdf-examples/habibi.pdf",
-	"py-pdf-examples/libre-office-link.pdf",
-	"py-pdf-examples/libreoffice-form.pdf",
-	"py-pdf-examples/minimal-document.pdf",
-	"py-pdf-examples/mistitled_outlines_example.pdf",
-	"py-pdf-examples/multicolumn.pdf",
-	"py-pdf-examples/output_with_metadata_pymupdf.pdf",
-	"py-pdf-examples/pdfkit.pdf",
-	"py-pdf-examples/pdflatex-4-pages.pdf",
-	"py-pdf-examples/pdflatex-forms.pdf",
-	"py-pdf-examples/pdflatex-image.pdf",
-	"py-pdf-examples/pdflatex-outline.pdf",
-	"py-pdf-examples/reportlab-overlay.pdf",
-	"py-pdf-examples/with-attachment.pdf",
-	"py-pdf-examples/google-doc-document.pdf",
-	"py-pdf-examples/imagemagick-ASCII85Decode.pdf",
-	"py-pdf-examples/imagemagick-CCITTFaxDecode.pdf",
-	"py-pdf-examples/imagemagick-images.pdf",
-	"py-pdf-examples/imagemagick-lzw.pdf",
-	"py-pdf-examples/grayscale-image.pdf"
-];
+const passwords = {
+	"encrypted.pdf": "password",
+	"py-pdf-examples/libreoffice-writer-password.pdf": "openpassword",
+	"pdfbox-examples/PasswordSample-128bit.pdf": "owner",
+	"pdfbox-examples/PasswordSample-256bit.pdf": "user",
+	"pdfbox-examples/PasswordSample-40bit.pdf": "user",
+	"pdfbox-examples/sign_me_protected.pdf": " "
+};
 
-const passwordTestCases = [
-	{ file: "encrypted.pdf", password: "password" },
-	{ file: "py-pdf-examples/libreoffice-writer-password.pdf", password: "openpassword" }
-];
+function findPdfs(dir, base = dir) {
+	const entries = fs.readdirSync(dir, { withFileTypes: true });
+	const files = [];
+	for (const entry of entries) {
+		const full = path.join(dir, entry.name);
+		if (entry.isDirectory()) {
+			files.push(...findPdfs(full, base));
+		} else if (entry.isFile() && entry.name.toLowerCase().endsWith(".pdf")) {
+			files.push(path.relative(base, full));
+		}
+	}
+	return files.sort();
+}
 
-const testCases = [
-	...simpleTestCases.map(file => ({ file })),
-	...passwordTestCases
-];
+const testCases = findPdfs(pdfDirectory);
 
-const loadedTestCases = testCases.map(tc => {
-	const baseName = path.parse(tc.file).name;
-	const dir = path.dirname(tc.file);
+const loadedTestCases = testCases.map(file => {
+	const baseName = path.parse(file).name;
+	const dir = path.dirname(file);
 	const fileDir = dir === "." ? "" : dir + "/";
 	const outputFile = `${fileDir}${baseName}.json`;
 	const textFile = `${fileDir}${baseName}.txt`;
@@ -61,15 +42,16 @@ const loadedTestCases = testCases.map(tc => {
 	if (fs.existsSync(path.join(pdfDirectory, outputFile))) {
 		output = JSON.parse(fs.readFileSync(path.join(pdfDirectory, outputFile)).toString());
 	}
-	let expectedText = [];
+	let expectedText = ["not generated"];
 	if (fs.existsSync(path.join(pdfDirectory, textFile))) {
 		expectedText = fs.readFileSync(path.join(pdfDirectory, textFile)).toString().trim().split('\n');
 	}
 	return {
-		...tc,
+		file,
+		password: passwords[file],
 		outputFile,
 		textFile,
-		filePath: path.join(pdfDirectory, tc.file),
+		filePath: path.join(pdfDirectory, file),
 		output,
 		expectedText
 	};

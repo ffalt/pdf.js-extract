@@ -1,0 +1,4 @@
+This is my first page with normal layout.
+This is the second line on the page.
+This is my second page. It will have a landscape layout.
+Second line here.

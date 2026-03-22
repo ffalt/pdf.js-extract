@@ -1,0 +1,1393 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20070615134136Z",
+			"Author": "Federal Trade Commission",
+			"Creator": "Print Server 100",
+			"Producer": "Corel PDF Engine Version 10.719",
+			"ModDate": "D:20070615141408-04'00'",
+			"Title": "THE COMPETITIVE IMPLICATIONS OF GENERIC BIOLOGICS"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "1",
+					"x": 108,
+					"y": 663.6,
+					"width": 3.48,
+					"height": 6.96,
+					"transform": [
+						6.96,
+						0,
+						0,
+						6.96,
+						108,
+						128.4
+					],
+					"font": {
+						"size": 6.96,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 111.48,
+					"y": 663.6,
+					"width": 32.519999999999996,
+					"height": 6.96,
+					"transform": [
+						6.96,
+						0,
+						0,
+						6.96,
+						111.48,
+						128.4
+					],
+					"font": {
+						"size": 6.96,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "In the matter of Rambus Inc., FTC Dkt. No. 9302 , Opinion of the Comm’n (Aug. 2, 2006),",
+					"x": 144,
+					"y": 668.4,
+					"width": 361.38300000000044,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						144,
+						123.6
+					],
+					"font": {
+						"size": 9,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 680.16,
+					"width": 0,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						72,
+						111.84
+					],
+					"font": {
+						"size": 9,
+						"name": "DCFKYW+TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "available at",
+					"x": 72,
+					"y": 680.16,
+					"width": 47.79000000000004,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						72,
+						111.84
+					],
+					"font": {
+						"size": 9,
+						"name": "DCFKYW+TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 119.79,
+					"y": 680.16,
+					"width": 2.3699999999999903,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						119.79,
+						111.84
+					],
+					"font": {
+						"size": 9,
+						"name": "DCFKYW+TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "http://www.ftc.gov/os/adjpro/d9302/060802commissionopinion.pdf.",
+					"x": 122.16,
+					"y": 680.16,
+					"width": 272.48999999999995,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						122.16,
+						111.84
+					],
+					"font": {
+						"size": 9,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 699.12,
+					"width": 0,
+					"height": 6.96,
+					"transform": [
+						6.96,
+						0,
+						0,
+						6.96,
+						108,
+						92.88
+					],
+					"font": {
+						"size": 6.96,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "2",
+					"x": 108,
+					"y": 699.12,
+					"width": 3.48,
+					"height": 6.96,
+					"transform": [
+						6.96,
+						0,
+						0,
+						6.96,
+						108,
+						92.88
+					],
+					"font": {
+						"size": 6.96,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 111.48,
+					"y": 699.12,
+					"width": 32.519999999999996,
+					"height": 6.96,
+					"transform": [
+						6.96,
+						0,
+						0,
+						6.96,
+						111.48,
+						92.88
+					],
+					"font": {
+						"size": 6.96,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "In the matter of Rambus Inc., FTC Dkt. No. 9302, Remedy Statement of Comm’r Pamela Jones",
+					"x": 144,
+					"y": 703.92,
+					"width": 380.6550000000002,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						144,
+						88.08
+					],
+					"font": {
+						"size": 9,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Harbour, Co ncurring in Part and Dissenting in P art (Feb. 5, 2006 ),",
+					"x": 72,
+					"y": 715.6800000000001,
+					"width": 264.9869999999999,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						72,
+						76.32
+					],
+					"font": {
+						"size": 9,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 336.98699999999997,
+					"y": 715.6800000000001,
+					"width": 2.8530000000000086,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						336.98699999999997,
+						76.32
+					],
+					"font": {
+						"size": 9,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "available at",
+					"x": 339.84,
+					"y": 715.6800000000001,
+					"width": 47.79000000000014,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						339.84,
+						76.32
+					],
+					"font": {
+						"size": 9,
+						"name": "DCFKYW+TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 727.44,
+					"width": 0,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						72,
+						64.56
+					],
+					"font": {
+						"size": 9,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.ftc.gov/os/adjpro/d9302/070205harbourstmnt.pdf.",
+					"x": 72,
+					"y": 727.44,
+					"width": 247.17,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						72,
+						64.56
+					],
+					"font": {
+						"size": 9,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 275.28,
+					"y": 753.36,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						275.28,
+						38.64
+					],
+					"font": {
+						"size": 12,
+						"name": "IVUCAU+TimesNewRoman,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.677,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Page 1 of 23",
+					"x": 275.28,
+					"y": 753.36,
+					"width": 61.656,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						275.28,
+						38.64
+					],
+					"font": {
+						"size": 12,
+						"name": "IVUCAU+TimesNewRoman,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.677,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "I.",
+					"x": 72,
+					"y": 83.51999999999998,
+					"width": 7.728000000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						708.48
+					],
+					"font": {
+						"size": 12,
+						"name": "IVUCAU+TimesNewRoman,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.677,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 79.72800000000001,
+					"y": 83.51999999999998,
+					"width": 28.27199999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						79.72800000000001,
+						708.48
+					],
+					"font": {
+						"size": 12,
+						"name": "IVUCAU+TimesNewRoman,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.677,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "INTRODUCTION",
+					"x": 108,
+					"y": 83.51999999999998,
+					"width": 96.13200000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						708.48
+					],
+					"font": {
+						"size": 12,
+						"name": "IVUCAU+TimesNewRoman,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.677,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 111.60000000000002,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						680.4
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Good afternoon. Thank you for your kind introduction, and for inviting me to participate",
+					"x": 108,
+					"y": 111.60000000000002,
+					"width": 427.7279999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						680.4
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "in this conference. It is my pleasure to join you today.",
+					"x": 72,
+					"y": 139.91999999999996,
+					"width": 259.72799999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						652.08
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "I have served as an FTC Commissioner for almost four years now. Throughout my term,",
+					"x": 108,
+					"y": 168.24,
+					"width": 426.8759999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						623.76
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "I have devoted a great deal of attention to issues at the intersection of intellectual property and",
+					"x": 72,
+					"y": 196.55999999999995,
+					"width": 451.46400000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						595.44
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "competition law. The Commission’s unanimous",
+					"x": 72,
+					"y": 224.88,
+					"width": 233.50800000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						567.12
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 305.50800000000004,
+					"y": 224.88,
+					"width": 2.891999999999939,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						305.50800000000004,
+						567.12
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Rambus",
+					"x": 308.4,
+					"y": 224.88,
+					"width": 38.96400000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						308.4,
+						567.12
+					],
+					"font": {
+						"size": 12,
+						"name": "DCFKYW+TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 347.364,
+					"y": 224.88,
+					"width": 2.6760000000000446,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						347.364,
+						567.12
+					],
+					"font": {
+						"size": 12,
+						"name": "DCFKYW+TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "liability decision,",
+					"x": 350.04,
+					"y": 224.88,
+					"width": 83.34,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						350.04,
+						567.12
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "1",
+					"x": 433.08,
+					"y": 220.08000000000004,
+					"width": 3.48,
+					"height": 6.96,
+					"transform": [
+						6.96,
+						0,
+						0,
+						6.96,
+						433.08,
+						571.92
+					],
+					"font": {
+						"size": 6.96,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 436.56,
+					"y": 220.08000000000004,
+					"width": 3.1200000000000045,
+					"height": 6.96,
+					"transform": [
+						6.96,
+						0,
+						0,
+						6.96,
+						436.56,
+						571.92
+					],
+					"font": {
+						"size": 6.96,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "issued last August",
+					"x": 439.68,
+					"y": 224.88,
+					"width": 87.21599999999988,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						439.68,
+						567.12
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "under my authorship, is one particularly noteworthy example.",
+					"x": 72,
+					"y": 253.20000000000005,
+					"width": 295.272,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						538.8
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "But I am not going to talk about standard-setting today. I will leave that discussion to",
+					"x": 108,
+					"y": 281.52,
+					"width": 411.168,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						510.48
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "tomorrow morning’s panelists – other than to put in a shameless plug, before a captive audience,",
+					"x": 72,
+					"y": 309.84,
+					"width": 463.0799999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						482.16
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for my dissenting statement on remedy in",
+					"x": 72,
+					"y": 338.16,
+					"width": 198.804,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						453.84
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 270.8040000000001,
+					"y": 338.16,
+					"width": 2.5559999999999263,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						270.8040000000001,
+						453.84
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Rambus",
+					"x": 273.36,
+					"y": 338.16,
+					"width": 38.664,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						273.36,
+						453.84
+					],
+					"font": {
+						"size": 12,
+						"name": "DCFKYW+TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ". The statement is available on the",
+					"x": 312,
+					"y": 338.16,
+					"width": 166.64400000000003,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						312,
+						453.84
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Commission’s website.",
+					"x": 72,
+					"y": 366.48,
+					"width": 112.00800000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						425.52
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "2",
+					"x": 184.08,
+					"y": 361.68,
+					"width": 3.48,
+					"height": 6.96,
+					"transform": [
+						6.96,
+						0,
+						0,
+						6.96,
+						184.08,
+						430.32
+					],
+					"font": {
+						"size": 6.96,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 394.8,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						397.2
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "When I accepted this invitation, I was determined to talk about something a little off the",
+					"x": 108,
+					"y": 394.8,
+					"width": 422.00399999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						397.2
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "beaten path – something that would be thought-provoking for this highly skilled audience.",
+					"x": 72,
+					"y": 423.12,
+					"width": 431.928,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						368.88
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "I decided I would share what I have learned thus far about so-called “generic biologics” – also",
+					"x": 72,
+					"y": 451.44,
+					"width": 450.88800000000015,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						340.56
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "known as “follow-on” biologics, or FOBs. (As I will explain in a moment, the two terms are not",
+					"x": 72,
+					"y": 479.76,
+					"width": 463.7879999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						312.24
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "necessarily interchangeable, but for now I will use them that way.) I believe you will be hearing",
+					"x": 72,
+					"y": 508.08,
+					"width": 461.1,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						283.92
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "even more about generic biologics in the future. And what you hear may have a lot of rhetoric",
+					"x": 72,
+					"y": 536.4,
+					"width": 452.58,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						255.6
+					],
+					"font": {
+						"size": 12,
+						"name": "QDAZTR+TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.693,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "5R",
+					"rect": [
+						122,
+						111,
+						392,
+						121
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"url": "http://www.ftc.gov/os/adjpro/d9302/060802commissionopinion.pdf",
+					"unsafeUrl": "http://www.ftc.gov/os/adjpro/d9302/060802commissionopinion.pdf",
+					"overlaidText": "http://www.ftc.gov/os/adjpro/d9302/060802commissionopinion.pdf",
+					"x": 392,
+					"y": 121
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "6R",
+					"rect": [
+						72,
+						64,
+						316,
+						74
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"url": "http://www.ftc.gov/os/adjpro/d9302/070205harbourstmnt.pdf",
+					"unsafeUrl": "http://www.ftc.gov/os/adjpro/d9302/070205harbourstmnt.pdf",
+					"overlaidText": "http://www.ftc.gov/os/adjpro/d9302/070205harbourstmnt.pdf",
+					"x": 316,
+					"y": 74
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"75244f095bfc447370d65e2143ae1f65"
+		]
+	}
+}

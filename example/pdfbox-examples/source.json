@@ -1,0 +1,5893 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Creator": "Exstream Dialogue Version 6.1.001",
+			"CreationDate": "8/2/2007 13:49:06",
+			"Author": "Registered to: DEV     ",
+			"Title": "GE Application"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Testing object",
+					"x": 59.76,
+					"y": 489.44,
+					"width": 67.79005423199999,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						59.76,
+						352.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Rounded shape - text",
+					"x": 42.72,
+					"y": 513.44,
+					"width": 101.680081344,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						42.72,
+						328.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "box",
+					"x": 85.2,
+					"y": 525.44,
+					"width": 17.780014224,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						85.2,
+						316.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 102.98001422399999,
+					"y": 525.44,
+					"width": 401.91660740000003,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						102.98001422399999,
+						316.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Testing object",
+					"x": 199.44,
+					"y": 522.56,
+					"width": 67.790054232,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						199.44,
+						319.44
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Circle converted to",
+					"x": 188.4,
+					"y": 534.56,
+					"width": 90.58007246399997,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						188.4,
+						307.44
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "text box",
+					"x": 214.56,
+					"y": 546.56,
+					"width": 38.34003067200001,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						214.56,
+						295.44
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 48.72,
+					"y": 624.8,
+					"width": 0,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						48.72,
+						217.2
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Table with rounded corners",
+					"x": 48.72,
+					"y": 624.8,
+					"width": 110.25008820000002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						48.72,
+						217.2
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Table with double lines",
+					"x": 48.72,
+					"y": 660.8,
+					"width": 94.16007532799999,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						48.72,
+						181.2
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Další nehoda kamionu uzavřela na větší část odpoledne úsek dálnice D1 z Brna na",
+					"x": 111.6,
+					"y": 40.16000000000008,
+					"width": 391.25031299999995,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						111.6,
+						801.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Kroměříž.",
+					"x": 111.6,
+					"y": 52.16000000000008,
+					"width": 46.120036896,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						111.6,
+						789.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 111.6,
+					"y": 72.32000000000005,
+					"width": 0,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						111.6,
+						769.68
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Ruská expedice Arktika 2007 dosáhla dna Severního ledového oceánu pod",
+					"x": 111.6,
+					"y": 72.32000000000005,
+					"width": 374.70029975999967,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						111.6,
+						769.68
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "severním pólem. Podle agentury Itar-tass.",
+					"x": 111.6,
+					"y": 84.56000000000006,
+					"width": 213.57017085599998,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						111.6,
+						757.4399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 111.6,
+					"y": 104,
+					"width": 0,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						111.6,
+						738
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana_Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Testovací",
+					"x": 111.6,
+					"y": 104,
+					"width": 53.30004264,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						111.6,
+						738
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana_Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 164.90004263999995,
+					"y": 104,
+					"width": 77.91648900000018,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						164.90004263999995,
+						738
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana_Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Dokument",
+					"x": 183.6,
+					"y": 104,
+					"width": 57.900046319999994,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						183.6,
+						738
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana_Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 241.50004631999997,
+					"y": 104,
+					"width": 58.74980700000012,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						241.50004631999997,
+						738
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana_Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tabulky and",
+					"x": 255.6,
+					"y": 104,
+					"width": 68.46005476799996,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						738
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana_Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 324.06005476800004,
+					"y": 104,
+					"width": 145.74977179999968,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						324.06005476800004,
+						738
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana_Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Frames",
+					"x": 359.03999999999996,
+					"y": 104,
+					"width": 41.30003304,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						359.03999999999996,
+						738
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana_Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 111.6,
+					"y": 121.04000000000008,
+					"width": 0,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Z",
+					"x": 111.6,
+					"y": 121.04000000000008,
+					"width": 5.479994520000001,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 117.07999451999999,
+					"y": 121.04000000000008,
+					"width": 23.166689500000064,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						117.07999451999999,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "a",
+					"x": 122.64,
+					"y": 121.04000000000008,
+					"width": 4.807995192000001,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						122.64,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 127.44799519200001,
+					"y": 121.04000000000008,
+					"width": 21.966686699999965,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						127.44799519200001,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "t",
+					"x": 132.72,
+					"y": 121.04000000000008,
+					"width": 3.1519968480000005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						132.72,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 135.87199684799998,
+					"y": 121.04000000000008,
+					"width": 22.86667980000002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						135.87199684799998,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "í",
+					"x": 141.35999999999999,
+					"y": 121.04000000000008,
+					"width": 2.191997808,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						141.35999999999999,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 143.55199780799998,
+					"y": 121.04000000000008,
+					"width": 22.866675800000046,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						143.55199780799998,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "m",
+					"x": 149.04,
+					"y": 121.04000000000008,
+					"width": 7.7839922160000015,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						149.04,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 156.823992216,
+					"y": 121.04000000000008,
+					"width": 21.56669910000003,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						156.823992216,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "c",
+					"x": 162,
+					"y": 121.04000000000008,
+					"width": 4.167995832000001,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						162,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 166.16799583199997,
+					"y": 121.04000000000008,
+					"width": 22.633350700000086,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						166.16799583199997,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "o",
+					"x": 171.6,
+					"y": 121.04000000000008,
+					"width": 4.855995144,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						171.6,
+						720.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ně které",
+					"x": 111.6,
+					"y": 130.64,
+					"width": 31.64799523200002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						711.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 143.247995232,
+					"y": 130.64,
+					"width": 34.133353200000016,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						143.247995232,
+						711.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "banky",
+					"x": 151.44,
+					"y": 130.64,
+					"width": 24.895995263999982,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						151.44,
+						711.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "český",
+					"x": 111.6,
+					"y": 140.24,
+					"width": 22.487981591999997,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						701.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 134.08798159199998,
+					"y": 140.24,
+					"width": 24.300076700000044,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						134.08798159199998,
+						701.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "bankovní",
+					"x": 139.92,
+					"y": 140.24,
+					"width": 36.43996356,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						139.92,
+						701.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "trh",
+					"x": 111.6,
+					"y": 149.84000000000003,
+					"width": 11.783994935999978,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						692.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 123.383994936,
+					"y": 149.84000000000003,
+					"width": 38.900021100000025,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						123.383994936,
+						692.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "definitivně",
+					"x": 132.72,
+					"y": 149.84000000000003,
+					"width": 42.29599658400006,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						132.72,
+						692.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "opouště jí,",
+					"x": 111.6,
+					"y": 159.44000000000005,
+					"width": 41.31199708800007,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						682.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 152.911997088,
+					"y": 159.44000000000005,
+					"width": 33.8666788,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						152.911997088,
+						682.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "jiné",
+					"x": 161.04,
+					"y": 159.44000000000005,
+					"width": 15.327995232,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						161.04,
+						682.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "s e",
+					"x": 111.6,
+					"y": 169.04000000000008,
+					"width": 11.967995232000002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						672.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 123.567995232,
+					"y": 169.04000000000008,
+					"width": 45.13335320000002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						123.567995232,
+						672.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "n a",
+					"x": 134.4,
+					"y": 169.04000000000008,
+					"width": 12.72799519199999,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						134.4,
+						672.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 147.12799519200001,
+					"y": 169.04000000000008,
+					"width": 44.96668669999989,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						147.12799519200001,
+						672.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "n ě j",
+					"x": 157.92,
+					"y": 169.04000000000008,
+					"width": 18.59199724799998,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						157.92,
+						672.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "naopak",
+					"x": 111.6,
+					"y": 178.64,
+					"width": 29.255970744000006,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						663.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 140.855970744,
+					"y": 178.64,
+					"width": 39.10012189999996,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						140.855970744,
+						663.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "hrnou.",
+					"x": 150.23999999999998,
+					"y": 178.64,
+					"width": 26.375973624,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						150.23999999999998,
+						663.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "V",
+					"x": 111.6,
+					"y": 188.24,
+					"width": 5.471994528,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						653.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 117.07199452799999,
+					"y": 188.24,
+					"width": 45.20002280000005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						117.07199452799999,
+						653.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Č e sk u",
+					"x": 127.92,
+					"y": 188.24,
+					"width": 27.863994936000047,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						127.92,
+						653.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 155.783994936,
+					"y": 188.24,
+					"width": 44.90002110000002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						155.783994936,
+						653.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "s e",
+					"x": 166.56,
+					"y": 188.24,
+					"width": 9.80799523200002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						166.56,
+						653.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "hodlá",
+					"x": 111.6,
+					"y": 197.84000000000003,
+					"width": 22.80799519200002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						644.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 134.40799519200002,
+					"y": 197.84000000000003,
+					"width": 33.96668669999995,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						134.40799519200002,
+						644.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "prosadit",
+					"x": 142.56,
+					"y": 197.84000000000003,
+					"width": 33.87199684800001,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						142.56,
+						644.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "n o vá",
+					"x": 111.6,
+					"y": 207.44000000000005,
+					"width": 22.087995192000015,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						634.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 133.68799519200002,
+					"y": 207.44000000000005,
+					"width": 44.96668669999989,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						133.68799519200002,
+						634.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "b a n ka .",
+					"x": 144.48,
+					"y": 207.44000000000005,
+					"width": 31.95199708799996,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						144.48,
+						634.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "P ři c h á z í",
+					"x": 111.6,
+					"y": 217.04000000000008,
+					"width": 49.95199780800002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						624.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 161.55199780799998,
+					"y": 217.04000000000008,
+					"width": 44.86667580000005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						161.55199780799998,
+						624.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "z",
+					"x": 172.32,
+					"y": 217.04000000000008,
+					"width": 4.1999958,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						172.32,
+						624.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Polska",
+					"x": 111.6,
+					"y": 226.64,
+					"width": 25.583974416000004,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						615.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 137.18397441599998,
+					"y": 226.64,
+					"width": 31.400106600000065,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						137.18397441599998,
+						615.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "a",
+					"x": 144.72,
+					"y": 226.64,
+					"width": 4.807995192000001,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						144.72,
+						615.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 149.527995192,
+					"y": 226.64,
+					"width": 30.966686700000068,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						149.527995192,
+						615.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "měla",
+					"x": 156.96,
+					"y": 226.64,
+					"width": 18.199981800000003,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						156.96,
+						615.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "by být zajímavá",
+					"x": 111.6,
+					"y": 236.24,
+					"width": 65.12796391200001,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						605.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "p ře d e v š í m",
+					"x": 111.6,
+					"y": 245.84000000000003,
+					"width": 64.90399221600005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						596.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "c e n o v ě .",
+					"x": 111.6,
+					"y": 255.44000000000005,
+					"width": 48.51199708799998,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						586.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 160.11199708799998,
+					"y": 255.44000000000005,
+					"width": 44.86667880000006,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						160.11199708799998,
+						586.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "S",
+					"x": 170.88,
+					"y": 255.44000000000005,
+					"width": 5.471994528,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						170.88,
+						586.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "k",
+					"x": 111.6,
+					"y": 265.0400000000001,
+					"width": 4.7359952640000005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 116.33599526399999,
+					"y": 265.0400000000001,
+					"width": 26.266686400000044,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						116.33599526399999,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "l",
+					"x": 122.64,
+					"y": 265.0400000000001,
+					"width": 2.191997808,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						122.64,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 124.83199780799998,
+					"y": 265.0400000000001,
+					"width": 26.866675800000078,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						124.83199780799998,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "i",
+					"x": 131.28,
+					"y": 265.0400000000001,
+					"width": 2.191997808,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						131.28,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 133.47199780799997,
+					"y": 265.0400000000001,
+					"width": 25.86667580000016,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						133.47199780799997,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "e",
+					"x": 139.68,
+					"y": 265.0400000000001,
+					"width": 4.7679952320000005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						139.68,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 144.447995232,
+					"y": 265.0400000000001,
+					"width": 26.133353199999952,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						144.447995232,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "n",
+					"x": 150.72,
+					"y": 265.0400000000001,
+					"width": 5.063994936,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						150.72,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 155.783994936,
+					"y": 265.0400000000001,
+					"width": 26.900021099999925,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						155.783994936,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "t",
+					"x": 162.23999999999998,
+					"y": 265.0400000000001,
+					"width": 3.1519968480000005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						162.23999999999998,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 165.391996848,
+					"y": 265.0400000000001,
+					"width": 25.866679800000014,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						165.391996848,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "y",
+					"x": 171.6,
+					"y": 265.0400000000001,
+					"width": 4.7359952640000005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						171.6,
+						576.9599999999999
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "k o m u n i k u j e",
+					"x": 111.6,
+					"y": 274.64,
+					"width": 64.76799523200002,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						567.36
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "p ř",
+					"x": 111.6,
+					"y": 284.24,
+					"width": 12.007993991999992,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						557.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "e v áž n ě",
+					"x": 121.92,
+					"y": 284.24,
+					"width": 31.495996584000025,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						121.92,
+						557.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 153.415996584,
+					"y": 284.24,
+					"width": 50.76668089999998,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						153.415996584,
+						557.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "n a",
+					"x": 165.6,
+					"y": 284.24,
+					"width": 10.807995192,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						165.6,
+						557.76
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "dálku.",
+					"x": 111.6,
+					"y": 293.84000000000003,
+					"width": 24.695975304000005,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						548.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 136.29597530399997,
+					"y": 293.84000000000003,
+					"width": 27.100102900000067,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						136.29597530399997,
+						548.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Jmenuje",
+					"x": 142.79999999999998,
+					"y": 293.84000000000003,
+					"width": 33.83996616,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						142.79999999999998,
+						548.16
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "se mBank.",
+					"x": 111.6,
+					"y": 303.44000000000005,
+					"width": 42.54395745600001,
+					"height": 7.999992,
+					"transform": [
+						7.999992,
+						0,
+						0,
+						7.999992,
+						111.6,
+						538.56
+					],
+					"font": {
+						"size": 7.999992,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 255.6,
+					"y": 123.44000000000005,
+					"width": 0,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						718.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "I n t e r n e t o v á",
+					"x": 255.6,
+					"y": 123.44000000000005,
+					"width": 96.25000480800006,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						718.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "mBank",
+					"x": 255.6,
+					"y": 135.68000000000006,
+					"width": 34.85002788,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						706.3199999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 290.45002787999994,
+					"y": 135.68000000000006,
+					"width": 52.791550500000284,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						290.45002787999994,
+						706.3199999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "(retailová",
+					"x": 303.12,
+					"y": 135.68000000000006,
+					"width": 48.20003856,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						303.12,
+						706.3199999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "součást BRE Bank)",
+					"x": 255.6,
+					"y": 147.92000000000007,
+					"width": 95.900023728,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						694.0799999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "funguje",
+					"x": 255.6,
+					"y": 160.16000000000008,
+					"width": 38.140030511999996,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						681.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 293.7400305119999,
+					"y": 160.16000000000008,
+					"width": 42.083206200000234,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						293.7400305119999,
+						681.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "v",
+					"x": 303.84,
+					"y": 160.16000000000008,
+					"width": 5.920004736,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						303.84,
+						681.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 309.760004736,
+					"y": 160.16000000000008,
+					"width": 39.33331360000002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						309.760004736,
+						681.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Polsku",
+					"x": 319.2,
+					"y": 160.16000000000008,
+					"width": 32.30002584,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						319.2,
+						681.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "s ed m",
+					"x": 255.6,
+					"y": 172.39999999999998,
+					"width": 30.61000778400006,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 286.21000778399997,
+					"y": 172.39999999999998,
+					"width": 65.4583009000002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						286.21000778399997,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "l e t .",
+					"x": 301.92,
+					"y": 172.39999999999998,
+					"width": 19.720002912000012,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						301.92,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 321.640002912,
+					"y": 172.39999999999998,
+					"width": 64.83332119999996,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						321.640002912,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "N a",
+					"x": 337.2,
+					"y": 172.39999999999998,
+					"width": 14.650004807999984,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						337.2,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "tamním",
+					"x": 255.6,
+					"y": 184.64,
+					"width": 41.65000778400002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						657.36
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 297.250007784,
+					"y": 184.64,
+					"width": 48.458300900000026,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						297.250007784,
+						657.36
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "trhu",
+					"x": 308.88,
+					"y": 184.64,
+					"width": 22.650005063999973,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						308.88,
+						657.36
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 331.53000506399997,
+					"y": 184.64,
+					"width": 48.6249789000001,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						331.53000506399997,
+						657.36
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "si",
+					"x": 343.2,
+					"y": 184.64,
+					"width": 8.500002191999979,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						343.2,
+						657.36
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "své",
+					"x": 255.6,
+					"y": 196.88,
+					"width": 17.090013672,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						645.12
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 272.69001367199996,
+					"y": 196.88,
+					"width": 38.79160970000015,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						272.69001367199996,
+						645.12
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "klienty",
+					"x": 282,
+					"y": 196.88,
+					"width": 33.550026839999994,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						282,
+						645.12
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 315.5500268399999,
+					"y": 196.88,
+					"width": 40.208221500000484,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						315.5500268399999,
+						645.12
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "našla",
+					"x": 325.2,
+					"y": 196.88,
+					"width": 26.30002104,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						325.2,
+						645.12
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "poměrně",
+					"x": 255.6,
+					"y": 209.12,
+					"width": 41.170032936,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 296.770032936,
+					"y": 209.12,
+					"width": 45.4581961,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						296.770032936,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "rychle",
+					"x": 307.68,
+					"y": 209.12,
+					"width": 30.430024344000003,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						307.68,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 338.1100243439999,
+					"y": 209.12,
+					"width": 32.20823190000033,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						338.1100243439999,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "a",
+					"x": 345.84,
+					"y": 209.12,
+					"width": 6.010004808,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						345.84,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "v",
+					"x": 255.6,
+					"y": 221.36,
+					"width": 5.920004736,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						620.64
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 261.520004736,
+					"y": 221.36,
+					"width": 65.33331360000005,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						261.520004736,
+						620.64
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "s o u č a s n o s t i",
+					"x": 277.2,
+					"y": 221.36,
+					"width": 74.50000219199988,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						277.2,
+						620.64
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "s p r a v u j e",
+					"x": 255.6,
+					"y": 233.60000000000002,
+					"width": 53.48000476800006,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						608.4
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 309.080004768,
+					"y": 233.60000000000002,
+					"width": 65.16664679999997,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						309.080004768,
+						608.4
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "1 , 8 5",
+					"x": 324.71999999999997,
+					"y": 233.60000000000002,
+					"width": 27.000005088000023,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						324.71999999999997,
+						608.4
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "m i l i o n u",
+					"x": 255.6,
+					"y": 245.84000000000003,
+					"width": 51.21000506400003,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						596.16
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 306.810005064,
+					"y": 245.84000000000003,
+					"width": 65.62497890000003,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						306.810005064,
+						596.16
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "ú č t ů",
+					"x": 322.56,
+					"y": 245.84000000000003,
+					"width": 28.870004855999994,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						322.56,
+						596.16
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(Polsko",
+					"x": 255.6,
+					"y": 258.08000000000004,
+					"width": 36.580029264000004,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						583.92
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 292.180029264,
+					"y": 258.08000000000004,
+					"width": 27.583211400000117,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						292.180029264,
+						583.92
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "má",
+					"x": 298.8,
+					"y": 258.08000000000004,
+					"width": 15.740012592,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						298.8,
+						583.92
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 314.540012592,
+					"y": 258.08000000000004,
+					"width": 27.416614200000094,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						314.540012592,
+						583.92
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "kolem",
+					"x": 321.12,
+					"y": 258.08000000000004,
+					"width": 30.420024336,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						321.12,
+						583.92
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "3 8 , 5",
+					"x": 255.6,
+					"y": 270.32000000000005,
+					"width": 29.64000508800001,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						571.68
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 285.240005088,
+					"y": 270.32000000000005,
+					"width": 65.49997880000002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						285.240005088,
+						571.68
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "m i l i o n u",
+					"x": 300.96,
+					"y": 270.32000000000005,
+					"width": 50.73000506400014,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						300.96,
+						571.68
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "obyvatel).",
+					"x": 255.6,
+					"y": 282.56000000000006,
+					"width": 50.970040776,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						559.4399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 306.5700407759999,
+					"y": 282.56000000000006,
+					"width": 25.624830100000178,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						306.5700407759999,
+						559.4399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "To je v",
+					"x": 312.71999999999997,
+					"y": 282.56000000000006,
+					"width": 39.040004735999915,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						312.71999999999997,
+						559.4399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Če c h ác h",
+					"x": 255.6,
+					"y": 294.80000000000007,
+					"width": 48.57000506400004,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						547.1999999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 304.17000506399995,
+					"y": 294.80000000000007,
+					"width": 65.62497890000027,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						304.17000506399995,
+						547.1999999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "v el m i",
+					"x": 319.92,
+					"y": 294.80000000000007,
+					"width": 31.78000219200006,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						319.92,
+						547.1999999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "d o b ře",
+					"x": 255.6,
+					"y": 307.03999999999996,
+					"width": 37.88000476800004,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						534.96
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 293.48000476799996,
+					"y": 307.03999999999996,
+					"width": 65.1666468000002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						293.48000476799996,
+						534.96
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "z n á m ý",
+					"x": 309.12,
+					"y": 307.03999999999996,
+					"width": 42.640004736000044,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						309.12,
+						534.96
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "scénář",
+					"x": 255.6,
+					"y": 319.28,
+					"width": 37.750006008000064,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						522.72
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ".",
+					"x": 290.64,
+					"y": 319.28,
+					"width": 3.640002912,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						290.64,
+						522.72
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 294.280002912,
+					"y": 319.28,
+					"width": 54.83332120000005,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						294.280002912,
+						522.72
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Podobně",
+					"x": 307.44,
+					"y": 319.28,
+					"width": 42.67000341600005,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						307.44,
+						522.72
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "rychlý",
+					"x": 255.6,
+					"y": 331.52000000000004,
+					"width": 30.390024312,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						510.47999999999996
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 285.9900243119999,
+					"y": 331.52000000000004,
+					"width": 30.37489870000035,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						285.9900243119999,
+						510.47999999999996
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "nástup",
+					"x": 293.28,
+					"y": 331.52000000000004,
+					"width": 34.05002724,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						293.28,
+						510.47999999999996
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 327.33002723999994,
+					"y": 331.52000000000004,
+					"width": 29.12488650000024,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						327.33002723999994,
+						510.47999999999996
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "zde",
+					"x": 334.32,
+					"y": 331.52000000000004,
+					"width": 17.440013952,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						334.32,
+						510.47999999999996
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "totiž",
+					"x": 255.6,
+					"y": 343.76,
+					"width": 21.940017552,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						498.24
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 277.54001755200005,
+					"y": 343.76,
+					"width": 31.583260199999806,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						277.54001755200005,
+						498.24
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "měla",
+					"x": 285.12,
+					"y": 343.76,
+					"width": 22.750018200000003,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						285.12,
+						498.24
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 307.87001819999995,
+					"y": 343.76,
+					"width": 38.20825750000007,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						307.87001819999995,
+						498.24
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "v",
+					"x": 317.03999999999996,
+					"y": 343.76,
+					"width": 5.920004736,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						317.03999999999996,
+						498.24
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 322.960004736,
+					"y": 343.76,
+					"width": 30.33331360000015,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						322.960004736,
+						498.24
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "roce",
+					"x": 330.24,
+					"y": 343.76,
+					"width": 21.510017208,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						330.24,
+						498.24
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1 9 9 7",
+					"x": 255.6,
+					"y": 356,
+					"width": 30.120005088000045,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						486
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 285.720005088,
+					"y": 356,
+					"width": 65.49997880000002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						285.720005088,
+						486
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "t e h d e j š í",
+					"x": 301.44,
+					"y": 356,
+					"width": 50.26000219200006,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						301.44,
+						486
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "novinka",
+					"x": 255.6,
+					"y": 368.24,
+					"width": 39.320031456,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						473.76
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 294.92003145599983,
+					"y": 368.24,
+					"width": 57.16653560000064,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						294.92003145599983,
+						473.76
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "–",
+					"x": 308.64,
+					"y": 368.24,
+					"width": 10.000008,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						308.64,
+						473.76
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 318.64000799999997,
+					"y": 368.24,
+					"width": 40.333300000000115,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						318.64000799999997,
+						473.76
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "čistě",
+					"x": 328.32,
+					"y": 368.24,
+					"width": 21.370017095999998,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						328.32,
+						473.76
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "i n t e r n e t o v á",
+					"x": 255.6,
+					"y": 380.48,
+					"width": 96.25000480799997,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						461.52
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "eBanka.",
+					"x": 255.6,
+					"y": 392.72,
+					"width": 40.730032584,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						255.6,
+						449.28
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "mBank",
+					"x": 433.44,
+					"y": 123.44000000000005,
+					"width": 35.92000473600004,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						718.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 469.36000473599995,
+					"y": 123.44000000000005,
+					"width": 64.33331360000003,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						469.36000473599995,
+						718.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "nenabízí",
+					"x": 484.79999999999995,
+					"y": 123.44000000000005,
+					"width": 43.300002191999944,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						484.79999999999995,
+						718.56
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "všechno,",
+					"x": 433.44,
+					"y": 135.68000000000006,
+					"width": 44.670035735999996,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						706.3199999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 478.1100357359999,
+					"y": 135.68000000000006,
+					"width": 29.87485110000042,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						478.1100357359999,
+						706.3199999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "ale",
+					"x": 485.28,
+					"y": 135.68000000000006,
+					"width": 14.710011768,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						485.28,
+						706.3199999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 499.99001176800004,
+					"y": 135.68000000000006,
+					"width": 28.708284299999796,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						499.99001176800004,
+						706.3199999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "zato",
+					"x": 506.88,
+					"y": 135.68000000000006,
+					"width": 21.270017015999997,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						506.88,
+						706.3199999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "za atraktivní ceny",
+					"x": 433.44,
+					"y": 147.92000000000007,
+					"width": 89.54007163199998,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						694.0799999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Zákazníci",
+					"x": 433.44,
+					"y": 160.16000000000008,
+					"width": 49.30000219200015,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						681.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 482.74000219199996,
+					"y": 160.16000000000008,
+					"width": 54.58332420000005,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						482.74000219199996,
+						681.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "budou",
+					"x": 495.84,
+					"y": 160.16000000000008,
+					"width": 32.25000506399989,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						495.84,
+						681.8399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "moci",
+					"x": 433.44,
+					"y": 172.39999999999998,
+					"width": 23.750019,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 457.19001899999995,
+					"y": 172.39999999999998,
+					"width": 28.04158750000004,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						457.19001899999995,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "využívat",
+					"x": 463.91999999999996,
+					"y": 172.39999999999998,
+					"width": 42.030033624,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						463.91999999999996,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 505.95003362399984,
+					"y": 172.39999999999998,
+					"width": 28.874859900000637,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						505.95003362399984,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "jak",
+					"x": 512.88,
+					"y": 172.39999999999998,
+					"width": 15.370012295999999,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						512.88,
+						669.6
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "depozitních,",
+					"x": 433.44,
+					"y": 184.64,
+					"width": 63.160002911999904,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						657.36
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 496.60000291200004,
+					"y": 184.64,
+					"width": 63.83332119999968,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						496.60000291200004,
+						657.36
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "tak",
+					"x": 511.91999999999996,
+					"y": 184.64,
+					"width": 16.240004736000056,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						511.91999999999996,
+						657.36
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "úvěr ových",
+					"x": 433.44,
+					"y": 196.88,
+					"width": 52.250023560000066,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						645.12
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 485.69002355999993,
+					"y": 196.88,
+					"width": 43.29156850000023,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						485.69002355999993,
+						645.12
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "služeb",
+					"x": 496.08,
+					"y": 196.88,
+					"width": 31.720025376000002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						496.08,
+						645.12
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "banky.",
+					"x": 433.44,
+					"y": 209.12,
+					"width": 34.05002724,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 467.49002723999985,
+					"y": 209.12,
+					"width": 27.12488650000064,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						467.49002723999985,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Chybět",
+					"x": 474,
+					"y": 209.12,
+					"width": 33.670026936000006,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						474,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 507.67002693600006,
+					"y": 209.12,
+					"width": 34.70822109999977,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						507.67002693600006,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "by",
+					"x": 516,
+					"y": 209.12,
+					"width": 12.150009719999998,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						516,
+						632.88
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "v",
+					"x": 433.44,
+					"y": 221.36,
+					"width": 5.920004736,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						620.64
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 439.36000473599995,
+					"y": 221.36,
+					"width": 26.333313600000235,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						439.36000473599995,
+						620.64
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "nabídce",
+					"x": 445.68,
+					"y": 221.36,
+					"width": 38.710030968000005,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						445.68,
+						620.64
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 484.39003096799985,
+					"y": 221.36,
+					"width": 27.70820430000048,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						484.39003096799985,
+						620.64
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "neměly",
+					"x": 491.03999999999996,
+					"y": 221.36,
+					"width": 34.95002796,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						491.03999999999996,
+						620.64
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "s p o t ře b i t e l s k é",
+					"x": 433.44,
+					"y": 233.60000000000002,
+					"width": 94.76000476799993,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						608.4
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "úvě ry,",
+					"x": 433.44,
+					"y": 245.84000000000003,
+					"width": 35.80000291200001,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						596.16
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 469.24000291199997,
+					"y": 245.84000000000003,
+					"width": 63.83332120000016,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						469.24000291199997,
+						596.16
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "kreditní",
+					"x": 484.56,
+					"y": 245.84000000000003,
+					"width": 43.54000219199993,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						484.56,
+						596.16
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "karty,",
+					"x": 433.44,
+					"y": 258.08000000000004,
+					"width": 31.72000291200002,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						583.92
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 465.160002912,
+					"y": 258.08000000000004,
+					"width": 46.833321199999986,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						465.160002912,
+						583.92
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "hypoteční",
+					"x": 476.4,
+					"y": 258.08000000000004,
+					"width": 51.700002191999914,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						476.4,
+						583.92
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "úvěry, osobní účty",
+					"x": 433.44,
+					"y": 270.32000000000005,
+					"width": 94.36001711999997,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						571.68
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "č i",
+					"x": 433.44,
+					"y": 282.56000000000006,
+					"width": 12.100002192000058,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						559.4399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 445.540002192,
+					"y": 282.56000000000006,
+					"width": 64.58332419999996,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						445.540002192,
+						559.4399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "m o ž n o s t",
+					"x": 461.03999999999996,
+					"y": 282.56000000000006,
+					"width": 67.06000315199981,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						461.03999999999996,
+						559.4399999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "i n v e s t o v a t",
+					"x": 433.44,
+					"y": 294.80000000000007,
+					"width": 65.62000315200021,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						547.1999999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 499.06000315200004,
+					"y": 294.80000000000007,
+					"width": 64.58332019999963,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						499.06000315200004,
+						547.1999999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "d o",
+					"x": 514.56,
+					"y": 294.80000000000007,
+					"width": 13.750004856000004,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						514.56,
+						547.1999999999999
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "cenných papírů.",
+					"x": 433.44,
+					"y": 307.03999999999996,
+					"width": 80.000064,
+					"height": 10.000008,
+					"transform": [
+						10.000008,
+						0,
+						0,
+						10.000008,
+						433.44,
+						534.96
+					],
+					"font": {
+						"size": 10.000008,
+						"name": "Verdana",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2099609375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"50055bf744af14012c6611fb5c3e8727"
+		]
+	}
+}

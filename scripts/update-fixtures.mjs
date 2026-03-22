@@ -9,6 +9,10 @@ const pdfDirectory = path.resolve(__dirname, "../example/");
 const passwords = {
 	"encrypted.pdf": "password",
 	"py-pdf-examples/libreoffice-writer-password.pdf": "openpassword",
+	"pdfbox-examples/PasswordSample-128bit.pdf": "owner",
+	"pdfbox-examples/PasswordSample-256bit.pdf": "user",
+	"pdfbox-examples/PasswordSample-40bit.pdf": "user",
+	"pdfbox-examples/sign_me_protected.pdf": " "
 };
 
 function findPdfs(dir, base = dir) {
@@ -28,6 +32,11 @@ function findPdfs(dir, base = dir) {
 const extract = new PDFExtract();
 const pdfFiles = findPdfs(pdfDirectory);
 
+const writeJson = (filename, data) => {
+
+}
+
+
 for (const file of pdfFiles) {
 	const options = { includeImages: true, includeAttachments: true };
 	const password = passwords[file.replaceAll(path.sep, "/")];
@@ -35,10 +44,13 @@ for (const file of pdfFiles) {
 		options.password = password;
 	}
 	const filePath = path.join(pdfDirectory, file);
+	console.log("processing:", filePath);
 	const data = await extract.extract(filePath, options);
-	delete data.filename;
-	const outputFile = path.join(pdfDirectory, file.replace(/\.pdf$/i, ".json"));
-	fs.writeFileSync(outputFile, JSON.stringify(data, null, "\t"));
-	console.log("updated:", outputFile);
+
+	const JSONFile = path.join(pdfDirectory, file.replace(/\.pdf$/i, ".json"));
+	fs.writeFileSync(JSONFile, JSON.stringify(data, null, "\t"));
+	const TXTFile = path.join(pdfDirectory, file.replace(/\.pdf$/i, ".txt"));
+	const rows = PDFExtract.utils.extractAllPagesTextRows(data.pages, 2).flat();
+	fs.writeFileSync(TXTFile, rows.map(row => row.join("")).join("\n"));
 }
 console.log("Done.");

@@ -1,0 +1,6265 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20141021221153+02'00'",
+			"Creator": "Adobe Acrobat 10.268",
+			"ModDate": "D:20141022010345+02'00'",
+			"Producer": "Adobe Acrobat 10.268"
+		},
+		"metadata": {
+			"xmp:modifydate": "2014-10-22T01:03:45+02:00",
+			"xmp:createdate": "2014-10-21T22:11:53+02:00",
+			"xmp:metadatadate": "2014-10-22T01:03:45+02:00",
+			"xmp:creatortool": "Adobe Acrobat 10.268",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:7edfa8b1-3e57-4268-948a-ad392ddc76dc",
+			"xmpmm:instanceid": "uuid:55c27ab8-79cd-4d67-9954-a9ead85b9799",
+			"pdf:producer": "Adobe Acrobat 10.268",
+			"adhocwf:state": "1",
+			"adhocwf:version": "1.1"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "PDFBox Testfiles - Forms",
+					"x": 56.6931152,
+					"y": 26.662557600000014,
+					"width": 97.35,
+					"height": 8,
+					"transform": [
+						8,
+						0,
+						0,
+						8,
+						56.6931152,
+						765.3374424
+					],
+					"font": {
+						"size": 8,
+						"name": "Arial,Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "AlignmentTest",
+					"x": 278.2204895,
+					"y": 26.662557600000014,
+					"width": 55.56,
+					"height": 8,
+					"transform": [
+						8,
+						0,
+						0,
+						8,
+						278.2204895,
+						765.3374424
+					],
+					"font": {
+						"size": 8,
+						"name": "Arial,Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Copyright © 2014 The Apache Software Foundation",
+					"x": 56.6931152,
+					"y": 770.7694912,
+					"width": 195.25900000000007,
+					"height": 8,
+					"transform": [
+						8,
+						0,
+						0,
+						8,
+						56.6931152,
+						21.230508800000003
+					],
+					"font": {
+						"size": 8,
+						"name": "Arial,Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "88R",
+					"modificationDate": "D:20141021222048+02'00'",
+					"rect": [
+						56.692,
+						723.32,
+						98.387,
+						735.32
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184640+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.0003995958095188712,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignLeft"
+					],
+					"x": 98.387,
+					"y": 735.32
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Small",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "89R",
+					"modificationDate": "D:20141021222049+02'00'",
+					"rect": [
+						56.692,
+						687.895,
+						141.179,
+						699.895
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184707+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Small"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Small"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.00014036708245868112,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignLeft-Border_Small"
+					],
+					"x": 141.179,
+					"y": 699.895
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Medium",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "90R",
+					"modificationDate": "D:20141021222049+02'00'",
+					"rect": [
+						56.692,
+						652.47,
+						149.628,
+						664.47
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184742+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Medium"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Medium"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.0001624839627893948,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignLeft-Border_Medium"
+					],
+					"x": 149.628,
+					"y": 664.47
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Wide",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "91R",
+					"modificationDate": "D:20141021222049+02'00'",
+					"rect": [
+						56.692,
+						617.045,
+						139.402,
+						629.045
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Wide"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Wide"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.0001345036566675617,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignLeft-Border_Wide"
+					],
+					"x": 139.402,
+					"y": 629.045
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "92R",
+					"modificationDate": "D:20141021222133+02'00'",
+					"rect": [
+						56.692,
+						496.6,
+						111.831,
+						508.6
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184640+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						3.450352892286901e-7,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignLeft-Filled"
+					],
+					"x": 111.831,
+					"y": 508.6
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Small-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "93R",
+					"modificationDate": "D:20141021222129+02'00'",
+					"rect": [
+						56.692,
+						461.175,
+						162.96,
+						473.175
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184707+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Small-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Small-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.0000066247854419998475,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignLeft-Border_Small-Filled"
+					],
+					"x": 162.96,
+					"y": 473.175
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Medium-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "94R",
+					"modificationDate": "D:20141021222124+02'00'",
+					"rect": [
+						56.692,
+						425.75,
+						171.41,
+						437.75
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184742+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Medium-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Medium-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.000006304672240275977,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignLeft-Border_Medium-Filled"
+					],
+					"x": 171.41,
+					"y": 437.75
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Wide-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "95R",
+					"modificationDate": "D:20141021222104+02'00'",
+					"rect": [
+						56.692,
+						390.325,
+						161.184,
+						402.325
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Wide-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Wide-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000009650847061948298,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignLeft-Border_Wide-Filled"
+					],
+					"x": 161.184,
+					"y": 402.325
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Wide_Clipped-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "96R",
+					"modificationDate": "D:20141021222104+02'00'",
+					"rect": [
+						56.692,
+						355.645,
+						161.184,
+						367.645
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Wide_Clipped-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Wide_Clipped-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000009649732533034694,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignLeft-Border_Wide_Clipped-Filled"
+					],
+					"x": 161.184,
+					"y": 367.645
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Wide_Clipped",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "97R",
+					"modificationDate": "D:20141021222049+02'00'",
+					"rect": [
+						56.692,
+						582.365,
+						161.183,
+						594.365
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Wide_Clipped"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Wide_Clipped"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.00018904453456514148,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignLeft-Border_Wide_Clipped"
+					],
+					"x": 161.183,
+					"y": 594.365
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Wide_Outside-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "98R",
+					"modificationDate": "D:20141021222104+02'00'",
+					"rect": [
+						56.692,
+						319.475,
+						161.184,
+						331.475
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Wide_Outside-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Wide_Outside-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000009650847061948298,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignLeft-Border_Wide_Outside-Filled"
+					],
+					"x": 161.184,
+					"y": 331.475
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignLeft-Border_Wide_Outside",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "99R",
+					"modificationDate": "D:20141022004822+02'00'",
+					"rect": [
+						56.692,
+						546.195,
+						161.184,
+						558.195
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignLeft-Border_Wide_Outside"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignLeft-Border_Wide_Outside"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.0000017550709543456833,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignLeft-Border_Wide_Outside"
+					],
+					"x": 161.184,
+					"y": 558.195
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "100R",
+					"modificationDate": "D:20141021231244+02'00'",
+					"rect": [
+						219.6,
+						723.32,
+						261.294,
+						735.32
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184640+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.0000012858752711508714,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignMiddle"
+					],
+					"x": 261.294,
+					"y": 735.32
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Small",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "101R",
+					"modificationDate": "D:20141021231256+02'00'",
+					"rect": [
+						219.6,
+						687.895,
+						304.086,
+						699.895
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184707+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Small"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Small"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-1.5864540614529687e-7,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignMiddle-Border_Small"
+					],
+					"x": 304.086,
+					"y": 699.895
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Medium",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "102R",
+					"modificationDate": "D:20141021231301+02'00'",
+					"rect": [
+						220.062,
+						652.47,
+						312.997,
+						664.47
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184742+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Medium"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Medium"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000005781037913266118,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignMiddle-Border_Medium"
+					],
+					"x": 312.997,
+					"y": 664.47
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Wide",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "103R",
+					"modificationDate": "D:20141021231308+02'00'",
+					"rect": [
+						219.6,
+						617.045,
+						302.309,
+						629.045
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Wide"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Wide"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						9.723237894831982e-7,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignMiddle-Border_Wide"
+					],
+					"x": 302.309,
+					"y": 629.045
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Wide_Clipped",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "104R",
+					"modificationDate": "D:20141021231318+02'00'",
+					"rect": [
+						219.6,
+						581.62,
+						324.091,
+						593.62
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Wide_Clipped"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Wide_Clipped"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000005643989538839378,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignMiddle-Border_Wide_Clipped"
+					],
+					"x": 324.091,
+					"y": 593.62
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Medium_Outside",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "105R",
+					"modificationDate": "D:20141022010323+02'00'",
+					"rect": [
+						219.6,
+						546.195,
+						327.97,
+						558.195
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Medium_Outside"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Medium_Outside"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.000005565649104255499,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignMiddle-Border_Medium_Outside"
+					],
+					"x": 327.97,
+					"y": 558.195
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "106R",
+					"modificationDate": "D:20141021231420+02'00'",
+					"rect": [
+						382.555,
+						723.32,
+						424.249,
+						735.32
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184640+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.000002240063508907042,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignRight"
+					],
+					"x": 424.249,
+					"y": 735.32
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Small",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "107R",
+					"modificationDate": "D:20141021231428+02'00'",
+					"rect": [
+						382.555,
+						687.895,
+						467.041,
+						699.895
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184707+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Small"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Small"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-2.7636895083560375e-7,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignRight-Border_Small"
+					],
+					"x": 467.041,
+					"y": 699.895
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Medium",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "108R",
+					"modificationDate": "D:20141021231434+02'00'",
+					"rect": [
+						382.555,
+						652.47,
+						475.49,
+						664.47
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184742+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Medium"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Medium"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000010049735806205717,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignRight-Border_Medium"
+					],
+					"x": 475.49,
+					"y": 664.47
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Wide",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "109R",
+					"modificationDate": "D:20141021231445+02'00'",
+					"rect": [
+						382.555,
+						617.045,
+						465.264,
+						629.045
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Wide"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Wide"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.0000016938402040977962,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignRight-Border_Wide"
+					],
+					"x": 465.264,
+					"y": 629.045
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Wide_Clipped",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "110R",
+					"modificationDate": "D:20141021231451+02'00'",
+					"rect": [
+						382.094,
+						581.62,
+						486.585,
+						593.62
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Wide_Clipped"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Wide_Clipped"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.00000982028467433338,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignRight-Border_Wide_Clipped"
+					],
+					"x": 486.585,
+					"y": 593.62
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Wide_Outside",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "111R",
+					"modificationDate": "D:20141022004805+02'00'",
+					"rect": [
+						382.555,
+						546.195,
+						487.259,
+						558.195
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Wide_Outside"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Wide_Outside"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.000008697116072653444,
+						7.26299999999992
+					],
+					"textContent": [
+						"AlignRight-Border_Wide_Outside"
+					],
+					"x": 487.259,
+					"y": 558.195
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "112R",
+					"modificationDate": "D:20141021231337+02'00'",
+					"rect": [
+						219.682,
+						496.54,
+						274.821,
+						508.54
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184640+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						2.4317330371559365e-7,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignMiddle-Filled"
+					],
+					"x": 274.821,
+					"y": 508.54
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Small-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "113R",
+					"modificationDate": "D:20141021231342+02'00'",
+					"rect": [
+						219.682,
+						461.115,
+						325.95,
+						473.115
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184707+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Small-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Small-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.0000046684612584613205,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignMiddle-Border_Small-Filled"
+					],
+					"x": 325.95,
+					"y": 473.115
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Medium-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "114R",
+					"modificationDate": "D:20141021231348+02'00'",
+					"rect": [
+						219.682,
+						425.69,
+						334.4,
+						437.69
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184742+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Medium-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Medium-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.0000044414682065507805,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignMiddle-Border_Medium-Filled"
+					],
+					"x": 334.4,
+					"y": 437.69
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Wide-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "115R",
+					"modificationDate": "D:20141021231356+02'00'",
+					"rect": [
+						219.682,
+						390.265,
+						324.174,
+						402.265
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Wide-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Wide-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000006800915429039378,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignMiddle-Border_Wide-Filled"
+					],
+					"x": 324.174,
+					"y": 402.265
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Wide_Clipped-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "116R",
+					"modificationDate": "D:20141021231403+02'00'",
+					"rect": [
+						219.682,
+						355.585,
+						327.716,
+						367.585
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Wide_Clipped-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Wide_Clipped-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000006950277111172909,
+						7.263000000000034
+					],
+					"textContent": [
+						"AlignMiddle-Border_Wide_Clipped-Filled"
+					],
+					"x": 327.716,
+					"y": 367.585
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignMiddle-Border_Wide_Outside-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "117R",
+					"modificationDate": "D:20141021231412+02'00'",
+					"rect": [
+						219.682,
+						319.415,
+						328.052,
+						331.415
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignMiddle-Border_Wide_Outside-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignMiddle-Border_Wide_Outside-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.0000055677273280707595,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignMiddle-Border_Wide_Outside-Filled"
+					],
+					"x": 328.052,
+					"y": 331.415
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "118R",
+					"modificationDate": "D:20141021231504+02'00'",
+					"rect": [
+						382.671,
+						496.54,
+						437.81,
+						508.54
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184640+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						4.235910751049232e-7,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignRight-Filled"
+					],
+					"x": 437.81,
+					"y": 508.54
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Small-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "119R",
+					"modificationDate": "D:20141021231511+02'00'",
+					"rect": [
+						382.671,
+						461.107,
+						488.939,
+						473.107
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184707+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Small-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Small-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000008132139896588342,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignRight-Border_Small-Filled"
+					],
+					"x": 488.939,
+					"y": 473.107
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Medium-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "120R",
+					"modificationDate": "D:20141021231522+02'00'",
+					"rect": [
+						382.671,
+						425.675,
+						497.389,
+						437.675
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184742+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Medium-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Medium-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.000007736733380170335,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignRight-Border_Medium-Filled"
+					],
+					"x": 497.389,
+					"y": 437.675
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Wide-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "121R",
+					"modificationDate": "D:20141021231526+02'00'",
+					"rect": [
+						382.671,
+						390.242,
+						487.163,
+						402.242
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Wide-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Wide-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000011846729023545777,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignRight-Border_Wide-Filled"
+					],
+					"x": 487.163,
+					"y": 402.242
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Wide_Clipped-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "122R",
+					"modificationDate": "D:20141021231531+02'00'",
+					"rect": [
+						382.671,
+						354.81,
+						487.163,
+						366.81
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Wide_Clipped-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Wide_Clipped-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						0.000011846729023545777,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignRight-Border_Wide_Clipped-Filled"
+					],
+					"x": 487.163,
+					"y": 366.81
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "AlignRight-Border_Wide_Outside-Filled",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "123R",
+					"modificationDate": "D:20141021231552+02'00'",
+					"rect": [
+						382.671,
+						319.377,
+						487.375,
+						331.377
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"it": "FreeTextTypewriter",
+					"titleObj": {
+						"str": "msahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20140915184805+02'00'",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {
+									"fontSize": "5.94px",
+									"textAlign": "left",
+									"color": "#000000",
+									"fontWeight": "normal",
+									"fontStyle": "normal",
+									"fontStretch": "normal"
+								},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [
+										{
+											"name": "span",
+											"attributes": {
+												"style": {
+													"lineHeight": "8.30px"
+												}
+											},
+											"children": [],
+											"value": "AlignRight-Border_Wide_Outside-Filled"
+										}
+									]
+								}
+							]
+						},
+						"str": "AlignRight-Border_Wide_Outside-Filled"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 6,
+						"fontName": "Cour",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						-0.000008699753209384653,
+						7.262999999999977
+					],
+					"textContent": [
+						"AlignRight-Border_Wide_Outside-Filled"
+					],
+					"x": 487.375,
+					"y": 331.377
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "39R",
+					"rect": [
+						56.692,
+						706.235,
+						199.849,
+						728.235
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						2.0000000324026903,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 199.849,
+					"y": 728.235
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "21R",
+					"rect": [
+						219.676,
+						706.962,
+						361.412,
+						728.962
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						20.173997077242618,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.412,
+					"y": 728.962
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "26R",
+					"rect": [
+						382.554,
+						706.98,
+						524.29,
+						728.98
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						38.347994047690065,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.29,
+					"y": 728.98
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "12R",
+					"rect": [
+						56.692,
+						670.81,
+						199.849,
+						692.81
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Small",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						2.0000000324026903,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 199.849,
+					"y": 692.81
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "22R",
+					"rect": [
+						219.599,
+						670.81,
+						361.335,
+						692.81
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Small",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						20.173997077242618,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.335,
+					"y": 692.81
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "40R",
+					"rect": [
+						382.554,
+						670.81,
+						524.29,
+						692.81
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Small",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						38.347994047690065,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.29,
+					"y": 692.81
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "13R",
+					"rect": [
+						56.692,
+						635.385,
+						199.849,
+						657.385
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Medium",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						4.000000064805381,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 199.849,
+					"y": 657.385
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "23R",
+					"rect": [
+						219.599,
+						635.385,
+						361.335,
+						657.385
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Medium",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						20.173997077242618,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.335,
+					"y": 657.385
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "27R",
+					"rect": [
+						382.554,
+						635.385,
+						524.29,
+						657.385
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Medium",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						36.3479939408949,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.29,
+					"y": 657.385
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "14R",
+					"rect": [
+						56.692,
+						599.96,
+						199.885,
+						621.96
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Wide",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.000000286435977,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 199.885,
+					"y": 621.96
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "24R",
+					"rect": [
+						219.599,
+						599.96,
+						361.335,
+						621.96
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Wide",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						20.173997077242618,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.335,
+					"y": 621.96
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "28R",
+					"rect": [
+						382.554,
+						599.96,
+						524.29,
+						621.96
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Wide",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						34.34799383409974,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.29,
+					"y": 621.96
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "15R",
+					"rect": [
+						56.692,
+						565.28,
+						199.884,
+						587.574
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Wide_Clipped",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 22,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						5.9999999437354,
+						3.655999997405961
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 199.884,
+					"y": 587.574
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "25R",
+					"rect": [
+						219.599,
+						564.241,
+						361.335,
+						586.535
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Wide_Clipped",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 22,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.000000320385496,
+						3.655999997405961
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.335,
+					"y": 586.535
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "29R",
+					"rect": [
+						382.554,
+						564.241,
+						524.29,
+						586.535
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Wide_Clipped",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 22,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.000000320385496,
+						3.655999997405961
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.29,
+					"y": 586.535
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "41R",
+					"rect": [
+						382.554,
+						528.816,
+						524.29,
+						551.11
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Wide_Outside",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 24,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.000000320385496,
+						12.63959264530994
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.29,
+					"y": 551.11
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "46R",
+					"rect": [
+						56.692,
+						528.816,
+						199.849,
+						551.11
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Small_Outside",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 24,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						2.0000000324026903,
+						2.975000316516056
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 199.849,
+					"y": 551.11
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "16R",
+					"rect": [
+						56.692,
+						479.515,
+						199.884,
+						501.515
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						1.9999999812451332,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 199.884,
+					"y": 501.515
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "17R",
+					"rect": [
+						56.6801,
+						444.09,
+						199.836,
+						466.09
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Small-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						1.9999985210627473,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 199.836,
+					"y": 466.09
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "18R",
+					"rect": [
+						56.692,
+						408.665,
+						198.422,
+						430.665
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Medium-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						4.000000120580288,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 198.422,
+					"y": 430.665
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "19R",
+					"rect": [
+						56.692,
+						373.24,
+						198.422,
+						395.24
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Wide-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.0000001808704315,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 198.422,
+					"y": 395.24
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "20R",
+					"rect": [
+						56.692,
+						338.56,
+						198.422,
+						360.854
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Wide_Clipped-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 22,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.0000001808704315,
+						3.6559998974059638
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 198.422,
+					"y": 360.854
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "44R",
+					"rect": [
+						56.692,
+						302.096,
+						198.422,
+						324.39
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignLeft-Border_Small_Outside-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 24,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						2.000000060290144,
+						2.9749999165160674
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 198.422,
+					"y": 324.39
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "47R",
+					"rect": [
+						219.682,
+						528.816,
+						361.418,
+						551.11
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Medium_Outside",
+					"fieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 24,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						4.000000213590331,
+						2.975000316516056
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.418,
+					"y": 551.11
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "34R",
+					"rect": [
+						219.682,
+						479.455,
+						362.874,
+						501.455
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						20.901999803992894,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 362.874,
+					"y": 501.455
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "30R",
+					"rect": [
+						382.671,
+						479.453,
+						525.863,
+						501.453
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						39.80399962674066,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 525.863,
+					"y": 501.453
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "35R",
+					"rect": [
+						219.682,
+						444.03,
+						362.838,
+						466.03
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Small-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						20.88399914521793,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 362.838,
+					"y": 466.03
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "31R",
+					"rect": [
+						382.671,
+						444.021,
+						525.827,
+						466.021
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Small-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						39.76799837229585,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 525.827,
+					"y": 466.021
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "36R",
+					"rect": [
+						219.682,
+						408.588,
+						361.412,
+						430.588
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Medium-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						20.171000608056247,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.412,
+					"y": 430.588
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "42R",
+					"rect": [
+						382.671,
+						408.588,
+						524.401,
+						430.588
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Medium-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						36.3420010955322,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.401,
+					"y": 430.588
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "37R",
+					"rect": [
+						219.682,
+						373.18,
+						361.412,
+						395.18
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Wide-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						20.171000608056247,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.412,
+					"y": 395.18
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "32R",
+					"rect": [
+						382.671,
+						373.156,
+						524.401,
+						395.156
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Wide-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						34.342001035242056,
+						6.914
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.401,
+					"y": 395.156
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "38R",
+					"rect": [
+						219.682,
+						337.429,
+						361.412,
+						359.723
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Wide_Clipped-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 22,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.0000001808704315,
+						3.655999897405973
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.412,
+					"y": 359.723
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "33R",
+					"rect": [
+						382.671,
+						337.429,
+						524.401,
+						359.723
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Wide_Clipped-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 22,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.000000180870431,
+						3.655999897405973
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.401,
+					"y": 359.723
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "45R",
+					"rect": [
+						219.682,
+						302.036,
+						361.412,
+						324.33
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignMiddle-Border_Middle_Outside-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 24,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						4.000000120580288,
+						2.9749999165160674
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 361.412,
+					"y": 324.33
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "43R",
+					"rect": [
+						382.671,
+						301.997,
+						524.401,
+						324.291
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "AlignRight-Border_Wide_Outside-Filled",
+					"fieldValue": "asdfASDF1234äöü",
+					"defaultFieldValue": "asdfASDF1234äöü",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 24,
+						"fontName": "Arial",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 12582912,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": true,
+					"textPosition": [
+						6.000000180870431,
+						10.799999696932279
+					],
+					"textContent": [
+						"asdfASDF1234äöü"
+					],
+					"x": 524.401,
+					"y": 324.291
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"f408fc22d6d0b442899dab86f47d68e9",
+			"ca32a6989922b54db15dea458cd1c566"
+		]
+	}
+}

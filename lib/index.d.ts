@@ -38,7 +38,6 @@ declare module "pdf.js-extract" {
   }
 
   export interface PDFExtractResult {
-    filename?: string;
     meta: PDFExtractMeta;
     pages: Array<PDFExtractPage>;
     attachments?: Array<PDFExtractAttachment>;

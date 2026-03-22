@@ -1,0 +1,72 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Producer": "Apache FOP Version svn-trunk",
+			"CreationDate": "D:20090204203430+01'00'"
+		},
+		"metadata": {
+			"dc:date": "2009-02-04T20:34:30+01:00",
+			"pdf:pdfversion": "1.4",
+			"pdf:producer": "Apache FOP Version svn-trunk",
+			"xmp:createdate": "2009-02-04T20:34:30+01:00"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "What follows is a PDF file embedded as a Form XObject using Apache FOP:",
+					"x": 56.692,
+					"y": 67.06902274000004,
+					"width": 406.82400000000035,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.692,
+						774.93097726
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"75c103b6fe97457c2233d041dc73abd5"
+		]
+	}
+}

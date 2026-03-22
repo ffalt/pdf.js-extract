@@ -1,0 +1,7272 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"Language": "en",
+			"EncryptFilterName": "Standard",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Author": "Department of Justice, U.S. Trustee Program",
+			"CreationDate": "D:20090309133508-04'00'",
+			"Creator": "PScript5.dll Version 5.2.2",
+			"Keywords": "TCI 2 Holdings, LLC, Case No.: 09-13654 (JHW)",
+			"ModDate": "D:20090309143911-04'00'",
+			"Producer": "Acrobat Distiller 9.0.0 (Windows)",
+			"Subject": "TCI 2 Holdings, LLC, Case No.: 09-13654 (JHW)",
+			"Title": "TCI 2 Holdings, LLC, Case No.: 09-13654 (JHW)"
+		},
+		"metadata": {
+			"xmp:createdate": "2009-03-09T13:35:08-04:00",
+			"xmp:creatortool": "PScript5.dll Version 5.2.2",
+			"xmp:modifydate": "2009-03-09T14:39:11-04:00",
+			"xmp:metadatadate": "2009-03-09T14:39:11-04:00",
+			"pdf:producer": "Acrobat Distiller 9.0.0 (Windows)",
+			"pdf:keywords": "TCI 2 Holdings, LLC, Case No.: 09-13654 (JHW)",
+			"dc:format": "application/pdf",
+			"dc:title": "TCI 2 Holdings, LLC, Case No.: 09-13654 (JHW)",
+			"dc:creator": [
+				"Department of Justice, U.S. Trustee Program"
+			],
+			"dc:description": "TCI 2 Holdings, LLC, Case No.: 09-13654 (JHW)",
+			"dc:subject": [
+				"TCI 2 Holdings",
+				"LLC",
+				"Case No.: 09-13654 (JHW)"
+			],
+			"xmpmm:documentid": "uuid:32a41333-b34c-4d62-9f02-55b87b00116d",
+			"xmpmm:instanceid": "uuid:7dbeaea2-e9e6-4b54-b967-e34ec25197d7"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "In Re:",
+					"x": 72,
+					"y": 47.460000000000036,
+					"width": 29.67359999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						744.54
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 101.67359999999998,
+					"y": 47.460000000000036,
+					"width": 3.527200000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						101.67359999999998,
+						744.54
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "TCI 2 Holdings, LLC, et al.",
+					"x": 144,
+					"y": 47.460000000000036,
+					"width": 140.71320000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						744.54
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Case No.: 09-13654 (JHW)",
+					"x": 144,
+					"y": 61.620000000000005,
+					"width": 136.71599999999992,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						730.38
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 180,
+					"y": 75.65999999999997,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						180,
+						716.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "See Exhibit A for List of Affiliated Debtors",
+					"x": 180,
+					"y": 75.65999999999997,
+					"width": 211.9823999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						180,
+						716.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 103.55999999999995,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						688.44
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Debtor(s)",
+					"x": 72,
+					"y": 103.55999999999995,
+					"width": 46.051199999999966,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						688.44
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 118.05119999999995,
+					"y": 103.55999999999995,
+					"width": 11.162400000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						118.05119999999995,
+						688.44
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Chapter 11",
+					"x": 252,
+					"y": 103.55999999999995,
+					"width": 53.02319999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						252,
+						688.44
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 103.62,
+					"y": 134.34000000000003,
+					"width": 0,
+					"height": 13.98,
+					"transform": [
+						13.98,
+						0,
+						0,
+						13.98,
+						103.62,
+						657.66
+					],
+					"font": {
+						"size": 13.98,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NOTICE OF MEETING OF LARGEST UNSECURED CREDITORS",
+					"x": 103.62,
+					"y": 134.34000000000003,
+					"width": 404.7531540000002,
+					"height": 13.98,
+					"transform": [
+						13.98,
+						0,
+						0,
+						13.98,
+						103.62,
+						657.66
+					],
+					"font": {
+						"size": 13.98,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 177.65999999999997,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						614.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The above-referenced debtor(s) is the subject of a pending case under Chapter 11 of the",
+					"x": 108,
+					"y": 177.65999999999997,
+					"width": 421.14479999999924,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						614.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Bankruptcy Code.",
+					"x": 72,
+					"y": 191.64,
+					"width": 87.37440000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						600.36
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 219.60000000000002,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						572.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Pursuant to Bankruptcy Code Section 1102, the United States Trustee seeks to appoint a",
+					"x": 108,
+					"y": 219.60000000000002,
+					"width": 423.8184000000008,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						572.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "committee representative of the unsecured creditors listed in the case. According to information",
+					"x": 72,
+					"y": 233.58000000000004,
+					"width": 463.11960000000045,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						558.42
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "supplied to our Office, it appears that you may be one of the largest unsecured creditors.",
+					"x": 72,
+					"y": 247.56000000000006,
+					"width": 424.08959999999945,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						544.4399999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 275.5200000000001,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						516.4799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "An organizational meeting for the purpose of forming an Official Unsecured Creditors'",
+					"x": 108,
+					"y": 275.5200000000001,
+					"width": 417.49319999999915,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						516.4799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Committee has been scheduled for:",
+					"x": 72,
+					"y": 289.5000000000001,
+					"width": 169.32719999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						502.4999999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 144,
+					"y": 324.72000000000014,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						467.27999999999986
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Date:",
+					"x": 144,
+					"y": 324.72000000000014,
+					"width": 27.998400000000025,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						467.27999999999986
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 171.99840000000003,
+					"y": 324.72000000000014,
+					"width": 3.666799999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						171.99840000000003,
+						467.27999999999986
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Friday, March 13, 2009 at 2:00 p.m.",
+					"x": 216,
+					"y": 324.72000000000014,
+					"width": 184.07280000000023,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216,
+						467.27999999999986
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 144,
+					"y": 345.78000000000014,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						446.21999999999986
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Location:",
+					"x": 144,
+					"y": 345.78000000000014,
+					"width": 49.399199999999965,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						446.21999999999986
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 193.39919999999998,
+					"y": 345.78000000000014,
+					"width": 1.887400000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						193.39919999999998,
+						446.21999999999986
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "United States Trustee’s Office",
+					"x": 216.048,
+					"y": 345.78000000000014,
+					"width": 153.81839999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216.048,
+						446.21999999999986
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "One Newark Center, 21",
+					"x": 216,
+					"y": 359.82000000000016,
+					"width": 121.32000000000009,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216,
+						432.17999999999984
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "st ",
+					"x": 337.32,
+					"y": 355.08,
+					"width": 8.220000000000034,
+					"height": 7.2,
+					"transform": [
+						7.2,
+						0,
+						0,
+						7.2,
+						337.32,
+						436.92
+					],
+					"font": {
+						"size": 7.2,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Floor, Room 2106",
+					"x": 345.54,
+					"y": 359.82,
+					"width": 91.67159999999978,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						345.54,
+						432.18
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Newark, NJ 07102",
+					"x": 216.00000000000003,
+					"y": 373.86,
+					"width": 94.25159999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216.00000000000003,
+						418.14
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108.00000000000003,
+					"y": 401.7,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108.00000000000003,
+						390.3
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The United States Trustee seeks to appoint a Committee in this case consisting of",
+					"x": 108.00000000000003,
+					"y": 401.7,
+					"width": 391.39919999999887,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108.00000000000003,
+						390.3
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "creditors who are willing to serve on such Committee. To be considered for appointment on this",
+					"x": 72.00000000000003,
+					"y": 415.68,
+					"width": 464.6111999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						376.32
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Committee, you must complete and submit the annexed Questionnaire to this office via facsimile",
+					"x": 72.00000000000003,
+					"y": 429.66,
+					"width": 466.0559999999989,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						362.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "at (973) 645-5993. It is important that you personally attend the formation meeting, as personal",
+					"x": 72.00000000000003,
+					"y": 443.64000000000004,
+					"width": 460.73759999999885,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						348.35999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "attendance will be considered in appointing members to the Committee, should one be formed.",
+					"x": 72.00000000000003,
+					"y": 457.62000000000006,
+					"width": 455.8031999999989,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						334.37999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108.00000000000003,
+					"y": 485.58000000000004,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108.00000000000003,
+						306.41999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "If you wish to serve on the Committee, but due to extraordinary circumstances are unable",
+					"x": 108.00000000000003,
+					"y": 485.58000000000004,
+					"width": 429.8771999999993,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108.00000000000003,
+						306.41999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "to attend the meeting, you must provide a written explanation of the reason(s) for your inability",
+					"x": 72.00000000000003,
+					"y": 499.56000000000006,
+					"width": 458.49359999999865,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						292.43999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "to attend prior to the date set for the formation meeting along with the completed Questionnaire.",
+					"x": 72.00000000000003,
+					"y": 513.5400000000001,
+					"width": 462.47880000000066,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						278.4599999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "If your attorney or someone else representing you will attend the meeting in your place, such",
+					"x": 72.00000000000003,
+					"y": 527.5200000000001,
+					"width": 446.4431999999991,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						264.4799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "person must submit your written proxy authorizing him or her to act on your behalf before the",
+					"x": 72.00000000000003,
+					"y": 541.5000000000001,
+					"width": 451.5743999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						250.49999999999991
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "meeting, together with your completed Questionnaire and written statement explaining why you",
+					"x": 72.00000000000003,
+					"y": 555.48,
+					"width": 461.7119999999988,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						236.51999999999992
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "are unable to attend personally. In no event will anyone be selected to serve on the Committee",
+					"x": 72.00000000000003,
+					"y": 569.46,
+					"width": 455.779199999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						222.53999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "who has not completed a Questionnaire prior to the conclusion of the scheduled formation",
+					"x": 72.00000000000003,
+					"y": 583.44,
+					"width": 433.32959999999923,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						208.55999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "meeting.",
+					"x": 72.00000000000003,
+					"y": 597.4200000000001,
+					"width": 41.64,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						194.57999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108.00000000000003,
+					"y": 625.3800000000001,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108.00000000000003,
+						166.61999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The Unsecured Creditors' Committee has a vital role in Chapter 11 proceedings and for",
+					"x": 108.00000000000003,
+					"y": 625.3800000000001,
+					"width": 419.3963999999992,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108.00000000000003,
+						166.61999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "that reason your interest and consideration is solicited.",
+					"x": 72.00000000000003,
+					"y": 639.36,
+					"width": 261.82920000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						152.63999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00000000000003,
+					"y": 695.2800000000001,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						96.71999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Dated: March 9, 2009",
+					"x": 72.00000000000003,
+					"y": 695.2800000000001,
+					"width": 106.37279999999993,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						96.71999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00000000000003,
+					"y": 723.24,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						68.75999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "cc:",
+					"x": 72.00000000000003,
+					"y": 723.24,
+					"width": 14.006399999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72.00000000000003,
+						68.75999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 86.00640000000003,
+					"y": 723.24,
+					"width": 1.8318,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						86.00640000000003,
+						68.75999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Counsel for Debtor(s):",
+					"x": 107.98800000000003,
+					"y": 723.24,
+					"width": 108.78480000000019,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						107.98800000000003,
+						68.75999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 216.77280000000033,
+					"y": 723.24,
+					"width": 2.935600000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216.77280000000033,
+						68.75999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Charles A. Stanziale, Jr., Esq.",
+					"x": 252.00000000000034,
+					"y": 723.24,
+					"width": 143.16720000000026,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						252.00000000000034,
+						68.75999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Case Attorney:",
+					"x": 108.00000000000003,
+					"y": 737.22,
+					"width": 72.36720000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108.00000000000003,
+						54.77999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 180.36720000000014,
+					"y": 737.22,
+					"width": 5.965399999999991,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						180.36720000000014,
+						54.77999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Jeffrey M. Sponder, Esq.",
+					"x": 251.95200000000003,
+					"y": 737.22,
+					"width": 120.04800000000012,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						251.95200000000003,
+						54.77999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "CREDITORS' COMMITTEE INFORMATION SHEET",
+					"x": 131.4,
+					"y": 50.15999999999997,
+					"width": 349.20600000000024,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						131.4,
+						741.84
+					],
+					"font": {
+						"size": 15,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 82.08000000000004,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						709.92
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Chapter 11 Proceedings Generally",
+					"x": 72,
+					"y": 82.08000000000004,
+					"width": 165.16200000000018,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						709.92
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 237.16200000000026,
+					"y": 82.08000000000004,
+					"width": 0.25149999999997874,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						237.16200000000026,
+						709.92
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "— After the commencement of a Chapter 11 bankruptcy case,",
+					"x": 240.18,
+					"y": 82.08000000000004,
+					"width": 297.9756000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						240.18,
+						709.92
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the debtor continues to operate its business as a \"debtor in possession,\" unless it is subsequently",
+					"x": 72,
+					"y": 96.06000000000006,
+					"width": 460.6644000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						695.9399999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "shown that a trustee should be appointed. Most actions to recover or enforce pre-bankruptcy",
+					"x": 72,
+					"y": 110.04000000000008,
+					"width": 446.2727999999988,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						681.9599999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "claims against the debtor are automatically stayed under Bankruptcy Code Section 362.",
+					"x": 72,
+					"y": 124.0200000000001,
+					"width": 420.4247999999992,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						667.9799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 151.98000000000013,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						640.0199999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Bankruptcy Code Section 1121 states that the debtor has the exclusive right to file a plan",
+					"x": 108,
+					"y": 151.98000000000013,
+					"width": 426.9983999999988,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						640.0199999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "of reorganization for 120 days after the entry of the order for relief, unless the bankruptcy court",
+					"x": 72,
+					"y": 165.96000000000015,
+					"width": 458.8967999999992,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						626.0399999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "approves a longer or shorter exclusivity period. Following the expiration of this period, or if",
+					"x": 72,
+					"y": 179.94000000000017,
+					"width": 445.7159999999988,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						612.0599999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "certain other conditions are met, any party in interest, including a creditors' committee, may file",
+					"x": 72,
+					"y": 193.9200000000002,
+					"width": 460.25999999999976,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						598.0799999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "a plan of reorganization. Typically, debtors attempt to negotiate the terms of the plan of",
+					"x": 72,
+					"y": 207.9000000000002,
+					"width": 424.0919999999989,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						584.0999999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "reorganization with their creditors.",
+					"x": 72,
+					"y": 221.88000000000022,
+					"width": 167.05440000000027,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						570.1199999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 249.84000000000026,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						542.1599999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "A plan of reorganization can modify the rights of any class of creditors and can be",
+					"x": 108,
+					"y": 249.84000000000026,
+					"width": 395.21399999999903,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						542.1599999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "confirmed by the bankruptcy court over the objections of one or more classes of creditors,",
+					"x": 72,
+					"y": 263.8200000000003,
+					"width": 432.64199999999937,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						528.1799999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "provided that such creditors receive under the plan at least as much as they would receive in a",
+					"x": 72,
+					"y": 277.8000000000003,
+					"width": 450.9396000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						514.1999999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Chapter 7 liquidation. If the bankruptcy court does not confirm a plan of reorganization, the",
+					"x": 72,
+					"y": 291.7800000000003,
+					"width": 441.12719999999933,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						500.2199999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Chapter 11 case may be converted to a Chapter 7 liquidation case or it may be dismissed.",
+					"x": 72,
+					"y": 305.76000000000033,
+					"width": 428.625599999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						486.23999999999967
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 333.7200000000003,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						458.2799999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Purpose of Unsecured Creditors' Committee",
+					"x": 72,
+					"y": 333.7200000000003,
+					"width": 212.08320000000026,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						458.2799999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 284.0832000000003,
+					"y": 333.7200000000003,
+					"width": 0.2513999999999754,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						284.0832000000003,
+						458.2799999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "— To increase creditor participation in the Chapter",
+					"x": 287.1,
+					"y": 333.7200000000003,
+					"width": 246.13199999999972,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						287.1,
+						458.2799999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "11 case, Bankruptcy Code Section 1102 requires that the United States Trustee appoint a",
+					"x": 72,
+					"y": 347.70000000000033,
+					"width": 426.55319999999915,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						444.29999999999967
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "committee of unsecured creditors (the \"Committee\") as soon as practical after the order for relief",
+					"x": 72,
+					"y": 361.68000000000035,
+					"width": 464.90399999999966,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						430.31999999999965
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "has been entered. The Committee ordinarily consists of those creditors who are willing to serve",
+					"x": 72,
+					"y": 375.66000000000037,
+					"width": 461.09999999999866,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						416.33999999999963
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and hold the seven largest claims against the debtor which are representative of the creditor",
+					"x": 72,
+					"y": 389.6400000000004,
+					"width": 439.29840000000047,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						402.3599999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "body. According to a list filed by the debtor(s) your claim appears to be one of the twenty",
+					"x": 72,
+					"y": 403.6200000000004,
+					"width": 434.1011999999993,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						388.3799999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "largest unsecured claims against the debtor. You may, therefore, be eligible to serve on the",
+					"x": 72,
+					"y": 417.6000000000004,
+					"width": 439.099199999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						374.3999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Committee. Note, however, that there must be at least three unsecured creditors willing to serve",
+					"x": 72,
+					"y": 431.58000000000044,
+					"width": 463.12680000000046,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						360.41999999999956
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "before a Committee can be formed.",
+					"x": 72,
+					"y": 445.56000000000046,
+					"width": 169.86240000000015,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						346.43999999999954
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 473.52000000000044,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						318.47999999999956
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Powers and Duties of Unsecured Creditors' Committee",
+					"x": 72,
+					"y": 473.52000000000044,
+					"width": 263.4119999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						318.47999999999956
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 335.41199999999986,
+					"y": 473.52000000000044,
+					"width": 0.2540000000000096,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						335.41199999999986,
+						318.47999999999956
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "— Members of the Committee are",
+					"x": 338.46,
+					"y": 473.52000000000044,
+					"width": 164.87039999999953,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						338.46,
+						318.47999999999956
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "fiduciaries who represent all unsecured creditors as a group without regard to the types of claims",
+					"x": 72,
+					"y": 487.50000000000045,
+					"width": 464.911199999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						304.49999999999955
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "which individual unsecured creditors hold against the debtor. Bankruptcy Code Section 1103",
+					"x": 72,
+					"y": 501.4800000000005,
+					"width": 450.27119999999945,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						290.5199999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "provides that the Committee may consult with the debtor, investigate the debtor and its business",
+					"x": 72,
+					"y": 515.4600000000005,
+					"width": 461.5308000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						276.5399999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "operations, and participate in the formulation of a plan of reorganization. The Committee may",
+					"x": 72,
+					"y": 529.4400000000005,
+					"width": 454.9223999999989,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						262.5599999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "also perform such other services in accordance with the interests of the unsecured creditors",
+					"x": 72,
+					"y": 543.4200000000005,
+					"width": 437.5728000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						248.5799999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "whom it represents.",
+					"x": 72,
+					"y": 557.4000000000005,
+					"width": 94.38479999999991,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						234.5999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 585.3600000000005,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						206.6399999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Employment of Professionals",
+					"x": 72,
+					"y": 585.3600000000005,
+					"width": 141.91919999999985,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						206.6399999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 213.91919999999993,
+					"y": 585.3600000000005,
+					"width": 0.24840000000000373,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						213.91919999999993,
+						206.6399999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "— Bankruptcy Code Section 1103 provides that the Committee",
+					"x": 216.89999999999998,
+					"y": 585.3600000000005,
+					"width": 304.8168000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216.89999999999998,
+						206.6399999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "may, subject to the bankruptcy court's approval, employ one or more attorneys, accountants or",
+					"x": 72,
+					"y": 599.3400000000005,
+					"width": 453.09839999999895,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						192.6599999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "other professionals to represent or perform services for the Committee. The employment of such",
+					"x": 72,
+					"y": 613.3200000000005,
+					"width": 466.3680000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						178.67999999999952
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "professionals must occur at a scheduled meeting of the Committee at which a majority of the",
+					"x": 72,
+					"y": 627.3000000000004,
+					"width": 445.68599999999924,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						164.69999999999953
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Committee members are present. Professionals retained by the Committee may be compensated",
+					"x": 72,
+					"y": 641.2800000000004,
+					"width": 462.787199999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						150.71999999999954
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "from the assets of the bankruptcy estate pursuant to Bankruptcy Code Section 330. Applications",
+					"x": 72,
+					"y": 655.2600000000004,
+					"width": 464.76000000000073,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						136.73999999999955
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for the payment of professional fees are monitored by the Office of the United States Trustee and",
+					"x": 72,
+					"y": 669.2400000000005,
+					"width": 466.8479999999987,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						122.75999999999955
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "are subject to court approval. In addition, the Committee should carefully review all fee",
+					"x": 72,
+					"y": 683.2200000000005,
+					"width": 424.427999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						108.77999999999955
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "applications and object to any excessive professional fees.",
+					"x": 72,
+					"y": 697.2000000000005,
+					"width": 279.7043999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						94.79999999999954
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Other Matters",
+					"x": 72,
+					"y": 47.27999999999997,
+					"width": 67.15560000000008,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						744.72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 139.15560000000008,
+					"y": 47.27999999999997,
+					"width": 0.24869999999999237,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						139.15560000000008,
+						744.72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "— The Committee must select a chairperson and should adopt bylaws. As a party",
+					"x": 142.14,
+					"y": 47.27999999999997,
+					"width": 394.4771999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						142.14,
+						744.72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "in interest, the Committee may be heard on most issues arising in the bankruptcy case. Federal",
+					"x": 71.99999999999999,
+					"y": 61.25999999999999,
+					"width": 456.91679999999906,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						71.99999999999999,
+						730.74
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Rule of Bankruptcy Procedure 2002 requires that the Committee (or its authorized agent) receive",
+					"x": 71.99999999999999,
+					"y": 75.24000000000001,
+					"width": 466.1375999999989,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						71.99999999999999,
+						716.76
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "all notices concerning motions and hearings in the bankruptcy case.",
+					"x": 71.99999999999999,
+					"y": 89.22000000000003,
+					"width": 325.10760000000016,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						71.99999999999999,
+						702.78
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 107.99999999999999,
+					"y": 117.18000000000006,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						107.99999999999999,
+						674.8199999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Should you have any additional questions concerning the Committee or your potential",
+					"x": 107.99999999999999,
+					"y": 117.18000000000006,
+					"width": 414.0203999999993,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						107.99999999999999,
+						674.8199999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "membership on the Committee please contact",
+					"x": 71.99999999999999,
+					"y": 131.34000000000003,
+					"width": 218.92080000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						71.99999999999999,
+						660.66
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 290.9208,
+					"y": 131.34000000000003,
+					"width": 0.251600000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						290.9208,
+						660.66
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Jeffrey M. Sponder",
+					"x": 293.94,
+					"y": 131.34000000000003,
+					"width": 99.71999999999983,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						293.94,
+						660.66
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 393.65999999999974,
+					"y": 131.34000000000003,
+					"width": 0.25039999999999907,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						393.65999999999974,
+						660.66
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "at the Office of the United",
+					"x": 396.66479999999973,
+					"y": 131.34000000000003,
+					"width": 126.40079999999986,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						396.66479999999973,
+						660.66
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "States Trustee.",
+					"x": 72,
+					"y": 145.32000000000005,
+					"width": 70.7964,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						646.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 369.00000000000006,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						422.99999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Rev. 03/98",
+					"x": 72,
+					"y": 369.00000000000006,
+					"width": 52.67759999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						422.99999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "UNITED STATES DEPARTMENT OF JUSTICE",
+					"x": 205.08,
+					"y": 27.299999999999955,
+					"width": 201.9887999999997,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						205.08,
+						764.7
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 208.0182,
+					"y": 38.88347999999996,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						208.0182,
+						753.11652
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "OFFICE OF THE UNITED STATES TRUSTEE",
+					"x": 208.0182,
+					"y": 38.88347999999996,
+					"width": 195.95503199999987,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						208.0182,
+						753.11652
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 202.08204,
+					"y": 50.46695999999997,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						202.08204,
+						741.53304
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "One Newark Center, Suite 2100, Newark, NJ 07102",
+					"x": 202.08204,
+					"y": 50.46695999999997,
+					"width": 208.01559599999968,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						202.08204,
+						741.53304
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 205.46844000000002,
+					"y": 62.94683999999995,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						205.46844000000002,
+						729.05316
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Telephone: (973) 645-3014",
+					"x": 205.46844000000002,
+					"y": 62.94683999999995,
+					"width": 109.73131199999973,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						205.46844000000002,
+						729.05316
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 315.1997519999999,
+					"y": 62.94683999999995,
+					"width": 0.7325999999999997,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						315.1997519999999,
+						729.05316
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Fax: (973) 645-5993",
+					"x": 322.4964479999999,
+					"y": 62.94683999999995,
+					"width": 82.59429599999963,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						322.4964479999999,
+						729.05316
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 140.0412,
+					"y": 86.34287999999992,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						140.0412,
+						705.6571200000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "OFFICIAL UNSECURED CREDITORS' COMMITTEE QUESTIONNAIRE",
+					"x": 140.0412,
+					"y": 86.34287999999992,
+					"width": 331.97078400000055,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						140.0412,
+						705.6571200000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00443999999999,
+					"y": 111.54167999999993,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00443999999999,
+						680.4583200000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "IN THE MATTER OF:",
+					"x": 72.00443999999999,
+					"y": 111.54167999999993,
+					"width": 93.76941599999994,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00443999999999,
+						680.4583200000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 165.77385599999988,
+					"y": 111.54167999999993,
+					"width": 1.4283277108433854,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						165.77385599999988,
+						680.4583200000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "TCI 2 Holdings, LLC, et al.",
+					"x": 180,
+					"y": 111.53999999999996,
+					"width": 140.71319999999992,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						180,
+						680.46
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Case No: 09-13654 (JHW)",
+					"x": 180,
+					"y": 125.57999999999993,
+					"width": 133.66679999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						180,
+						666.4200000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 216,
+					"y": 139.4999999999999,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216,
+						652.5000000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "See Exhibit A for List of Affiliated Debtors",
+					"x": 216,
+					"y": 139.4999999999999,
+					"width": 211.9823999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216,
+						652.5000000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 175.55999999999995,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72,
+						616.44
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "I OR MY COMPANY IS AN UNSECURED CREDITOR: (if more than one debtor; which debtor?)",
+					"x": 72,
+					"y": 175.55999999999995,
+					"width": 403.66485599999925,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72,
+						616.44
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 71.99999999999997,
+					"y": 211.31639999999993,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						71.99999999999997,
+						580.6836000000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "YOUR FULL NAME:",
+					"x": 71.99999999999997,
+					"y": 211.31639999999993,
+					"width": 90.25951199999996,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						71.99999999999997,
+						580.6836000000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 84.59939999999997,
+					"y": 222.95963999999992,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						84.59939999999997,
+						569.0403600000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Note",
+					"x": 84.59939999999997,
+					"y": 222.95963999999992,
+					"width": 19.356263999999996,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						84.59939999999997,
+						569.0403600000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ": If you are an attorney for or representative of the creditor, your proxy must be attached to this form.",
+					"x": 103.98155999999997,
+					"y": 222.95963999999992,
+					"width": 416.8897439999999,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						103.98155999999997,
+						569.0403600000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "COMPANY NAME:",
+					"x": 72.00995999999992,
+					"y": 246.11663999999996,
+					"width": 84.01758000000007,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999992,
+						545.88336
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ADDRESS:",
+					"x": 72.00995999999992,
+					"y": 269.1541199999999,
+					"width": 48.732288000000025,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999992,
+						522.8458800000001
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 217.93391999999994,
+					"y": 280.67783999999995,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						217.93391999999994,
+						511.32216000000005
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(If individual — please give home address)",
+					"x": 217.93391999999994,
+					"y": 280.67783999999995,
+					"width": 176.30693999999963,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						217.93391999999994,
+						511.32216000000005
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00995999999992,
+					"y": 303.71531999999996,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999992,
+						488.28468000000004
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "CITY/STATE:",
+					"x": 72.00995999999992,
+					"y": 303.71531999999996,
+					"width": 59.819759999999995,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999992,
+						488.28468000000004
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 131.82971999999992,
+					"y": 303.71531999999996,
+					"width": 19.294999999999995,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						131.82971999999992,
+						488.28468000000004
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "ZIP CODE:",
+					"x": 324.0079199999999,
+					"y": 303.71531999999996,
+					"width": 49.516140000000085,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						324.0079199999999,
+						488.28468000000004
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.0099599999999,
+					"y": 326.7528,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.0099599999999,
+						465.2472
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "PHONE: (",
+					"x": 72.0099599999999,
+					"y": 326.7528,
+					"width": 44.055072000000045,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.0099599999999,
+						465.2472
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 116.06503199999993,
+					"y": 326.7528,
+					"width": 1.2657999999999965,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						116.06503199999993,
+						465.2472
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 128.6723999999999,
+					"y": 326.7528,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						128.6723999999999,
+						465.2472
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 131.9890799999999,
+					"y": 326.7528,
+					"width": 19.29,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						131.9890799999999,
+						465.2472
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "FAX: (",
+					"x": 324.1174799999999,
+					"y": 326.7528,
+					"width": 31.630968000000088,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						324.1174799999999,
+						465.2472
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 355.74844800000005,
+					"y": 326.7528,
+					"width": 1.519199999999984,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						355.74844800000005,
+						465.2472
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 370.8796799999999,
+					"y": 326.7528,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						370.8796799999999,
+						465.2472
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.01991999999984,
+					"y": 349.79028,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.01991999999984,
+						442.20972
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "AMOUNT OF UNSECURED CLAIM:",
+					"x": 72.01991999999984,
+					"y": 349.79028,
+					"width": 161.106984,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.01991999999984,
+						442.20972
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 233.12690399999985,
+					"y": 349.79028,
+					"width": 1.0136000000000012,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						233.12690399999985,
+						442.20972
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$",
+					"x": 243.22235999999987,
+					"y": 349.79028,
+					"width": 4.98,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						243.22235999999987,
+						442.20972
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.01991999999984,
+					"y": 372.82776,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.01991999999984,
+						419.17224
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Give a brief description of the nature of your claim(s). If any of the claim(s) were acquired after the bankruptcy",
+					"x": 72.01991999999984,
+					"y": 372.82776,
+					"width": 460.35119999999955,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.01991999999984,
+						419.17224
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "filing, set forth when the claim(s) were acquired and the consideration paid in comparison to the face amount of",
+					"x": 72.00995999999986,
+					"y": 384.35148000000004,
+					"width": 460.8641400000009,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999986,
+						407.64851999999996
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "each claim.",
+					"x": 72.00995999999986,
+					"y": 395.87520000000006,
+					"width": 47.08689600000002,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999986,
+						396.12479999999994
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00995999999986,
+					"y": 454.3702800000001,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999986,
+						337.6297199999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1.",
+					"x": 72.00995999999986,
+					"y": 454.3702800000001,
+					"width": 7.478964000000007,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999986,
+						337.6297199999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 79.48892399999987,
+					"y": 454.3702800000001,
+					"width": 1.0570999999999988,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						79.48892399999987,
+						337.6297199999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Are you, or the company you represent, in any way \"affiliated\" with debtor(s) within the meaning of",
+					"x": 90.01763999999986,
+					"y": 454.3702800000001,
+					"width": 414.36588,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						90.01763999999986,
+						337.6297199999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Bankruptcy Code Section 101(2)?",
+					"x": 90.01763999999983,
+					"y": 465.8940000000001,
+					"width": 138.8374199999998,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						90.01763999999983,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 228.85505999999947,
+					"y": 465.8940000000001,
+					"width": 23.95850000000004,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						228.85505999999947,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Yes (",
+					"x": 467.4817199999999,
+					"y": 465.8940000000001,
+					"width": 20.33334000000004,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						467.4817199999999,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 487.8150599999999,
+					"y": 465.8940000000001,
+					"width": 0.7594999999999991,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						487.8150599999999,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 495.3796799999999,
+					"y": 465.8940000000001,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						495.3796799999999,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 498.6963599999999,
+					"y": 465.8940000000001,
+					"width": 1.012499999999999,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						498.6963599999999,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "No (",
+					"x": 508.7808599999999,
+					"y": 465.8940000000001,
+					"width": 20.537520000000097,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						508.7808599999999,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 529.31838,
+					"y": 465.8940000000001,
+					"width": 0.7594999999999991,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						529.31838,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 536.883,
+					"y": 465.8940000000001,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						536.883,
+						326.1059999999999
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.01991999999984,
+					"y": 488.93148000000014,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.01991999999984,
+						303.06851999999986
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "2.",
+					"x": 72.01991999999984,
+					"y": 488.93148000000014,
+					"width": 7.478964000000007,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.01991999999984,
+						303.06851999999986
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 79.49888399999985,
+					"y": 488.93148000000014,
+					"width": 1.0570999999999988,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						79.49888399999985,
+						303.06851999999986
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Do you, or the company you represent, engage in a business which directly or indirectly competes with any of",
+					"x": 90.02759999999984,
+					"y": 488.93148000000014,
+					"width": 448.6412280000004,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						90.02759999999984,
+						303.06851999999986
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the businesses of the debtor(s)?",
+					"x": 90.02759999999984,
+					"y": 500.45520000000016,
+					"width": 128.65132800000018,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						90.02759999999984,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 218.67892799999981,
+					"y": 500.45520000000016,
+					"width": 24.975200000000005,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						218.67892799999981,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Yes (",
+					"x": 467.4319199999999,
+					"y": 500.45520000000016,
+					"width": 20.33533200000001,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						467.4319199999999,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 487.76725199999987,
+					"y": 500.45520000000016,
+					"width": 0.7594000000000004,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						487.76725199999987,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 495.3308759999999,
+					"y": 500.45520000000016,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						495.3308759999999,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 498.6475559999999,
+					"y": 500.45520000000016,
+					"width": 1.012499999999999,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						498.6475559999999,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "No (",
+					"x": 508.7320559999999,
+					"y": 500.45520000000016,
+					"width": 20.538516000000083,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						508.7320559999999,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 529.270572,
+					"y": 500.45520000000016,
+					"width": 0.7594999999999991,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						529.270572,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 536.835192,
+					"y": 500.45520000000016,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						536.835192,
+						291.54479999999984
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.01991999999984,
+					"y": 523.4926800000002,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.01991999999984,
+						268.5073199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "3.",
+					"x": 72.01991999999984,
+					"y": 523.4926800000002,
+					"width": 7.478964000000007,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.01991999999984,
+						268.5073199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 79.49888399999985,
+					"y": 523.4926800000002,
+					"width": 1.0570999999999988,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						79.49888399999985,
+						268.5073199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Have you ever been an officer, director, agent, representative or employee of the debtor(s)?",
+					"x": 90.02759999999984,
+					"y": 523.4926800000002,
+					"width": 373.40537999999924,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						90.02759999999984,
+						268.5073199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Yes (",
+					"x": 467.3621999999999,
+					"y": 535.0164000000002,
+					"width": 20.344296000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						467.3621999999999,
+						256.9835999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 487.7064959999999,
+					"y": 535.0164000000002,
+					"width": 0.7602000000000009,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						487.7064959999999,
+						256.9835999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 495.2780879999999,
+					"y": 535.0164000000002,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						495.2780879999999,
+						256.9835999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 498.59476799999993,
+					"y": 535.0164000000002,
+					"width": 1.013200000000001,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						498.59476799999993,
+						256.9835999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "No (",
+					"x": 508.68623999999994,
+					"y": 535.0164000000002,
+					"width": 20.551463999999907,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						508.68623999999994,
+						256.9835999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 529.2377039999999,
+					"y": 535.0164000000002,
+					"width": 0.7601999999999894,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						529.2377039999999,
+						256.9835999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 536.8092959999998,
+					"y": 535.0164000000002,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						536.8092959999998,
+						256.9835999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.0199199999999,
+					"y": 558.0538800000002,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.0199199999999,
+						233.94611999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "4.",
+					"x": 72.0199199999999,
+					"y": 558.0538800000002,
+					"width": 7.471992000000002,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.0199199999999,
+						233.94611999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 79.4919119999999,
+					"y": 558.0538800000002,
+					"width": 1.0568,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						79.4919119999999,
+						233.94611999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "As of the petition date, did you own any equity interests in the debtor(s)?",
+					"x": 90.0176399999999,
+					"y": 558.0538800000002,
+					"width": 296.5888799999996,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						90.0176399999999,
+						233.94611999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Yes (",
+					"x": 467.35223999999994,
+					"y": 569.5776000000002,
+					"width": 20.344296000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						467.35223999999994,
+						222.42239999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 487.6965359999999,
+					"y": 569.5776000000002,
+					"width": 0.7602000000000009,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						487.6965359999999,
+						222.42239999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 495.26812799999993,
+					"y": 569.5776000000002,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						495.26812799999993,
+						222.42239999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 498.58480799999995,
+					"y": 569.5776000000002,
+					"width": 1.013200000000001,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						498.58480799999995,
+						222.42239999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "No (",
+					"x": 508.67627999999996,
+					"y": 569.5776000000002,
+					"width": 20.551463999999907,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						508.67627999999996,
+						222.42239999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 529.2277439999999,
+					"y": 569.5776000000002,
+					"width": 0.7601999999999894,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						529.2277439999999,
+						222.42239999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 536.7993359999998,
+					"y": 569.5776000000002,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						536.7993359999998,
+						222.42239999999978
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00995999999992,
+					"y": 592.6150800000003,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999992,
+						199.3849199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "5.",
+					"x": 72.00995999999992,
+					"y": 592.6150800000003,
+					"width": 7.474980000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999992,
+						199.3849199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 79.48493999999992,
+					"y": 592.6150800000003,
+					"width": 1.057499999999999,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						79.48493999999992,
+						199.3849199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Was any of the unsecured claim you are asserting acquired after the bankruptcy filing?",
+					"x": 90.01763999999991,
+					"y": 592.6150800000003,
+					"width": 359.1097919999998,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						90.01763999999991,
+						199.3849199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Yes (",
+					"x": 467.35224,
+					"y": 604.1388000000002,
+					"width": 20.344296000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						467.35224,
+						187.8611999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 487.696536,
+					"y": 604.1388000000002,
+					"width": 0.7602000000000009,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						487.696536,
+						187.8611999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 495.268128,
+					"y": 604.1388000000002,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						495.268128,
+						187.8611999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 498.584808,
+					"y": 604.1388000000002,
+					"width": 1.013200000000001,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						498.584808,
+						187.8611999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "No (",
+					"x": 508.67628,
+					"y": 604.1388000000002,
+					"width": 20.551463999999907,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						508.67628,
+						187.8611999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 529.2277439999999,
+					"y": 604.1388000000002,
+					"width": 0.7601999999999894,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						529.2277439999999,
+						187.8611999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 536.7993359999998,
+					"y": 604.1388000000002,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						536.7993359999998,
+						187.8611999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00995999999998,
+					"y": 627.1762800000001,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999998,
+						164.8237199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "6.",
+					"x": 72.00995999999998,
+					"y": 627.1762800000001,
+					"width": 7.474980000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999998,
+						164.8237199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 79.48493999999998,
+					"y": 627.1762800000001,
+					"width": 1.057499999999999,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						79.48493999999998,
+						164.8237199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Are you eligible and willing to serve on the unsecured creditor's committee?",
+					"x": 90.01763999999997,
+					"y": 627.1762800000001,
+					"width": 311.9173199999992,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						90.01763999999997,
+						164.8237199999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Yes (",
+					"x": 467.35224,
+					"y": 638.7000000000002,
+					"width": 20.344296000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						467.35224,
+						153.2999999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 487.696536,
+					"y": 638.7000000000002,
+					"width": 0.7602000000000009,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						487.696536,
+						153.2999999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 495.268128,
+					"y": 638.7000000000002,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						495.268128,
+						153.2999999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 498.584808,
+					"y": 638.7000000000002,
+					"width": 1.013200000000001,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						498.584808,
+						153.2999999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "No (",
+					"x": 508.67628,
+					"y": 638.7000000000002,
+					"width": 20.551463999999907,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						508.67628,
+						153.2999999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 529.2277439999999,
+					"y": 638.7000000000002,
+					"width": 0.7601999999999894,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						529.2277439999999,
+						153.2999999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 536.7993359999998,
+					"y": 638.7000000000002,
+					"width": 3.3166800000000003,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						536.7993359999998,
+						153.2999999999998
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00995999999998,
+					"y": 661.7374800000002,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999998,
+						130.26251999999982
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "I hereby certify that, to the best of my knowledge and belief, the above answers to this questionnaire are true and",
+					"x": 72.00995999999998,
+					"y": 661.7374800000002,
+					"width": 462.5882160000011,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00995999999998,
+						130.26251999999982
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "correct.",
+					"x": 72.00996,
+					"y": 673.2612000000001,
+					"width": 31.352087999999963,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00996,
+						118.73879999999983
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 288.01248000000004,
+					"y": 704.4061200000002,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						288.01248000000004,
+						87.59387999999983
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Signature",
+					"x": 288.01248000000004,
+					"y": 704.4061200000002,
+					"width": 40.3599120000002,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						288.01248000000004,
+						87.59387999999983
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00996,
+					"y": 727.4436000000002,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00996,
+						64.55639999999983
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Dated:",
+					"x": 72.00996,
+					"y": 727.4436000000002,
+					"width": 27.683820000000022,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						72.00996,
+						64.55639999999983
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 288.01248000000004,
+					"y": 746.1584400000002,
+					"width": 0,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						288.01248000000004,
+						45.841559999999824
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Title",
+					"x": 288.01248000000004,
+					"y": 746.1584400000002,
+					"width": 18.77460000000009,
+					"height": 9.96,
+					"transform": [
+						9.96,
+						0,
+						0,
+						9.96,
+						288.01248000000004,
+						45.841559999999824
+					],
+					"font": {
+						"size": 9.96,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 5,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "TCI 2 Holdin Attn: Accounting/Legal Dept gs, LLC, et al.",
+					"x": 158.28,
+					"y": 29.460000000000036,
+					"width": 295.44240000000076,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						158.28,
+						762.54
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 239.64,
+					"y": 43.620000000000005,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						239.64,
+						748.38
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Case No. 09-13654 (JHW)",
+					"x": 239.64,
+					"y": 43.620000000000005,
+					"width": 132.69479999999962,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						239.64,
+						748.38
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 216,
+					"y": 57.65999999999997,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216,
+						734.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "See Exhibit A for List of Affiliated Debtors",
+					"x": 216,
+					"y": 57.65999999999997,
+					"width": 211.9823999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						216,
+						734.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 264.12,
+					"y": 89.10000000000002,
+					"width": 0,
+					"height": 15.96,
+					"transform": [
+						15.96,
+						0,
+						0,
+						15.96,
+						264.12,
+						702.9
+					],
+					"font": {
+						"size": 15.96,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "EXHIBIT A",
+					"x": 264.12,
+					"y": 89.10000000000002,
+					"width": 83.79159599999983,
+					"height": 15.96,
+					"transform": [
+						15.96,
+						0,
+						0,
+						15.96,
+						264.12,
+						702.9
+					],
+					"font": {
+						"size": 15.96,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 178.68,
+					"y": 136.38,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						178.68,
+						655.62
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "TCI 2 Holdings, LLC, et al.",
+					"x": 178.68,
+					"y": 136.38,
+					"width": 136.09560000000016,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						178.68,
+						655.62
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 314.77560000000017,
+					"y": 136.38,
+					"width": 0.24869999999998527,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						314.77560000000017,
+						655.62
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "- List of Filing Entities",
+					"x": 317.76,
+					"y": 136.38,
+					"width": 115.53599999999958,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						317.76,
+						655.62
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 144,
+					"y": 164.22000000000003,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						627.78
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13654 (JHW) - TCI 2 Holdings, LLC",
+					"x": 144,
+					"y": 164.22000000000003,
+					"width": 195.6444000000003,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						627.78
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13655 (JHW) - Trump Entertainment Resorts, Inc.",
+					"x": 144,
+					"y": 192.18000000000006,
+					"width": 258.64919999999967,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						599.8199999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13656 (JHW) - Trump Entertainment Resorts Holding, L.P.",
+					"x": 144,
+					"y": 220.1400000000001,
+					"width": 302.6399999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						571.8599999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13658 (JHW) - Trump Entertainment Resorts Funding, Inc.",
+					"x": 144,
+					"y": 248.10000000000014,
+					"width": 301.69200000000075,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						543.8999999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13659 (JHW) - Trump Entertainment Resorts Development Company",
+					"x": 144,
+					"y": 276.0600000000002,
+					"width": 351.52320000000077,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						515.9399999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13660 (JHW) - Trump Taj Mahal Associates, LLC",
+					"x": 144,
+					"y": 304.02000000000015,
+					"width": 260.0400000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						487.97999999999985
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13661 (JHW) - Trump Plaza Associates, LLC",
+					"x": 144,
+					"y": 331.98000000000013,
+					"width": 236.30999999999952,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						460.01999999999987
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13662 (JHW) - Trump Marina Associates, LLC",
+					"x": 144,
+					"y": 359.9400000000001,
+					"width": 244.97999999999948,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						432.0599999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13663 (JHW) - TER Management Co., LLC",
+					"x": 144,
+					"y": 387.9000000000001,
+					"width": 228.5232000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						404.0999999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "09-13664 (JHW) - TER Development Corp., LLC",
+					"x": 144,
+					"y": 415.86000000000007,
+					"width": 240.5184000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						376.13999999999993
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 5,
+		"fingerprints": [
+			"93dbb0f2a4d2815b09085bb992353fc7",
+			"b4a113d30aa94d43b6d4bce75692dbd1"
+		]
+	}
+}

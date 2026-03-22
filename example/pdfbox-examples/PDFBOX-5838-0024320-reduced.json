@@ -1,0 +1,75 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20240613113513+02'00'",
+			"ModDate": "D:20240613113527+02'00'"
+		},
+		"metadata": {
+			"xmp:modifydate": "2024-06-13T11:35:27+02:00",
+			"xmp:createdate": "2024-06-13T11:35:13+02:00",
+			"xmp:metadatadate": "2024-06-13T11:35:27+02:00",
+			"xmpmm:documentid": "uuid:a2323fcb-7971-49c3-b660-1687ede337b7",
+			"xmpmm:instanceid": "uuid:bd8ea467-8b41-4df9-bc4c-c37e2e787911",
+			"dc:format": "application/pdf"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "HRQRUV ReVeaUch PURMecW",
+					"x": 244.68,
+					"y": 237.48000000000002,
+					"width": 128.48863125000008,
+					"height": 11.9775,
+					"transform": [
+						11.9775,
+						0,
+						0,
+						11.9775,
+						244.68,
+						554.52
+					],
+					"font": {
+						"size": 11.9775,
+						"name": "WKREKB+TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"321a30390eaabae6fa88e9aed76c2df7",
+			"7659236aadf43f4c98a918c05750963a"
+		]
+	}
+}

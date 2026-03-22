@@ -1,0 +1,2350 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20151116160718Z",
+			"Creator": "Pages",
+			"ModDate": "D:20151116171412+01'00'",
+			"Producer": "Mac OS X 10.11.1 Quartz PDFContext",
+			"Title": "Erlkönig.pages"
+		},
+		"metadata": {
+			"xmp:createdate": "2015-11-16T16:07:18Z",
+			"xmp:creatortool": "Pages",
+			"xmp:modifydate": "2015-11-16T17:14:12+01:00",
+			"xmp:metadatadate": "2015-11-16T17:14:12+01:00",
+			"pdf:producer": "Mac OS X 10.11.1 Quartz PDFContext",
+			"dc:format": "application/pdf",
+			"dc:title": "Erlkönig.pages",
+			"xmpmm:documentid": "uuid:8b8fa3bd-72de-4cf9-8c68-57ab2f4472fb",
+			"xmpmm:instanceid": "uuid:e67a4338-2078-4840-8f0f-fe67580cb87e"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 575.28,
+				"height": 821.89,
+				"view": {
+					"minX": 10,
+					"minY": 10,
+					"maxX": 585.28,
+					"maxY": 831.89
+				}
+			},
+			"content": [
+				{
+					"str": "ARGAN,",
+					"x": 42,
+					"y": 331.89,
+					"width": 42.17620000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						500
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 84.1762,
+					"y": 331.89,
+					"width": 0.27761636363636394,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						94.1762,
+						500
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "seul dans sa chambre, assis, une table devant lui, compte des parties d'apothicaire avec",
+					"x": 87.22998,
+					"y": 331.89,
+					"width": 430.7501000000005,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						97.22998,
+						500
+					],
+					"font": {
+						"size": 11,
+						"name": "DOPBHD+Helvetica-Oblique",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "des jetons; il fait, parlant à lui-même, les dialogues suivants:",
+					"x": 42,
+					"y": 344.89,
+					"width": 292.8816000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						487
+					],
+					"font": {
+						"size": 11,
+						"name": "DOPBHD+Helvetica-Oblique",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 42,
+					"y": 357.89,
+					"width": 0,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						474
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Trois et deux font cinq, et cinq font dix, et dix font vingt; trois et deux font cinq.",
+					"x": 42,
+					"y": 357.89,
+					"width": 378.69700000000023,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						474
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, du vingt-quatrième, un petit clystère insinuatif, préparatif et rémollient, pour amollir, humecter",
+					"x": 42,
+					"y": 370.89,
+					"width": 482.65029999999956,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						461
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "et rafraîchir les entrailles de monsieur?\" Ce qui me plaît de monsieur Fleurant, mon apothicaire,",
+					"x": 42,
+					"y": 383.89,
+					"width": 464.9237999999998,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						448
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "c'est que ses parties sont toujours fort civiles. \"Les entrailles de monsieur, trente sols.\" Oui; mais,",
+					"x": 42,
+					"y": 396.89,
+					"width": 472.13759999999996,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						435
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "monsieur Fleurant, ce n'est pas tout que d'être civil; il faut être aussi raisonnable et ne pas",
+					"x": 42,
+					"y": 409.89,
+					"width": 438.95500000000004,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						422
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "écorcher les malades. Trente sols un lavement! Je suis votre serviteur, je vous l'ai déjà dit; vous ne",
+					"x": 42,
+					"y": 422.89,
+					"width": 480.25229999999965,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						409
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "me les avez mis dans les autres parties qu'à vingt sols; et vingt sols en langage d'apothicaire,",
+					"x": 42,
+					"y": 435.89,
+					"width": 454.85219999999987,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						396
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "c'est-à-dire dix sols; les voilà, dix sols.",
+					"x": 42,
+					"y": 448.89,
+					"width": 185.5029000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						383
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, dudit jour, un bon clystère détersif, composé avec catholicon double, rhubarbe, miel rosat, et",
+					"x": 42,
+					"y": 461.89,
+					"width": 480.8594999999996,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						370
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "autres, suivant l'ordonnance, pour balayer, laver et nettoyer le bas-ventre de monsieur, trente sols.\"",
+					"x": 42,
+					"y": 474.89,
+					"width": 482.3554999999997,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						357
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Avec votre permission, dix sols.",
+					"x": 42,
+					"y": 487.89,
+					"width": 153.8658,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						344
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, dudit jour, le soir, un julep hépatique, soporatif et somnifère, composé pour faire dormir",
+					"x": 42,
+					"y": 500.89,
+					"width": 453.34079999999983,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						331
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "monsieur, trente-cinq sols.\" Je ne me plains pas de celui-là; car il me fit bien dormir. Dix, quinze,",
+					"x": 42,
+					"y": 513.89,
+					"width": 466.7476000000002,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						318
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "seize, et dix-sept sols six deniers.",
+					"x": 42,
+					"y": 526.89,
+					"width": 163.85160000000005,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						305
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, du vingt-cinquième, une bonne médecine purgative et corroborative, composée de casse",
+					"x": 42,
+					"y": 539.89,
+					"width": 464.35839999999973,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						292
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "récente avec séné levantin, et autres, suivant l'ordonnance de monsieur Purgon, pour expulser et",
+					"x": 42,
+					"y": 552.89,
+					"width": 473.5731000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						279
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "évacuer la bile de monsieur, quatre livres. Ah! monsieur Fleurant, c'est se moquer: il faut vivre avec",
+					"x": 42,
+					"y": 565.89,
+					"width": 482.0738999999999,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						266
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "les malades. Monsieur Purgon ne vous a pas ordonné de mettre quatre francs. Mettez, mettez trois",
+					"x": 42,
+					"y": 578.89,
+					"width": 482.42259999999976,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						253
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "livres, s'il vous plaît. Vingt et trente sols.",
+					"x": 42,
+					"y": 591.89,
+					"width": 194.49210000000016,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						240
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, dudit jour, une potion anodine et astringente, pour faire reposer monsieur, trente sols.\" Bon,",
+					"x": 42,
+					"y": 604.89,
+					"width": 475.62899999999973,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						227
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "dix et quinze sols.",
+					"x": 42,
+					"y": 617.89,
+					"width": 87.4412000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						214
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Wer reitet so spät durch Nacht und Wind?",
+					"x": 42,
+					"y": 60.889999999999986,
+					"width": 204.01370000000006,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						771
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Es ist der Vater mit seinem Kind;",
+					"x": 42,
+					"y": 73.88999999999999,
+					"width": 158.75310000000005,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						758
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Er hat den Knaben wohl in dem Arm,",
+					"x": 42,
+					"y": 86.88999999999999,
+					"width": 179.1713,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						745
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Er fasst ihn sicher, er hält ihn warm.",
+					"x": 42,
+					"y": 99.88999999999999,
+					"width": 174.24329999999992,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						732
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Mein Sohn, was birgst du so bang dein Gesicht?",
+					"x": 301,
+					"y": 60.889999999999986,
+					"width": 236.03360000000006,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						771
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "—",
+					"x": 301,
+					"y": 73.88999999999999,
+					"width": 11,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						758
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Siehst, Vater, du den Erlkönig nicht?",
+					"x": 301,
+					"y": 86.88999999999999,
+					"width": 176.53019999999998,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						745
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Den Erlenkönig mit Kron’ und Schweif? —",
+					"x": 301,
+					"y": 99.88999999999999,
+					"width": 204.42510000000007,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						732
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Mein Sohn, es ist ein Nebelstreif. —",
+					"x": 301,
+					"y": 112.88999999999999,
+					"width": 174.8603999999998,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						719
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "„Du liebes Kind, komm, geh mit mir!",
+					"x": 42,
+					"y": 153.89,
+					"width": 174.22240000000005,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						678
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Gar schöne Spiele spiel’ ich mit dir;",
+					"x": 42,
+					"y": 166.89,
+					"width": 171.3987000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						665
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Manch’ bunte Blumen sind an dem Strand,",
+					"x": 42,
+					"y": 179.89,
+					"width": 207.5051000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						652
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Meine Mutter hat manch gülden Gewand.“ —",
+					"x": 42,
+					"y": 192.89,
+					"width": 219.5072,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						639
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Mein Vater, mein Vater, und hörest du nicht,",
+					"x": 301,
+					"y": 153.89,
+					"width": 212.40779999999995,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						678
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Was Erlenkönig mir leise verspricht? —",
+					"x": 301,
+					"y": 166.89,
+					"width": 191.54960000000014,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						665
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Sei ruhig, bleibe ruhig, mein Kind;",
+					"x": 301,
+					"y": 179.89,
+					"width": 164.4940000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						652
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "In dürren Blättern säuselt der Wind. —",
+					"x": 301,
+					"y": 192.89,
+					"width": 187.09020000000004,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						639
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "„Willst, feiner Knabe, du mit mir gehn?",
+					"x": 42,
+					"y": 239.89,
+					"width": 186.46540000000005,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						592
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Meine Töchter sollen dich warten schön;",
+					"x": 42,
+					"y": 252.89,
+					"width": 196.6943,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						579
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Meine Töchter führen den nächtlichen Reihn",
+					"x": 42,
+					"y": 265.89,
+					"width": 216.28089999999995,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						566
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Und wiegen und tanzen und singen dich ein.“ —",
+					"x": 42,
+					"y": 278.89,
+					"width": 234.22299999999998,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						553
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Mein Vater, mein Vater, und siehst du nicht dort",
+					"x": 301,
+					"y": 239.89,
+					"width": 229.52599999999995,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						592
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Erlkönigs Töchter am düstern Ort? —",
+					"x": 301,
+					"y": 252.89,
+					"width": 181.9873,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						579
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Mein Sohn, mein Sohn, ich seh’ es genau:",
+					"x": 301,
+					"y": 265.89,
+					"width": 205.67910000000035,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						566
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Es scheinen die alten Weiden so grau. —",
+					"x": 301,
+					"y": 278.89,
+					"width": 201.59590000000026,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						553
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "„Ich liebe dich, mich reizt deine schöne Gestalt;",
+					"x": 42,
+					"y": 663.89,
+					"width": 230.50939999999994,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						168
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Und bist du nicht willig, so brauch’ ich Gewalt.“ —",
+					"x": 42,
+					"y": 676.89,
+					"width": 240.4809,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						155
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Mein Vater, mein Vater, jetzt faßt er mich an!",
+					"x": 42,
+					"y": 689.89,
+					"width": 215.42840000000027,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						142
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Erlkönig hat mir ein Leids getan! —",
+					"x": 42,
+					"y": 702.89,
+					"width": 171.20400000000006,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						52,
+						129
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Dem Vater grauset’s; er reitet geschwind,",
+					"x": 301,
+					"y": 663.89,
+					"width": 200.75769999999991,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						168
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Er hält in Armen das ächzende Kind,",
+					"x": 301,
+					"y": 676.89,
+					"width": 177.9524999999996,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						155
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Erreicht den Hof mit Mühe und Not;",
+					"x": 301,
+					"y": 689.89,
+					"width": 172.41840000000002,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						142
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "In seinen Armen das Kind war tot.",
+					"x": 301,
+					"y": 702.89,
+					"width": 164.49069999999995,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						311,
+						129
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 575.28,
+				"height": 821.89,
+				"view": {
+					"minX": 10,
+					"minY": 10,
+					"maxX": 585.28,
+					"maxY": 831.89
+				}
+			},
+			"content": [
+				{
+					"str": "\"Plus, du vingt-sixième, un clystère carminatif, pour chasser les vents de monsieur, trente sols.\"",
+					"x": 51,
+					"y": 60.889999999999986,
+					"width": 463.9129000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						771
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Dix sols, monsieur Fleurant.",
+					"x": 51,
+					"y": 73.88999999999999,
+					"width": 136.32959999999994,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						758
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, le clystère de monsieur, réitéré le soir, comme dessus, trente sols.\" Monsieur Fleurant, dix",
+					"x": 51,
+					"y": 86.88999999999999,
+					"width": 468.8001999999998,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						745
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "sols.",
+					"x": 51,
+					"y": 99.88999999999999,
+					"width": 22.620400000000004,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						732
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, du vingt-septième, une bonne médecine, composée pour hâter d'aller et chasser dehors",
+					"x": 51,
+					"y": 112.88999999999999,
+					"width": 459.73509999999993,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						719
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "les mauvaises humeurs de monsieur, trois livres.\" Bon, vingt et trente sols; je suis bien aise que",
+					"x": 51,
+					"y": 125.88999999999999,
+					"width": 464.9227,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						706
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "vous soyez raisonnable.",
+					"x": 51,
+					"y": 138.89,
+					"width": 118.02120000000002,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						693
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, du vingt-huitième, une prise de petit-lait clarifié et dulcoré pour adoucir, lénifier, tempérer et",
+					"x": 51,
+					"y": 151.89,
+					"width": 473.5125999999997,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						680
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "rafraîchir le sang de monsieur, vingt sols.\" Bon, dix sols.",
+					"x": 51,
+					"y": 164.89,
+					"width": 272.3237000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						667
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "\"Plus, une potion cordiale et préservative, composée avec douze grains de bézoard, sirop de",
+					"x": 51,
+					"y": 177.89,
+					"width": 452.13300000000015,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						654
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "limon et grenades, et autres, suivant l'ordonnance, cinq livres.\" Ah! monsieur Fleurant, tout doux,",
+					"x": 51,
+					"y": 190.89,
+					"width": 470.11580000000026,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						641
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "s'il vous plaît; si vous en usez comme cela, on ne voudra plus être malade; contentez-vous de",
+					"x": 51,
+					"y": 203.89,
+					"width": 457.6340999999999,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						628
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "quatre francs. Vingt et quarante sols. Trois et deux font cinq, et cinq font dix et dix font vingt.",
+					"x": 51,
+					"y": 216.89,
+					"width": 447.4129000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						615
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Soixante et trois livres quatre sols six deniers.",
+					"x": 51,
+					"y": 229.89,
+					"width": 223.16140000000013,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						602
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Si bien donc que, de ce mois, j'ai pris une, deux, trois, quatre, cinq, six, sept et huit médecines;",
+					"x": 51,
+					"y": 242.89,
+					"width": 461.9174999999996,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						589
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "et un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix, onze et douze lavements; et, l'autre mois,",
+					"x": 51,
+					"y": 255.89,
+					"width": 471.69430000000006,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						576
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "il y avait douze médecines et vingt lavements. Je ne m'étonne pas si je ne me porte pas si bien",
+					"x": 51,
+					"y": 268.89,
+					"width": 462.5335000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						563
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ce mois-ci que l'autre. Je le dirai à monsieur Purgon, afin qu'il mette ordre à cela.",
+					"x": 51,
+					"y": 281.89,
+					"width": 393.6834,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						550
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Allons, qu'on m'ôte tout ceci. Il n'y a personne. J'ai beau dire: on me laisse toujours seul: il n'y a",
+					"x": 51,
+					"y": 294.89,
+					"width": 464.20770000000005,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						537
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "pas moyen de les arrêter ici.",
+					"x": 51,
+					"y": 307.89,
+					"width": 138.1776,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						524
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(",
+					"x": 51,
+					"y": 333.89,
+					"width": 3.6630000000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						498
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Il agite une sonnette pour faire venir ses gens.",
+					"x": 54.66308599999999,
+					"y": 333.89,
+					"width": 225.64960000000025,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						64.66308599999999,
+						498
+					],
+					"font": {
+						"size": 11,
+						"name": "DOPBHD+Helvetica-Oblique",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 280.30269999999996,
+					"y": 333.89,
+					"width": 3.6630000000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						290.30269999999996,
+						498
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Ils n'entendent point, et ma sonnette ne fait pas assez de bruit. Drelin, drelin, drelin. Point",
+					"x": 51,
+					"y": 346.89,
+					"width": 434.42410000000024,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						485
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "d'affaire. Drelin, drelin, drelin. Ils sont sourds... Toinette! Drelin, drelin, drelin. Tout comme si je ne",
+					"x": 51,
+					"y": 359.89,
+					"width": 471.6865999999996,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						472
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "sonnais point. Chienne, coquine ! Drelin, drelin, drelin. J'enrage!",
+					"x": 51,
+					"y": 372.89,
+					"width": 311.52330000000035,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						459
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(",
+					"x": 51,
+					"y": 398.89,
+					"width": 3.6630000000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						433
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Il ne sonne plus, mais il crie.",
+					"x": 54.66308599999999,
+					"y": 398.89,
+					"width": 138.1776,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						64.66308599999999,
+						433
+					],
+					"font": {
+						"size": 11,
+						"name": "DOPBHD+Helvetica-Oblique",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 192.8345,
+					"y": 398.89,
+					"width": 3.6630000000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						202.8345,
+						433
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Drelin, drelin, drelin. Carogne, à tous les diables! Est-il possible qu'on laisse comme cela un",
+					"x": 51,
+					"y": 411.89,
+					"width": 446.6165000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						420
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "pauvre malade tout seul? Drelin drelin, drelin. Voilà qui est pitoyable! Drelin, drelin, drelin. Ah!",
+					"x": 51,
+					"y": 424.89,
+					"width": 453.7280000000001,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						407
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "mon Dieu! Ils me laisseront ici mourir. Drelin, drelin, drelin.",
+					"x": 51,
+					"y": 437.89,
+					"width": 283.6691000000003,
+					"height": 11,
+					"transform": [
+						11,
+						0,
+						0,
+						11,
+						61,
+						394
+					],
+					"font": {
+						"size": 11,
+						"name": "QXCTPF+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 2,
+		"fingerprints": [
+			"60cf646bc946e088ce29f980dbea02ac",
+			"ace8937999e99844bf5cc02d53a8ce79"
+		]
+	}
+}

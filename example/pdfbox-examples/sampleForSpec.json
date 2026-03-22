@@ -1,0 +1,336 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"Language": "EN-US",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"ModDate": "D:20050214152041-05'00'",
+			"CreationDate": "D:20050214151946-05'00'",
+			"Title": "Microsoft Word - sampleForSpec.rtf",
+			"Creator": "Acrobat PDFMaker 6.0 for Word",
+			"Author": "Michel Felix",
+			"Producer": "Acrobat Distiller 6.0 (Windows)",
+			"Custom": {
+				"SourceModified": "D:20050214201803"
+			}
+		},
+		"metadata": {
+			"photoshop:headline": "",
+			"xapmm:versionid": "1",
+			"dc:title": "Microsoft Word - sampleForSpec.rtf",
+			"dc:creator": [
+				"Michel Felix"
+			],
+			"dc:subject": [
+				""
+			]
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Line 1",
+					"x": 90,
+					"y": 81.23999000000003,
+					"width": 27.290471999999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						710.76001
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 92.76003000000003,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						699.23997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Line 2",
+					"x": 90,
+					"y": 92.76003000000003,
+					"width": 27.290471999999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						699.23997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 115.74001999999996,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						676.25998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Line 4",
+					"x": 90,
+					"y": 115.74001999999996,
+					"width": 27.290471999999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						676.25998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 127.25989000000004,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						664.74011
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Underline 5",
+					"x": 90,
+					"y": 127.25989000000004,
+					"width": 51.172140000000006,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						664.74011
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 138.78003,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						653.21997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "BoldLine 6",
+					"x": 90,
+					"y": 138.78003,
+					"width": 51.15801180000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						90,
+						653.21997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 163.67998999999998,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						628.32001
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ItalicLine 8",
+					"x": 90,
+					"y": 163.67998999999998,
+					"width": 61.97027999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						628.32001
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"9be1c9339a843341fbf53084e10a3cb1",
+			"dbe83bdf48ae2e4fb9dc1f7fa5e79f28"
+		]
+	}
+}

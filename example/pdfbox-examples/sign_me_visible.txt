@@ -1,0 +1,8 @@
+Apache
+PDFBox
+Visible
+Digital
+Signature
+Failure!
+Apache PDFBox
+Copyright 2014 The Apache Software Foundation

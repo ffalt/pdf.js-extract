@@ -1,0 +1,1869 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20180129111526+01'00'",
+			"Creator": "Adobe Acrobat Pro 11.0.23",
+			"ModDate": "D:20180130074351+01'00'",
+			"Producer": "Adobe Acrobat Pro 11.0.23"
+		},
+		"metadata": {
+			"xmp:modifydate": "2018-01-30T07:43:51+01:00",
+			"xmp:createdate": "2018-01-29T11:15:26+01:00",
+			"xmp:metadatadate": "2018-01-30T07:43:51+01:00",
+			"xmp:creatortool": "Adobe Acrobat Pro 11.0.23",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:1b3499b0-d380-4987-b535-66a7f482918d",
+			"xmpmm:instanceid": "uuid:18d6fcfe-52f4-4eac-88fa-e157ee98d2b3",
+			"pdf:producer": "Adobe Acrobat Pro 11.0.23"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "40R",
+					"modificationDate": "D:20180129112628+01'00'",
+					"rect": [
+						19.2459,
+						755.993,
+						101.634,
+						775.744
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "41R",
+					"x": 101.634,
+					"y": 775.744
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 2,
+						"dashArray": [
+							2,
+							2
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "42R",
+					"modificationDate": "D:20180129112752+01'00'",
+					"rect": [
+						19.2486,
+						727.664,
+						101.636,
+						747.415
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "43R",
+					"x": 101.636,
+					"y": 747.415
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 2,
+						"dashArray": [
+							3,
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "44R",
+					"modificationDate": "D:20180129112801+01'00'",
+					"rect": [
+						19.8496,
+						699.54,
+						102.237,
+						719.291
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "45R",
+					"x": 102.237,
+					"y": 719.291
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 2,
+						"dashArray": [
+							4,
+							4
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "46R",
+					"modificationDate": "D:20180129112826+01'00'",
+					"rect": [
+						20.2485,
+						671.809,
+						102.636,
+						691.56
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "47R",
+					"x": 102.636,
+					"y": 691.56
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 2,
+						"dashArray": [
+							4,
+							3,
+							2,
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "48R",
+					"modificationDate": "D:20180129112854+01'00'",
+					"rect": [
+						20.6527,
+						644.457,
+						103.041,
+						664.208
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "49R",
+					"x": 103.041,
+					"y": 664.208
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 2,
+						"dashArray": [
+							4,
+							3,
+							16,
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "50R",
+					"modificationDate": "D:20180129112936+01'00'",
+					"rect": [
+						21.0413,
+						617.126,
+						103.429,
+						636.877
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "51R",
+					"x": 103.429,
+					"y": 636.877
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 2,
+						"dashArray": [
+							8,
+							4,
+							4,
+							4
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "52R",
+					"modificationDate": "D:20180129113005+01'00'",
+					"rect": [
+						20.4454,
+						588.401,
+						102.833,
+						608.152
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "53R",
+					"x": 102.833,
+					"y": 608.152
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "54R",
+					"modificationDate": "D:20180129113042+01'00'",
+					"rect": [
+						15.2619,
+						556.088,
+						106.825,
+						585.014
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "55R",
+					"x": 106.825,
+					"y": 585.014
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "56R",
+					"modificationDate": "D:20180129113114+01'00'",
+					"rect": [
+						10.6859,
+						519.694,
+						110.199,
+						556.776
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "57R",
+					"x": 110.199,
+					"y": 556.776
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "58R",
+					"modificationDate": "D:20180129113200+01'00'",
+					"rect": [
+						110.237,
+						756.591,
+						192.625,
+						776.342
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "59R",
+					"x": 192.625,
+					"y": 776.342
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 2,
+						"dashArray": [
+							2,
+							2
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "60R",
+					"modificationDate": "D:20180129113226+01'00'",
+					"rect": [
+						110.61,
+						727.84,
+						192.998,
+						747.591
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "61R",
+					"x": 192.998,
+					"y": 747.591
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 2,
+						"dashArray": [
+							2,
+							2
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "62R",
+					"modificationDate": "D:20180129113254+01'00'",
+					"rect": [
+						111.009,
+						699.913,
+						193.397,
+						719.664
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "63R",
+					"x": 193.397,
+					"y": 719.664
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0.00999451,
+						"rawWidth": 0.00999451,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "64R",
+					"modificationDate": "D:20180130074142+01'00'",
+					"rect": [
+						201.239,
+						756.291,
+						282.637,
+						775.052
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "65R",
+					"x": 282.637,
+					"y": 775.052
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "66R",
+					"modificationDate": "D:20180130074116+01'00'",
+					"rect": [
+						201.174,
+						726.469,
+						283.562,
+						746.221
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "67R",
+					"x": 283.562,
+					"y": 746.221
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1.5,
+						"rawWidth": 1.5,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "68R",
+					"modificationDate": "D:20180130074213+01'00'",
+					"rect": [
+						200.764,
+						699.049,
+						283.652,
+						719.3
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "69R",
+					"x": 283.652,
+					"y": 719.3
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 2,
+						"rawWidth": 2,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "70R",
+					"modificationDate": "D:20180130074223+01'00'",
+					"rect": [
+						200.555,
+						670.431,
+						283.943,
+						691.182
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "71R",
+					"x": 283.943,
+					"y": 691.182
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 3,
+						"rawWidth": 3,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "72R",
+					"modificationDate": "D:20180130074249+01'00'",
+					"rect": [
+						200.174,
+						642.885,
+						284.562,
+						664.636
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "73R",
+					"x": 284.562,
+					"y": 664.636
+				},
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 4,
+						"rawWidth": 4,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "74R",
+					"modificationDate": "D:20180130074313+01'00'",
+					"rect": [
+						199.876,
+						613.66,
+						285.264,
+						636.411
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20180129112318+01'00'",
+					"popupRef": "75R",
+					"x": 285.264,
+					"y": 636.411
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "41R",
+					"modificationDate": "D:20180129112628+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						19.2459,
+						755.993,
+						101.634,
+						775.744
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "43R",
+					"modificationDate": "D:20180129112752+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						19.2486,
+						727.664,
+						101.636,
+						747.415
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "45R",
+					"modificationDate": "D:20180129112801+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						19.8496,
+						699.54,
+						102.237,
+						719.291
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "47R",
+					"modificationDate": "D:20180129112826+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						20.2485,
+						671.809,
+						102.636,
+						691.56
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "49R",
+					"modificationDate": "D:20180129112854+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						20.6527,
+						644.457,
+						103.041,
+						664.208
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "51R",
+					"modificationDate": "D:20180129112936+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						21.0413,
+						617.126,
+						103.429,
+						636.877
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "53R",
+					"modificationDate": "D:20180129113005+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						20.4454,
+						588.401,
+						102.833,
+						608.152
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "55R",
+					"modificationDate": "D:20180129113042+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						15.2619,
+						556.088,
+						106.825,
+						585.014
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "57R",
+					"modificationDate": "D:20180129113114+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						10.6859,
+						519.694,
+						110.199,
+						556.776
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "59R",
+					"modificationDate": "D:20180129113200+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						110.237,
+						756.591,
+						192.625,
+						776.342
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "61R",
+					"modificationDate": "D:20180129113226+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						110.61,
+						727.84,
+						192.998,
+						747.591
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "63R",
+					"modificationDate": "D:20180129113254+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						111.009,
+						699.913,
+						193.397,
+						719.664
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "65R",
+					"modificationDate": "D:20180130074142+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						201.239,
+						756.291,
+						282.637,
+						775.052
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "67R",
+					"modificationDate": "D:20180130074116+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						201.174,
+						726.469,
+						283.562,
+						746.221
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "69R",
+					"modificationDate": "D:20180130074213+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						200.764,
+						699.049,
+						283.652,
+						719.3
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "71R",
+					"modificationDate": "D:20180130074223+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						200.555,
+						670.431,
+						283.943,
+						691.182
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "73R",
+					"modificationDate": "D:20180130074249+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						200.174,
+						642.885,
+						284.562,
+						664.636
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						229,
+						34,
+						55
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "75R",
+					"modificationDate": "D:20180130074313+01'00'",
+					"rect": [
+						612,
+						633.244,
+						792,
+						775.244
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						199.876,
+						613.66,
+						285.264,
+						636.411
+					],
+					"creationDate": "D:20180129112318+01'00'",
+					"titleObj": {
+						"str": "Maruan Sahyoun",
+						"dir": "ltr"
+					},
+					"open": false,
+					"x": 792,
+					"y": 775.244
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"2540bb36585d9e4b90800e90dd94bcfa",
+			"da38163c65846249a56d7103a9c21351"
+		]
+	}
+}

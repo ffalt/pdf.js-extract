@@ -1,0 +1,171 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Title": "the title",
+			"Author": "the author",
+			"Producer": "Mac OS X 10.10.2 Quartz PDFContext",
+			"Creator": "AutoType",
+			"CreationDate": "D:20150407203922Z00'00'",
+			"ModDate": "D:20150407203922Z00'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "HelloWorld",
+					"x": 20.551579999999987,
+					"y": 282.51240000000007,
+					"width": 219.91199238523242,
+					"height": 43.99999847643705,
+					"transform": [
+						43.4582852,
+						6.8831180000000005,
+						-6.8831180000000005,
+						43.4582852,
+						20.551579999999987,
+						509.48759999999993
+					],
+					"font": {
+						"size": 43.99999847643705,
+						"name": "URXOFB+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.75,
+						"descent": -0.25
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 5,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 4.997069,
+						"rawWidth": 4.997069,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "10R",
+					"rect": [
+						324.0334,
+						704.666,
+						492.6993,
+						744.6113
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"x": 492.6993,
+					"y": 744.6113
+				},
+				{
+					"annotationType": 3,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"rotation": 0,
+					"contentsObj": {
+						"str": "Annotation",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "11R",
+					"rect": [
+						357.5257,
+						709.1888,
+						459.1021,
+						739.1865
+					],
+					"subtype": "FreeText",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": true,
+					"structParent": -1,
+					"titleObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"defaultAppearanceData": {
+						"fontSize": 19.98828,
+						"fontName": "Helvetica",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"textPosition": [
+						2.9987999776562493,
+						7.9988107503653705
+					],
+					"textContent": [
+						"Annotation"
+					],
+					"x": 459.1021,
+					"y": 739.1865
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"711fce306911e918e42dcb6e79bbede1"
+		]
+	}
+}

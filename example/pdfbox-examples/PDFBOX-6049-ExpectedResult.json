@@ -1,0 +1,572 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.27563,
+				"height": 841.8898,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "rotation 0",
+					"x": 200,
+					"y": 341.88980000000004,
+					"width": 227.8,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						200,
+						500
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Overlay",
+					"x": 218.60512777559998,
+					"y": 576.0222543068,
+					"width": 344.4997431751543,
+					"height": 99.99992544997221,
+					"transform": [
+						57.733000000000004,
+						81.651,
+						-81.651,
+						57.733000000000004,
+						218.60512777559998,
+						265.8675456932
+					],
+					"font": {
+						"size": 99.99992544997221,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 90,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.8898,
+				"height": 595.27563,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "rotation 90",
+					"x": 500,
+					"y": 200,
+					"width": 255.60000000000002,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						200,
+						500
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Overlay",
+					"x": 341.91219777559996,
+					"y": 452.7151843068001,
+					"width": 344.4997431751543,
+					"height": 99.99992544997221,
+					"transform": [
+						-81.651,
+						57.733000000000004,
+						-57.733000000000004,
+						-81.651,
+						452.7151843068001,
+						341.91219777559996
+					],
+					"font": {
+						"size": 99.99992544997221,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 180,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.27563,
+				"height": 841.8898,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "rotation 180",
+					"x": 395.27563,
+					"y": 500,
+					"width": 283.40000000000003,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						200,
+						500
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Overlay",
+					"x": 218.60512777559995,
+					"y": 576.0222543068,
+					"width": 344.4997431751543,
+					"height": 99.99992544997221,
+					"transform": [
+						-57.733000000000004,
+						-81.651,
+						81.651,
+						-57.733000000000004,
+						376.6705022244,
+						576.0222543068
+					],
+					"font": {
+						"size": 99.99992544997221,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 270,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.8898,
+				"height": 595.27563,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "rotation 270",
+					"x": 341.88980000000004,
+					"y": 395.27563,
+					"width": 283.40000000000003,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						200,
+						500
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Overlay",
+					"x": 341.91222777560006,
+					"y": 452.7151543068,
+					"width": 344.4997431751543,
+					"height": 99.99992544997221,
+					"transform": [
+						81.651,
+						-57.733000000000004,
+						57.733000000000004,
+						81.651,
+						142.56047569319998,
+						499.9775722244
+					],
+					"font": {
+						"size": 99.99992544997221,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 5,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.27563,
+				"height": 841.8898,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "rotation 0",
+					"x": 200,
+					"y": 341.88980000000004,
+					"width": 227.8,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						200,
+						500
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Overlay",
+					"x": 218.60512777559998,
+					"y": 576.0222543068,
+					"width": 344.4997431751543,
+					"height": 99.99992544997221,
+					"transform": [
+						57.733000000000004,
+						81.651,
+						-81.651,
+						57.733000000000004,
+						218.60512777559998,
+						265.8675456932
+					],
+					"font": {
+						"size": 99.99992544997221,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 6,
+				"scale": 1,
+				"rotation": 90,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.8898,
+				"height": 595.27563,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "rotation 90",
+					"x": 500,
+					"y": 200,
+					"width": 255.60000000000002,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						200,
+						500
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Overlay",
+					"x": 341.91219777559996,
+					"y": 452.7151843068001,
+					"width": 344.4997431751543,
+					"height": 99.99992544997221,
+					"transform": [
+						-81.651,
+						57.733000000000004,
+						-57.733000000000004,
+						-81.651,
+						452.7151843068001,
+						341.91219777559996
+					],
+					"font": {
+						"size": 99.99992544997221,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 7,
+				"scale": 1,
+				"rotation": 180,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.27563,
+				"height": 841.8898,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "rotation 180",
+					"x": 395.27563,
+					"y": 500,
+					"width": 283.40000000000003,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						200,
+						500
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Overlay",
+					"x": 218.60512777559995,
+					"y": 576.0222543068,
+					"width": 344.4997431751543,
+					"height": 99.99992544997221,
+					"transform": [
+						-57.733000000000004,
+						-81.651,
+						81.651,
+						-57.733000000000004,
+						376.6705022244,
+						576.0222543068
+					],
+					"font": {
+						"size": 99.99992544997221,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 8,
+				"scale": 1,
+				"rotation": 270,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.8898,
+				"height": 595.27563,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "rotation 270",
+					"x": 341.88980000000004,
+					"y": 395.27563,
+					"width": 283.40000000000003,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						200,
+						500
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Overlay",
+					"x": 341.91222777560006,
+					"y": 452.7151543068,
+					"width": 344.4997431751543,
+					"height": 99.99992544997221,
+					"transform": [
+						81.651,
+						-57.733000000000004,
+						57.733000000000004,
+						81.651,
+						142.56047569319998,
+						499.9775722244
+					],
+					"font": {
+						"size": 99.99992544997221,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 8,
+		"fingerprints": [
+			"97fc5234377a37fb5300596fef77939b"
+		]
+	}
+}

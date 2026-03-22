@@ -1,0 +1,217 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20050225084422+01'00'",
+			"Producer": "iText1.1 by lowagie.com (based on itext-paulo-142)",
+			"ModDate": "D:20050225084422+01'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Ich bin Marios test.",
+					"x": 56.88,
+					"y": 67.91999999999996,
+					"width": 92.99999999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.88,
+						774.08
+					],
+					"font": {
+						"size": 12,
+						"name": "FZJPIV+Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.924,
+						"descent": -0.281
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "$Anhang=/home/im/tmp/AGB.pdf$",
+					"x": 56.880000000000024,
+					"y": 97.19999999999993,
+					"width": 172.31999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.880000000000024,
+						744.8000000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "FZJPIV+Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.924,
+						"descent": -0.281
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "$Auftragsnummer=2004001452-001$",
+					"x": 56.879990000000106,
+					"y": 111.83999999999992,
+					"width": 182.39998999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.879990000000106,
+						730.1600000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "FZJPIV+Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.924,
+						"descent": -0.281
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "$Mandant=1$",
+					"x": 56.8799800000001,
+					"y": 126.4799999999999,
+					"width": 67.19999999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8799800000001,
+						715.5200000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "FZJPIV+Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.924,
+						"descent": -0.281
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "$MailTo=mario@ops.co.at$",
+					"x": 56.8799800000001,
+					"y": 141.1199999999999,
+					"width": 136.32000000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8799800000001,
+						700.8800000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "FZJPIV+Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.924,
+						"descent": -0.281
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "$User=mario$",
+					"x": 56.87998000000013,
+					"y": 155.75999999999988,
+					"width": 69.12,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.87998000000013,
+						686.2400000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "FZJPIV+Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.924,
+						"descent": -0.281
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Ende",
+					"x": 56.87998000000014,
+					"y": 185.03999999999985,
+					"width": 24.527999999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.87998000000014,
+						656.9600000000002
+					],
+					"font": {
+						"size": 12,
+						"name": "FZJPIV+Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.924,
+						"descent": -0.281
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"ab129fd736fbf339b515b29ba66d0ca8"
+		]
+	}
+}

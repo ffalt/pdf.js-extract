@@ -1,0 +1,540 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 432,
+				"height": 648,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 432,
+					"maxY": 648
+				}
+			},
+			"content": [
+				{
+					"str": "HANS L. TREFOUSSE",
+					"x": 253.96867,
+					"y": 49.36797999999999,
+					"width": 141.26400000000007,
+					"height": 18,
+					"transform": [
+						18,
+						0,
+						0,
+						18,
+						253.96867,
+						598.63202
+					],
+					"font": {
+						"size": 18,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 267.23035,
+					"y": 400.92397,
+					"width": 0,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						267.23035,
+						247.07603
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ABRAHAM",
+					"x": 267.23035,
+					"y": 400.92397,
+					"width": 102.23999999999982,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						267.23035,
+						247.07603
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 266.93887,
+					"y": 426.92397,
+					"width": 0,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						266.93887,
+						221.07603
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "LINCOLN’S",
+					"x": 266.93887,
+					"y": 426.92397,
+					"width": 102.81599999999986,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						266.93887,
+						221.07603
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 255.39656,
+					"y": 452.92397,
+					"width": 0,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						255.39656,
+						195.07603
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "REPUTATION",
+					"x": 255.39656,
+					"y": 452.92397,
+					"width": 125.90399999999983,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						255.39656,
+						195.07603
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 260.24472,
+					"y": 478.92397,
+					"width": 0,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						260.24472,
+						169.07603
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "DURING HIS",
+					"x": 260.24472,
+					"y": 478.92397,
+					"width": 116.20799999999983,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						260.24472,
+						169.07603
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 281.37054,
+					"y": 281.2793,
+					"width": 0,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						281.37054,
+						366.7207
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "First",
+					"x": 281.37054,
+					"y": 281.2793,
+					"width": 88.368,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						281.37054,
+						366.7207
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 259.60715,
+					"y": 317.2793,
+					"width": 0,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						259.60715,
+						330.7207
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "among",
+					"x": 259.60715,
+					"y": 317.2793,
+					"width": 130.70399999999995,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						259.60715,
+						330.7207
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 250.92856,
+					"y": 359.17218,
+					"width": 0,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						250.92856,
+						288.82782
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Equals",
+					"x": 250.92856,
+					"y": 359.17218,
+					"width": 130.46400000000003,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						250.92856,
+						288.82782
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "”",
+					"x": 381.09998,
+					"y": 372.7793,
+					"width": 17.28,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						381.09998,
+						275.2207
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 267.60001,
+					"y": 282.7793,
+					"width": 0,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						267.60001,
+						365.2207
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "“",
+					"x": 267.60001,
+					"y": 282.7793,
+					"width": 17.28,
+					"height": 48,
+					"transform": [
+						48,
+						0,
+						0,
+						48,
+						267.60001,
+						365.2207
+					],
+					"font": {
+						"size": 48,
+						"name": "YRCMQU+ACaslonPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 1.002,
+						"descent": -0.7
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 222.59999,
+					"y": 504.92395,
+					"width": 0,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						222.59999,
+						143.07605
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ADMINISTRATION",
+					"x": 222.59999,
+					"y": 504.92395,
+					"width": 175.75199999999975,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						222.59999,
+						143.07605
+					],
+					"font": {
+						"size": 24,
+						"name": "ZZMSES+GoudySans-Medium",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.896,
+						"descent": -0.274
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"3336f528b0664dfc6d4a5f8b77fe1def",
+			"4c8938d3034d0452874d13b54387fe1f"
+		]
+	}
+}

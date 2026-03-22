@@ -1,0 +1,9376 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"ModDate": "D:20030916130530-04'00'",
+			"CreationDate": "D:20030916130530Z",
+			"Title": "Aquarium Fishes",
+			"Producer": "Acrobat Web Capture 6.0"
+		},
+		"metadata": {
+			"dc:title": "Aquarium Fishes"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Aquarium Fishes",
+					"x": 18,
+					"y": 11.830000000000041,
+					"width": 61.748999999999995,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						780.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 203.07001,
+					"y": 70.76666,
+					"width": 0,
+					"height": 30,
+					"transform": [
+						30,
+						0,
+						0,
+						30,
+						203.07001,
+						721.23334
+					],
+					"font": {
+						"size": 30,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Aquarium Fishes",
+					"x": 203.07001,
+					"y": 70.76666,
+					"width": 220.86,
+					"height": 30,
+					"transform": [
+						30,
+						0,
+						0,
+						30,
+						203.07001,
+						721.23334
+					],
+					"font": {
+						"size": 30,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "General Topics",
+					"x": 260.304,
+					"y": 112.02444000000003,
+					"width": 91.39200000000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						260.304,
+						679.97556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Ornamentals & Web Resources",
+					"x": 211.31799,
+					"y": 144.82444999999996,
+					"width": 189.3640100000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						211.31799,
+						647.17555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Dealers and Pet Shops & Web Resources",
+					"x": 183.899,
+					"y": 177.62445000000002,
+					"width": 244.20200000000003,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						183.899,
+						614.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 258.52499,
+					"width": 0,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						533.47501
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "General Topics",
+					"x": 10,
+					"y": 258.52499,
+					"width": 146.88000000000002,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						533.47501
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 312.08333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						479.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Deutsche Veterinarmedizinische Gesellschaft (1994)",
+					"x": 46,
+					"y": 312.08333,
+					"width": 316.99499999999995,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						479.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 362.99500000000006,
+					"y": 312.08333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						362.99500000000006,
+						479.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tagung der Fachgruppen",
+					"x": 366.74500000000006,
+					"y": 312.08333,
+					"width": 154.15500000000003,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						366.74500000000006,
+						479.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "“Tierschutzrecht und gerichtliche Veterinarmedizin” und “Fischkrankheiten”, Stuttgart-",
+					"x": 46,
+					"y": 330.08333,
+					"width": 535.41,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						461.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hohenheim, 10.-11. Marz 1994. [Proceedings of a meeting of the Expert Groups on animal",
+					"x": 46,
+					"y": 348.08333,
+					"width": 548.6999999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						443.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "protection law, veterinary jurisprudence and fish diseases, German Veterinary Medical",
+					"x": 46,
+					"y": 366.08333,
+					"width": 526.1999999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						425.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Society, Stuttgart-Hohenheim, 10-11 March 1994]",
+					"x": 46,
+					"y": 384.08333,
+					"width": 303.3,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						407.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ".",
+					"x": 349.3,
+					"y": 384.08333,
+					"width": 3.75,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						349.3,
+						407.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 353.05,
+					"y": 384.08333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						353.05,
+						407.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Frankfurter Strasse 89, D-6300",
+					"x": 356.8,
+					"y": 384.08333,
+					"width": 186.63000000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						356.8,
+						407.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Giessen, Germany. 111 pp. (In German with English Subtitles)",
+					"x": 46,
+					"y": 402.08333,
+					"width": 381.6299999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						389.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 419.22444,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						372.77556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NAL Call No. SF605 T33 1994",
+					"x": 46,
+					"y": 419.22444,
+					"width": 180.83800000000002,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						372.77556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The meeting discussed the welfare of fish kept in aquaria and of aviary birds.",
+					"x": 46,
+					"y": 436.02444,
+					"width": 432.34799999999984,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						355.97556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 453.68333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						338.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 453.68333,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						338.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 453.68333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						338.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "animal welfare, aquarium fishes, aviary birds",
+					"x": 125.57499999999997,
+					"y": 453.68333,
+					"width": 271.185,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57499999999997,
+						338.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Copyright © 2003, CAB International.",
+					"x": 46,
+					"y": 470.82445,
+					"width": 216.74800000000008,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						321.17555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Manz D (1988)",
+					"x": 46,
+					"y": 507.48334,
+					"width": 92.47500000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						284.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 138.47500000000002,
+					"y": 507.48334,
+					"width": 0.5,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						138.47500000000002,
+						284.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tierschutzrelevante Gesichtspunkte bei der Haltung von",
+					"x": 145.97500000000002,
+					"y": 507.48334,
+					"width": 362.08500000000004,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						145.97500000000002,
+						284.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Aquarienfischen. [Animal welfare aspects of the keeping of aquarium fish.]",
+					"x": 46,
+					"y": 525.48334,
+					"width": 479.5649999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						266.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 525.565,
+					"y": 525.48334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						525.565,
+						266.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tagung",
+					"x": 529.315,
+					"y": 525.48334,
+					"width": 45.84,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						529.315,
+						266.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "der Fachgruppe “Fischkrankheiten” und der Fachgruppe “Zootierkrankheiten” im",
+					"x": 46,
+					"y": 543.48334,
+					"width": 502.8749999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						248.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Tierpark “Hellabrunn”, Munchen, 22./ 23. November 1988.",
+					"x": 46,
+					"y": 561.48334,
+					"width": 361.2300000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						230.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 407.23,
+					"y": 561.48334,
+					"width": 0.5,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						407.23,
+						230.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Deutsche",
+					"x": 414.73,
+					"y": 561.48334,
+					"width": 55.815,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						414.73,
+						230.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Veterinarmedizinische Gesellschaft Giessen, German Federal Republic. p.20-26 (In",
+					"x": 46,
+					"y": 579.48334,
+					"width": 509.8799999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						212.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "German)",
+					"x": 46,
+					"y": 597.48334,
+					"width": 53.31,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						194.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NAL Call No. SF458.5 T3",
+					"x": 46,
+					"y": 614.62445,
+					"width": 152.83800000000002,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						177.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 632.28334,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						159.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 632.28334,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						159.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 632.28334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						159.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "animal welfare, aquarium fishes, fishes, aquatic animals",
+					"x": 125.57499999999997,
+					"y": 632.28334,
+					"width": 336.1799999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57499999999997,
+						159.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Weins J (1997)",
+					"x": 46,
+					"y": 669.28339,
+					"width": 91.65000000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						122.71660999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 137.64999999999998,
+					"y": 669.28339,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						137.64999999999998,
+						122.71660999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Untersuchungen uber die Susswasserzierfischhaltung im Zoofachhandel",
+					"x": 141.39999999999998,
+					"y": 669.28339,
+					"width": 433.7399999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						141.39999999999998,
+						122.71660999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "unter tierhygienischen und tierschutzrechtlichen Aspekten mit Vorschlagen fur die Tatigkeit",
+					"x": 46,
+					"y": 687.28339,
+					"width": 551.2049999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						104.71660999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "der berwachungsbehorden [Welfare aspects of the trade in freshwater aquarium fishes.]",
+					"x": 46,
+					"y": 705.28339,
+					"width": 531.2249999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						86.71660999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 723.28339,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						68.71660999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Fachbereich Veterinarmedizin, Justus-Liebig-Universitat, Giessen Germany. 173 pp. (In",
+					"x": 46,
+					"y": 723.28339,
+					"width": 534.0599999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						68.71660999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "German with English summary)",
+					"x": 46,
+					"y": 741.28339,
+					"width": 192.90000000000003,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						50.71660999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 18,
+					"y": 784.83,
+					"width": 0,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.nal.usda.gov/awic/pubs/Fishwelfare/aquar.htm (1 of 6)9/16/2003 9:05:30 AM",
+					"x": 18,
+					"y": 784.83,
+					"width": 323.7299999999998,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "14R",
+					"rect": [
+						260.304016,
+						675.599976,
+						351.695984,
+						690.599976
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"dest": "jÿoýál\"­\u00178EÒªÐ´›gen",
+					"overlaidText": "General Topics",
+					"x": 351.695984,
+					"y": 690.599976
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "16R",
+					"rect": [
+						211.317993,
+						642.799988,
+						289.872009,
+						657.799988
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"dest": "jÿoýál\"­\u00178EÒªÐ´›orn",
+					"overlaidText": "Ornamentals",
+					"x": 289.872009,
+					"y": 657.799988
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "17R",
+					"rect": [
+						308.533997,
+						642.799988,
+						400.682007,
+						657.799988
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"dest": "jÿoýál\"­\u00178EÒªÐ´›web",
+					"overlaidText": "Web Resources",
+					"x": 400.682007,
+					"y": 657.799988
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "18R",
+					"rect": [
+						183.899002,
+						610,
+						317.291016,
+						625
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"dest": "jÿoýál\"­\u00178EÒªÐ´›deal",
+					"overlaidText": "Dealers and Pet Shops",
+					"x": 317.291016,
+					"y": 625
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "19R",
+					"rect": [
+						335.953003,
+						610,
+						428.101013,
+						625
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"dest": "jÿoýál\"­\u00178EÒªÐ´›web2",
+					"overlaidText": "Web Resources",
+					"x": 428.101013,
+					"y": 625
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Aquarium Fishes",
+					"x": 18,
+					"y": 11.830000000000041,
+					"width": 61.748999999999995,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						780.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 38.88333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						753.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 38.88333,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						753.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 38.88333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						753.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "animal welfare, pets, aquarium fishes",
+					"x": 125.57499999999997,
+					"y": 38.88333,
+					"width": 224.11500000000004,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57499999999997,
+						753.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Wildgoose W (2001)",
+					"x": 46,
+					"y": 75.88337999999999,
+					"width": 126.645,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						716.11662
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 172.645,
+					"y": 75.88337999999999,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						172.645,
+						716.11662
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Taking the plunge: treating pet fish",
+					"x": 176.395,
+					"y": 75.88337999999999,
+					"width": 227.10000000000005,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						176.395,
+						716.11662
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ".",
+					"x": 403.495,
+					"y": 75.88337999999999,
+					"width": 3.75,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						403.495,
+						716.11662
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 407.245,
+					"y": 75.88337999999999,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						407.245,
+						716.11662
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "In Practice",
+					"x": 410.995,
+					"y": 75.88337999999999,
+					"width": 67.065,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						410.995,
+						716.11662
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ". 23 (4):220-227",
+					"x": 478.0600000000001,
+					"y": 75.88337999999999,
+					"width": 97.90500000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						478.0600000000001,
+						716.11662
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NAL Call No. SF601.I4",
+					"x": 46,
+					"y": 93.02444000000003,
+					"width": 138.44600000000003,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						698.97556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 110.68332999999996,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						681.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 110.68332999999996,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						681.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 110.68332999999996,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						681.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "animal welfare, aquarium fishes, aquatic animals, fish diseases, nitrogen",
+					"x": 125.57499999999997,
+					"y": 110.68332999999996,
+					"width": 434.08499999999975,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57499999999997,
+						681.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "cycle, ornamental fishes, veterinarians, water filters, water quality, goldfish",
+					"x": 46,
+					"y": 128.68332999999996,
+					"width": 452.81999999999965,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						663.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Wilhelm W (1991)",
+					"x": 46,
+					"y": 165.68337999999994,
+					"width": 114.15,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						626.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 160.15,
+					"y": 165.68337999999994,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						160.15,
+						626.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The art of keeping aquarium fishes",
+					"x": 163.9,
+					"y": 165.68337999999994,
+					"width": 224.59500000000006,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						163.9,
+						626.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ".",
+					"x": 388.49499999999995,
+					"y": 165.68337999999994,
+					"width": 3.75,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						388.49499999999995,
+						626.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 392.24499999999995,
+					"y": 165.68337999999994,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						392.24499999999995,
+						626.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tijdschrift voor Diergeneeskunde",
+					"x": 395.99499999999995,
+					"y": 165.68337999999994,
+					"width": 201.64500000000007,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						395.99499999999995,
+						626.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 183.68337999999994,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						608.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(Netherlands)",
+					"x": 46,
+					"y": 183.68337999999994,
+					"width": 83.325,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						608.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ". 116 Suppl 1 p. 57S-63S.",
+					"x": 129.325,
+					"y": 183.68337999999994,
+					"width": 157.935,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						129.325,
+						608.3166200000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NAL Call No. 41.8 T431",
+					"x": 46,
+					"y": 200.82444999999996,
+					"width": 144.26999999999998,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						591.17555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 218.48334,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						573.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 218.48334,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						573.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 218.48334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						573.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "animal welfare, fishes, physiology, animal feed, animal nutrition, housing,",
+					"x": 125.57499999999997,
+					"y": 218.48334,
+					"width": 446.6249999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57499999999997,
+						573.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "standard, water",
+					"x": 46,
+					"y": 236.48334,
+					"width": 91.63499999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						555.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Return to: Top of Document",
+					"x": 46,
+					"y": 287.48319,
+					"width": 170.82000000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						504.51681
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 367.925,
+					"width": 0,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						424.075
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Ornamentals",
+					"x": 10,
+					"y": 367.925,
+					"width": 126.24749999999999,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						424.075
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 421.48334,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						370.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Biffar M (2002)",
+					"x": 46,
+					"y": 421.48334,
+					"width": 96.64500000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						370.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 142.645,
+					"y": 421.48334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						142.645,
+						370.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Recent developments in ornamental fish: market, health management",
+					"x": 146.395,
+					"y": 421.48334,
+					"width": 445.7849999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						146.395,
+						370.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and general trends.",
+					"x": 46,
+					"y": 439.48334,
+					"width": 123.75,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						352.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 169.75,
+					"y": 439.48334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						169.75,
+						352.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Bulletin of the European Association of Fish Pathologists",
+					"x": 173.5,
+					"y": 439.48334,
+					"width": 346.275,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						173.5,
+						352.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ". 22 (2):66-",
+					"x": 519.7750000000001,
+					"y": 439.48334,
+					"width": 67.90500000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						519.7750000000001,
+						352.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "71 ISSN: 0108-0288",
+					"x": 46,
+					"y": 457.48334,
+					"width": 124.17,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						334.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 475.48334,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						316.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 475.48334,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						316.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 475.48334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						316.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "animal health, animal welfare, aquarium fishes, hobbies, import controls,",
+					"x": 125.57499999999997,
+					"y": 475.48334,
+					"width": 438.6899999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57499999999997,
+						316.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "international trade, ornamental fishes, regulations",
+					"x": 46,
+					"y": 493.48334,
+					"width": 297.45,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						298.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Ferraz E, Araujo MGL (1999)",
+					"x": 46,
+					"y": 530.48339,
+					"width": 181.20000000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						261.51661
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 227.2,
+					"y": 530.48339,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						227.2,
+						261.51661
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Ornamental fish from the Rio Negro Basin: Overcoming",
+					"x": 230.95,
+					"y": 530.48339,
+					"width": 361.2149999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						230.95,
+						261.51661
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "disease related mortalities.",
+					"x": 46,
+					"y": 548.48339,
+					"width": 170.38500000000005,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						243.51661000000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 216.38499999999996,
+					"y": 548.48339,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						216.38499999999996,
+						243.51661000000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "(Eds:) Nelson J, MacKinley D.",
+					"x": 220.13499999999996,
+					"y": 548.48339,
+					"width": 185.80500000000004,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						220.13499999999996,
+						243.51661000000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 405.94,
+					"y": 548.48339,
+					"width": 0.5,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						405.94,
+						243.51661000000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Special Adaptations of",
+					"x": 413.44,
+					"y": 548.48339,
+					"width": 135.84,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						413.44,
+						243.51661000000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Tropical Fish",
+					"x": 46,
+					"y": 566.48339,
+					"width": 82.095,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						225.51661000000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ". pp. 11-16",
+					"x": 128.095,
+					"y": 566.48339,
+					"width": 68.745,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						128.095,
+						225.51661000000001
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Brazil is a major exporter of aquarium fish. The main source for ornamental fish for export",
+					"x": 46,
+					"y": 584.48334,
+					"width": 543.2709999999996,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						207.51666
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "is the Rio Negro basin. The techniques for fish capture and transportation are, basically, the",
+					"x": 45.99994999999999,
+					"y": 602.48334,
+					"width": 549.4799999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						189.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "same as those used at the beginning of exploitation. Though some improvements have been",
+					"x": 45.99994999999999,
+					"y": 620.48334,
+					"width": 549.105,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						171.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "made in fish husbandry management post-capture, diseases and mortalities are still a",
+					"x": 45.99994999999999,
+					"y": 638.48334,
+					"width": 507.4199999999996,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						153.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "problem. A variety of approaches were used to assess the health problems: 1) interviews",
+					"x": 45.99994999999999,
+					"y": 656.48334,
+					"width": 529.8899999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						135.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "with fishermen, middlemen and exporters; 2) recording the condition of the fish on their",
+					"x": 45.99994999999999,
+					"y": 674.48334,
+					"width": 529.0949999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						117.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "arrival at the exporters' holding facilities; and 3) routine disease screening of 7 species of",
+					"x": 45.99994999999999,
+					"y": 692.48334,
+					"width": 534.2549999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						99.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "fish. Results indicate: 1) that the seasonal fluctuations of the water level play an important",
+					"x": 45.99994999999999,
+					"y": 710.48334,
+					"width": 541.1849999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						81.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "role in determining fish health; fish captured from areas with low water levels during the",
+					"x": 45.99994999999999,
+					"y": 728.48334,
+					"width": 532.4099999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						63.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "long dry season are often found to be in a debilitated condition; 2) in the chain of events",
+					"x": 45.99994999999999,
+					"y": 746.48334,
+					"width": 528.6749999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99994999999999,
+						45.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 18,
+					"y": 784.83,
+					"width": 0,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.nal.usda.gov/awic/pubs/Fishwelfare/aquar.htm (2 of 6)9/16/2003 9:05:30 AM",
+					"x": 18,
+					"y": 784.83,
+					"width": 323.7299999999998,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "25R",
+					"rect": [
+						110.169998,
+						499.899994,
+						216.820007,
+						515.900024
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"dest": [
+						{
+							"num": 11,
+							"gen": 0
+						},
+						{
+							"name": "XYZ"
+						},
+						0,
+						792,
+						null
+					],
+					"overlaidText": "Top of Document",
+					"x": 216.820007,
+					"y": 515.900024
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Aquarium Fishes",
+					"x": 18,
+					"y": 11.830000000000041,
+					"width": 61.748999999999995,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						780.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 38.88333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						753.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "linking capture to export the most critical phases influencing the health and survival of the",
+					"x": 46,
+					"y": 38.88333,
+					"width": 542.4299999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						753.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "fish are the storage of fish by fishermen and the transport to the local reception areas of the",
+					"x": 46,
+					"y": 56.88333,
+					"width": 546.1199999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						735.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "exporters in Barcelos. The transport from Barcelos to the principal fish holding facilities in",
+					"x": 46,
+					"y": 74.88333,
+					"width": 545.7599999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						717.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Manaus was previously considered a critical phase, but the recent provision of new boats",
+					"x": 46,
+					"y": 92.88333,
+					"width": 534.0599999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						699.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for fish transport, and improvements in fish husbandry prior to transport, have contributed",
+					"x": 46,
+					"y": 110.88333,
+					"width": 540.7649999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						681.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "to reduced mortalities during this period; 3) the most common diseases diagnosed are",
+					"x": 46,
+					"y": 128.88333,
+					"width": 512.4449999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						663.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "related to the series of handling stressors and sub-optimal conditions which fish are",
+					"x": 46,
+					"y": 146.88333,
+					"width": 499.9349999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						645.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "exposed to prior to delivery at the exporters' holding facilities. The negative effects of",
+					"x": 46,
+					"y": 164.88333,
+					"width": 515.0999999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						627.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "handling stress on the condition of the fish can be reduced if more attention is paid to the",
+					"x": 46,
+					"y": 182.88333,
+					"width": 533.6849999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						609.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "welfare of the fish following the arrival of the consignments at the reception areas in",
+					"x": 46,
+					"y": 200.88333,
+					"width": 507.3899999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						591.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Barcelos. Another problem concerning the Brazilian ornamental fish industry concerns the",
+					"x": 46,
+					"y": 218.88333,
+					"width": 543.645,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						573.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "legislation controlling the export of ornamental species. Problems related to the export of",
+					"x": 46,
+					"y": 236.88333,
+					"width": 535.3499999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						555.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "non-permissible species possessing similar external characteristics to and recorded under",
+					"x": 46,
+					"y": 254.88333,
+					"width": 533.6399999999995,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						537.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the same Latin or common name as a permissible species, are still present.",
+					"x": 46,
+					"y": 272.88333,
+					"width": 446.59499999999963,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						519.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 290.88333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						501.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 290.88333,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						501.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 290.88333,
+					"width": 0.500000000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						501.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "ornamental fish, tropical fish, diseases, mortality, trade, fish handling,",
+					"x": 129.325,
+					"y": 290.88333,
+					"width": 419.9549999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						129.325,
+						501.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "transportation, live storage, river basins,",
+					"x": 46,
+					"y": 308.88333,
+					"width": 241.21500000000003,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						483.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 287.2149999999999,
+					"y": 308.88333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						287.2149999999999,
+						483.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Paracheirodon axelrodi, Hyphessobrycon",
+					"x": 290.9649999999999,
+					"y": 308.88333,
+					"width": 252.04500000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						290.9649999999999,
+						483.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "erythrostigma, Symphysodon discus, Ancistrus, Corydoras robinae, Corydoras adolfoi,",
+					"x": 46,
+					"y": 326.88333,
+					"width": 523.3349999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						465.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Corydoras burguessi,",
+					"x": 46,
+					"y": 344.88333,
+					"width": 130.00500000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						447.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 176.005,
+					"y": 344.88333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						176.005,
+						447.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Brazil",
+					"x": 179.755,
+					"y": 344.88333,
+					"width": 36.66,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						179.755,
+						447.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ASFA; Copyright © 2003, FAO",
+					"x": 46,
+					"y": 362.02444,
+					"width": 180.59999999999997,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						429.97556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Ford, DM (1991)",
+					"x": 46,
+					"y": 398.68333,
+					"width": 103.74000000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						393.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 149.74,
+					"y": 398.68333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						149.74,
+						393.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Ornamental fish",
+					"x": 153.49,
+					"y": 398.68333,
+					"width": 105.42,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						153.49,
+						393.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ". Eds: Anderson RS, Edney ATB.",
+					"x": 258.90999999999997,
+					"y": 398.68333,
+					"width": 201.66000000000003,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						258.90999999999997,
+						393.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 460.57,
+					"y": 398.68333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						460.57,
+						393.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Practical Animal",
+					"x": 464.32,
+					"y": 398.68333,
+					"width": 102.915,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						464.32,
+						393.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Handling.",
+					"x": 46,
+					"y": 416.68333,
+					"width": 60.42000000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						375.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 106.42,
+					"y": 416.68333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						106.42,
+						375.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Pergamon Press plc",
+					"x": 110.17,
+					"y": 416.68333,
+					"width": 118.32000000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						110.17,
+						375.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 228.48999999999998,
+					"y": 416.68333,
+					"width": 0.75,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						228.48999999999998,
+						375.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Oxford, UK. p.171-176",
+					"x": 239.73999999999998,
+					"y": 416.68333,
+					"width": 144.975,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						239.73999999999998,
+						375.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NAL Call No. SF61 P73 1991",
+					"x": 46,
+					"y": 433.82445,
+					"width": 173.06800000000004,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						358.17555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Topics discussed are the inspection tank, the fresh water tank, salt water tank, maintenance,",
+					"x": 46,
+					"y": 450.62445,
+					"width": 512.834,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						341.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "examination, the home aquarium, the pond fish and capture and transporting of fish.",
+					"x": 46,
+					"y": 467.42445000000004,
+					"width": 470.8759999999998,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						324.57554999999996
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 484.22445000000005,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						307.77554999999995
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 484.22445000000005,
+					"width": 70.77000000000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						307.77554999999995
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 116.77,
+					"y": 484.22445000000005,
+					"width": 0.25,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						116.77,
+						307.77554999999995
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "fish diseases, transport of animals, restraint of animals, animal welfare",
+					"x": 120.27,
+					"y": 484.22445000000005,
+					"width": 395.0379999999997,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						120.27,
+						307.77554999999995
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Copyright © 2003, CAB International.",
+					"x": 46,
+					"y": 501.02445000000006,
+					"width": 216.74800000000008,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						290.97554999999994
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hignette M (1984)",
+					"x": 46,
+					"y": 537.6833300000001,
+					"width": 112.48500000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						254.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 158.485,
+					"y": 537.6833300000001,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						158.485,
+						254.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The use of cyanide to catch tropical marine fish for aquariums and",
+					"x": 162.235,
+					"y": 537.6833300000001,
+					"width": 427.08,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						162.235,
+						254.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "its diagnosis.",
+					"x": 46,
+					"y": 555.6833300000001,
+					"width": 81.69000000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						236.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 127.69,
+					"y": 555.6833300000001,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						127.69,
+						236.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Comptes Rendus des Journees Aquariologiques de l'Institut",
+					"x": 131.44,
+					"y": 555.6833300000001,
+					"width": 357.35999999999984,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						131.44,
+						236.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Oceanographique, 16 Dec 198 (Proceedings of Marine Aquariology of the",
+					"x": 46,
+					"y": 573.6833300000001,
+					"width": 448.2749999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						218.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Oceanographical Institute, 16 Dec 1983.)",
+					"x": 46,
+					"y": 591.6833300000001,
+					"width": 250.80000000000004,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						200.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ".",
+					"x": 296.79999999999995,
+					"y": 591.6833300000001,
+					"width": 3.75,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						296.79999999999995,
+						200.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 300.54999999999995,
+					"y": 591.6833300000001,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						300.54999999999995,
+						200.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Oceanis. Serie de documents oceanographiques.",
+					"x": 304.29999999999995,
+					"y": 591.6833300000001,
+					"width": 291.615,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						304.29999999999995,
+						200.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Paris.",
+					"x": 46,
+					"y": 609.6833300000001,
+					"width": 36.254999999999995,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						182.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 82.255,
+					"y": 609.6833300000001,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						82.255,
+						182.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "10(5):585-591 ISSN: 0182-0745",
+					"x": 86.005,
+					"y": 609.6833300000001,
+					"width": 195.82500000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						86.005,
+						182.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Marine tropical fish for the pet industry are nowadays very often caught with cyanide",
+					"x": 46,
+					"y": 627.6833300000001,
+					"width": 512.8049999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						164.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "sodium, which is used for its “anaesthetic” effect. This method however can be responsible",
+					"x": 46,
+					"y": 645.6833300000001,
+					"width": 546.9749999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						146.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for fish dying as much as several weeks after transport, and must be avoided. In order to",
+					"x": 46,
+					"y": 663.6833300000001,
+					"width": 529.0499999999996,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						128.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "stop exporters having recourse to this practice, fish importers and aquariologists must know",
+					"x": 46,
+					"y": 681.6833300000001,
+					"width": 550.3499999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						110.31666999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "how to measure cyanide themselves in fish or obtain analyses from reliable laboratories.",
+					"x": 46,
+					"y": 699.6833300000001,
+					"width": 529.4849999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						92.31666999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 717.6833300000001,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						74.31666999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 717.6833300000001,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						74.31666999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 717.6833300000001,
+					"width": 0.500000000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						74.31666999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "cyanides, aquaria, tropical fish, catching methods, fish poisoning, stupefying",
+					"x": 129.325,
+					"y": 717.6833300000001,
+					"width": 460.36499999999984,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						129.325,
+						74.31666999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "methods, mortality causes",
+					"x": 46,
+					"y": 735.6833300000001,
+					"width": 156.24000000000004,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						56.31666999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ASFA; Copyright © 2003, FAO",
+					"x": 46,
+					"y": 753.6833300000001,
+					"width": 193.49999999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						38.31666999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 18,
+					"y": 784.83,
+					"width": 0,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.nal.usda.gov/awic/pubs/Fishwelfare/aquar.htm (3 of 6)9/16/2003 9:05:30 AM",
+					"x": 18,
+					"y": 784.83,
+					"width": 323.7299999999998,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Aquarium Fishes",
+					"x": 18,
+					"y": 11.830000000000041,
+					"width": 61.748999999999995,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						780.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 60.683329999999955,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						731.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Wyllie S (1994)",
+					"x": 46,
+					"y": 60.683329999999955,
+					"width": 96.66,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						731.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 142.66000000000003,
+					"y": 60.683329999999955,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						142.66000000000003,
+						731.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The international ornamental fish trade",
+					"x": 146.41000000000003,
+					"y": 60.683329999999955,
+					"width": 255.0000000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						146.41000000000003,
+						731.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ".",
+					"x": 401.41,
+					"y": 60.683329999999955,
+					"width": 3.75,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						401.41,
+						731.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 405.16,
+					"y": 60.683329999999955,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						405.16,
+						731.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "State Veterinary Journal",
+					"x": 408.91,
+					"y": 60.683329999999955,
+					"width": 148.32,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						408.91,
+						731.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ". 4",
+					"x": 557.2300000000001,
+					"y": 60.683329999999955,
+					"width": 15,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						557.2300000000001,
+						731.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(1):11-13",
+					"x": 46,
+					"y": 78.68332999999996,
+					"width": 56.655,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						713.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NAL Call No. SF601 S8",
+					"x": 46,
+					"y": 95.82444999999996,
+					"width": 141.56800000000004,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						696.17555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 112.62444999999991,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						679.3755500000001
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 112.62444999999991,
+					"width": 70.77000000000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						679.3755500000001
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 116.77,
+					"y": 112.62444999999991,
+					"width": 0.5,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						116.77,
+						679.3755500000001
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "ornamental fishes, transport of animals, animal welfare, regulations, aquaria, trade,",
+					"x": 123.77,
+					"y": 112.62444999999991,
+					"width": 464.61799999999965,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						123.77,
+						679.3755500000001
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "collections, transport",
+					"x": 46,
+					"y": 129.42444999999987,
+					"width": 117.43200000000002,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						662.5755500000001
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 172.52499,
+					"width": 0,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						619.47501
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-BoldItalic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Web Resources:",
+					"x": 10,
+					"y": 172.52499,
+					"width": 149.35500000000002,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						619.47501
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-BoldItalic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 212.08333000000005,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						10,
+						579.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Marine Aquarium Council",
+					"x": 10,
+					"y": 212.08333000000005,
+					"width": 171.67500000000004,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						10,
+						579.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 232.23055999999997,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						10,
+						559.76944
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.aquariumcouncil.org/default.asp",
+					"x": 10,
+					"y": 232.23055999999997,
+					"width": 248.47200000000007,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						10,
+						559.76944
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 271.23943999999995,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						10,
+						520.76056
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Ornamental Fish",
+					"x": 10,
+					"y": 271.23943999999995,
+					"width": 109.58999999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						10,
+						520.76056
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 288.38055,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						10,
+						503.61945
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.ornamentalfish.org/association/code/conduct/conduct.php",
+					"x": 10,
+					"y": 288.38055,
+					"width": 390.7959999999999,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						10,
+						503.61945
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Provides code of conduct that addresses all aspects of ornamentals.",
+					"x": 52,
+					"y": 307.18059000000005,
+					"width": 375.59199999999976,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						52,
+						484.81940999999995
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Return to: Top of Document",
+					"x": 46,
+					"y": 352.83945,
+					"width": 170.82000000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						439.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 433.28111,
+					"width": 0,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						358.71889
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Dealers and Pet Shops",
+					"x": 10,
+					"y": 433.28111,
+					"width": 214.37999999999997,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						358.71889
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 486.83945,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						305.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Chan TTC, Sadovy Y (1998)",
+					"x": 46,
+					"y": 486.83945,
+					"width": 174.57,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						305.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 220.57000000000002,
+					"y": 486.83945,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						220.57000000000002,
+						305.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Profile of the marine aquarium fish trade in Hong Kong.",
+					"x": 224.32000000000002,
+					"y": 486.83945,
+					"width": 362.505,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						224.32000000000002,
+						305.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 504.83945,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						287.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Aquarium Sciences and Conservation.",
+					"x": 46,
+					"y": 504.83945,
+					"width": 229.98000000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						287.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 275.97999999999996,
+					"y": 504.83945,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						275.97999999999996,
+						287.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "2(4):197-213",
+					"x": 279.72999999999996,
+					"y": 504.83945,
+					"width": 79.155,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						279.72999999999996,
+						287.16055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "A market survey and review of government statistics were carried out to establish imports and",
+					"x": 46,
+					"y": 521.98056,
+					"width": 527.2399999999997,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						270.01944
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "exports of marine ornamental fishes into and out of Hong Kong, and to examine the local trade",
+					"x": 46,
+					"y": 539.63946,
+					"width": 548.74299,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						252.36054
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "in terms of volume, value and species composition. Official government import figures for",
+					"x": 45.99978999999996,
+					"y": 557.63945,
+					"width": 544.0949999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						234.36055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "marine aquarium fishes were available from 1984 to 1991 and from 1997 and 1998. When",
+					"x": 45.99978999999996,
+					"y": 575.63945,
+					"width": 541.98,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						216.36055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "compared with net imports, export and re export volumes over the 15 year period were",
+					"x": 45.99978999999996,
+					"y": 593.63945,
+					"width": 520.3049999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						198.36055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "small, indicating that most imports entered the local market, or were exported unrecorded.",
+					"x": 45.99978999999996,
+					"y": 611.63945,
+					"width": 541.1549999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						180.36055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The market survey of marine aquarium shops in Hong Kong was carried out between",
+					"x": 45.99978999999996,
+					"y": 629.63945,
+					"width": 511.14,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						162.36055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "August 1996 and January 1997. From this survey, an annual estimate of 957,563 coral reef",
+					"x": 45.99978999999996,
+					"y": 647.63945,
+					"width": 544.4999999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						144.36055
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "fish was calculated for the local trade, valued at HK$57,453,780, with a mean retail price of",
+					"x": 45.99978999999996,
+					"y": 665.63945,
+					"width": 551.9549999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						126.36054999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "HK$60 per fish. These figures account for an estimated 2 3% of the global value and",
+					"x": 45.99978999999996,
+					"y": 683.63945,
+					"width": 509.0549999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						108.36054999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "volume of marine aquarium fish trade, according to 1992 figures and, compared with",
+					"x": 45.99978999999996,
+					"y": 701.63945,
+					"width": 510.7349999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						90.36054999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "government figures, indicate that official declarations of imports are underreported by at",
+					"x": 45.99978999999996,
+					"y": 719.63945,
+					"width": 530.7149999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						72.36054999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "least 2 3 fold. A total of 342 marine aquarium fish species, from 49 families, were recorded",
+					"x": 45.99978999999996,
+					"y": 737.63945,
+					"width": 548.6399999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						45.99978999999996,
+						54.36054999999999
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 18,
+					"y": 784.83,
+					"width": 0,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.nal.usda.gov/awic/pubs/Fishwelfare/aquar.htm (4 of 6)9/16/2003 9:05:30 AM",
+					"x": 18,
+					"y": 784.83,
+					"width": 323.7299999999998,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "33R",
+					"rect": [
+						10,
+						555.393921,
+						258.471985,
+						570.393921
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"url": "http://www.aquariumcouncil.org/default.asp",
+					"unsafeUrl": "http://www.aquariumcouncil.org/default.asp",
+					"overlaidText": "http://www.aquariumcouncil.org/default.asp",
+					"x": 258.471985,
+					"y": 570.393921
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "35R",
+					"rect": [
+						10,
+						499.243896,
+						400.796021,
+						514.243896
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"url": "http://www.ornamentalfish.org/association/code/conduct/conduct.php",
+					"unsafeUrl": "http://www.ornamentalfish.org/association/code/conduct/conduct.php",
+					"overlaidText": "http://www.ornamentalfish.org/association/code/conduct/conduct.php",
+					"x": 400.796021,
+					"y": 514.243896
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "36R",
+					"rect": [
+						110.169998,
+						434.543884,
+						216.820007,
+						450.543884
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"dest": [
+						{
+							"num": 11,
+							"gen": 0
+						},
+						{
+							"name": "XYZ"
+						},
+						0,
+						792,
+						null
+					],
+					"overlaidText": "Top of Document",
+					"x": 216.820007,
+					"y": 450.543884
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 5,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Aquarium Fishes",
+					"x": 18,
+					"y": 11.830000000000041,
+					"width": 61.748999999999995,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						780.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 38.88333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						753.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "with about 60% belonging to the families Labridae, Chaetodontidae, Pomacanthidae and",
+					"x": 46,
+					"y": 38.88333,
+					"width": 531.5999999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						753.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Pomacentridae. It was estimated that a large proportion of the trade was in juvenile fishes",
+					"x": 46,
+					"y": 56.88333,
+					"width": 536.9849999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						735.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and almost all fish were less than 10 cm in standard length. It was common to see fishes in",
+					"x": 46,
+					"y": 74.88333,
+					"width": 543.6899999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						717.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "poor condition, species hard to maintain in captivity, or those listed for conservation",
+					"x": 46,
+					"y": 92.88333,
+					"width": 505.7849999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						699.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "concern, on sale. There are no regulations for local traders of live marine fishes other than",
+					"x": 46,
+					"y": 110.88333,
+					"width": 540.2699999999995,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						681.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "those relating to either protected species or animal welfare. Licensing of traders in marine",
+					"x": 46,
+					"y": 128.88333,
+					"width": 539.0399999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						663.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "fishes could be introduced under existing Hong Kong legislation if fishes were to be re",
+					"x": 46,
+					"y": 146.88333,
+					"width": 520.7549999999999,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						645.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "classified as animals. This is strongly recommended as a step towards regulating and",
+					"x": 46,
+					"y": 164.88333,
+					"width": 508.6799999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						627.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "managing the trade in Hong Kong.",
+					"x": 46,
+					"y": 182.88333,
+					"width": 208.305,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						609.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 200.88333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						591.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 200.88333,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						591.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 200.88333,
+					"width": 0.500000000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						591.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "aquarium culture, ornamental fish, aquaculture economics, marine fish,",
+					"x": 129.325,
+					"y": 200.88333,
+					"width": 427.82999999999976,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						129.325,
+						591.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "resource conservation, ISEW, Hong Kong",
+					"x": 46,
+					"y": 218.88333,
+					"width": 253.2750000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						573.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ASFA; Copyright © 2003, FAO",
+					"x": 46,
+					"y": 236.02444000000003,
+					"width": 180.59999999999997,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						555.97556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Etscheidt J (1995)",
+					"x": 46,
+					"y": 272.68332999999996,
+					"width": 109.155,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						519.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 155.155,
+					"y": 272.68332999999996,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						155.155,
+						519.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Kriterien zur beurteilung der haltung von",
+					"x": 158.905,
+					"y": 272.68332999999996,
+					"width": 268.7550000000001,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						158.905,
+						519.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "suesswasseraquarienfischen im zoohandel [Critical aspects of the welfare of",
+					"x": 46,
+					"y": 290.68332999999996,
+					"width": 482.4449999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						501.31667000000004
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "freshwater fish in pet shops].",
+					"x": 46,
+					"y": 308.68332999999996,
+					"width": 184.57500000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						483.31667000000004
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 230.57500000000002,
+					"y": 308.68332999999996,
+					"width": 0.5,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						230.57500000000002,
+						483.31667000000004
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tieraerztliche Umschau.",
+					"x": 238.07500000000002,
+					"y": 308.68332999999996,
+					"width": 148.32,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						238.07500000000002,
+						483.31667000000004
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 386.39500000000004,
+					"y": 308.68332999999996,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						386.39500000000004,
+						483.31667000000004
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "50(3):196-199 (In German)",
+					"x": 390.14500000000004,
+					"y": 308.68332999999996,
+					"width": 164.95500000000004,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						390.14500000000004,
+						483.31667000000004
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NAL Call No. 41.8 T445",
+					"x": 46,
+					"y": 325.82445,
+					"width": 144.26999999999998,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						466.17555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "It is possible with the aid of key parameters to assess the welfare of freshwater fish kept in",
+					"x": 46,
+					"y": 342.62445,
+					"width": 506.6179999999999,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						449.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "petshops. The most important factors are water quality, stocking density, social behaviour, inter-",
+					"x": 46,
+					"y": 359.42445000000004,
+					"width": 540.4839999999998,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						432.57554999999996
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "species interactions, the decoration and structure of the fish tanks, the technical devices and the",
+					"x": 46,
+					"y": 376.22445000000005,
+					"width": 533.4419999999999,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						415.77554999999995
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "expertise of the owner in terms of feeding and the management of water changes and filtering.",
+					"x": 46,
+					"y": 393.02445000000006,
+					"width": 527.9819999999999,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						398.97554999999994
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 410.68333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						381.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 410.68333,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						381.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 410.68333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						381.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "freshwater fish, ornamental fish, stocking density, water quality control,",
+					"x": 125.57499999999997,
+					"y": 410.68333,
+					"width": 432.4349999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57499999999997,
+						381.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "aquariology, fish, animal welfare",
+					"x": 46,
+					"y": 428.68333,
+					"width": 198.70500000000007,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						363.31667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ASFA; Copyright © 2003, FAO",
+					"x": 46,
+					"y": 445.82445,
+					"width": 180.59999999999997,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						346.17555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Nowak, D. (1993)",
+					"x": 46,
+					"y": 482.48334,
+					"width": 109.14,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						309.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 155.14,
+					"y": 482.48334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						155.14,
+						309.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tierschutzrelevante Probleme bei der Kontrolle von",
+					"x": 158.89,
+					"y": 482.48334,
+					"width": 333.70500000000004,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						158.89,
+						309.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Zoofachgeschaften aus amtstierarztlicher Sicht [Problems of animal welfare during",
+					"x": 46,
+					"y": 500.48334,
+					"width": 533.2649999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						291.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "official veterinary surveillance of pet shops].",
+					"x": 46,
+					"y": 518.48334,
+					"width": 283.30500000000006,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						273.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 329.30499999999984,
+					"y": 518.48334,
+					"width": 0.5,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						329.30499999999984,
+						273.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Deutsche Tierarztliche Wochenschrift",
+					"x": 336.80499999999984,
+					"y": 518.48334,
+					"width": 227.47500000000008,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						336.80499999999984,
+						273.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 564.2799999999999,
+					"y": 518.48334,
+					"width": 0.5,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						564.2799999999999,
+						273.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "100",
+					"x": 571.7799999999999,
+					"y": 518.48334,
+					"width": 22.5,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						571.7799999999999,
+						273.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(2):76-78",
+					"x": 46,
+					"y": 536.48334,
+					"width": 56.655,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						255.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 102.655,
+					"y": 536.48334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						102.655,
+						255.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "(In German with English Summary)",
+					"x": 106.405,
+					"y": 536.48334,
+					"width": 214.98000000000005,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						106.405,
+						255.51666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 553.62445,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						238.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NAL Call No. 41.8 D482",
+					"x": 46,
+					"y": 553.62445,
+					"width": 145.82399999999998,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						238.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "From a survey of all official veterinarians in Berlin. Typical problems of keeping fishes, birds,",
+					"x": 46,
+					"y": 571.2833499999999,
+					"width": 549.059,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						220.71665000000002
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "rodents and reptiles are listed. Many of the vets reported the lack of practical guidance,",
+					"x": 46.00004999999999,
+					"y": 589.28334,
+					"width": 522.3749999999998,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46.00004999999999,
+						202.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "manuals or expert opinions.",
+					"x": 46.00004999999999,
+					"y": 607.28334,
+					"width": 166.65,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46.00004999999999,
+						184.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46.00004999999999,
+					"y": 625.28334,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46.00004999999999,
+						166.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46.00004999999999,
+					"y": 625.28334,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46.00004999999999,
+						166.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82504999999996,
+					"y": 625.28334,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82504999999996,
+						166.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "pets, aviary birds, animal welfare, veterinary services",
+					"x": 125.57504999999996,
+					"y": 625.28334,
+					"width": 320.32499999999993,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57504999999996,
+						166.71666
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Copyright © 2003, CAB International.",
+					"x": 46,
+					"y": 642.42444,
+					"width": 216.74800000000008,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						149.57556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Winter M (1993)",
+					"x": 46,
+					"y": 679.08333,
+					"width": 102.48000000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						112.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 148.48000000000002,
+					"y": 679.08333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						148.48000000000002,
+						112.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tierschutzgerechte Haltung von Zierfischen im Zoohandel - eine Studie.",
+					"x": 152.23000000000002,
+					"y": 679.08333,
+					"width": 432.88499999999993,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						152.23000000000002,
+						112.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "[Humane handling of aquarium fish by animal dealers.]",
+					"x": 46,
+					"y": 697.08333,
+					"width": 337.49999999999994,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						94.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 383.5,
+					"y": 697.08333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						383.5,
+						94.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Tierarztliche Fakultat, Ludwig-",
+					"x": 387.25,
+					"y": 697.08333,
+					"width": 188.71500000000003,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						387.25,
+						94.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Maximilians-Universitat, Munchen. 190 pp. (In German with English summary).",
+					"x": 46,
+					"y": 715.08333,
+					"width": 493.28999999999974,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						76.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 539.2900000000001,
+					"y": 715.08333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						539.2900000000001,
+						76.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Thesis.",
+					"x": 543.0400000000001,
+					"y": 715.08333,
+					"width": 42.915,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						543.0400000000001,
+						76.91667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 46,
+					"y": 733.08333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						58.916669999999996
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Descriptors:",
+					"x": 46,
+					"y": 733.08333,
+					"width": 75.825,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						46,
+						58.916669999999996
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.82499999999997,
+					"y": 733.08333,
+					"width": 0.25,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						121.82499999999997,
+						58.916669999999996
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "zootechny, animal welfare, aquarium fishes, fishes",
+					"x": 125.57499999999997,
+					"y": 733.08333,
+					"width": 304.09499999999997,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						125.57499999999997,
+						58.916669999999996
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Copyright © 2003, CAB International.",
+					"x": 46,
+					"y": 750.22444,
+					"width": 216.74800000000008,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						46,
+						41.77556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 18,
+					"y": 784.83,
+					"width": 0,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.nal.usda.gov/awic/pubs/Fishwelfare/aquar.htm (5 of 6)9/16/2003 9:05:30 AM",
+					"x": 18,
+					"y": 784.83,
+					"width": 323.7299999999998,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 6,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Aquarium Fishes",
+					"x": 18,
+					"y": 11.830000000000041,
+					"width": 61.748999999999995,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						780.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 63.325000000000045,
+					"width": 0,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						728.675
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-BoldItalic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Web Resources:",
+					"x": 10,
+					"y": 63.325000000000045,
+					"width": 149.35500000000002,
+					"height": 22.5,
+					"transform": [
+						22.5,
+						0,
+						0,
+						22.5,
+						10,
+						728.675
+					],
+					"font": {
+						"size": 22.5,
+						"name": "Times-BoldItalic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 116.88333,
+					"width": 0,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						10,
+						675.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "APHIS Animal Care",
+					"x": 10,
+					"y": 116.88333,
+					"width": 132.49500000000003,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						10,
+						675.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Publications",
+					"x": 10,
+					"y": 134.88333,
+					"width": 79.18500000000002,
+					"height": 15,
+					"transform": [
+						15,
+						0,
+						0,
+						15,
+						10,
+						657.11667
+					],
+					"font": {
+						"size": 15,
+						"name": "Times-Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 10,
+					"y": 152.02444000000003,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						10,
+						639.97556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.aphis.usda.gov/ac/publications.html",
+					"x": 10,
+					"y": 152.02444000000003,
+					"width": 268.3380000000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						10,
+						639.97556
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Links to the Animal Welfare Act, Regulations, and Standards and other related publications.",
+					"x": 52,
+					"y": 170.82448,
+					"width": 517.5379999999999,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						52,
+						621.17552
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Return to: Contents",
+					"x": 10,
+					"y": 235.62446,
+					"width": 109.676,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						10,
+						556.37554
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 119.67599999999997,
+					"y": 235.62445000000002,
+					"width": 1.000000000000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						119.67599999999997,
+						556.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "OR",
+					"x": 133.676,
+					"y": 235.62445000000002,
+					"width": 19.446,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						133.676,
+						556.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 153.12199999999999,
+					"y": 235.62445000000002,
+					"width": 0.9999992857142875,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						153.12199999999999,
+						556.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Top of Document",
+					"x": 167.12199,
+					"y": 235.62445000000002,
+					"width": 99.53999999999999,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						167.12199,
+						556.37555
+					],
+					"font": {
+						"size": 14,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 18,
+					"y": 784.83,
+					"width": 0,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.nal.usda.gov/awic/pubs/Fishwelfare/aquar.htm (6 of 6)9/16/2003 9:05:30 AM",
+					"x": 18,
+					"y": 784.83,
+					"width": 323.7299999999998,
+					"height": 9,
+					"transform": [
+						9,
+						0,
+						0,
+						9,
+						18,
+						7.17
+					],
+					"font": {
+						"size": 9,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "43R",
+					"rect": [
+						10,
+						635.599976,
+						278.338013,
+						650.599976
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"url": "http://www.aphis.usda.gov/ac/publications.html",
+					"unsafeUrl": "http://www.aphis.usda.gov/ac/publications.html",
+					"overlaidText": "http://www.aphis.usda.gov/ac/publications.html",
+					"x": 278.338013,
+					"y": 650.599976
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "45R",
+					"rect": [
+						69.891998,
+						552,
+						119.675995,
+						567
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"url": "http://www.nal.usda.gov/awic/pubs/Fishwelfare/fishwelfare.htm#contents",
+					"unsafeUrl": "http://www.nal.usda.gov/awic/pubs/Fishwelfare/fishwelfare.htm#contents",
+					"overlaidText": "Contents",
+					"x": 119.675995,
+					"y": 567
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "46R",
+					"rect": [
+						167.121994,
+						552,
+						266.661987,
+						567
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"dest": [
+						{
+							"num": 11,
+							"gen": 0
+						},
+						{
+							"name": "XYZ"
+						},
+						0,
+						792,
+						null
+					],
+					"overlaidText": "Top of Document",
+					"x": 266.661987,
+					"y": 567
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 6,
+		"fingerprints": [
+			"ffb93d029638f444bbfbdf98cafb6419",
+			"9519f3ff0a1ebe4f94aa672e19355dd3"
+		]
+	}
+}

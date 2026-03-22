@@ -1,0 +1,584 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 90,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.8898,
+				"height": 595.27563,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "Apache PDFBox ®",
+					"x": 100,
+					"y": 100,
+					"width": 420.35,
+					"height": 50,
+					"transform": [
+						0,
+						50,
+						-50,
+						0,
+						100,
+						100
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 100,
+					"y": 150,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						150,
+						100
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "90° text matrix",
+					"x": 100,
+					"y": 150,
+					"width": 76.82400000000001,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						150,
+						100
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 90,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.8898,
+				"height": 595.27563,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "Apache PDFBox ®",
+					"x": 100,
+					"y": 100,
+					"width": 420.3500000000001,
+					"height": 50,
+					"transform": [
+						0,
+						50,
+						-50,
+						0,
+						100,
+						100
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 100,
+					"y": 150,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						150,
+						100
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "90° ctm",
+					"x": 100,
+					"y": 150,
+					"width": 40.81199999999998,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						150,
+						100
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 180,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.27563,
+				"height": 841.8898,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "Apache PDFBox ®",
+					"x": 95.27562999999998,
+					"y": 100,
+					"width": 420.35,
+					"height": 50,
+					"transform": [
+						-50,
+						0,
+						0,
+						-50,
+						500,
+						100
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 95.27562999999998,
+					"y": 150,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						-12,
+						0,
+						0,
+						-12,
+						500,
+						150
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "180° text matrix",
+					"x": 95.27562999999998,
+					"y": 150,
+					"width": 83.49600000000002,
+					"height": 12,
+					"transform": [
+						-12,
+						0,
+						0,
+						-12,
+						500,
+						150
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 180,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.27563,
+				"height": 841.8898,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "Apache PDFBox ®",
+					"x": 95.27562999999998,
+					"y": 100,
+					"width": 420.3500000000001,
+					"height": 50,
+					"transform": [
+						-50,
+						0,
+						0,
+						-50,
+						500,
+						100
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 95.27562999999998,
+					"y": 150,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						-12,
+						0,
+						0,
+						-12,
+						500,
+						150
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "180° ctm",
+					"x": 95.27562999999998,
+					"y": 150,
+					"width": 47.484000000000016,
+					"height": 12,
+					"transform": [
+						-12,
+						0,
+						0,
+						-12,
+						500,
+						150
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 5,
+				"scale": 1,
+				"rotation": 270,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.8898,
+				"height": 595.27563,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "Apache PDFBox ®",
+					"x": 141.88980000000004,
+					"y": 95.27562999999998,
+					"width": 420.35,
+					"height": 50,
+					"transform": [
+						0,
+						-50,
+						50,
+						0,
+						500,
+						700
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 141.88980000000004,
+					"y": 145.27562999999998,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						0,
+						-12,
+						12,
+						0,
+						450,
+						700
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "270° text matrix",
+					"x": 141.88980000000004,
+					"y": 145.27562999999998,
+					"width": 83.49600000000002,
+					"height": 12,
+					"transform": [
+						0,
+						-12,
+						12,
+						0,
+						450,
+						700
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 6,
+				"scale": 1,
+				"rotation": 270,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 841.8898,
+				"height": 595.27563,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "Apache PDFBox ®",
+					"x": 141.88980000000004,
+					"y": 95.27562999999998,
+					"width": 420.35000000000014,
+					"height": 50,
+					"transform": [
+						0,
+						-50,
+						50,
+						0,
+						500,
+						700
+					],
+					"font": {
+						"size": 50,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 141.88980000000004,
+					"y": 145.27562999999998,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						0,
+						-12,
+						12,
+						0,
+						450,
+						700
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "270° ctm",
+					"x": 141.88980000000004,
+					"y": 145.27562999999998,
+					"width": 47.484000000000016,
+					"height": 12,
+					"transform": [
+						0,
+						-12,
+						12,
+						0,
+						450,
+						700
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 6,
+		"fingerprints": [
+			"aafe4b722ed8b191af01ba0b66789b92"
+		]
+	}
+}

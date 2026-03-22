@@ -1,0 +1,159 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"Language": "x-unknown",
+			"IsLinearized": true,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20170621120837+01'00'",
+			"Creator": "Smart Communications",
+			"ModDate": "D:20200620190134+02'00'",
+			"Custom": {
+				"PDFVersion": "1.4"
+			},
+			"Producer": "Smart Communications"
+		},
+		"metadata": {
+			"dc:format": "application/pdf",
+			"dc:language": "x-unknown",
+			"dc:date": "2017-06-21T12:08:37+01:00",
+			"pdf:producer": "Smart Communications",
+			"pdf:pdfversion": "1.4",
+			"xmp:creatortool": "Smart Communications",
+			"xmp:metadatadate": "2020-06-20T19:01:34+02:00",
+			"xmp:createdate": "2017-06-21T12:08:37+01:00",
+			"xmp:modifydate": "2020-06-20T19:01:34+02:00",
+			"xmpmm:documentid": "uuid:656f69fd-9e92-44f4-a916-63bbdbdf84c5",
+			"xmpmm:instanceid": "uuid:32de8d6e-287a-4548-9c90-8ca0b0f40f81"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 420.944,
+				"height": 595.275,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 420.944,
+					"maxY": 595.275
+				}
+			},
+			"content": [
+				{
+					"str": "Already filled in:",
+					"x": 20,
+					"y": 30.265999790000023,
+					"width": 84.69599999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						20,
+						565.00900021
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "24R",
+					"rect": [
+						20,
+						509.875,
+						400.944,
+						559.875
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "filled",
+					"fieldValue": "123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789123456789",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "F1",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						1.9999999987182335,
+						34.1279
+					],
+					"textContent": [
+						"12345678912345678912345678912345678912345678912345678912",
+						"34567891234567891234567891234567891234567891234567891234",
+						"56789"
+					],
+					"x": 400.944,
+					"y": 559.875
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"60af1b6b63abb3b39b8cdcf201f5a7db",
+			"a5403208817fe844b1bbaaa3364e7e73"
+		]
+	}
+}

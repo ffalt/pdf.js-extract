@@ -1,0 +1,183 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 1,
+					"annotationFlags": 30,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						255,
+						255,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "Accepted set by Azd9",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "23R",
+					"modificationDate": "D:20040614102734-04'00'",
+					"rect": [
+						100,
+						82,
+						120,
+						100
+					],
+					"subtype": "Text",
+					"hasOwnCanvas": true,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Azd9",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20040614102734-04'00'",
+					"popupRef": "43R",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [],
+									"value": "Accepted set by Azd9"
+								}
+							]
+						},
+						"str": "Accepted set by Azd9"
+					},
+					"name": "NoIcon",
+					"state": "Accepted",
+					"stateModel": "Review",
+					"x": 120,
+					"y": 100
+				},
+				{
+					"annotationType": 1,
+					"annotationFlags": 30,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						255,
+						255,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "Accepted set by Azd9",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "24R",
+					"modificationDate": "D:20040614102722-04'00'",
+					"rect": [
+						100,
+						82,
+						120,
+						100
+					],
+					"subtype": "Text",
+					"hasOwnCanvas": true,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "Azd9",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20040614102722-04'00'",
+					"popupRef": "44R",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [],
+									"value": "Accepted set by Azd9"
+								}
+							]
+						},
+						"str": "Accepted set by Azd9"
+					},
+					"name": "NoIcon",
+					"state": "Accepted",
+					"stateModel": "Review",
+					"x": 120,
+					"y": 100
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"069e7b6083e7194e3e978a83a41b9591",
+			"08b326979a87414aa41da68869fa5544"
+		]
+	}
+}

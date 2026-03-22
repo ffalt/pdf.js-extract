@@ -1,0 +1,109 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.7",
+			"Language": "en-US",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Author": "Masaki Komedani",
+			"CreationDate": "D:20230222055248Z",
+			"Creator": "Microsoft® Word 2019",
+			"ModDate": "D:20230222055250Z",
+			"Producer": "Adobe PDF Services"
+		},
+		"metadata": {
+			"pdf:producer": "Adobe PDF Services",
+			"dc:format": "application/pdf",
+			"dc:creator": [
+				"Masaki Komedani"
+			],
+			"xmp:creatortool": "Microsoft® Word 2019",
+			"xmp:createdate": "2023-02-22T05:52:48Z",
+			"xmp:modifydate": "2023-02-22T05:52:50Z",
+			"xmp:metadatadate": "2023-02-22T05:52:50Z",
+			"xmpmm:documentid": "uuid:C877E78D-0BA1-49A5-91FD-2586D0CD7F4D",
+			"xmpmm:instanceid": "uuid:6f4fe7e0-14c6-4d6c-8f30-0741605081c2"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.32,
+				"height": 841.92,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.32,
+					"maxY": 841.92
+				}
+			},
+			"content": [
+				{
+					"str": "ּא",
+					"x": 85.1,
+					"y": 200.36,
+					"width": 0,
+					"height": 105,
+					"transform": [
+						105,
+						0,
+						0,
+						105,
+						85.1,
+						641.56
+					],
+					"font": {
+						"size": 105,
+						"name": "DJDLCI+ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "ال",
+					"x": 85.1,
+					"y": 452.37999999999994,
+					"width": 57.12,
+					"height": 105,
+					"transform": [
+						105,
+						0,
+						0,
+						105,
+						85.1,
+						389.54
+					],
+					"font": {
+						"size": 105,
+						"name": "DJDLCI+ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"8de777c8a10ba54991fd2586d0cd7f4d",
+			"79171ae22e96334ca9c8aa498e013873"
+		]
+	}
+}

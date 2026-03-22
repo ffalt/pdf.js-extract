@@ -1,0 +1,11 @@
+PngDemo
+basn0g01.pngbasn0g02.pngbasn0g04.pngbasn0g08.png
+1bit grayscale.2bit grayscale.4bit grayscale.8bit grayscale.
+basn2c08.pngbasn2c16.png
+8bit color.16bit color.
+basn3p01.pngbasn3p02.pngbasn3p04.pngbasn3p08.png
+1bit pallet.2bit pallet.4bit pallet.8bit pallet.
+basn4a08.pngbasn4a16.png
+8bit alpha.16bit alpha.
+basn6a08.pngbasn6a16.png
+8bit alpha.16bit alpha.

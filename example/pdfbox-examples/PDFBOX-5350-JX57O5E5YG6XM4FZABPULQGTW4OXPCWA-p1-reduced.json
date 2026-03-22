@@ -1,0 +1,79 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20180815173854-08'00'",
+			"Creator": "nPDF (pdftk 1.41)",
+			"ModDate": "D:20231008110526+02'00'",
+			"Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)"
+		},
+		"metadata": {
+			"xmp:createdate": "2018-08-15T17:38:54-08:00",
+			"xmp:creatortool": "nPDF (pdftk 1.41)",
+			"xmp:modifydate": "2023-10-08T11:05:26+02:00",
+			"xmp:metadatadate": "2023-10-08T11:05:26+02:00",
+			"pdf:producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+			"xmpmm:documentid": "uuid:62f5b43f-d5b4-4959-ac0d-6e42546d1d50",
+			"xmpmm:instanceid": "uuid:0f0ad5e4-e4d7-4814-99a8-d3f8ad48c617",
+			"dc:format": "application/pdf"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.2,
+				"height": 841.92,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.2,
+					"maxY": 841.92
+				}
+			},
+			"content": [
+				{
+					"str": "사회복지법인",
+					"x": 152.64,
+					"y": 112.79999999999995,
+					"width": 103.68,
+					"height": 17.28,
+					"transform": [
+						17.28,
+						0,
+						0,
+						17.28,
+						152.64,
+						729.12
+					],
+					"font": {
+						"size": 17.28,
+						"name": "JSPDGE+Gulim",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.8583984375,
+						"descent": -0.1416015625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"eda19f10db76c02eb1f5c2ff11eadb3a",
+			"eaf8008ac76a114a8b5bef9f0bfe6304"
+		]
+	}
+}

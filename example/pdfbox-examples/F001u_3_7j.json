@@ -1,0 +1,115 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 842,
+				"height": 595,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 842,
+					"maxY": 595
+				}
+			},
+			"content": [
+				{
+					"str": "Finished Product",
+					"x": 263.04,
+					"y": 82.60000000000002,
+					"width": 45.884100000000196,
+					"height": 6.72,
+					"transform": [
+						6.72,
+						0,
+						0,
+						6.72,
+						263.04,
+						512.4
+					],
+					"font": {
+						"size": 6.72,
+						"name": "ABZDRX+Calibri",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.75,
+						"descent": -0.25
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 308.9241000000003,
+					"y": 82.60000000000002,
+					"width": 2.1158999999997263,
+					"height": 6.72,
+					"transform": [
+						6.72,
+						0,
+						0,
+						6.72,
+						308.9241000000003,
+						512.4
+					],
+					"font": {
+						"size": 6.72,
+						"name": "ABZDRX+Calibri",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.75,
+						"descent": -0.25
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "พลังรัก",
+					"x": 311.04,
+					"y": 82.60000000000002,
+					"width": 19.12129999999999,
+					"height": 6.72,
+					"transform": [
+						6.72,
+						0,
+						0,
+						6.72,
+						311.04,
+						512.4
+					],
+					"font": {
+						"size": 6.72,
+						"name": "ABZDSA+Tahoma",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00048828125,
+						"descent": -0.20654296875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"68f12588b6fc799f3b53d61396c24f00",
+			"81d2020d2399124697157f882fcd3df2"
+		]
+	}
+}
