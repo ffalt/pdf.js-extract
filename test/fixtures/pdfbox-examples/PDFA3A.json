@@ -1,0 +1,83 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.7",
+			"Language": "de-DE",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Author": "Tilman Hausherr",
+			"Creator": "Microsoft® Word 2016",
+			"CreationDate": "D:20210525204932+02'00'",
+			"ModDate": "D:20210525204932+02'00'",
+			"Producer": "Microsoft® Word 2016"
+		},
+		"metadata": {
+			"pdf:producer": "Microsoft® Word 2016",
+			"dc:creator": [
+				"Tilman Hausherr"
+			],
+			"xmp:creatortool": "Microsoft® Word 2016",
+			"xmp:createdate": "2021-05-25T20:49:32+02:00",
+			"xmp:modifydate": "2021-05-25T20:49:32+02:00",
+			"xmpmm:documentid": "uuid:5396204C-CD49-4AF8-9495-BE6ECF7C5F04",
+			"xmpmm:instanceid": "uuid:5396204C-CD49-4AF8-9495-BE6ECF7C5F04",
+			"pdfaid:part": "3",
+			"pdfaid:conformance": "A"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.32,
+				"height": 841.92,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.32,
+					"maxY": 841.92
+				}
+			},
+			"content": [
+				{
+					"str": "The quick brown fox jumps over the lazy dog.",
+					"x": 70.86,
+					"y": 81.36000000000001,
+					"width": 202.09856,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						70.86,
+						760.56
+					],
+					"font": {
+						"size": 10.98,
+						"name": "BCDEEE+Calibri",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.75,
+						"descent": -0.25
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"4c20965349cdf84a9495be6ecf7c5f04"
+		]
+	}
+}

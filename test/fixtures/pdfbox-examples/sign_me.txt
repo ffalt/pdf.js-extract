@@ -1,0 +1,6 @@
+Apache
+PDFBox
+Digital
+Signature
+Apache PDFBox
+Copyright 2014 The Apache Software Foundation

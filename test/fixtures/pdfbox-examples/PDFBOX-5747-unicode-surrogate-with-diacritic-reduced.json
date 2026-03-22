@@ -1,0 +1,64 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 596,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 596,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "𝑋̂",
+					"x": 42,
+					"y": 142,
+					"width": 23.462999999999997,
+					"height": 33,
+					"transform": [
+						33,
+						0,
+						0,
+						33,
+						42,
+						700
+					],
+					"font": {
+						"size": 33,
+						"name": "KELZXM+CairoFont-0-1",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.799,
+						"descent": -0.176
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"6df5d9c76d77b476c010bb9dfff8f077"
+		]
+	}
+}

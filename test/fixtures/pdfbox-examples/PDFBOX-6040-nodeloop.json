@@ -1,0 +1,37 @@
+{
+	"meta": {
+		"info": {
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": []
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"38856021df71e5f6092629fce8509466"
+		]
+	}
+}

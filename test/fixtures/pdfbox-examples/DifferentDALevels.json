@@ -1,0 +1,717 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20170305163001+01'00'",
+			"Creator": "Adobe Acrobat 10.272",
+			"ModDate": "D:20170305163941+01'00'",
+			"Producer": "Adobe Acrobat 10.272"
+		},
+		"metadata": {
+			"xmp:modifydate": "2017-03-05T16:39:41+01:00",
+			"xmp:createdate": "2017-03-05T16:30:01+01:00",
+			"xmp:metadatadate": "2017-03-05T16:39:41+01:00",
+			"xmp:creatortool": "Adobe Acrobat 10.272",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:63a5d399-dd3f-4da7-8e5f-01266ea29e78",
+			"xmpmm:instanceid": "uuid:8ea9f989-494f-4dfc-b986-6baf8394de8f",
+			"pdf:producer": "Adobe Acrobat 10.272",
+			"adhocwf:state": "1",
+			"adhocwf:version": "1.1"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "16R",
+					"rect": [
+						70.9198,
+						735.958,
+						220.92,
+						757.958
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "SingleAnnotation",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 220.92,
+					"y": 757.958
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "18R",
+					"rect": [
+						252.824,
+						735.958,
+						402.824,
+						757.958
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "MultipeAnnotations-SameLayout",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 402.824,
+					"y": 757.958
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "21R",
+					"rect": [
+						252.824,
+						701.917,
+						402.824,
+						723.917
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "MultipeAnnotations-SameLayout",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 402.824,
+					"y": 723.917
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "26R",
+					"rect": [
+						74.1066,
+						633.14,
+						224.107,
+						655.14
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Acrobat-SingleAnnotation",
+					"fieldValue": "single annotation",
+					"defaultFieldValue": "single annotation",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2.0000053333333336,
+						6.548
+					],
+					"textContent": [
+						"single annotation"
+					],
+					"x": 224.107,
+					"y": 655.14
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "27R",
+					"rect": [
+						252.824,
+						633.834,
+						402.824,
+						655.834
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Acrobat-MultipeAnnotations-SameLayout",
+					"fieldValue": "same layout",
+					"defaultFieldValue": "same layout",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2,
+						6.548
+					],
+					"textContent": [
+						"same layout"
+					],
+					"x": 402.824,
+					"y": 655.834
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "28R",
+					"rect": [
+						252.824,
+						599.792,
+						402.824,
+						621.792
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Acrobat-MultipeAnnotations-SameLayout",
+					"fieldValue": "same layout",
+					"defaultFieldValue": "same layout",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2,
+						6.548
+					],
+					"textContent": [
+						"same layout"
+					],
+					"x": 402.824,
+					"y": 621.792
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "19R",
+					"rect": [
+						431.542,
+						735.264,
+						581.542,
+						757.264
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "MultipleAnnotations-DifferentLayout",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 581.542,
+					"y": 757.264
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "24R",
+					"rect": [
+						431.542,
+						701.223,
+						581.542,
+						723.223
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "MultipleAnnotations-DifferentLayout",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 10,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 581.542,
+					"y": 723.223
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "29R",
+					"rect": [
+						431.192,
+						633.14,
+						581.192,
+						655.14
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Acrobat-MultipleAnnotations-DifferentLayout",
+					"fieldValue": "different layout",
+					"defaultFieldValue": "different layout",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2,
+						6.548
+					],
+					"textContent": [
+						"different layout"
+					],
+					"x": 581.192,
+					"y": 655.14
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "30R",
+					"rect": [
+						431.542,
+						599.098,
+						581.542,
+						621.098
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Acrobat-MultipleAnnotations-DifferentLayout",
+					"fieldValue": "different layout",
+					"defaultFieldValue": "different layout",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 10,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2.000000000000001,
+						7.29
+					],
+					"textContent": [
+						"different layout"
+					],
+					"x": 581.542,
+					"y": 621.098
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"3c07bbdba66e58489d0eb13021d9e819",
+			"c48b8745396779408b1d19b07d1071c3"
+		]
+	}
+}

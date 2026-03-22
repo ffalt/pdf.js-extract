@@ -1,0 +1,65 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.7",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "PDFBox",
+					"x": 140,
+					"y": 90,
+					"width": 90,
+					"height": 25,
+					"transform": [
+						25,
+						0,
+						0,
+						25,
+						140,
+						702
+					],
+					"font": {
+						"size": 25,
+						"name": "Courier New",
+						"family": "monospace",
+						"vertical": false,
+						"ascent": 0.613,
+						"descent": -0.188
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"e191e2f88c6bed381164a82943a65502",
+			"aa4004ac6d6902db3a2d03dcc4faee3c"
+		]
+	}
+}

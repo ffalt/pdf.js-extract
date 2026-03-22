@@ -1,0 +1,84 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 5,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						255,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "Square Annotation",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "4R",
+					"rect": [
+						91.5958,
+						741.91,
+						113.849,
+						757.078
+					],
+					"subtype": "Square",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"x": 113.849,
+					"y": 757.078
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"89e492cfa183ea42bb9fd6f06654f864"
+		]
+	}
+}

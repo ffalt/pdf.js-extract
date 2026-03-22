@@ -1,0 +1,8 @@
+Example for a Form
+First Name Last Name
+Birthday
+Gender:
+Female Male
+Nationality:
+Agree to privacy policy
+Other

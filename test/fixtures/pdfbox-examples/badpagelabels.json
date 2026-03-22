@@ -1,0 +1,92 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": []
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": []
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": []
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": []
+		}
+	],
+	"info": {
+		"numPages": 4,
+		"fingerprints": [
+			"01f7a9871b455d4bf4efee8c61172afc"
+		]
+	}
+}

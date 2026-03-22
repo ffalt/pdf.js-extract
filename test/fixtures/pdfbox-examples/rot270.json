@@ -1,0 +1,64 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 270,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 400,
+				"height": 200,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 200,
+					"maxY": 400
+				}
+			},
+			"content": [
+				{
+					"str": "Page rotation: 270",
+					"x": 139.31702,
+					"y": 100,
+					"width": 121.36600000000001,
+					"height": 14,
+					"transform": [
+						0,
+						-14,
+						14,
+						0,
+						100,
+						260.68298
+					],
+					"font": {
+						"size": 14,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"9c2b8ed43cad3c82fd02f6fb23a8620b"
+		]
+	}
+}

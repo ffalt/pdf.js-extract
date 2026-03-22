@@ -1,0 +1,353 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20200617195917+02'00'",
+			"Creator": "Adobe Acrobat 10.272",
+			"ModDate": "D:20200618161213+02'00'",
+			"Producer": "Adobe Acrobat 10.272"
+		},
+		"metadata": {
+			"xmp:modifydate": "2020-06-18T16:12:13+02:00",
+			"xmp:createdate": "2020-06-17T19:59:17+02:00",
+			"xmp:metadatadate": "2020-06-18T16:12:13+02:00",
+			"xmp:creatortool": "Adobe Acrobat 10.272",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:eb30a49d-8428-4adc-bdd7-5a0dceeb7560",
+			"xmpmm:instanceid": "uuid:836e19cc-c57c-4851-b1fd-195a7d8dce5e",
+			"pdf:producer": "Adobe Acrobat 10.272",
+			"adhocwf:state": "1",
+			"adhocwf:version": "1.1"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "22R",
+					"rect": [
+						56.7358,
+						607.609,
+						283.679,
+						763.632
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Multiline",
+					"fieldValue": "Multiline - Fixed",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4194304,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2.000001822800824,
+						73.55952755569403
+					],
+					"textContent": [
+						"Multiline - Fixed"
+					],
+					"x": 283.679,
+					"y": 763.632
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "25R",
+					"rect": [
+						297.863,
+						607.609,
+						524.807,
+						763.632
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Singleline",
+					"fieldValue": "Singleline - Fixed",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4194304,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2.000008873029508,
+						73.55952755569403
+					],
+					"textContent": [
+						"Singleline - Fixed"
+					],
+					"x": 524.807,
+					"y": 763.632
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "28R",
+					"rect": [
+						56.7358,
+						437.401,
+						283.679,
+						593.425
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "MultilineAutoscale",
+					"fieldValue": "Multiline - auto",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4198400,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2.000001822800824,
+						140.15189813591135
+					],
+					"textContent": [
+						"Multiline - auto"
+					],
+					"x": 283.679,
+					"y": 593.425
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "29R",
+					"rect": [
+						297.863,
+						437.401,
+						524.807,
+						593.425
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "SinglelineAutoscale",
+					"fieldValue": "Singleline - auto",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4194304,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						1.9999999978484506,
+						66.46939911592453
+					],
+					"textContent": [
+						"Singleline - auto"
+					],
+					"x": 524.807,
+					"y": 593.425
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"30829c5ffb03494681ab4944b3f105f4",
+			"49d1e193b88fc44fb16c69bf35ccd444"
+		]
+	}
+}

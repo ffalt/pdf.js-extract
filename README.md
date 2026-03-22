@@ -1,14 +1,18 @@
 # pdf.js-extract
 
-extracts text from PDF files
+Extracts text/annotations/attachments/images from PDF files
 
-This is just a library packaged out of the examples for usage of pdf.js with nodejs.
+> [!NOTE]
+> This library is for **Node.js**. It is not meant to be used in the browser.
 
-It reads a pdf file and exports all pages & texts with coordinates. This can be e.g. used to extract structured table data.
+Read a PDF file and exports all pages & texts with coordinates. 
+This can be e.g. used to extract structured table data.
+Options include extracting attachments and images as well.
 
-This package includes a build of [pdf.js](https://github.com/mozilla/pdf.js). why? [pdfs-dist](https://github.com/mozilla/pdfjs-dist) installs not needed dependencies into production deployment.
+This package includes a build of [pdf.js](https://github.com/mozilla/pdf.js).
 
-Note: NO OCR!
+> [!IMPORTANT]
+> NO OCR!
 
 ## Install
 
@@ -21,7 +25,7 @@ Note: NO OCR!
 
 javascript async with callback
 ```javascript
-const PDFExtract = require('pdf.js-extract').PDFExtract;
+import { PDFExtract } from 'pdf.js-extract';
 const pdfExtract = new PDFExtract();
 const options = {}; /* see below */
 pdfExtract.extract('test.pdf', options, (err, data) => {
@@ -32,9 +36,9 @@ pdfExtract.extract('test.pdf', options, (err, data) => {
 
 javascript async with callback using buffer
 ```javascript
-const PDFExtract = require('pdf.js-extract').PDFExtract;
+import { PDFExtract } from 'pdf.js-extract';
+import fs from 'node:fs';
 const pdfExtract = new PDFExtract();
-const fs = require('fs');
 const buffer = fs.readFileSync("./example.pdf");
 const options = {}; /* see below */
 pdfExtract.extractBuffer(buffer, options, (err, data) => {
@@ -62,10 +66,169 @@ export interface PDFExtractOptions {
   verbosity?: number; // default:`-1` - log level of pdf.js
   normalizeWhitespace?: boolean; // default:`false` - replaces all occurrences of whitespace with standard spaces (0x20).
   disableCombineTextItems?: boolean; // default:`false` - do not attempt to combine  same line {@link TextItem}'s.
+  includeAttachments?: boolean; // include attachments as base64. The default value is `false`.
+  includeImages?: boolean; // include images as base64. The default value is `false`.
 }
 ```
 
-Example Output
+### Extract Specific Pages
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+
+// Extract only pages 2 through 5
+const data = await pdfExtract.extract('report.pdf', { firstPage: 2, lastPage: 5 });
+console.log(`Extracted ${data.pages.length} pages`);
+```
+
+### Password-Protected PDFs
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+
+const data = await pdfExtract.extract('secure.pdf', { password: 'my-secret' });
+console.log(data.pages[0].content.map(item => item.str).join(' '));
+```
+
+### Extract Text as Lines and Rows (Table Data)
+
+The built-in utility functions help convert raw text items into structured lines and table rows.
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('table.pdf');
+
+const page = data.pages[0];
+
+// Group text items into lines (items within 5 units of y are merged)
+const lines = PDFExtract.utils.pageToLines(page, 5);
+
+// Get plain text rows
+const rows = PDFExtract.utils.extractTextRows(lines);
+console.log(rows); // [['Name', 'Age', 'City'], ['Alice', '30', 'Berlin'], ...]
+
+// Or map to columns by x-positions with a tolerance of 10 units
+const columns = [50, 200, 350]; // x-positions of each column
+const tableRows = PDFExtract.utils.extractColumnRows(lines, columns, 10);
+console.log(tableRows);
+```
+
+### Extract All Pages as Text Rows
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('multi-page.pdf');
+
+// Get text rows for every page at once (merge items within 5 y-units)
+const allRows = PDFExtract.utils.extractAllPagesTextRows(data.pages, 5);
+allRows.forEach((pageRows, i) => {
+  console.log(`--- Page ${i + 1} ---`);
+  pageRows.forEach(row => console.log(row.join(' | ')));
+});
+```
+
+### Extract Links
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf');
+
+data.pages.forEach((page) => {
+  if (!page.annotations) return;
+
+  const links = page.annotations.filter(a => a.subtype === 'Link' && a.url);
+  links.forEach(link => {
+    console.log(`Page ${page.info.num}: ${link.overlaidText || 'link'} -> ${link.url}`);
+  });
+});
+```
+
+### Extract Attachments
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+import fs from 'node:fs';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf', { includeAttachments: true });
+
+if (data.attachments) {
+  data.attachments.forEach(att => {
+    if (att.base64data) {
+      const buffer = Buffer.from(att.base64data, 'base64');
+      fs.writeFileSync(att.filename || 'attachment.bin', buffer);
+      console.log(`Saved ${att.filename} (${buffer.length} bytes)`);
+    }
+  });
+}
+```
+
+### Collect All Text from a PDF
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf', { normalizeWhitespace: true });
+
+const fullText = data.pages
+  .map(page => page.content.map(item => item.str).join(' '))
+  .join('\n\n');
+
+console.log(fullText);
+```
+
+### Basic Image Extraction
+
+```javascript
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf', { includeImages: true });
+
+// Access images for each page
+data.pages.forEach((page) => {
+  if (page.images && page.images.length > 0) {
+    console.log(`Page ${page.info.num} has ${page.images.length} images`);
+    
+    page.images.forEach((img) => {
+      console.log(`  Image ${img.index}: ${img.width}x${img.height}px (${img.colorSpace})`);
+      
+      // Save image if data available
+      if (img.base64data) {
+        const buffer = Buffer.from(img.base64data, 'base64');
+        fs.writeFileSync(`image_${img.index}.jpg`, buffer);
+      }
+    });
+  }
+});
+```
+
+### Image Properties
+
+Each extracted image contains:
+
+```typescript
+interface PDFExtractImage {
+  index: number;              // Image index on the page
+  width: number;              // Image width in pixels
+  height: number;             // Image height in pixels
+  kind: number;               // Image type: 1=XObject, 2=Inline, 3=Form
+  base64data?: string;        // Base64-encoded image data
+  colorSpace?: string;        // Color space (DeviceRGB, DeviceGray, DeviceCMYK, etc.)
+  bitsPerComponent?: number;  // Bits per component (typically 8)
+  filter?: string;            // Compression filter (DCTDecode, FlateDecode, etc.)
+}
+```
+
+### Image Types
+
+- **kind 1 - XObject**: Standard image objects from page resources (most common)
+- **kind 2 - Inline**: Images embedded directly in content streams
+- **kind 3 - Form**: Images contained within Form XObjects
+
+## Example Output
 
 ```json
 {
@@ -100,10 +263,43 @@ Example Output
         "offsetX": 0,
         "offsetY": 0,
         "width": 200,
-        "height": 200
+        "height": 200,
+        "view": { "minX": 0, "minY": 0, "maxX": 200, "maxY": 200 }
       },
-      "links": [
-        "https://github.com"
+      "annotations": [
+        {
+          "annotationType": 2,
+          "annotationFlags": 0,
+          "borderStyle": {
+            "width": 0,
+            "rawWidth": 1,
+            "style": 1,
+            "dashArray": [3],
+            "horizontalCornerRadius": 0,
+            "verticalCornerRadius": 0
+          },
+          "color": [0, 0, 0],
+          "borderColor": [0, 0, 0],
+          "rotation": 0,
+          "contentsObj": {
+            "str": "",
+            "dir": "ltr"
+          },
+          "hasAppearance": false,
+          "id": "4R",
+          "rect": [92.043, 771.389, 217.757, 785.189],
+          "subtype": "Link",
+          "hasOwnCanvas": false,
+          "noRotate": false,
+          "noHTML": false,
+          "isEditable": false,
+          "structParent": -1,
+          "url": "https://example.com/",
+          "unsafeUrl": "https://example.com/",
+          "overlaidText": "a link to an awesome site",
+          "x": 217.757,
+          "y": 785.189
+        }
       ],
       "content": [
         {
@@ -115,7 +311,22 @@ Example Output
           "height": 12,
           "fontName": "Times"
         }
+      ],
+      "images": [
+        {
+          "index": 0,
+          "width": 16,
+          "height": 16,
+          "kind": 1,
+          "base64data": "AAAAAAAAEAgAAAEAAQABAAEAAAAQEBAwD+AAAAAAAAA="
+        }
       ]
+    }
+  ],
+  "attachments": [
+    {
+      "filename": "My first attachment",
+      "base64data": "VGhpcyBpcyB0aGUgY29udGVudHMgb2YgYSBub24gb3Mgc3BlY2lmaWMgZW1iZWRkZWQgZmlsZQ=="
     }
   ],
   "pdfInfo": {
@@ -124,3 +335,5 @@ Example Output
   }
 }
 ```
+
+Note: The `images` and `attachments` array is optional and only included when images are detected in the PDF. 

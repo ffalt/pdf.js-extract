@@ -1,0 +1,151 @@
+Comptroller General
+of the United States
+United States General Accounting Office
+Washington, DC 20548
+Decision
+Matter of: Cybernet Systems Corporation
+File: B-292600
+Date: September 30, 2003
+Charles J. Jacobus for the protester.
+Dinah Stevens, Esq., Administrative Office of the United States Courts, for the
+agency.
+Linda S. Lebowitz, Esq., Office of the General Counsel, GAO, participated in the
+preparation of the decision.
+DIGEST
+Agency reasonably rejected the protester’s proposal as technically unacceptable
+where the firm failed to provide in its proposal required hardware and third-party
+software certifications.
+DECISION
+Cybernet Systems Corporation protests the rejection of its proposal as technically
+unacceptable under request for proposals (RFP) No. USCA-03-R-0045, issued by the
+Administrative Office of the United States Courts for Linux operating system and
+associated software (referred to as “Linux distribution,” RFP § C.4, at 4) and
+technical assistance and support. Cybernet argues that its proposal was
+unreasonably rejected as technically unacceptable.
+We deny the protest.
+The RFP was issued on May 21, 2003, and contemplated the award of an
+indefinite-delivery/indefinite-quantity contract for the base period and six 1-year
+option periods. The RFP contained requirements for hardware and third-party
+software certifications. With respect to the hardware certification, the RFP stated
+that the
+Linux distribution supported by this contract will be run on hardware
+procured via a separate procurement vehicle. The Contractor must
+certify that HP [Hewlett Packard] supports the Contractor’s Linux
+distribution on the following [six identified] platforms . . . .
+The Contractor shall also support these platforms and configurations
+on the offered Linux distribution.
+HP-Contractor support of the Linux distribution in this context means
+that the Linux distributor has made reciprocal arrangements with HP
+so that the Linux distributor and HP will work together to resolve any
+operating system/hardware problems.
+RFP § C.4.1.3.1, at 5-6.
+With respect to third-party software certifications, the RFP stated that the
+applications developed by the Judiciary depend on several third-party
+products. The Contractor shall demonstrate that the following list of
+[eight] independent software vendors have obtained certifications for,
+and support their products under, the Linux distribution being offered.
+RFP § C.4.1.3.2, at 6.
+The RFP instructed that an offeror “shall provide [in its proposal] the certifications
+1 
+required in Section C.4.1.3.” RFP § L.3, at 37. The RFP further stated that proposals
+would be evaluated for technical compliance, technical excellence, and price. As
+relevant here, under the technical compliance evaluation factor, the RFP provided
+that an offeror’s proposal would be evaluated for full compliance with the RFP’s
+minimum mandatory requirements; for a proposal to be considered technically
+compliant, the RFP mandated that the offeror provide in its proposal all required
+certifications. RFP § M.1, at 43.
+Cybernet proposed a “[specific name omitted] Linux operating system product
+(software distribution) with updates and technical support . . . meeting all of [the
+agency’s] requirements.” Cybernet Technical Proposal at 3. Regarding the RFP’s
+hardware certification, Cybernet stated that the
+Linux distribution supported by this contract will be certified by
+Cybernet to run on hardware procured via a separate procurement
+vehicle. Cybernet certifies that HP . . . models [as listed in the RFP]
+support the [Cybernet proposed] Linux distribution . . . .
+1 
+Amendment No. 2 permitted an offeror up to 2 weeks from the proposal closing
+time to submit any third-party software certifications not in its possession at the
+closing time. To the extent Cybernet believes that this amendment, for example,
+gave an unfair competitive advantage to any particular competitor, there is no
+evidence in the record to support Cybernet’s speculation.
+Page 2 B-292600
+[Cybernet’s proposed Linux operating system] will be fully tested and
+supported on these platforms and configurations.
+A Cybernet--HP reciprocal arrangement will ensure that [Cybernet’s
+proposed Linux operating system] and HP work together to resolve any
+operating system/hardware problems.
+Id. at 8, 17.
+Regarding the RFP’s third-party software certifications, Cybernet stated that it
+has made arrangements with an Ann Arbor local teammate,
+[Company A], to support the third party middleware products called
+for in the [RFP]. [Company A] is partnered with [12 specified vendors]
+for enterprise web-based applications. Furthermore, Cybernet has
+direct relationships with [4 specified vendors] to support their
+products on [the specific type of] platforms [proposed by Cybernet]
+and to assure that [Cybernet’s proposed Linux operating system] works
+smoothly with these vendors’ products. Cybernet will leverage
+[Company A’s] relationships with [5 specified vendors] to support
+these products.
+Id. at 9, 17.
+The agency evaluated Cybernet’s proposal as technically noncompliant,
+i.e., technically unacceptable, for failing to provide the certifications required by the
+RFP, as described above. In this respect, while Cybernet self-certified and/or offered
+to certify that the specified HP hardware supports its proposed Linux operating
+system, Cybernet did not demonstrate in its proposal that it had made any reciprocal
+arrangement with HP as required by the RFP. Furthermore, while Cybernet offered
+assurances that it and its teammate, Company A, have relationships with the
+specified third-party software vendors, Cybernet did not demonstrate, as required by
+the RFP, that these vendors have obtained certifications for, and support their
+products under, the particular Linux operating system proposed by Cybernet. For
+these reasons, the agency rejected Cybernet’s proposal as technically unacceptable,
+advising the firm that its proposal would no longer be considered in this competition.
+Cybernet challenges the evaluation and subsequent rejection of its proposal as
+technically unacceptable.
+In reviewing an agency’s decision to exclude a proposal from further competition,
+we review the agency’s evaluation of proposals to determine whether the evaluation
+was reasonable and consistent with the terms of the solicitation. Essex Electro
+Eng’rs, Inc., B-284149, B-284149.2, Feb. 28, 2000, 2000 CPD ¶ 72 at 6. An offeror must
+submit an initial proposal that is adequately written and that establishes its merits, or
+run the risk of having its proposal rejected as technically unacceptable. An agency
+Page 3 B-292600
+may exclude a proposal with significant informational deficiencies from further
+consideration whether the deficiencies are attributable to omitted or merely
+inadequate information addressing fundamental factors. Generally, a proposal that
+is technically unacceptable as submitted and would require major revisions to
+become acceptable is not required to be further included in the competitive selection
+process. LaBarge Prods., Inc., B-287841, B-287841.2, Aug. 20, 2001, 2001 CPD ¶ 177
+at 2.
+Here, in order for a proposal to be evaluated as technically compliant, the RFP
+mandated that an offeror provide in its proposal the hardware and third-party
+software certifications as described in the RFP. With respect to the hardware
+certification, Cybernet does not dispute that its proposal lacked the reciprocal
+arrangement with HP as called for by the RFP. As a result, and consistent with the
+terms of the RFP, this omission reasonably rendered Cybernet’s proposal technically
+noncompliant with the terms of the RFP. To the extent Cybernet points to language
+in its proposal where it self-certifies or “guarantees” compliance with the RFP’s
+technical requirements, we note that this language basically reflects a “parroting”
+back of the RFP language itself, which does not comport with the RFP’s specific
+requirement for a reciprocal arrangement with HP. With respect to the third-party
+software certifications, by amendment, the agency permitted an offeror to submit
+these required certifications up to 2 weeks after the proposal closing time. Cybernet
+does not dispute that while it discussed in its proposal the relationships that it and
+its teammate have with specified third-party software vendors, Cybernet did not
+furnish the requisite software certifications as called for by the RFP and the
+amendment. Again, consistent with the terms of the RFP, Cybernet’s failure in this
+regard reasonably rendered its proposal technically noncompliant. For these
+reasons, we have no basis to object to the reasonableness of the agency’s rejection of
+Cybernet’s proposal as technically unacceptable.
+Finally, for the first time in its submissions filed with our Office, Cybernet references
+various websites and printouts for HP and the software vendors as evidence that its
+proposed Linux operating system will comply with the requirements of the RFP.
+Even assuming, arguendo, that these items support Cybernet’s position of
+compliance, this information was not included within the four corners of Cybernet’s
+proposal and, as a result, was not evaluated by the agency. Because Cybernet did
+not furnish in its proposal all of the information required by the RFP, Cybernet must
+suffer the consequences of its failure in this regard, that being the agency’s
+determination to reject its proposal as technically unacceptable. Chek F. Tan & Co.,
+B-277163, Sept. 8, 1997, 97-2 CPD ¶ 66 at 5.
+The protest is denied.
+Anthony H. Gamboa
+General Counsel
+Page 4 B-292600

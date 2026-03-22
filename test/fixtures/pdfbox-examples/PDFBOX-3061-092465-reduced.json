@@ -1,0 +1,119 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Author": "PB5",
+			"CreationDate": "D:20040730114440-04'00'",
+			"Creator": "PScript5.dll Version 5.2",
+			"ModDate": "D:20040730114440-04'00'",
+			"Producer": "Acrobat Distiller 6.0.1 (Windows)",
+			"Title": "X:\\L6046\\Data_Publication\\PMM\\current\\ventura\\pmm.vp"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "day. Some market watchers were",
+					"x": 36,
+					"y": 169.67960000000005,
+					"width": 153.14944142,
+					"height": 10.4999,
+					"transform": [
+						10.4999,
+						0,
+						0,
+						10.4999,
+						36,
+						622.3204
+					],
+					"font": {
+						"size": 10.4999,
+						"name": "ICLFEE+Palatino-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.94970703125,
+						"descent": -0.291015625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "5R",
+					"rect": [
+						54,
+						28.915001,
+						65.504005,
+						38.599003
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"overlaidText": "",
+					"x": 65.504005,
+					"y": 38.599003
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"c07a50de017ec9683d55dcc992edd82a",
+			"19b21746700fa96cf6c2a87743614ce4"
+		]
+	}
+}

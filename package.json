@@ -13,9 +13,6 @@
   "author": {
     "name": "ffalt"
   },
-  "scripts": {
-    "test": "jest"
-  },
   "contributors": [
     {
       "name": "Chad Kirby",
@@ -30,23 +27,40 @@
       "url": "https://github.com/sijad"
     }
   ],
-  "main": "./lib",
-  "typings": "lib/index",
   "license": "MIT",
+  "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/ffalt/pdf.js-extract"
   },
-  "dependencies": {
-    "dommatrix": "0.0.24",
-    "web-streams-polyfill": "3.2.0"
+  "type": "module",
+  "main": "./lib/index.cjs",
+  "types": "lib/index.d.ts",
+  "typings": "lib/index",
+  "exports": {
+    ".": {
+      "types": "./lib/index.d.ts",
+      "require": "./lib/index.cjs",
+      "import": "./lib/index.mjs",
+      "default": "./lib/index.mjs"
+    }
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">= 20.0.0"
   },
-  "types": "lib/index.d.ts",
-  "readmeFilename": "README.md",
+  "scripts": {
+    "lint": "eslint --ext .cjs,.mjs .",
+    "test": "NODE_OPTIONS=\"--experimental-vm-modules\" jest",
+    "fixtures": "node ./scripts/update-fixtures.mjs"
+  },
+  "dependencies": {
+    "dommatrix": "0.1.1"
+  },
   "devDependencies": {
-    "jest": "27.5.1"
+    "@eslint/js": "10.0.1",
+    "eslint": "^10.0.3",
+    "eslint-plugin-jest": "29.15.0",
+    "globals": "17.4.0",
+    "jest": "30.3.0"
   }
 }

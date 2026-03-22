@@ -1,0 +1,67 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"ModDate": "D:20070213222810-05'00'",
+			"CreationDate": "D:20070213222810-05'00'"
+		},
+		"metadata": {}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "PDF test that contains the word yadda",
+					"x": 20,
+					"y": 42,
+					"width": 203.43599999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						20,
+						750
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"2c9c3edf9641f1459e947e7f933f6da0"
+		]
+	}
+}

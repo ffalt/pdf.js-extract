@@ -1,0 +1,125 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20190502151756+02'00'",
+			"ModDate": "D:20190502151756+02'00'"
+		},
+		"metadata": {
+			"xmp:modifydate": "2019-05-02T15:17:56+02:00",
+			"xmp:createdate": "2019-05-02T15:17:56+02:00",
+			"xmp:metadatadate": "2019-05-02T15:17:56+02:00",
+			"xmpmm:documentid": "uuid:ceaea778-bdbf-4f00-a539-115a3b13491e",
+			"xmpmm:instanceid": "uuid:e98ca7e5-c913-4f65-afe4-dee5c95840ba",
+			"dc:format": "application/pdf"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "0",
+					"x": 100,
+					"y": 92,
+					"width": 25,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						100,
+						700
+					],
+					"font": {
+						"size": 50,
+						"name": "VYSXEI+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 125,
+					"y": 92,
+					"width": 0.25,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						125,
+						700
+					],
+					"font": {
+						"size": 50,
+						"name": "VYSXEI+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "1",
+					"x": 137.5,
+					"y": 92,
+					"width": 25,
+					"height": 50,
+					"transform": [
+						50,
+						0,
+						0,
+						50,
+						137.5,
+						700
+					],
+					"font": {
+						"size": 50,
+						"name": "VYSXEI+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"f9e2e6313584aebff194341ba6b451d9",
+			"a5e87a37638eae4583bf7a45bd1a359e"
+		]
+	}
+}

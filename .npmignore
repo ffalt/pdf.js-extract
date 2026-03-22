@@ -4,12 +4,11 @@ local
 coverage
 .git
 node_modules
-update_pdfjs.sh
 README.md
 .gitignore
 .gitattributes
 test
-example
-.travis.yml
+scripts
 .github
-jest.config.js
+jest.config.mjs
+eslint.config.mjs

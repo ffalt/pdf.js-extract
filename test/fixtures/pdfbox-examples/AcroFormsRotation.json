@@ -1,0 +1,2377 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20160501094852+02'00'",
+			"Creator": "Adobe Acrobat 10.272",
+			"ModDate": "D:20160501095348+02'00'",
+			"Producer": "Adobe Acrobat 10.272"
+		},
+		"metadata": {
+			"xmp:modifydate": "2016-05-01T09:53:48+02:00",
+			"xmp:createdate": "2016-05-01T09:48:52+02:00",
+			"xmp:metadatadate": "2016-05-01T09:53:48+02:00",
+			"xmp:creatortool": "Adobe Acrobat 10.272",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:4f7ff39d-e855-4467-9049-42dd82ce6c89",
+			"xmpmm:instanceid": "uuid:183ff0d5-8a9c-4528-a96d-7c93907a2de5",
+			"pdf:producer": "Adobe Acrobat 10.272",
+			"adhocwf:state": "1",
+			"adhocwf:version": "1.1"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "47R",
+					"rect": [
+						57.8041,
+						711.816,
+						207.804,
+						733.816
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.portrait.single.rotation0",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 207.804,
+					"y": 733.816
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 270,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "46R",
+					"rect": [
+						57.8041,
+						566.709,
+						82.1643,
+						706.896
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.portrait.single.rotation270",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 82.1643,
+					"y": 706.896
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "48R",
+					"rect": [
+						182.376,
+						565.261,
+						206.736,
+						705.448
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.portrait.single.rotation90",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 206.736,
+					"y": 705.448
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "49R",
+					"rect": [
+						241.128,
+						628.16,
+						391.128,
+						735.264
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.portrait.multi.rotation0",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 391.128,
+					"y": 735.264
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "50R",
+					"rect": [
+						404.244,
+						628.16,
+						554.244,
+						735.264
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.portrait.multi.rotation90",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 554.244,
+					"y": 735.264
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 180,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "51R",
+					"rect": [
+						56.736,
+						534.516,
+						206.736,
+						556.516
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.portrait.single.rotation180",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 206.736,
+					"y": 556.516
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 180,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "52R",
+					"rect": [
+						241.128,
+						513.964,
+						391.128,
+						621.068
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.portrait.multi.rotation180",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 391.128,
+					"y": 621.068
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 270,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "53R",
+					"rect": [
+						404.244,
+						513.964,
+						554.244,
+						621.068
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.portrait.multi.rotation270",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 554.244,
+					"y": 621.068
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "54R",
+					"rect": [
+						57.8041,
+						401.216,
+						207.804,
+						423.216
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.portrait.single.rotation0",
+					"fieldValue": "acrobat.portrait.single.rotation0",
+					"defaultFieldValue": "acrobat.portrait.single.rotation0",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						1.9999986666666667,
+						8.032
+					],
+					"textContent": [
+						"acrobat.portrait.single.rotation0"
+					],
+					"x": 207.804,
+					"y": 423.216
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 270,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "57R",
+					"rect": [
+						57.8041,
+						254.661,
+						82.1643,
+						394.848
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.portrait.single.rotation270",
+					"fieldValue": "acrobat.portrait.single.rotation270",
+					"defaultFieldValue": "acrobat.portrait.single.rotation270",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						9.212000232623858,
+						138.18700007240977
+					],
+					"textContent": [
+						"acrobat.portrait.single.rotation270"
+					],
+					"x": 82.1643,
+					"y": 394.848
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "59R",
+					"rect": [
+						182.376,
+						254.661,
+						206.736,
+						394.848
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.portrait.single.rotation90",
+					"fieldValue": "acrobat.portrait.single.rotation90",
+					"defaultFieldValue": "acrobat.portrait.single.rotation90",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						15.148199767376141,
+						1.99998350736441
+					],
+					"textContent": [
+						"acrobat.portrait.single.rotation90"
+					],
+					"x": 206.736,
+					"y": 394.848
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "61R",
+					"rect": [
+						241.128,
+						317.56,
+						391.128,
+						424.664
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.portrait.multi.rotation0",
+					"fieldValue": "acrobat.portrait.multi.rotation0\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"defaultFieldValue": "acrobat.portrait.multi.rotation0\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2,
+						95.85600333214215
+					],
+					"textContent": [
+						"acrobat.portrait.multi.rotation0\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+					],
+					"x": 391.128,
+					"y": 424.664
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "63R",
+					"rect": [
+						404.244,
+						317.56,
+						554.244,
+						424.664
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.portrait.multi.rotation90",
+					"fieldValue": "acrobat.portrait.multi.rotation90\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"defaultFieldValue": "acrobat.portrait.multi.rotation90\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						11.247995176708912,
+						2
+					],
+					"textContent": [
+						"acrobat.portrait.multi.rotation",
+						"90",
+						"Lorem ipsum dolor sit amet,",
+						"consetetur sadipscing elitr,",
+						"sed diam nonumy eirmod",
+						"tempor invidunt ut labore et",
+						"dolore magna aliquyam erat,",
+						"sed diam voluptua."
+					],
+					"x": 554.244,
+					"y": 424.664
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 180,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "65R",
+					"rect": [
+						56.736,
+						223.916,
+						206.736,
+						245.916
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.portrait.single.rotation180",
+					"fieldValue": "acrobat.portrait.single.rotation180",
+					"defaultFieldValue": "acrobat.portrait.single.rotation180",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						148,
+						13.968
+					],
+					"textContent": [
+						"acrobat.portrait.single.rotation180"
+					],
+					"x": 206.736,
+					"y": 245.916
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 180,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "67R",
+					"rect": [
+						241.128,
+						203.364,
+						391.128,
+						310.468
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.portrait.multi.rotation180",
+					"fieldValue": "acrobat.portrait.multi.rotation180\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"defaultFieldValue": "acrobat.portrait.multi.rotation180\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						148,
+						11.24799666785782
+					],
+					"textContent": [
+						"acrobat.portrait.multi.rotation180\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+					],
+					"x": 391.128,
+					"y": 310.468
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 270,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "69R",
+					"rect": [
+						404.244,
+						203.364,
+						554.244,
+						310.468
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.portrait.multi.rotation270",
+					"fieldValue": "acrobat.portrait.multi.rotation270\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"defaultFieldValue": "acrobat.portrait.multi.rotation270\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						138.75200482329112,
+						105.104
+					],
+					"textContent": [
+						"acrobat.portrait.multi.rotation",
+						"270",
+						"Lorem ipsum dolor sit amet,",
+						"consetetur sadipscing elitr,",
+						"sed diam nonumy eirmod",
+						"tempor invidunt ut labore et",
+						"dolore magna aliquyam erat,",
+						"sed diam voluptua."
+					],
+					"x": 554.244,
+					"y": 310.468
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 90,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 792,
+				"height": 612,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 180,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "92R",
+					"rect": [
+						49.644,
+						189.277,
+						199.644,
+						211.277
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.page90.single.rotation90",
+					"fieldValue": "acrobat.page90.single.rotation90",
+					"defaultFieldValue": "acrobat.page90.single.rotation90",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						148,
+						13.968
+					],
+					"textContent": [
+						"acrobat.page90.single.rotation90"
+					],
+					"x": 211.277,
+					"y": 199.644
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 270,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "107R",
+					"rect": [
+						50.9288,
+						221.505,
+						75.289,
+						361.692
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.page90.single.rotation180",
+					"fieldValue": "acrobat.page90.single.rotation180",
+					"defaultFieldValue": "acrobat.page90.single.rotation180",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						9.212000232623858,
+						138.18700007240977
+					],
+					"textContent": [
+						"acrobat.page90.single.rotation180"
+					],
+					"x": 361.692,
+					"y": 75.289
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "93R",
+					"rect": [
+						170.208,
+						224.737,
+						194.568,
+						364.924
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.page90.single.rotation0",
+					"fieldValue": "acrobat.page90.single.rotation90",
+					"defaultFieldValue": "acrobat.page90.single.rotation90",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						15.148199767376143,
+						1.9999835073644123
+					],
+					"textContent": [
+						"acrobat.page90.single.rotation90"
+					],
+					"x": 364.924,
+					"y": 194.568
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "94R",
+					"rect": [
+						49.644,
+						368.784,
+						199.644,
+						390.784
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.page90.single.rotation270",
+					"fieldValue": "acrobat.page90.single.rotation270",
+					"defaultFieldValue": "acrobat.page90.single.rotation270",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2,
+						8.032
+					],
+					"textContent": [
+						"acrobat.page90.single.rotation270"
+					],
+					"x": 390.784,
+					"y": 199.644
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 180,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "95R",
+					"rect": [
+						234.036,
+						168.001,
+						384.036,
+						275.105
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.page90.multi.rotation90",
+					"fieldValue": "acrobat.page90.multi.rotation90\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"defaultFieldValue": "acrobat.page90.multi.rotation90\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						148,
+						11.24799666785782
+					],
+					"textContent": [
+						"acrobat.page90.multi.rotation90\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+					],
+					"x": 275.105,
+					"y": 384.036
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "96R",
+					"rect": [
+						234.036,
+						281.473,
+						384.036,
+						388.577
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.page90.multi.rotation270",
+					"fieldValue": "acrobat.page90.multi.rotation270\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"defaultFieldValue": "acrobat.page90.multi.rotation270\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						2,
+						95.85600333214215
+					],
+					"textContent": [
+						"acrobat.page90.multi.rotation270\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. "
+					],
+					"x": 388.577,
+					"y": 384.036
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 270,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "97R",
+					"rect": [
+						397.368,
+						168.001,
+						547.368,
+						275.105
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.page90.multi.rotation180",
+					"fieldValue": "acrobat.page90.multi.rotation180\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"defaultFieldValue": "acrobat.page90.multi.rotation180\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						138.75200482329112,
+						105.104
+					],
+					"textContent": [
+						"acrobat.page90.multi.rotatio",
+						"n180",
+						"Lorem ipsum dolor sit amet,",
+						"consetetur sadipscing elitr,",
+						"sed diam nonumy eirmod",
+						"tempor invidunt ut labore et",
+						"dolore magna aliquyam erat,",
+						"sed diam voluptua."
+					],
+					"x": 275.105,
+					"y": 547.368
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "98R",
+					"rect": [
+						397.152,
+						281.473,
+						547.152,
+						388.577
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "acrobat.page90.multi.rotation0",
+					"fieldValue": "acrobat.page90.multi.rotation0\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"defaultFieldValue": "acrobat.page90.multi.rotation0\rLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. ",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"textPosition": [
+						11.247995176708912,
+						2.000000000000001
+					],
+					"textContent": [
+						"acrobat.page90.multi.rotatio",
+						"n0",
+						"Lorem ipsum dolor sit amet,",
+						"consetetur sadipscing elitr,",
+						"sed diam nonumy eirmod",
+						"tempor invidunt ut labore et",
+						"dolore magna aliquyam erat,",
+						"sed diam voluptua."
+					],
+					"x": 388.577,
+					"y": 547.152
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 180,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "104R",
+					"rect": [
+						49.8607,
+						501.36,
+						199.861,
+						523.36
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.page90.single.rotation90",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 523.36,
+					"y": 199.861
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 270,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "99R",
+					"rect": [
+						50.9288,
+						533.552,
+						75.289,
+						673.74
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.page90.single.rotation180",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 673.74,
+					"y": 75.289
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "101R",
+					"rect": [
+						175.501,
+						532.104,
+						199.861,
+						672.291
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.page90.single.rotation0",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 672.291,
+					"y": 199.861
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "100R",
+					"rect": [
+						50.9288,
+						678.66,
+						200.929,
+						700.66
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.page90.single.rotation270",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 700.66,
+					"y": 200.929
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 180,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "105R",
+					"rect": [
+						234.253,
+						480.808,
+						384.253,
+						587.912
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.page90.multi.rotation90",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 587.912,
+					"y": 384.253
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "102R",
+					"rect": [
+						234.253,
+						595.004,
+						384.253,
+						702.108
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.page90.multi.rotation270",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 702.108,
+					"y": 384.253
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 270,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "106R",
+					"rect": [
+						397.368,
+						480.808,
+						547.368,
+						587.912
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.page90.multi.rotation180",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 587.912,
+					"y": 547.368
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "103R",
+					"rect": [
+						397.368,
+						595.004,
+						547.368,
+						702.108
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "pdfbox.page90.multi.rotation0",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 8,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 4096,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": true,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 702.108,
+					"y": 547.368
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 2,
+		"fingerprints": [
+			"2e279c4aaec7354591cb61adcf4a5021",
+			"dadf0a01ecabcb49a2779aa2795accf0"
+		]
+	}
+}

@@ -1,0 +1,913 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": true,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20180211105330+01'00'",
+			"Creator": "Adobe Acrobat 10.272",
+			"ModDate": "D:20180211110703+01'00'",
+			"Producer": "Adobe Acrobat 10.272"
+		},
+		"metadata": {
+			"xmp:modifydate": "2018-02-11T11:07:03+01:00",
+			"xmp:createdate": "2018-02-11T10:53:30+01:00",
+			"xmp:metadatadate": "2018-02-11T11:07:03+01:00",
+			"xmp:creatortool": "Adobe Acrobat 10.272",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:82229ed6-5ca3-4c0b-914e-1003bca34324",
+			"xmpmm:instanceid": "uuid:cdb826d9-7954-424d-a5e7-3906572392fa",
+			"pdf:producer": "Adobe Acrobat 10.272",
+			"adhocwf:state": "1",
+			"adhocwf:version": "1.1"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "55R",
+					"rect": [
+						70.9198,
+						730.285,
+						220.92,
+						752.285
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Name",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 220.92,
+					"y": 752.285
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "56R",
+					"rect": [
+						243.964,
+						730.285,
+						393.964,
+						752.285
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Customer.Name",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 393.964,
+					"y": 752.285
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "57R",
+					"rect": [
+						70.9198,
+						703.08,
+						88.9198,
+						721.08
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "GenderMale",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": true,
+					"radioButton": false,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"exportValue": "Yes",
+					"x": 88.9198,
+					"y": 721.08
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "59R",
+					"rect": [
+						96.4509,
+						703.08,
+						114.451,
+						721.08
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "GenderFemale",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": true,
+					"radioButton": false,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"exportValue": "Yes",
+					"x": 114.451,
+					"y": 721.08
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "60R",
+					"rect": [
+						243.964,
+						703.08,
+						261.964,
+						721.08
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Customer.GenderMale",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": true,
+					"radioButton": false,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"exportValue": "Yes",
+					"x": 261.964,
+					"y": 721.08
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "61R",
+					"rect": [
+						269.495,
+						703.08,
+						287.495,
+						721.08
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Customer.GenderFemale",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": true,
+					"radioButton": false,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"exportValue": "Yes",
+					"x": 287.495,
+					"y": 721.08
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 4,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "62R",
+					"rect": [
+						70.9198,
+						677.549,
+						88.9198,
+						695.549
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Gender",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 49152,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": false,
+					"radioButton": true,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"buttonValue": "Male",
+					"x": 88.9198,
+					"y": 695.549
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 4,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "63R",
+					"rect": [
+						96.4509,
+						677.549,
+						114.451,
+						695.549
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Gender",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 49152,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": false,
+					"radioButton": true,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"buttonValue": "Female",
+					"x": 114.451,
+					"y": 695.549
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 4,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "64R",
+					"rect": [
+						243.964,
+						677.549,
+						261.964,
+						695.549
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Customer.Gender",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 49152,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": false,
+					"radioButton": true,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"buttonValue": "Male",
+					"x": 261.964,
+					"y": 695.549
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 4,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "65R",
+					"rect": [
+						269.495,
+						677.549,
+						287.495,
+						695.549
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Customer.Gender",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 0,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 49152,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": false,
+					"radioButton": true,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"buttonValue": "Female",
+					"x": 287.495,
+					"y": 695.549
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "66R",
+					"rect": [
+						70.9198,
+						645.181,
+						220.92,
+						667.181
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Country",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 220.92,
+					"y": 667.181
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "67R",
+					"rect": [
+						243.964,
+						647.181,
+						315.964,
+						667.181
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Customer.Country",
+					"fieldValue": [
+						"C"
+					],
+					"defaultFieldValue": "C",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Ch",
+					"fieldFlags": 131072,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"options": [
+						{
+							"exportValue": "A",
+							"displayValue": "A"
+						},
+						{
+							"exportValue": "B",
+							"displayValue": "B"
+						},
+						{
+							"exportValue": "C",
+							"displayValue": "C"
+						}
+					],
+					"combo": true,
+					"multiSelect": false,
+					"x": 315.964,
+					"y": 667.181
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"c89b1fbc09bd40418d285ced77648640",
+			"8ab9bcddc663b34b90a0a01743500aee"
+		]
+	}
+}

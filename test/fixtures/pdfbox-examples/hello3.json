@@ -1,0 +1,192 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20080819141517-04'00'",
+			"Author": "Brian Carrier",
+			"Creator": "Acrobat PDFMaker 8.1 for Word",
+			"Producer": "Acrobat Distiller 8.1.0 (Windows)",
+			"ModDate": "D:20080819141521-04'00'",
+			"Custom": {
+				"Company": "Basis Technology Corp.",
+				"SourceModified": "D:20080819181502"
+			},
+			"Title": "Hello محمد World"
+		},
+		"metadata": {
+			"pdf:producer": "Acrobat Distiller 8.1.0 (Windows)",
+			"pdfx:company": "Basis Technology Corp.",
+			"pdfx:sourcemodified": "D:20080819181502",
+			"xap:creatortool": "Acrobat PDFMaker 8.1 for Word",
+			"xap:modifydate": "2008-08-19T14:15:21-04:00",
+			"xap:createdate": "2008-08-19T14:15:17-04:00",
+			"xap:metadatadate": "2008-08-19T14:15:21-04:00",
+			"xapmm:documentid": "uuid:f67ecaaf-890d-4f46-ac10-e8ab506c5fdb",
+			"xapmm:instanceid": "uuid:e2f8fe2e-c846-48c6-83de-eb838d074aa5",
+			"xapmm:subject": "1",
+			"dc:format": "application/pdf",
+			"dc:creator": [
+				"Brian Carrier"
+			],
+			"dc:title": "Hello محمد World"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Hello",
+					"x": 90,
+					"y": 90.65999999999997,
+					"width": 44.451504000000014,
+					"height": 19.98,
+					"transform": [
+						19.98,
+						0,
+						0,
+						19.98,
+						90,
+						701.34
+					],
+					"font": {
+						"size": 19.98,
+						"name": "FFJICI+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 134.45150400000003,
+					"y": 90.65999999999997,
+					"width": 0.2501999999999988,
+					"height": 19.98,
+					"transform": [
+						19.98,
+						0,
+						0,
+						19.98,
+						134.45150400000003,
+						701.34
+					],
+					"font": {
+						"size": 19.98,
+						"name": "FFJICI+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "ﻣﺤﻤﺪ",
+					"x": 139.4505,
+					"y": 90.65999999999997,
+					"width": 33.04891800000005,
+					"height": 19.98,
+					"transform": [
+						19.98,
+						0,
+						0,
+						19.98,
+						139.4505,
+						701.34
+					],
+					"font": {
+						"size": 19.98,
+						"name": "FFJIAH+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 172.49941800000005,
+					"y": 90.65999999999997,
+					"width": 0.2500999999999981,
+					"height": 19.98,
+					"transform": [
+						19.98,
+						0,
+						0,
+						19.98,
+						172.49941800000005,
+						701.34
+					],
+					"font": {
+						"size": 19.98,
+						"name": "FFJIAH+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "World.",
+					"x": 177.496416,
+					"y": 90.65999999999997,
+					"width": 56.12381999999999,
+					"height": 19.98,
+					"transform": [
+						19.98,
+						0,
+						0,
+						19.98,
+						177.496416,
+						701.34
+					],
+					"font": {
+						"size": 19.98,
+						"name": "FFJICI+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"c41ebd8eb2329b57b85dbd3436a5e023",
+			"ec9322cccdc0414fa88a87eb0edf66e5"
+		]
+	}
+}

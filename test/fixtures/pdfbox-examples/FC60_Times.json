@@ -1,0 +1,159 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20090202121353-05'00'",
+			"Author": "justinl",
+			"Creator": "PScript5.dll Version 5.2.2",
+			"Producer": "Acrobat Distiller 8.1.0 (Windows)",
+			"ModDate": "D:20090202121353-05'00'",
+			"Title": "Microsoft Word - Document1"
+		},
+		"metadata": {
+			"pdf:producer": "Acrobat Distiller 8.1.0 (Windows)",
+			"xap:creatortool": "PScript5.dll Version 5.2.2",
+			"xap:modifydate": "2009-02-02T12:13:53-05:00",
+			"xap:createdate": "2009-02-02T12:13:53-05:00",
+			"dc:format": "application/pdf",
+			"dc:title": "Microsoft Word - Document1",
+			"dc:creator": [
+				"justinl"
+			],
+			"xapmm:documentid": "uuid:749ee45f-a2e4-466c-aad7-3d8543a4abf2",
+			"xapmm:instanceid": "uuid:84d7bf0d-a547-4743-8a5c-4eb0bff899ec"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "ﱠﺎ",
+					"x": 108.54,
+					"y": 96.24000000000001,
+					"width": 11.428601999999993,
+					"height": 25.98,
+					"transform": [
+						25.98,
+						0,
+						0,
+						25.98,
+						108.54,
+						695.76
+					],
+					"font": {
+						"size": 25.98,
+						"name": "PKLPHA+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "ُﺘ",
+					"x": 114.47643000000001,
+					"y": 96.24000000000001,
+					"width": 6.33912,
+					"height": 25.98,
+					"transform": [
+						25.98,
+						0,
+						0,
+						25.98,
+						114.47643000000001,
+						695.76
+					],
+					"font": {
+						"size": 25.98,
+						"name": "PKLPHA+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "آ",
+					"x": 115.370142,
+					"y": 96.24000000000001,
+					"width": 10.236120000000001,
+					"height": 25.98,
+					"transform": [
+						25.98,
+						0,
+						0,
+						25.98,
+						115.370142,
+						695.76
+					],
+					"font": {
+						"size": 25.98,
+						"name": "PKLPHA+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "ب",
+					"x": 90.00067200000001,
+					"y": 96.24000000000001,
+					"width": 18.52374,
+					"height": 25.98,
+					"transform": [
+						25.98,
+						0,
+						0,
+						25.98,
+						90.00067200000001,
+						695.76
+					],
+					"font": {
+						"size": 25.98,
+						"name": "PKLPHA+TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"be60c57a2ea58fe7af36d1ea8e65f50b",
+			"eb7d7db342b85449a67b0410f5f61e7b"
+		]
+	}
+}

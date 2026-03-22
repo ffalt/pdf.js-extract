@@ -1,0 +1,79 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20130730165013-04'00'",
+			"Creator": "File & Serve",
+			"ModDate": "D:20160914202746+02'00'",
+			"Producer": "File & Serve"
+		},
+		"metadata": {
+			"xmp:createdate": "2013-07-30T16:50:13-04:00",
+			"xmp:creatortool": "File & Serve",
+			"xmp:modifydate": "2016-09-14T20:27:46+02:00",
+			"xmp:metadatadate": "2016-09-14T20:27:46+02:00",
+			"pdf:producer": "File & Serve",
+			"xmpmm:documentid": "uuid:0aff5461-0a75-42d0-b418-8c7a06ba5840",
+			"xmpmm:instanceid": "uuid:4074cb14-4b2c-4320-bf4c-0b405a68b4cd",
+			"dc:format": "application/pdf"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE",
+					"x": 109.08,
+					"y": 84.12,
+					"width": 393.03162432000045,
+					"height": 12.93548,
+					"transform": [
+						12.93548,
+						0,
+						0,
+						12.93548,
+						109.08,
+						707.88
+					],
+					"font": {
+						"size": 12.93548,
+						"name": "RIRMDX+TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"eef9cdafb3a9f2d719027d78e0858522",
+			"883f0773312f2b49897e83d2fd847fdb"
+		]
+	}
+}

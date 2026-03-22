@@ -1,0 +1,64 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Jeanette",
+					"x": 190.0801,
+					"y": 417.6,
+					"width": 42.779399999999974,
+					"height": 9.84,
+					"transform": [
+						9.84,
+						0,
+						0,
+						9.84,
+						190.0801,
+						374.4
+					],
+					"font": {
+						"size": 9.84,
+						"name": "VVWFTA+HelveticaNeue-Light",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.967,
+						"descent": -0.213
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"ad1bffd2f1acd4adb440f9a19ce48a9f"
+		]
+	}
+}

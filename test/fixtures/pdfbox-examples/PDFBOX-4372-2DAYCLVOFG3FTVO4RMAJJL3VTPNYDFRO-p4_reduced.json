@@ -1,0 +1,38 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.276,
+				"height": 595.276,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.276,
+					"maxY": 595.276
+				}
+			},
+			"content": []
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"bc99c0c77fc82b57e84060f605632dc1"
+		]
+	}
+}

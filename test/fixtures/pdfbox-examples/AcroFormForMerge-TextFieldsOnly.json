@@ -1,0 +1,181 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20180211105330+01'00'",
+			"Creator": "Adobe Acrobat 10.272",
+			"ModDate": "D:20190211122704+01'00'",
+			"Producer": "Adobe Acrobat 10.272"
+		},
+		"metadata": {
+			"xmp:modifydate": "2019-02-11T12:27:04+01:00",
+			"xmp:createdate": "2018-02-11T10:53:30+01:00",
+			"xmp:metadatadate": "2019-02-11T12:27:04+01:00",
+			"xmp:creatortool": "Adobe Acrobat 10.272",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:82229ed6-5ca3-4c0b-914e-1003bca34324",
+			"xmpmm:instanceid": "uuid:628d3d97-f7fd-4a71-9a72-95ce4211cf38",
+			"pdf:producer": "Adobe Acrobat 10.272",
+			"adhocwf:state": "1",
+			"adhocwf:version": "1.1"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "56R",
+					"rect": [
+						70.9198,
+						730.285,
+						220.92,
+						752.285
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Name",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 220.92,
+					"y": 752.285
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "57R",
+					"rect": [
+						243.964,
+						730.285,
+						393.964,
+						752.285
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Customer.Name",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 393.964,
+					"y": 752.285
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"c89b1fbc09bd40418d285ced77648640",
+			"037a8d0fca5c9c4f805616497b699da8"
+		]
+	}
+}

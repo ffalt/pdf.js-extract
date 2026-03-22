@@ -1,0 +1,7389 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"Language": "EN-US",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20070131175729-05'00'",
+			"Custom": {
+				"NCCL_088-50124022032": "NCCL097120002-89",
+				"NCCL_088-50124022033": "NCCL-69-119-64113",
+				"NCCL_088-50124022034": "NCCL069-77-79-01",
+				"NCCL_088-50124022035": "NCCL-93071-67-79",
+				"NCCL_DocId": "22549",
+				"Company": "US FDA",
+				"SourceModified": "D:20070130232344"
+			},
+			"Author": "FDA USER",
+			"Creator": "Acrobat PDFMaker 7.0.7 for Word",
+			"Producer": "Acrobat Distiller 7.0.5 (Windows)",
+			"ModDate": "D:20070201072254-05'00'",
+			"Title": "Generic Drugs User Fee Proposal"
+		},
+		"metadata": {
+			"pdf:producer": "Acrobat Distiller 7.0.5 (Windows)",
+			"pdfx:company": "US FDA",
+			"pdfx:sourcemodified": "D:20070130232344",
+			"pdfx:nccl_docid": "22549",
+			"pdfx:nccl_088-50124022034": "NCCL069-77-79-01",
+			"pdfx:nccl_088-50124022035": "NCCL-93071-67-79",
+			"pdfx:nccl_088-50124022032": "NCCL097120002-89",
+			"pdfx:nccl_088-50124022033": "NCCL-69-119-64113",
+			"xap:creatortool": "Acrobat PDFMaker 7.0.7 for Word",
+			"xap:modifydate": "2007-02-01T07:22:54-05:00",
+			"xap:createdate": "2007-01-31T17:57:29-05:00",
+			"xap:metadatadate": "2007-02-01T07:22:54-05:00",
+			"xapmm:documentid": "uuid:15e02e44-ba6e-4d89-b3a3-58a00309ab50",
+			"xapmm:instanceid": "uuid:7bb13ff9-2695-4e21-83df-b92cf1325a50",
+			"xapmm:versionid": "17",
+			"dc:format": "application/pdf",
+			"dc:title": "Generic Drugs User Fee Proposal",
+			"dc:creator": [
+				"FDA USER"
+			],
+			"dc:subject": [
+				""
+			],
+			"photoshop:headline": ""
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Improving Generic Drug Review Performance",
+					"x": 147.36,
+					"y": 86.88,
+					"width": 317.33056800000037,
+					"height": 16.02,
+					"transform": [
+						16.02,
+						0,
+						0,
+						16.02,
+						147.36,
+						705.12
+					],
+					"font": {
+						"size": 16.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 146.28,
+					"y": 103.5,
+					"width": 0,
+					"height": 13.98,
+					"transform": [
+						13.98,
+						0,
+						0,
+						13.98,
+						146.28,
+						688.5
+					],
+					"font": {
+						"size": 13.98,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Generic Drug Budget Authority: +5,561,000; 13 FTE",
+					"x": 146.28,
+					"y": 103.5,
+					"width": 319.3129860000007,
+					"height": 13.98,
+					"transform": [
+						13.98,
+						0,
+						0,
+						13.98,
+						146.28,
+						688.5
+					],
+					"font": {
+						"size": 13.98,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 125.7,
+					"y": 119.57979999999998,
+					"width": 0,
+					"height": 13.98,
+					"transform": [
+						13.98,
+						0,
+						0,
+						13.98,
+						125.7,
+						672.4202
+					],
+					"font": {
+						"size": 13.98,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Generic Drug User Fees: +$15,701,000; 34 FTE (First Year)",
+					"x": 125.7,
+					"y": 119.57979999999998,
+					"width": 360.4673100000006,
+					"height": 13.98,
+					"transform": [
+						13.98,
+						0,
+						0,
+						13.98,
+						125.7,
+						672.4202
+					],
+					"font": {
+						"size": 13.98,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 147.53999999999996,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						644.46
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1. Why is this initiative necessary?",
+					"x": 90,
+					"y": 147.53999999999996,
+					"width": 173.11199999999977,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						644.46
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 175.01999999999998,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						616.98
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The number of generic drug applications submitted to FDA has been rising exponentially.",
+					"x": 90,
+					"y": 175.01999999999998,
+					"width": 431.6376,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						616.98
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "During the past six years, applications increased by 158 percent, rising from 307",
+					"x": 90,
+					"y": 188.81999999999994,
+					"width": 386.57880000000085,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						603.1800000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "applications in FY 2002 to 793 applications in FY 2006. FDA estimates it will receive",
+					"x": 90.00000000000003,
+					"y": 202.6199999999999,
+					"width": 417.33600000000035,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000003,
+						589.3800000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "857 applications in FY 2008. These statistics demonstrate the urgent need for increased",
+					"x": 90,
+					"y": 216.41999999999985,
+					"width": 422.6459999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						575.5800000000002
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "resources for the Generic Drug Review Program. The additional budget authority and",
+					"x": 90,
+					"y": 230.2199999999998,
+					"width": 413.67239999999947,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						561.7800000000002
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "proposed user fees in the Improving Generic Drug Review Initiative allow FDA to",
+					"x": 90.00000000000003,
+					"y": 244.01999999999975,
+					"width": 396.52080000000024,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000003,
+						547.9800000000002
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "respond to the growing number applications.",
+					"x": 90,
+					"y": 257.8199999999997,
+					"width": 214.63679999999985,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						534.1800000000003
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 285.42,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						506.58
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Generic drugs often cost 20 to 70 percent less than their brand-name counterparts. The",
+					"x": 90,
+					"y": 285.42,
+					"width": 418.16399999999976,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						506.58
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "promise of significant savings makes timely review of generic drug applications a vital",
+					"x": 89.99999999999997,
+					"y": 299.22,
+					"width": 417.13919999999973,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999997,
+						492.78
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "part of the Administration’s strategy to reduce healthcare costs associated with",
+					"x": 90,
+					"y": 313.02000000000004,
+					"width": 377.94480000000055,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						478.97999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "prescription drugs.",
+					"x": 90,
+					"y": 326.82000000000005,
+					"width": 90.03000000000009,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						465.17999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 354.42,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						437.58
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The following table identifies the funding history for the Generic Drug Review Program",
+					"x": 90,
+					"y": 354.42,
+					"width": 424.0559999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						437.58
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and the FY 2008 levels, including the increased generic drug budget authority and",
+					"x": 90,
+					"y": 368.22,
+					"width": 394.20720000000074,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						423.78
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "proposed user fees:",
+					"x": 90,
+					"y": 382.02000000000004,
+					"width": 92.71679999999992,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						409.97999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 163.5,
+					"y": 409.74,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						163.5,
+						382.26
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Funding History for the Generic Drug Review Program",
+					"x": 163.5,
+					"y": 409.74,
+					"width": 285.0228000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						163.5,
+						382.26
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 144.66,
+					"y": 450.9,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						144.66,
+						341.1
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Program",
+					"x": 144.66,
+					"y": 450.9,
+					"width": 38.39664,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						144.66,
+						341.1
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 183.05663999999996,
+					"y": 450.9,
+					"width": 5.0841976047904245,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						183.05663999999996,
+						341.1
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "FY 2006",
+					"x": 234.0003,
+					"y": 445.1996,
+					"width": 35.83653000000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						234.0003,
+						346.8004
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Actuals",
+					"x": 235.8039,
+					"y": 456.66247999999996,
+					"width": 32.278428000000034,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						235.8039,
+						335.33752000000004
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 297.6604,
+					"y": 439.4391,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						297.6604,
+						352.5609
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "FY 2007",
+					"x": 297.6604,
+					"y": 439.4391,
+					"width": 35.83652999999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						297.6604,
+						352.5609
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "President",
+					"x": 295.31572,
+					"y": 450.90198,
+					"width": 40.5429239999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						295.31572,
+						341.09802
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Budget",
+					"x": 300.29566,
+					"y": 462.42498,
+					"width": 30.5760300000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						300.29566,
+						329.57502
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 409.3204,
+					"y": 433.6802,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						409.3204,
+						358.3198
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "FY 2008",
+					"x": 409.3204,
+					"y": 433.6802,
+					"width": 35.83652999999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						409.3204,
+						358.3198
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 407.7603,
+					"y": 445.1401,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						407.7603,
+						346.8599
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Initiative",
+					"x": 407.7603,
+					"y": 445.1401,
+					"width": 38.953751999999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						407.7603,
+						346.8599
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 366.8405,
+					"y": 457.1395,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						366.8405,
+						334.8605
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "FY 2008",
+					"x": 366.8405,
+					"y": 457.1395,
+					"width": 35.83652999999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						366.8405,
+						334.8605
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Total",
+					"x": 371.76032000000004,
+					"y": 468.6625,
+					"width": 22.82556,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						371.76032000000004,
+						323.3375
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "1",
+					"x": 394.56,
+					"y": 464.16,
+					"width": 3.24,
+					"height": 6.48,
+					"transform": [
+						6.48,
+						0,
+						0,
+						6.48,
+						394.56,
+						327.84
+					],
+					"font": {
+						"size": 6.48,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 429.54,
+					"y": 457.14,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						429.54,
+						334.86
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "+/- 07 President",
+					"x": 429.54,
+					"y": 457.14,
+					"width": 67.36345800000007,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						429.54,
+						334.86
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Budget",
+					"x": 447.95676000000003,
+					"y": 468.663,
+					"width": 30.5760300000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						447.95676000000003,
+						323.337
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 268.26,
+					"y": 480.66,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						268.26,
+						311.34
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Budget Authority",
+					"x": 268.26,
+					"y": 480.66,
+					"width": 75.37745400000034,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						268.26,
+						311.34
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 111.6,
+					"y": 492.6599,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Human Drugs",
+					"x": 111.6,
+					"y": 492.6599,
+					"width": 60.845448,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 172.445448,
+					"y": 492.6599,
+					"width": 5.4405041916167685,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						172.445448,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$62,567,000",
+					"x": 226.9593,
+					"y": 492.6599,
+					"width": 49.96973999999991,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						226.9593,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 276.9290399999999,
+					"y": 492.6599,
+					"width": 1.6378103792415297,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						276.9290399999999,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$64,600,000",
+					"x": 293.3399,
+					"y": 492.6599,
+					"width": 50.07595200000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						293.3399,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 343.4158519999999,
+					"y": 492.6599,
+					"width": 2.188577644710586,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						343.4158519999999,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$70,161,000",
+					"x": 365.3454,
+					"y": 492.6599,
+					"width": 49.98977999999992,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						365.3454,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 415.3351799999998,
+					"y": 492.6599,
+					"width": 3.9839840319361484,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						415.3351799999998,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$5,561,000",
+					"x": 455.2547,
+					"y": 492.6599,
+					"width": 45.02687399999993,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						455.2547,
+						299.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 111.6,
+					"y": 504.5399,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Center",
+					"x": 111.6,
+					"y": 504.5399,
+					"width": 26.648190000000035,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 138.24819000000002,
+					"y": 504.5399,
+					"width": 8.852775449101795,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						138.24819000000002,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$55,437,000",
+					"x": 226.953,
+					"y": 504.5399,
+					"width": 49.98977999999991,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						226.953,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 276.94277999999986,
+					"y": 504.5399,
+					"width": 1.6393433133732707,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						276.94277999999986,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$58,000,000",
+					"x": 293.369,
+					"y": 504.5399,
+					"width": 49.98977999999991,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						293.369,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 343.35877999999985,
+					"y": 504.5399,
+					"width": 2.189552894211589,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						343.35877999999985,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$63,561,000",
+					"x": 365.2981,
+					"y": 504.5399,
+					"width": 49.98977999999991,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						365.2981,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 415.2878799999998,
+					"y": 504.5399,
+					"width": 3.98595009980042,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						415.2878799999998,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$5,561,000",
+					"x": 455.2271,
+					"y": 504.5399,
+					"width": 45.02286599999993,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						455.2271,
+						287.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 111.6,
+					"y": 516.5399,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Field",
+					"x": 111.6,
+					"y": 516.5399,
+					"width": 20.496911999999977,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 132.09691199999997,
+					"y": 516.5399,
+					"width": 9.955128542914174,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						132.09691199999997,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$7,130,000",
+					"x": 231.8473,
+					"y": 516.5399,
+					"width": 45.03589200000002,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						231.8473,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 276.88319199999995,
+					"y": 516.5399,
+					"width": 2.1391624750499076,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						276.88319199999995,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$6,600,000",
+					"x": 298.3176,
+					"y": 516.5399,
+					"width": 45.03589200000002,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						298.3176,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 343.35349199999996,
+					"y": 516.5399,
+					"width": 2.684062674650701,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						343.35349199999996,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$6,600,000",
+					"x": 370.2478,
+					"y": 516.5399,
+					"width": 45.03589200000002,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						370.2478,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 415.2836919999999,
+					"y": 516.5399,
+					"width": 8.145170459081845,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						415.2836919999999,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "-",
+					"x": 496.8983,
+					"y": 516.5399,
+					"width": 3.33666,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						496.8983,
+						275.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 285.24,
+					"y": 528.6599,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						285.24,
+						263.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "User Fees",
+					"x": 285.24,
+					"y": 528.6599,
+					"width": 41.39061599999984,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						285.24,
+						263.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 111.6,
+					"y": 540.6599,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Generic Drug User Fee",
+					"x": 111.6,
+					"y": 540.6599,
+					"width": 98.55672000000006,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 210.15672000000006,
+					"y": 540.6599,
+					"width": 6.153520958083826,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						210.15672000000006,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "0",
+					"x": 271.815,
+					"y": 540.6599,
+					"width": 5.01,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						271.815,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 276.825,
+					"y": 540.6599,
+					"width": 6.134720558882235,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						276.825,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "0",
+					"x": 338.2949,
+					"y": 540.6599,
+					"width": 5.01,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						338.2949,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 343.3049,
+					"y": 540.6599,
+					"width": 2.188612774451101,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						343.3049,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$15,701,000",
+					"x": 365.2348,
+					"y": 540.6599,
+					"width": 50.01983999999991,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						365.2348,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 415.2546399999998,
+					"y": 540.6599,
+					"width": 3.4900658682634904,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						415.2546399999998,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$15,701,000",
+					"x": 450.2251,
+					"y": 540.6599,
+					"width": 50.01983999999991,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						450.2251,
+						251.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 111.6,
+					"y": 552.6599,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Program Total",
+					"x": 111.6,
+					"y": 552.6599,
+					"width": 63.60696000000002,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						111.6,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 175.20696,
+					"y": 552.6599,
+					"width": 5.16646107784431,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						175.20696,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$62,567,000",
+					"x": 226.9749,
+					"y": 552.6599,
+					"width": 49.969739999999916,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						226.9749,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 276.9446399999998,
+					"y": 552.6599,
+					"width": 1.640165668662692,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						276.9446399999998,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$64,600,000",
+					"x": 293.3791,
+					"y": 552.6599,
+					"width": 49.969739999999916,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						293.3791,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 343.3488399999998,
+					"y": 552.6599,
+					"width": 2.1905748502994205,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						343.3488399999998,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$85,862,000",
+					"x": 365.2984,
+					"y": 552.6599,
+					"width": 49.969739999999916,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						365.2984,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 415.26813999999985,
+					"y": 552.6599,
+					"width": 3.4899660678642856,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						415.26813999999985,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "$21,262,000",
+					"x": 450.2376,
+					"y": 552.6599,
+					"width": 49.969739999999916,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						450.2376,
+						239.3401
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 107.82000000000005,
+					"y": 560.0399,
+					"width": 0,
+					"height": 6.48,
+					"transform": [
+						6.48,
+						0,
+						0,
+						6.48,
+						107.82000000000005,
+						231.9601
+					],
+					"font": {
+						"size": 6.48,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1",
+					"x": 107.82000000000005,
+					"y": 560.0399,
+					"width": 3.24,
+					"height": 6.48,
+					"transform": [
+						6.48,
+						0,
+						0,
+						6.48,
+						107.82000000000005,
+						231.9601
+					],
+					"font": {
+						"size": 6.48,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 111.06000000000004,
+					"y": 560.0399,
+					"width": 0.24999999999999412,
+					"height": 6.48,
+					"transform": [
+						6.48,
+						0,
+						0,
+						6.48,
+						111.06000000000004,
+						231.9601
+					],
+					"font": {
+						"size": 6.48,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The FY 2008 Generic Drug total is $87,102,000. This includes generic drug funds and pay increase.",
+					"x": 112.68,
+					"y": 564.5399,
+					"width": 402.9462840000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						112.68,
+						227.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 591.84,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						200.16
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "2. How does this initiative support important public health priorities?",
+					"x": 90,
+					"y": 591.84,
+					"width": 344.48160000000087,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						200.16
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 619.3199999999999,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						172.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "This initiative supports the public health priorities of the HHS 500-day plan for",
+					"x": 90,
+					"y": 619.3199999999999,
+					"width": 380.61479999999983,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						172.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Transforming Healthcare. Specifically, the initiative supports the Secretary’s objective",
+					"x": 90,
+					"y": 633.12,
+					"width": 418.89359999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						158.88
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for rapidly approving safe new",
+					"x": 90,
+					"y": 646.9200000000001,
+					"width": 147.90840000000023,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						145.07999999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 237.9084000000002,
+					"y": 646.9200000000001,
+					"width": 0.24929999999998387,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						237.9084000000002,
+						145.07999999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "drugs, continually monitoring drug safety after approval,",
+					"x": 240.9,
+					"y": 646.92,
+					"width": 272.6016000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						240.9,
+						145.08
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and proactively communicating new information to providers and patients. Improving",
+					"x": 90,
+					"y": 660.72,
+					"width": 415.4064000000009,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						131.28
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "generic drug review performance also supports other public health priorities:",
+					"x": 90,
+					"y": 674.52,
+					"width": 368.328000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						117.48
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 702.96,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						89.04
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 702.96,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						89.04
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 702.96,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						89.04
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The initiative advances Medicare Rx objectives by promoting the availability of",
+					"x": 126,
+					"y": 702.96,
+					"width": 383.92319999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						89.04
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "lower cost generic alternatives.",
+					"x": 126.00000000000006,
+					"y": 716.76,
+					"width": 149.38319999999993,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126.00000000000006,
+						75.24000000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "•",
+					"x": 108,
+					"y": 83.94000000000005,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						708.06
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 83.94000000000005,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						708.06
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The initiative advances Medicaid Modernization by enabling FDA to approve",
+					"x": 126,
+					"y": 83.94000000000005,
+					"width": 373.5047999999986,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						708.06
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "lower-cost generic drugs that generate savings to support a modernized Medicaid",
+					"x": 125.99999999999997,
+					"y": 97.68000000000006,
+					"width": 389.7648000000009,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						125.99999999999997,
+						694.3199999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "program.",
+					"x": 126,
+					"y": 111.48000000000002,
+					"width": 43.606799999999964,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						680.52
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 138.17999999999995,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						653.82
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 138.17999999999995,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						653.82
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 138.17999999999995,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						653.82
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The initiative supports Pandemic Preparedness by allowing prompt review of",
+					"x": 126,
+					"y": 138.17999999999995,
+					"width": 370.87199999999973,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						653.82
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "generic drugs that support the HHS pandemic influenza response.",
+					"x": 125.99999999999997,
+					"y": 151.9799999999999,
+					"width": 314.9327999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						125.99999999999997,
+						640.0200000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 177.77999999999997,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						614.22
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Furthermore, enhanced generic drug review ensures that American consumers have",
+					"x": 90,
+					"y": 177.77999999999997,
+					"width": 400.6247999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						614.22
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "additional choices when buying drugs, which will produce a dramatic return on",
+					"x": 89.99999999999997,
+					"y": 191.57999999999993,
+					"width": 380.58480000000026,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999997,
+						600.4200000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "investment for the resources that FDA spends on generic drug review. The",
+					"x": 90,
+					"y": 205.37999999999988,
+					"width": 360.9120000000008,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						586.6200000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Congressional Budget Office estimates that generic drug use results in U.S. savings of",
+					"x": 90,
+					"y": 219.17999999999984,
+					"width": 413.90160000000094,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						572.8200000000002
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "$10 billion per year. One of the nation’s largest pharmacy benefit management",
+					"x": 90,
+					"y": 232.9799999999998,
+					"width": 381.525599999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						559.0200000000002
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "companies estimates that more extensive generic drug use could save an additional $20",
+					"x": 90.00000000000003,
+					"y": 246.77999999999975,
+					"width": 418.5624000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000003,
+						545.2200000000003
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "billion per year. As $60-70 billion in brand name drugs lose patent protection in the next",
+					"x": 90.00000000000003,
+					"y": 260.51999999999975,
+					"width": 428.28480000000025,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000003,
+						531.4800000000002
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "few years, Americans could substitute generic drugs for brand name drugs at a rate of 50",
+					"x": 90.00000000000006,
+					"y": 274.3199999999997,
+					"width": 425.8271999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000006,
+						517.6800000000003
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "to 75 percent.",
+					"x": 90.00000000000006,
+					"y": 288.1199999999997,
+					"width": 65.652,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000006,
+						503.8800000000003
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 315.72,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						476.28
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Enhanced generic drug review also directly supports the Secretary’s vision for improving",
+					"x": 90,
+					"y": 315.72,
+					"width": 429.01679999999965,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						476.28
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the human condition around the world. The FDA Generic Drug Review Program plays a",
+					"x": 90,
+					"y": 329.52000000000004,
+					"width": 427.5600000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						462.47999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "significant role in the President’s Emergency Plan for AIDS Relief (PEPFAR), by",
+					"x": 90,
+					"y": 343.32000000000005,
+					"width": 393.8820000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						448.67999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "approving new generic treatments for HIV and AIDS. If FDA deems a generic drug safe",
+					"x": 90,
+					"y": 357.12000000000006,
+					"width": 427.16639999999967,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						434.87999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and effective – but the brand name equivalent is still under patent in the United States –",
+					"x": 90,
+					"y": 370.9200000000001,
+					"width": 420.51120000000105,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						421.0799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "FDA can grant a tentative approval for the drug. The tentative approval allows the drug",
+					"x": 90,
+					"y": 384.7200000000001,
+					"width": 422.55119999999954,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						407.2799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "to be sold outside of the United States for HIV and AIDS treatment.",
+					"x": 90,
+					"y": 398.5200000000001,
+					"width": 326.27279999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						393.4799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 426.24,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						365.76
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "3. What are the risks of not funding this initiative?",
+					"x": 90,
+					"y": 426.24,
+					"width": 253.07760000000047,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						365.76
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 453.72,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						338.28
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Not proceeding with the Improving Generic Drug Review Initiative will result in the",
+					"x": 90,
+					"y": 453.72,
+					"width": 405.95279999999923,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						338.28
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "inability to capture significant savings from generic drug use. Generic drugs reduce the",
+					"x": 90,
+					"y": 467.52000000000004,
+					"width": 421.22040000000044,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						324.47999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "cost of pharmaceutical care and allow increased access to health care for many",
+					"x": 90,
+					"y": 481.32000000000005,
+					"width": 377.7432000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						310.67999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Americans. Generic drugs have the same quality, strength, purity, and stability as brand-",
+					"x": 90,
+					"y": 495.12000000000006,
+					"width": 427.4303999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						296.87999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "name drugs.",
+					"x": 90.00000000000003,
+					"y": 508.9200000000001,
+					"width": 58.68840000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000003,
+						283.0799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 536.52,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						255.48
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Government programs rely on the availability of generic drugs to hold down costs.",
+					"x": 90,
+					"y": 536.52,
+					"width": 397.0319999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						255.48
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "According to data from the National Association of Chain Drug Stores, in 2004 the",
+					"x": 90,
+					"y": 550.32,
+					"width": 399.2879999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						241.67999999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "average price of a brand prescription was approximately $96.01, while the average price",
+					"x": 89.99999999999997,
+					"y": 564.12,
+					"width": 423.8843999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999997,
+						227.87999999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "of an available generic prescription was approximately $28.74. That is a difference of",
+					"x": 90,
+					"y": 577.9200000000001,
+					"width": 414.10320000000047,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						214.07999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "$67.27 per prescription.",
+					"x": 90.00000000000006,
+					"y": 591.72,
+					"width": 114.61920000000003,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000006,
+						200.27999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 619.3199999999999,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						172.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Not funding this initiative limits the generic drugs available to treat diseases that are of",
+					"x": 90,
+					"y": 619.3199999999999,
+					"width": 417.1811999999993,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						172.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "major concern in the United States and abroad. The initiative also supports the",
+					"x": 90,
+					"y": 633.12,
+					"width": 379.31039999999956,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						158.88
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "availability of specialized drugs for foreign countries (under PEPFAR), and to assure",
+					"x": 90,
+					"y": 646.9200000000001,
+					"width": 408.62399999999934,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						145.07999999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "availability of medical countermeasures to bioterrorism and natural disasters.",
+					"x": 89.99999999999997,
+					"y": 660.72,
+					"width": 370.30679999999944,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999997,
+						131.27999999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "4.",
+					"x": 90,
+					"y": 83.15999999999997,
+					"width": 9,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						708.84
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 99,
+					"y": 83.15999999999997,
+					"width": 0.75,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						99,
+						708.84
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "What activities will these funds support?",
+					"x": 108,
+					"y": 83.15999999999997,
+					"width": 199.78800000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						708.84
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 110.63999999999999,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						681.36
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Budget Authority:",
+					"x": 90,
+					"y": 110.63999999999999,
+					"width": 94.35000000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						681.36
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 184.3500000000001,
+					"y": 110.63999999999999,
+					"width": 0.5004999999999905,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						184.3500000000001,
+						681.36
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The budget authority increase in the Improving Generic Drug",
+					"x": 190.356,
+					"y": 110.63999999999999,
+					"width": 295.28399999999976,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						190.356,
+						681.36
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Review Initiative directly supports core review functions in the Generic Drugs Program",
+					"x": 90.00000000000003,
+					"y": 124.43999999999994,
+					"width": 420.87840000000034,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000003,
+						667.5600000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and allows CDER to sustain performance in a number of important areas:",
+					"x": 90,
+					"y": 138.2399999999999,
+					"width": 352.95599999999945,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						653.7600000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 158.94000000000005,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						633.06
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 158.94000000000005,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						633.06
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 158.94000000000005,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						633.06
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "managing the existing generic drug application backlog as quickly and efficiently",
+					"x": 126,
+					"y": 158.94000000000005,
+					"width": 391.31999999999937,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						633.06
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "as possible",
+					"x": 126,
+					"y": 172.68000000000006,
+					"width": 52.358400000000046,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						619.3199999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 193.38,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						598.62
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 193.38,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						598.62
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 193.38,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						598.62
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "increasing efficiency and improving generic drug review times by evaluating",
+					"x": 126,
+					"y": 193.38,
+					"width": 369.5987999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						598.62
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "ways to improve communication with industry and improve the quality of",
+					"x": 126,
+					"y": 207.17999999999995,
+					"width": 354.6191999999991,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						584.82
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "applications",
+					"x": 126,
+					"y": 220.9799999999999,
+					"width": 58.03560000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						571.0200000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 241.67999999999995,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						550.32
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 241.67999999999995,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						550.32
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 241.67999999999995,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						550.32
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "assuring that generic drugs conform to manufacturing standards equal to the",
+					"x": 126,
+					"y": 241.67999999999995,
+					"width": 365.32199999999926,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						550.32
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "standard for brand name drugs",
+					"x": 126,
+					"y": 255.41999999999996,
+					"width": 146.65920000000028,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						536.58
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 276.12,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						515.88
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 276.12,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						515.88
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 276.12,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						515.88
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "providing medical and scientific expertise necessary to fulfill the President’s",
+					"x": 126,
+					"y": 276.12,
+					"width": 367.5912000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						515.88
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "commitment to ensuring the quality of HIV/AIDS drugs purchased by the United",
+					"x": 126,
+					"y": 289.86,
+					"width": 389.6111999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						502.14
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "States for developing countries.",
+					"x": 126,
+					"y": 303.66,
+					"width": 152.08080000000027,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						488.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 331.26,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						460.74
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "User Fees:",
+					"x": 90,
+					"y": 331.26,
+					"width": 53.71680000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						460.74
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 143.71680000000006,
+					"y": 331.26,
+					"width": 0.4935999999999936,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						143.71680000000006,
+						460.74
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The addition of fee resources under the Improving Generic Drug Review",
+					"x": 149.64,
+					"y": 331.26,
+					"width": 349.94880000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						149.64,
+						460.74
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Initiative will allow FDA’s Center for Drug Evaluation and Research (CDER) to ramp-up",
+					"x": 89.99999999999999,
+					"y": 345.06,
+					"width": 431.2560000000009,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999999,
+						446.94
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the Generic Drug program in FY 2008 and thereby begin to minimize the application",
+					"x": 90,
+					"y": 358.86,
+					"width": 408.293999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						433.14
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "backlog. CDER will hire staff to respond to the backlog. CDER will also enhance a",
+					"x": 90,
+					"y": 372.66,
+					"width": 406.56240000000105,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						419.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "range of operations, from establishing criteria for determining the bioequivalence of",
+					"x": 90,
+					"y": 386.46000000000004,
+					"width": 403.62719999999933,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						405.53999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "complex drugs and drugs with non-traditional dosage forms, to improving the",
+					"x": 90,
+					"y": 400.26000000000005,
+					"width": 373.05599999999913,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						391.73999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "information technology infrastructure that the generic drug program relies on to conduct",
+					"x": 90,
+					"y": 414.06000000000006,
+					"width": 423.56400000000076,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						377.93999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "application review.",
+					"x": 90,
+					"y": 427.86000000000007,
+					"width": 92.02200000000008,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						364.13999999999993
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 455.46,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						336.54
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Following the first full year of implementing this initiative, FDA will achieve a 50",
+					"x": 90,
+					"y": 455.46,
+					"width": 396.04199999999923,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						336.54
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "percent increase in approvals. FDA currently performs an average of 40 approvals or",
+					"x": 90,
+					"y": 469.26,
+					"width": 410.4767999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						322.74
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "tentative approvals per month. FDA will achieve the 50 percent increase after one full",
+					"x": 90,
+					"y": 483.06,
+					"width": 415.4964000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						308.94
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "year because FDA must first hire and train the new generic drug review staff before it can",
+					"x": 90,
+					"y": 496.86,
+					"width": 431.2439999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						295.14
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "achieve the additional approvals. During the next five years, the goal is to meet the",
+					"x": 89.99999999999997,
+					"y": 510.66,
+					"width": 400.8359999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999997,
+						281.34
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "statutory requirement for generic drug review by acting on 90 percent of original generic",
+					"x": 89.99999999999994,
+					"y": 524.46,
+					"width": 426.20399999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999994,
+						267.53999999999996
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "drug applications and amendments to unapproved applications within 180 days.",
+					"x": 89.99999999999994,
+					"y": 538.26,
+					"width": 382.56959999999947,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999994,
+						253.73999999999995
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 565.86,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						226.14
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The funds in this initiative will support all activities associated with the review of generic",
+					"x": 90,
+					"y": 565.86,
+					"width": 429.93239999999935,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						226.14
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "drugs. FDA will achieve increased outputs from FY 2007 to FY 2008 in four measures:",
+					"x": 90,
+					"y": 579.6600000000001,
+					"width": 423.3887999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						212.33999999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 600.36,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						191.64
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 600.36,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						191.64
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 600.36,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						191.64
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "First cycle approvals will increase from two percent of applications approved or",
+					"x": 126,
+					"y": 600.36,
+					"width": 384.2015999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						191.64
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "tentatively approved to five percent of applications approved or tentatively",
+					"x": 126.00000000000003,
+					"y": 614.1,
+					"width": 358.9272000000008,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126.00000000000003,
+						177.89999999999998
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "approved.",
+					"x": 126,
+					"y": 627.9000000000001,
+					"width": 47.69039999999991,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						164.09999999999997
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 648.6,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						143.4
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 648.6,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						143.4
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 648.6,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						143.4
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "FDA will reduce the time it takes to approve 40 percent of first generic",
+					"x": 126,
+					"y": 648.6,
+					"width": 340.90319999999934,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						143.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "applications without patent or exclusivity protection from 12 months to four",
+					"x": 125.99999999999997,
+					"y": 662.34,
+					"width": 365.3375999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						125.99999999999997,
+						129.66
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "months. FDA will also reduce the time it takes to approve 80 percent of first",
+					"x": 125.99999999999994,
+					"y": 676.14,
+					"width": 369.290399999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						125.99999999999994,
+						115.86
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "generic applications without patent protection from 14 months to six months.",
+					"x": 125.99999999999994,
+					"y": 689.94,
+					"width": 370.31399999999974,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						125.99999999999994,
+						102.06
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "This improvement depends on receiving the authority to formally expedite these",
+					"x": 126,
+					"y": 83.03999999999996,
+					"width": 385.3356,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						708.96
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "applications.",
+					"x": 126,
+					"y": 96.83999999999992,
+					"width": 61.03920000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						695.1600000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 117.53999999999996,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						674.46
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 117.53999999999996,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						674.46
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 117.53999999999996,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						674.46
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The number of domestic pre-approval generic drug inspections will increase from",
+					"x": 126,
+					"y": 117.53999999999996,
+					"width": 392.5247999999987,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						674.46
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "110 to 155.",
+					"x": 126,
+					"y": 131.27999999999997,
+					"width": 54.35519999999996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						660.72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 151.98000000000002,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						640.02
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 151.98000000000002,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						640.02
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 151.98000000000002,
+					"width": 1.0410000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						640.02
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "The number of foreign pre-approval generic drug inspections will increase from",
+					"x": 126,
+					"y": 151.98000000000002,
+					"width": 383.9591999999988,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						640.02
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "42 to 87.",
+					"x": 126,
+					"y": 165.77999999999997,
+					"width": 42.350399999999965,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						126,
+						626.22
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 185.70000000000005,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						606.3
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "5. What results will FDA achieve?",
+					"x": 90,
+					"y": 185.70000000000005,
+					"width": 172.36079999999993,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						606.3
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldItalicMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 213.17999999999995,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						578.82
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Budget Authority:",
+					"x": 90,
+					"y": 213.17999999999995,
+					"width": 94.35000000000007,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						578.82
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 184.3500000000001,
+					"y": 213.17999999999995,
+					"width": 0.5004999999999905,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						184.3500000000001,
+						578.82
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "With additional base resources for the Generics Drug Program,",
+					"x": 190.356,
+					"y": 213.17999999999995,
+					"width": 302.9016,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						190.356,
+						578.82
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "CDER will be able to approve or tentatively approve as many as 550 generic drugs per",
+					"x": 90.00000000000003,
+					"y": 226.9799999999999,
+					"width": 416.20679999999976,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.00000000000003,
+						565.0200000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "year. The American public will enjoy more cost saving from generic drugs.",
+					"x": 90,
+					"y": 240.77999999999986,
+					"width": 364.51439999999934,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						551.2200000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 90,
+					"y": 268.32000000000005,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						523.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "User Fees:",
+					"x": 90,
+					"y": 268.32000000000005,
+					"width": 53.71680000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						523.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 143.71680000000006,
+					"y": 268.32000000000005,
+					"width": 0.4935999999999936,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						143.71680000000006,
+						523.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPS-BoldMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "With the additional resources generated by the proposed Generic Drug User",
+					"x": 149.64,
+					"y": 268.32000000000005,
+					"width": 364.5407999999993,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						149.64,
+						523.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Fee, FDA will come closer to achieving generic drug review requirements. The statutory",
+					"x": 89.99999999999999,
+					"y": 282.12000000000006,
+					"width": 428.7431999999991,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999999,
+						509.87999999999994
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "requirement for generic drug review is to act on original generic drug applications within",
+					"x": 89.99999999999999,
+					"y": 295.9200000000001,
+					"width": 427.5719999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999999,
+						496.0799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "180 days. Currently, FDA estimates that performance toward this requirement with",
+					"x": 90,
+					"y": 309.7200000000001,
+					"width": 402.2099999999991,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						482.2799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "existing resources in FY 2006 and FY 2007 is near 55-60 percent percent. Although the",
+					"x": 89.99999999999997,
+					"y": 323.5200000000001,
+					"width": 423.94079999999934,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999997,
+						468.4799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "number of generic drug applications that FDA receives will continue to rise, FDA expects",
+					"x": 90,
+					"y": 337.3200000000001,
+					"width": 431.8932,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						454.6799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "that it can achieve the following performance toward meeting the statutory requirement:",
+					"x": 89.99999999999997,
+					"y": 351.1200000000001,
+					"width": 422.9783999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						89.99999999999997,
+						440.8799999999999
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 379.62,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						412.38
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 379.62,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						412.38
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 379.62,
+					"width": 1.7910000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						412.38
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "70 percent by the end of FY 2008",
+					"x": 135,
+					"y": 379.62,
+					"width": 161.64000000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						135,
+						412.38
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 406.32,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						385.68
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 406.32,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						385.68
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 406.32,
+					"width": 1.7910000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						385.68
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "72 percent by the end of FY 2009",
+					"x": 135,
+					"y": 406.32,
+					"width": 161.64000000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						135,
+						385.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 432.96,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						359.04
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 432.96,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						359.04
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 432.96,
+					"width": 1.7910000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						359.04
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "73 percent by the end of FY 2010",
+					"x": 135,
+					"y": 432.96,
+					"width": 161.64000000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						135,
+						359.04
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 459.6,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						332.4
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 459.6,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						332.4
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 459.6,
+					"width": 1.7910000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						332.4
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "75 percent by the end of FY 2011",
+					"x": 135,
+					"y": 459.6,
+					"width": 161.64000000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						135,
+						332.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 486.3,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						305.7
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 486.3,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						305.7
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 486.3,
+					"width": 1.7910000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						305.7
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "80 percent by the end of FY 2012",
+					"x": 135,
+					"y": 486.3,
+					"width": 161.64000000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						135,
+						305.7
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 512.94,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						279.06
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 512.94,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						279.06
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 512.94,
+					"width": 1.7910000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						279.06
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "85 percent by the end of FY 2013",
+					"x": 135,
+					"y": 512.94,
+					"width": 161.64000000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						135,
+						279.06
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 108,
+					"y": 539.58,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						252.42
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 108,
+					"y": 539.58,
+					"width": 5.508,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						252.42
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 113.508,
+					"y": 539.58,
+					"width": 1.7910000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						113.508,
+						252.42
+					],
+					"font": {
+						"size": 12,
+						"name": "EHCHNL+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "90 percent by the end of FY 2014.",
+					"x": 135,
+					"y": 539.58,
+					"width": 164.64000000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						135,
+						252.42
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 4,
+		"fingerprints": [
+			"0d0e3dd583377d22686389220f388c7d",
+			"669eba6febc4eb419859b9a34d97d5ed"
+		]
+	}
+}

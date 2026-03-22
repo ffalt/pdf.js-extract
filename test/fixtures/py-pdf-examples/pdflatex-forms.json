@@ -1,0 +1,369 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"IsLinearized": false,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Producer": "pdfTeX-1.40.23",
+			"Author": "",
+			"Title": "",
+			"Subject": "",
+			"Creator": "LaTeX with hyperref",
+			"Keywords": "",
+			"CreationDate": "D:20220408194723+02'00'",
+			"ModDate": "D:20220408194723+02'00'",
+			"Trapped": {
+				"name": "False"
+			},
+			"Custom": {
+				"PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) kpathsea version 6.3.3"
+			}
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Name",
+					"x": 154.69,
+					"y": 136.75699999999995,
+					"width": 25.18246402,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						154.69,
+						655.243
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "YUGTWE+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Check",
+					"x": 154.69,
+					"y": 164.2539999999999,
+					"width": 26.56427663999999,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						154.69,
+						627.7460000000001
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "YUGTWE+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Submit",
+					"x": 155.69,
+					"y": 188.71399999999994,
+					"width": 31.54956168,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						155.69,
+						603.2860000000001
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "YUGTWE+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1",
+					"x": 303.13300000000004,
+					"y": 702.635,
+					"width": 4.9813,
+					"height": 9.9626,
+					"transform": [
+						9.9626,
+						0,
+						0,
+						9.9626,
+						303.13300000000004,
+						89.36500000000001
+					],
+					"font": {
+						"size": 9.9626,
+						"name": "YUGTWE+CMR10",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.694,
+						"descent": -0.194
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						255,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "15R",
+					"rect": [
+						182.198,
+						650.66,
+						269.23,
+						668.194
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Name",
+					"fieldValue": "",
+					"defaultFieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 10,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 0,
+					"maxLen": 0,
+					"multiLine": false,
+					"comb": false,
+					"doNotScroll": false,
+					"x": 269.23,
+					"y": 668.194
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"backgroundColor": [
+						255,
+						255,
+						255
+					],
+					"borderColor": [
+						255,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "16R",
+					"rect": [
+						183.582,
+						623.163,
+						195.537,
+						640.697
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Check",
+					"fieldValue": "Off",
+					"defaultFieldValue": "Off",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 10,
+						"fontName": "ZaDb",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 0,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": true,
+					"radioButton": false,
+					"pushButton": false,
+					"isTooltipOnly": false,
+					"exportValue": "Yes",
+					"x": 195.537,
+					"y": 640.697
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 1,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						255,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "17R",
+					"rect": [
+						153.694,
+						598.703,
+						189.235,
+						613.2
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": true,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "Submit",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 10,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Btn",
+					"fieldFlags": 65540,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"checkBox": false,
+					"radioButton": false,
+					"pushButton": true,
+					"isTooltipOnly": false,
+					"x": 189.235,
+					"y": 613.2
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"15a81fc33851298f52dd1f31a3052948"
+		]
+	}
+}

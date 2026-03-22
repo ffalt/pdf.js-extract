@@ -1,0 +1,80 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"EncryptFilterName": "Standard",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20200213085505+01'00'",
+			"Creator": "Adobe Acrobat Pro DC 19.21.20061",
+			"ModDate": "D:20200213085934+01'00'",
+			"Producer": "Adobe Acrobat Pro DC 19.21.20061"
+		},
+		"metadata": {
+			"xmp:modifydate": "2020-02-13T08:59:34+01:00",
+			"xmp:createdate": "2020-02-13T08:55:05+01:00",
+			"xmp:metadatadate": "2020-02-13T08:59:34+01:00",
+			"xmp:creatortool": "Adobe Acrobat Pro DC 19.21.20061",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:c71b9133-ac64-47a6-a20a-d59d7d9e0d8c",
+			"xmpmm:instanceid": "uuid:d26db522-9bd7-49e3-97b6-323834381de1",
+			"pdf:producer": "Adobe Acrobat Pro DC 19.21.20061"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Hello world",
+					"x": 202.91,
+					"y": 96.87300000000005,
+					"width": 57.37199999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						202.91,
+						695.127
+					],
+					"font": {
+						"size": 12,
+						"name": "DFONUI+MinionPro-Regular",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.989,
+						"descent": -0.36
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"8225934062b8754e8281c34a617d3895",
+			"db080a5b886dab4798a903c623244261"
+		]
+	}
+}

@@ -1,0 +1,391 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.5",
+			"Language": "en-US",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Fraternity Members",
+					"x": 56.544,
+					"y": 157.46000000000004,
+					"width": 90.45696,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						56.544,
+						634.54
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 147.00096,
+					"y": 157.46000000000004,
+					"width": 80.44904,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						147.00096,
+						634.54
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "480",
+					"x": 227.45,
+					"y": 157.46000000000004,
+					"width": 17.61031999999999,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						227.45,
+						634.54
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 245.06032000000002,
+					"y": 157.46000000000004,
+					"width": 65.44967999999997,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						245.06032000000002,
+						634.54
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Male Undergraduates",
+					"x": 310.51,
+					"y": 157.46000000000004,
+					"width": 97.01472,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						310.51,
+						634.54
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 407.5247199999999,
+					"y": 157.46000000000004,
+					"width": 70.41528000000011,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						407.5247199999999,
+						634.54
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "3495",
+					"x": 477.94,
+					"y": 157.46000000000004,
+					"width": 23.49036000000007,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						477.94,
+						634.54
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Sorority Members",
+					"x": 56.544,
+					"y": 169.82000000000005,
+					"width": 81.99132000000002,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						56.544,
+						622.18
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 138.53532,
+					"y": 169.82000000000005,
+					"width": 88.91467999999998,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						138.53532,
+						622.18
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "484",
+					"x": 227.45,
+					"y": 169.82000000000005,
+					"width": 17.61031999999999,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						227.45,
+						622.18
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 245.06032000000002,
+					"y": 169.82000000000005,
+					"width": 65.44967999999997,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						245.06032000000002,
+						622.18
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Female Undergraduates",
+					"x": 310.51,
+					"y": 169.82000000000005,
+					"width": 107.94432000000002,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						310.51,
+						622.18
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 418.4543199999999,
+					"y": 169.82000000000005,
+					"width": 59.485680000000116,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						418.4543199999999,
+						622.18
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "4880",
+					"x": 477.94,
+					"y": 169.82000000000005,
+					"width": 23.49036000000007,
+					"height": 10.56,
+					"transform": [
+						10.56,
+						0,
+						0,
+						10.56,
+						477.94,
+						622.18
+					],
+					"font": {
+						"size": 10.56,
+						"name": "ABCDEE+Cambria",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.9501953125,
+						"descent": -0.22216796875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"8c58a9ecb7cd014ea68c24c76e569c94",
+			"719a00895455dd49da66f7b58b0fd1b4"
+		]
+	}
+}

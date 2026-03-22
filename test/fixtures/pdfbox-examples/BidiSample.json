@@ -1,0 +1,1044 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Title": "BidiSample.pages",
+			"Producer": "Mac OS X 10.10.5 Quartz PDFContext",
+			"Creator": "Pages",
+			"CreationDate": "D:20150928080050Z00'00'",
+			"ModDate": "D:20150928080050Z00'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.28,
+				"height": 841.89,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.28,
+					"maxY": 841.89
+				}
+			},
+			"content": [
+				{
+					"str": "العربية",
+					"x": 56.69292,
+					"y": 70.16139999999996,
+					"width": 31.7912,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						771.7286
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": true
+				},
+				{
+					"str": "العربية",
+					"x": 56.69292,
+					"y": 90.16139999999996,
+					"width": 31.7912,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						751.7286
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.69292,
+					"y": 127.47320000000002,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						714.4168
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "test",
+					"x": 56.69292,
+					"y": 127.47320000000002,
+					"width": 22.56800000000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						714.4168
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 79.26092,
+					"y": 127.47320000000002,
+					"width": 8.673714285714286,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						79.26092,
+						714.4168
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "الختبار",
+					"x": 200.69292000000002,
+					"y": 127.47320000000002,
+					"width": 34.07319999999986,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						200.69292000000002,
+						714.4168
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.69292,
+					"y": 147.78499999999997,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						694.105
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "14 april 1434",
+					"x": 56.69292,
+					"y": 147.78499999999997,
+					"width": 80.9536,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						694.105
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 137.64652,
+					"y": 147.78499999999997,
+					"width": 4.5033142857142865,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						137.64652,
+						694.105
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "١٤٣٤",
+					"x": 200.69292000000002,
+					"y": 147.78499999999997,
+					"width": 29.412600000000076,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						200.69292000000002,
+						694.105
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 230.10551999999996,
+					"y": 147.78499999999997,
+					"width": 0.2782000000000023,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						230.10551999999996,
+						694.105
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "إبريل",
+					"x": 234.00032,
+					"y": 147.78499999999997,
+					"width": 24.743600000000054,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						234.00032,
+						694.105
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 258.74391999999995,
+					"y": 147.78499999999997,
+					"width": 0.5568000000000056,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						258.74391999999995,
+						694.105
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "١٤",
+					"x": 266.53912,
+					"y": 147.78499999999997,
+					"width": 14.704200000000025,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						266.53912,
+						694.105
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.69292,
+					"y": 168.09680000000003,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						673.7932
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "14-april-1434",
+					"x": 56.69292,
+					"y": 168.09680000000003,
+					"width": 82.49919999999997,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						673.7932
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 139.19212,
+					"y": 168.09680000000003,
+					"width": 4.392914285714288,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						139.19212,
+						673.7932
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "١٤٣٤",
+					"x": 200.69292000000002,
+					"y": 168.09680000000003,
+					"width": 29.412600000000076,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						200.69292000000002,
+						673.7932
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "-",
+					"x": 230.11061999999998,
+					"y": 168.09680000000003,
+					"width": 4.662,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						230.11061999999998,
+						673.7932
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "إبريل",
+					"x": 234.77272,
+					"y": 168.09680000000003,
+					"width": 24.743600000000054,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						234.77272,
+						673.7932
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "-",
+					"x": 259.53222,
+					"y": 168.09680000000003,
+					"width": 4.662,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						259.53222,
+						673.7932
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "١٤",
+					"x": 264.19432,
+					"y": 168.09680000000003,
+					"width": 14.704200000000025,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						264.19432,
+						673.7932
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.69292,
+					"y": 188.40859999999998,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						653.4814
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(january)",
+					"x": 56.69292,
+					"y": 188.40859999999998,
+					"width": 55.24400000000004,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						653.4814
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 111.93692,
+					"y": 188.40859999999998,
+					"width": 6.339714285714287,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						111.93692,
+						653.4814
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "(",
+					"x": 200.69292000000002,
+					"y": 188.40859999999998,
+					"width": 4.662,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						200.69292000000002,
+						653.4814
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "يناير",
+					"x": 205.35502000000002,
+					"y": 188.40859999999998,
+					"width": 22.276799999999863,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						205.35502000000002,
+						653.4814
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 227.61452000000003,
+					"y": 188.40859999999998,
+					"width": 4.662,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						227.61452000000003,
+						653.4814
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "«self test»",
+					"x": 56.69292,
+					"y": 208.72040000000004,
+					"width": 63.81199999999998,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						633.1696
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 120.50492,
+					"y": 208.72040000000004,
+					"width": 5.7278,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						120.50492,
+						633.1696
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "«",
+					"x": 200.69412,
+					"y": 208.72040000000004,
+					"width": 7.784000000000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						200.69412,
+						633.1696
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "ذاتي",
+					"x": 208.47902,
+					"y": 208.72040000000004,
+					"width": 23.737000000000005,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						208.47902,
+						633.1696
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 232.21601999999996,
+					"y": 208.72040000000004,
+					"width": 0.2776357142857161,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						232.21601999999996,
+						633.1696
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "إختبار",
+					"x": 236.10291999999998,
+					"y": 208.72040000000004,
+					"width": 30.81400000000007,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						236.10291999999998,
+						633.1696
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": "»",
+					"x": 266.90672,
+					"y": 208.72040000000004,
+					"width": 7.784000000000001,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						266.90672,
+						633.1696
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "A line with an Arabic",
+					"x": 56.69292,
+					"y": 246.0322,
+					"width": 125.31399999999998,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.69292,
+						595.8578
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 182.00692,
+					"y": 246.0322,
+					"width": 0.2775142857142835,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						182.00692,
+						595.8578
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "العربية",
+					"x": 185.89211999999998,
+					"y": 246.0322,
+					"width": 31.791199999999886,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						185.89211999999998,
+						595.8578
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "rtl",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 217.68331999999992,
+					"y": 246.0322,
+					"width": 0.2796071428571492,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						217.68331999999992,
+						595.8578
+					],
+					"font": {
+						"size": 14,
+						"name": "EEUWUQ+GeezaPro",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.895117540687161,
+						"descent": -0.3309222423146474
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "word embedded.",
+					"x": 221.59782,
+					"y": 246.0322,
+					"width": 104.29720000000005,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						221.59782,
+						595.8578
+					],
+					"font": {
+						"size": 14,
+						"name": "BMYDLC+Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.77001953125,
+						"descent": -0.22998046875
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"20c734a6b5f2276d4104908bb67172e2"
+		]
+	}
+}

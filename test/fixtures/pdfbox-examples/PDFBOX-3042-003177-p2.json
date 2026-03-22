@@ -1,0 +1,1147 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Title": "05-30197-CV0.wpd\u0000",
+			"Producer": "www.adlibsoftware.com:EXS3167-Windows XP",
+			"Custom": {
+				"Version": "Version 2.50d-1 - Licensed to AdLib eDocument Solutions"
+			},
+			"CreationDate": "D:20060719092146",
+			"ModDate": "D:20060719142149",
+			"Creator": "WordPerfect Document\u0000"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 791,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 791
+				}
+			},
+			"content": [
+				{
+					"str": "1",
+					"x": 108,
+					"y": 657.3199999999999,
+					"width": 3.6000000000000005,
+					"height": 7.2,
+					"transform": [
+						7.2,
+						0,
+						0,
+						7.2,
+						108,
+						133.68
+					],
+					"font": {
+						"size": 7.2,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 111.6,
+					"y": 657.3199999999999,
+					"width": 32.400000000000006,
+					"height": 7.2,
+					"transform": [
+						7.2,
+						0,
+						0,
+						7.2,
+						111.6,
+						133.68
+					],
+					"font": {
+						"size": 7.2,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Because Samuel Cleveland has passed away, his wife, Bobbie Jean Cleveland, brought",
+					"x": 144,
+					"y": 662.12,
+					"width": 395.7360000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						144,
+						128.88
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "suit on his behalf.",
+					"x": 72,
+					"y": 676.28,
+					"width": 85.32600000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						114.72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 157.32600000000005,
+					"y": 676.28,
+					"width": 7.793999999999954,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						157.32600000000005,
+						114.72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "For clarity, we will refer to the Appellant as “Cleveland” and the decedent as",
+					"x": 165.12,
+					"y": 676.28,
+					"width": 375.0689999999991,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						165.12,
+						114.72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "“Samuel.”",
+					"x": 72,
+					"y": 690.44,
+					"width": 48.62399999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						100.56
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "-2-",
+					"x": 298.8,
+					"y": 716.6,
+					"width": 14.073999999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						298.8,
+						74.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "brought under the Federal Tort Claims Act (“FTCA”), 28 U.S.C. § 1346",
+					"x": 72,
+					"y": 82.75999999999999,
+					"width": 333.12,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						708.24
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 405.12,
+					"y": 82.75999999999999,
+					"width": 1.920000000000016,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						405.12,
+						708.24
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "et seq.",
+					"x": 407.04,
+					"y": 82.75999999999999,
+					"width": 29.403000000000052,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						407.04,
+						708.24
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "1",
+					"x": 436.56,
+					"y": 77.96000000000004,
+					"width": 3.6000000000000005,
+					"height": 7.2,
+					"transform": [
+						7.2,
+						0,
+						0,
+						7.2,
+						436.56,
+						713.04
+					],
+					"font": {
+						"size": 7.2,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 440.16,
+					"y": 77.96000000000004,
+					"width": 1.919999999999959,
+					"height": 7.2,
+					"transform": [
+						7.2,
+						0,
+						0,
+						7.2,
+						440.16,
+						713.04
+					],
+					"font": {
+						"size": 7.2,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Cleveland challenges",
+					"x": 442.08,
+					"y": 82.75999999999999,
+					"width": 98.04600000000028,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						442.08,
+						708.24
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "certain evidentiary rulings and the district court’s final determination that she failed to prove that the",
+					"x": 72,
+					"y": 111.08000000000004,
+					"width": 468.04800000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						679.92
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "defendant’s conduct fell below the requisite standard of care.",
+					"x": 72,
+					"y": 139.39999999999998,
+					"width": 290.2760000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						651.6
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "I",
+					"x": 304.08,
+					"y": 167.72000000000003,
+					"width": 3.996,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						304.08,
+						623.28
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Samuel sought admission to the emergency room at the Bayne Jones Army Community",
+					"x": 108,
+					"y": 196.03999999999996,
+					"width": 432.5139999999999,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						594.96
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Hospital (“BJACH”), presenting with flu-like symptoms, a slightly elevated respiration rate, and a",
+					"x": 72,
+					"y": 224.36,
+					"width": 468.06600000000043,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						566.64
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "medical history of diabetes. Samuel was first seen by a triage nurse, who took his medical history and",
+					"x": 72,
+					"y": 252.67999999999995,
+					"width": 468.05299999999875,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						538.32
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "classified him as a “category four,” a low priority patient. Samuel did not indicate that he had a prior",
+					"x": 72,
+					"y": 281,
+					"width": 467.97200000000083,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						510
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "history of serious medical conditions, including congestive heart failure, hypertension, and other",
+					"x": 72,
+					"y": 309.32,
+					"width": 467.9679999999988,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						481.68
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "chronic conditions, nor did he state that he was currently taking medications. Physician assistant",
+					"x": 72,
+					"y": 337.64,
+					"width": 467.76800000000003,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						453.36
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "George Eubanks (“Eubanks”) then examined Samuel and concluded that he did not need a chest x-ray",
+					"x": 72,
+					"y": 365.96,
+					"width": 468.48400000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						425.04
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "or other further tests. Eubanks diagnosed Samuel with an upper respiratory infection, bronchitis, and",
+					"x": 72,
+					"y": 394.28,
+					"width": 468.1209999999989,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						396.72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "sinusitis, and prescribed a variety of medications:",
+					"x": 72,
+					"y": 422.6,
+					"width": 248.7730000000002,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 320.7730000000002,
+					"y": 422.6,
+					"width": 5.146999999999821,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						320.7730000000002,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Entex",
+					"x": 325.92,
+					"y": 422.6,
+					"width": 27.414000000000087,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						325.92,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ",",
+					"x": 353.28,
+					"y": 422.6,
+					"width": 3,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						353.28,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 356.28,
+					"y": 422.6,
+					"width": 5.400000000000034,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						356.28,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Proventil",
+					"x": 361.68,
+					"y": 422.6,
+					"width": 44.39200000000006,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						361.68,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ", and",
+					"x": 406.08,
+					"y": 422.6,
+					"width": 25.44400000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						406.08,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 431.524,
+					"y": 422.6,
+					"width": 5.2760000000000105,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						431.524,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Zithromax",
+					"x": 436.8,
+					"y": 422.6,
+					"width": 49.97199999999985,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						436.8,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ".",
+					"x": 486.72,
+					"y": 422.6,
+					"width": 3,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						486.72,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 489.72,
+					"y": 422.6,
+					"width": 10.679999999999893,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						489.72,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "He then",
+					"x": 500.3999999999999,
+					"y": 422.6,
+					"width": 39.84599999999988,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						500.3999999999999,
+						368.4
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "discharged him.",
+					"x": 72,
+					"y": 450.92,
+					"width": 75.03400000000005,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						340.08
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "During the time Samuel was in the emergency room, Eubanks did not consult with an",
+					"x": 108,
+					"y": 479.24,
+					"width": 432.26200000000017,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						311.76
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "attending physician. Furthermore, Eubanks did not review Samuel’s medical file, which contained",
+					"x": 72,
+					"y": 507.56,
+					"width": 468.0300000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						283.44
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "his full medical history, including his prior congestive heart failure, until one hour after his discharge.",
+					"x": 72,
+					"y": 535.88,
+					"width": 467.8889999999997,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						255.12
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "After receiving and reviewing the file, Eubanks did not believe that the file indicated any reason to",
+					"x": 72,
+					"y": 564.2,
+					"width": 467.76199999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						226.8
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "call Samuel back into the ER.",
+					"x": 72,
+					"y": 592.52,
+					"width": 141.02499999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						198.48
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Two days later, Samuel returned to the ER. He was diagnosed with pneumonia resulting from",
+					"x": 108,
+					"y": 620.84,
+					"width": 432.4829999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						108,
+						170.16
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRoman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"4f22dfed916a878e880ec56fda6b0b6d"
+		]
+	}
+}

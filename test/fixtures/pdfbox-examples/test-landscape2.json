@@ -1,0 +1,142 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"Language": "DE",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20081112152940+01'00'",
+			"Author": "R002325",
+			"Creator": "Acrobat PDFMaker 8.1 für Word",
+			"Producer": "Acrobat Distiller 8.1.0 (Windows)",
+			"ModDate": "D:20081112152943+01'00'",
+			"Custom": {
+				"Company": "RWE",
+				"SourceModified": "D:20081112142931"
+			},
+			"Title": " "
+		},
+		"metadata": {
+			"xap:creatortool": "Acrobat PDFMaker 8.1 für Word",
+			"xap:modifydate": "2008-11-12T15:29:43+01:00",
+			"xap:createdate": "2008-11-12T15:29:40+01:00",
+			"xap:metadatadate": "2008-11-12T15:29:43+01:00",
+			"pdf:producer": "Acrobat Distiller 8.1.0 (Windows)",
+			"dc:format": "application/pdf",
+			"dc:creator": [
+				"R002325"
+			],
+			"dc:title": "",
+			"xapmm:documentid": "uuid:31ae92cf-9a27-45e0-9371-0d2741e25919",
+			"xapmm:instanceid": "uuid:2c7eb5da-9210-4666-8cef-e02ef6631c5e",
+			"pdfx:company": "RWE",
+			"pdfx:sourcemodified": "D:20081112142931"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 90,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 842,
+				"height": 595,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Upper left red",
+					"x": 69.8905,
+					"y": 91.74,
+					"width": 67.34760000000007,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						91.74,
+						69.8905
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 627.9505,
+					"y": 487.8,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						487.8,
+						627.9505
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Lower right black",
+					"x": 627.9505,
+					"y": 487.8,
+					"width": 86.00399999999969,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						487.8,
+						627.9505
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"2db2fda60f3208fe8e209237e5c2a1eb",
+			"71e4a8786a7c4f4389b0dddd9a110be1"
+		]
+	}
+}

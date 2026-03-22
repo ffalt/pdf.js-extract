@@ -1,0 +1,739 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"Language": "it-IT",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Author": "Andrea Vacondio",
+			"Creator": "Writer",
+			"Producer": "LibreOffice 4.2",
+			"CreationDate": "D:20140610175511+02'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "First level 1",
+					"x": 56.8,
+					"y": 85.79999999999995,
+					"width": 100.0272,
+					"height": 18.2,
+					"transform": [
+						18.2,
+						0,
+						0,
+						18.2,
+						56.8,
+						756.2
+					],
+					"font": {
+						"size": 18.2,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 120.79999999999995,
+					"width": 0,
+					"height": 16.1,
+					"transform": [
+						16.1,
+						0,
+						0,
+						16.1,
+						56.8,
+						721.2
+					],
+					"font": {
+						"size": 16.1,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "First level 2",
+					"x": 56.8,
+					"y": 120.79999999999995,
+					"width": 88.4695,
+					"height": 16.1,
+					"transform": [
+						16.1,
+						0,
+						0,
+						16.1,
+						56.8,
+						721.2
+					],
+					"font": {
+						"size": 16.1,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 150.39999999999998,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.8,
+						691.6
+					],
+					"font": {
+						"size": 14,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Fist level 3",
+					"x": 56.8,
+					"y": 150.39999999999998,
+					"width": 71.46999999999998,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.8,
+						691.6
+					],
+					"font": {
+						"size": 14,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 694.9,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						147.1
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Some content",
+					"x": 56.8,
+					"y": 694.9,
+					"width": 65.604,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						147.1
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Some other content",
+					"x": 56.8,
+					"y": 219.70000000000005,
+					"width": 93.21600000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						622.3
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Second at level 1",
+					"x": 56.8,
+					"y": 73.79999999999995,
+					"width": 147.602,
+					"height": 18.2,
+					"transform": [
+						18.2,
+						0,
+						0,
+						18.2,
+						56.8,
+						768.2
+					],
+					"font": {
+						"size": 18.2,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 108.79999999999995,
+					"width": 0,
+					"height": 16.1,
+					"transform": [
+						16.1,
+						0,
+						0,
+						16.1,
+						56.8,
+						733.2
+					],
+					"font": {
+						"size": 16.1,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Second level 2",
+					"x": 56.8,
+					"y": 108.79999999999995,
+					"width": 111.78229999999996,
+					"height": 16.1,
+					"transform": [
+						16.1,
+						0,
+						0,
+						16.1,
+						56.8,
+						733.2
+					],
+					"font": {
+						"size": 16.1,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 253.60000000000002,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						588.4
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Content",
+					"x": 56.8,
+					"y": 253.60000000000002,
+					"width": 37.92,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						588.4
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Third level 1",
+					"x": 56.8,
+					"y": 73.79999999999995,
+					"width": 106.12419999999999,
+					"height": 18.2,
+					"transform": [
+						18.2,
+						0,
+						0,
+						18.2,
+						56.8,
+						768.2
+					],
+					"font": {
+						"size": 18.2,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 108.79999999999995,
+					"width": 0,
+					"height": 16.1,
+					"transform": [
+						16.1,
+						0,
+						0,
+						16.1,
+						56.8,
+						733.2
+					],
+					"font": {
+						"size": 16.1,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Third level 2",
+					"x": 56.8,
+					"y": 108.79999999999995,
+					"width": 93.87909999999998,
+					"height": 16.1,
+					"transform": [
+						16.1,
+						0,
+						0,
+						16.1,
+						56.8,
+						733.2
+					],
+					"font": {
+						"size": 16.1,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 138.39999999999998,
+					"width": 0,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.8,
+						703.6
+					],
+					"font": {
+						"size": 14,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Third level 3",
+					"x": 56.8,
+					"y": 138.39999999999998,
+					"width": 81.564,
+					"height": 14,
+					"transform": [
+						14,
+						0,
+						0,
+						14,
+						56.8,
+						703.6
+					],
+					"font": {
+						"size": 14,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 299.79999999999995,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						542.2
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Content",
+					"x": 56.8,
+					"y": 299.79999999999995,
+					"width": 37.92,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						542.2
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 5,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Fourth level 1",
+					"x": 56.8,
+					"y": 73.79999999999995,
+					"width": 118.22719999999997,
+					"height": 18.2,
+					"transform": [
+						18.2,
+						0,
+						0,
+						18.2,
+						56.8,
+						768.2
+					],
+					"font": {
+						"size": 18.2,
+						"name": "BAAAAA+LiberationSans-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.9052734375,
+						"descent": -0.2119140625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 56.8,
+					"y": 189.10000000000002,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						652.9
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Content",
+					"x": 56.8,
+					"y": 189.10000000000002,
+					"width": 37.92,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						652.9
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 6,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Content",
+					"x": 56.8,
+					"y": 91.5,
+					"width": 37.92,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						56.8,
+						750.5
+					],
+					"font": {
+						"size": 12,
+						"name": "CAAAAA+LiberationSerif",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.89111328125,
+						"descent": -0.21630859375
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 6,
+		"fingerprints": [
+			"1650a9fb905fb5ac82165b1b308a242a"
+		]
+	}
+}

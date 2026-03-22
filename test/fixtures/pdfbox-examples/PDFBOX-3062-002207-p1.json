@@ -1,0 +1,1069 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20070518142925-05'00'",
+			"ModDate": "D:20070518142925-05'00'",
+			"Producer": "Corel PDF Engine Version 11.4.0.100",
+			"Creator": "PrintServer130",
+			"Title": ""
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Not To Be Published",
+					"x": 245.4,
+					"y": 120.60000000000002,
+					"width": 113.10480000000008,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						245.4,
+						671.4
+					],
+					"font": {
+						"size": 12.96,
+						"name": "BZLOCL+CGTimes,BoldItalic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.704,
+						"descent": -0.208
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ":",
+					"x": 358.44,
+					"y": 120.60000000000002,
+					"width": 4.302720000000001,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						358.44,
+						671.4
+					],
+					"font": {
+						"size": 12.96,
+						"name": "RTTXDA+CGTimes,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.687,
+						"descent": -0.208
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "IN THE UNITED STATES DISTRICT COURT",
+					"x": 170.76,
+					"y": 152.03999999999996,
+					"width": 270.5112000000001,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						170.76,
+						639.96
+					],
+					"font": {
+						"size": 12.96,
+						"name": "RTTXDA+CGTimes,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.687,
+						"descent": -0.208
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "FOR THE NORTHERN DISTRICT OF IOWA",
+					"x": 172.56,
+					"y": 167.76,
+					"width": 266.90640000000013,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						172.56,
+						624.24
+					],
+					"font": {
+						"size": 12.96,
+						"name": "RTTXDA+CGTimes,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.687,
+						"descent": -0.208
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "WESTERN DIVISION",
+					"x": 241.44,
+					"y": 183.48000000000002,
+					"width": 129.14928000000003,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						241.44,
+						608.52
+					],
+					"font": {
+						"size": 12.96,
+						"name": "RTTXDA+CGTimes,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.687,
+						"descent": -0.208
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 78,
+					"y": 236.64,
+					"width": 0,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						78,
+						555.36
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "DOCTOR JOHN’S, INC., an Iowa",
+					"x": 78,
+					"y": 236.64,
+					"width": 188.18064,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						78,
+						555.36
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Corporation,",
+					"x": 78,
+					"y": 252.36,
+					"width": 68.17680000000001,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						78,
+						539.64
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Plaintiff,",
+					"x": 150,
+					"y": 276.96000000000004,
+					"width": 46.96271999999991,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						150,
+						515.04
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 196.96271999999993,
+					"y": 276.96000000000004,
+					"width": 167.65728000000001,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						196.96271999999993,
+						515.04
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "No. C 03-4121-MWB",
+					"x": 364.61999999999995,
+					"y": 276.96000000000004,
+					"width": 116.68128000000021,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						364.61999999999995,
+						515.04
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "vs.",
+					"x": 78,
+					"y": 301.56,
+					"width": 15.892320000000005,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						78,
+						490.44
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 93.89232000000001,
+					"y": 301.56,
+					"width": 223.74767999999997,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						93.89232000000001,
+						490.44
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "ORDER REGARDING SANCTIONS",
+					"x": 317.64,
+					"y": 301.56,
+					"width": 210.7516799999999,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						317.64,
+						490.44
+					],
+					"font": {
+						"size": 12.96,
+						"name": "RTTXDA+CGTimes,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.687,
+						"descent": -0.208
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "FOR THE CITY’S DESTRUCTION",
+					"x": 320.4,
+					"y": 317.28,
+					"width": 205.20480000000003,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						320.4,
+						474.72
+					],
+					"font": {
+						"size": 12.96,
+						"name": "RTTXDA+CGTimes,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.687,
+						"descent": -0.208
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "OF RELEVANT RECORDS",
+					"x": 342.48,
+					"y": 333,
+					"width": 161.07264000000012,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						342.48,
+						459
+					],
+					"font": {
+						"size": 12.96,
+						"name": "RTTXDA+CGTimes,Bold",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.687,
+						"descent": -0.208
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 78,
+					"y": 326.16,
+					"width": 0,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						78,
+						465.84
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "CITY OF SIOUX CITY, IOWA, and",
+					"x": 78,
+					"y": 326.16,
+					"width": 200.01408000000004,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						78,
+						465.84
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "PAUL ECKERT, in his official capacity",
+					"x": 78,
+					"y": 341.88,
+					"width": 215.01407999999995,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						78,
+						450.12
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "as City Manager,",
+					"x": 78,
+					"y": 357.6,
+					"width": 92.14272000000003,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						78,
+						434.4
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Defendants.",
+					"x": 150,
+					"y": 382.2,
+					"width": 63.65519999999999,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						150,
+						409.8
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "____________________",
+					"x": 241.2,
+					"y": 400.8,
+					"width": 129.6081600000004,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						241.2,
+						391.2
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "By order dated May 1, 2007 (docket no. 213), the court dismissed this case in its",
+					"x": 108,
+					"y": 447.96,
+					"width": 431.9755200000001,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						108,
+						344.04
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "entirety, with prejudice, upon the parties’ settlement and Stipulation Of Dismissal (docket",
+					"x": 72,
+					"y": 471.48,
+					"width": 467.9169599999999,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						320.52
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "no. 211). However, the court stated in the order dismissing the case that it would retain",
+					"x": 72,
+					"y": 495.12,
+					"width": 467.91408000000007,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						296.88
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "jurisdiction over the question of whether or not sanctions should be imposed upon the City",
+					"x": 72,
+					"y": 518.64,
+					"width": 468.0667199999999,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						273.36
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "for destruction, during the pendency of litigation, of relevant records, which consisted of",
+					"x": 72,
+					"y": 542.28,
+					"width": 467.9827200000002,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						249.72
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "recordings of closed sessions of the City Council concerning the ordinances challenged in",
+					"x": 72,
+					"y": 565.8,
+					"width": 467.9740800000001,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						226.2
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "this case.",
+					"x": 72,
+					"y": 589.44,
+					"width": 49.03488000000002,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						202.56
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 121.03488000000002,
+					"y": 589.44,
+					"width": 7.125119999999981,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						121.03488000000002,
+						202.56
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "See, e.g., Cooter & Gell v. Hartmarx Corp.",
+					"x": 128.16,
+					"y": 589.44,
+					"width": 233.3323200000002,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						128.16,
+						202.56
+					],
+					"font": {
+						"size": 12.96,
+						"name": "HSIXIF+CGTimes,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ", 496 U.S. 384 (1990);",
+					"x": 361.44,
+					"y": 589.44,
+					"width": 121.66272000000009,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						361.44,
+						202.56
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 483.10272,
+					"y": 589.44,
+					"width": 3.617279999999994,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						483.10272,
+						202.56
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Perkins v.",
+					"x": 486.71999999999997,
+					"y": 589.44,
+					"width": 53.33423999999986,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						486.71999999999997,
+						202.56
+					],
+					"font": {
+						"size": 12.96,
+						"name": "HSIXIF+CGTimes,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "General Motors Corp.",
+					"x": 72,
+					"y": 612.96,
+					"width": 118.73231999999999,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						179.04
+					],
+					"font": {
+						"size": 12.96,
+						"name": "HSIXIF+CGTimes,Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ", 965 F.2d 597 (8th Cir. 1992).",
+					"x": 190.68,
+					"y": 612.96,
+					"width": 168.23952000000008,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						190.68,
+						179.04
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 358.91952,
+					"y": 612.96,
+					"width": 7.946879999999965,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						358.91952,
+						179.04
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Thereafter, on May 2, 2007, the",
+					"x": 366.86639999999994,
+					"y": 612.96,
+					"width": 173.04192000000023,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						366.86639999999994,
+						179.04
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "court held a conference with counsel for the parties, with a court reporter present, to",
+					"x": 72,
+					"y": 636.6,
+					"width": 468.01104000000004,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						155.4
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "discuss the remaining sanctions question. On May 3, 2007, the court also received a letter",
+					"x": 72,
+					"y": 660.12,
+					"width": 468.01056000000005,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						131.88
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "from counsel for the City clarifying changes made to the City’s policy regarding retention",
+					"x": 72,
+					"y": 683.76,
+					"width": 467.9851199999998,
+					"height": 12.96,
+					"transform": [
+						12.96,
+						0,
+						0,
+						12.96,
+						72,
+						108.24
+					],
+					"font": {
+						"size": 12.96,
+						"name": "GUCCBR+CGTimes",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.695,
+						"descent": -0.215
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"ddac006e5977ead08e14bab33e2130b6"
+		]
+	}
+}

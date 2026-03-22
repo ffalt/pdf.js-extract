@@ -1,0 +1,3 @@
+PngDemo
+rgb.jpggray.jpg
+24bit color image8bit grayscale image

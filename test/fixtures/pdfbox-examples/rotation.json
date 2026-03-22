@@ -1,0 +1,178 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20080915112205-04'00'",
+			"Author": "brianc",
+			"Creator": "PScript5.dll Version 5.2.2",
+			"Producer": "Acrobat Distiller 8.1.0 (Windows)",
+			"ModDate": "D:20080915112205-04'00'",
+			"Title": "Microsoft Word - Document1"
+		},
+		"metadata": {
+			"pdf:producer": "Acrobat Distiller 8.1.0 (Windows)",
+			"xap:creatortool": "PScript5.dll Version 5.2.2",
+			"xap:modifydate": "2008-09-15T11:22:05-04:00",
+			"xap:createdate": "2008-09-15T11:22:05-04:00",
+			"dc:format": "application/pdf",
+			"dc:title": "Microsoft Word - Document1",
+			"dc:creator": [
+				"brianc"
+			],
+			"xapmm:documentid": "uuid:e80dd50e-91fb-433b-9aca-70d723fb77e3",
+			"xapmm:instanceid": "uuid:5d476296-7193-4832-bd2f-aba578ec5c5f"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "This is my first page with normal layout.",
+					"x": 90,
+					"y": 110.63999999999987,
+					"width": 196.01040000000023,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						681.3600000000001
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "This is the second line on the page.",
+					"x": 90,
+					"y": 124.43999999999983,
+					"width": 168.71519999999992,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90,
+						667.5600000000002
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 90,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 792,
+				"height": 612,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "This is my second page. It will have a landscape layout.",
+					"x": 72,
+					"y": 101.04,
+					"width": 270.8808,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						101.04,
+						72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Second line here.",
+					"x": 72,
+					"y": 114.84,
+					"width": 83.03759999999991,
+					"height": 12,
+					"transform": [
+						0,
+						12,
+						-12,
+						0,
+						114.84,
+						72
+					],
+					"font": {
+						"size": 12,
+						"name": "TimesNewRomanPSMT",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.891,
+						"descent": -0.216
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 2,
+		"fingerprints": [
+			"1edbb2134c307d3b429402e56d61093e",
+			"0360d94f9146bb40b05fddaf1959cfb0"
+		]
+	}
+}

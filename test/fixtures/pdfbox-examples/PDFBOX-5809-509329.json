@@ -1,0 +1,5731 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"Language": "EN-US",
+			"IsLinearized": true,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20060307161032-05'00'",
+			"Subject": "EPA STAR Grant #R827405",
+			"Author": "Michael K. Skinner – Center for Reproductive Biology",
+			"Creator": "Acrobat PDFMaker 7.0.7 for Word",
+			"Keywords": "R827405 embryonic testis organ culture transforming growth factor TGF and neurotropin NT gene expression methoxychlor MXC and vinclozolin maternal exposures fetal sex determination",
+			"Producer": "Acrobat Distiller 7.0.5 (Windows)",
+			"ModDate": "D:20060511143349-04'00'",
+			"Custom": {
+				"Company": "ICF Consulting",
+				"SourceModified": "D:20060307210958"
+			},
+			"Title": "Endocrine Disruptors and Testis Development"
+		},
+		"metadata": {
+			"pdf:producer": "Acrobat Distiller 7.0.5 (Windows)",
+			"pdf:keywords": "R827405 embryonic testis organ culture transforming growth factor TGF and neurotropin NT gene expression methoxychlor MXC and vinclozolin maternal exposures fetal sex determination",
+			"pdfx:company": "ICF Consulting",
+			"pdfx:sourcemodified": "D:20060307210958",
+			"xap:creatortool": "Acrobat PDFMaker 7.0.7 for Word",
+			"xap:modifydate": "2006-05-11T14:33:49-04:00",
+			"xap:createdate": "2006-03-07T16:10:32-05:00",
+			"xap:metadatadate": "2006-05-11T14:33:49-04:00",
+			"xapmm:documentid": "uuid:fcf370f4-5dfb-4583-8537-dcc474cb567b",
+			"xapmm:instanceid": "uuid:ebc9137a-1dd5-4379-9670-8d7a84f48d37",
+			"xapmm:versionid": "4",
+			"dc:format": "application/pdf",
+			"dc:title": "Endocrine Disruptors and Testis Development",
+			"dc:creator": [
+				"Michael K. Skinner – Center for Reproductive Biology",
+				"Washington State University",
+				"Pullman",
+				"WA"
+			],
+			"dc:description": "EPA STAR Grant #R827405",
+			"dc:subject": [
+				"R827405 embryonic testis organ culture transforming growth factor TGF and neurotropin NT gene expression methoxychlor MXC and vinclozolin maternal exposures fetal sex determination"
+			],
+			"photoshop:headline": ""
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Endocrine Disruptors and Testis Development",
+					"x": 72,
+					"y": 68.93989999999997,
+					"width": 352.1708639999994,
+					"height": 16.02,
+					"transform": [
+						16.02,
+						0,
+						0,
+						16.02,
+						72,
+						723.0601
+					],
+					"font": {
+						"size": 16.02,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 101.94000000000005,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						690.06
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Project Scope",
+					"x": 72,
+					"y": 101.94000000000005,
+					"width": 80.01479999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						690.06
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 113.81989999999996,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						678.1801
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Declines in human and animal male fertility",
+					"x": 72,
+					"y": 113.81989999999996,
+					"width": 189.95916000000003,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						678.1801
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "have been observed in recent years by",
+					"x": 72,
+					"y": 125.34289999999999,
+					"width": 172.32997199999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						666.6571
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "several researchers. Possibly related",
+					"x": 72,
+					"y": 136.8659,
+					"width": 166.675686,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						655.1341
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "declines also have been observed in sperm",
+					"x": 72,
+					"y": 148.32878000000005,
+					"width": 192.2497319999999,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						643.67122
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "concentrations and related indicators of",
+					"x": 72,
+					"y": 159.85178000000008,
+					"width": 174.53737800000013,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						632.1482199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "semen quality. Rates of testicular cancer and",
+					"x": 72,
+					"y": 171.3747800000001,
+					"width": 202.32183599999988,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						620.6252199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "congenital abnormalities such as",
+					"x": 72,
+					"y": 182.83766000000014,
+					"width": 144.99140399999993,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						609.1623399999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "cryptorchidism and hypospadias also appear",
+					"x": 72,
+					"y": 194.36066000000017,
+					"width": 197.79880800000015,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						597.6393399999998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "to be increasing. The declines in semen",
+					"x": 72,
+					"y": 205.8235400000002,
+					"width": 178.94517599999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						586.1764599999998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "quality vary regionally, suggesting an",
+					"x": 72,
+					"y": 217.34654000000023,
+					"width": 163.95225000000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						574.6534599999998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "association with exposure to endocrine",
+					"x": 72,
+					"y": 228.86954000000026,
+					"width": 172.32396,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						563.1304599999997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "disrupting chemicals (EDCs), which can",
+					"x": 72,
+					"y": 240.3324200000003,
+					"width": 176.29688999999996,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						551.6675799999997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "influence normal sex determination, testis",
+					"x": 72,
+					"y": 251.85542000000032,
+					"width": 183.88704000000013,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						540.1445799999997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "development, and sperm viability. The",
+					"x": 72,
+					"y": 263.37842000000035,
+					"width": 171.13558800000013,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						528.6215799999997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "objective of this grant was to develop a better",
+					"x": 72,
+					"y": 274.8413000000004,
+					"width": 200.68456800000007,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						517.1586999999996
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "understanding of how endocrine disruptors",
+					"x": 72,
+					"y": 286.3643000000004,
+					"width": 188.91106799999991,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						505.6356999999996
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "affect testis development and function in",
+					"x": 72,
+					"y": 297.88730000000044,
+					"width": 178.40610000000018,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						494.11269999999956
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "mammals.",
+					"x": 72,
+					"y": 309.3501800000004,
+					"width": 46.126068000000025,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						482.6498199999996
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 332.3391,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						459.6609
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "The development of the testis requires the",
+					"x": 72,
+					"y": 332.3391,
+					"width": 186.7587720000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						459.6609
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "coordination of the growth and differentiation",
+					"x": 72,
+					"y": 343.80197999999996,
+					"width": 197.40903000000012,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						448.19802000000004
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "of several cell types. The testis is formed",
+					"x": 72,
+					"y": 355.32498,
+					"width": 180.63755400000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						436.67502
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "initially from an undifferentiated bipotential",
+					"x": 72,
+					"y": 366.84798,
+					"width": 186.81388200000015,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						425.15202
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "gonad. The first sign of male development is",
+					"x": 72,
+					"y": 378.31086,
+					"width": 196.10743200000002,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						413.68914
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the differentiation of precursor Sertoli cells,",
+					"x": 72,
+					"y": 389.83386,
+					"width": 189.55735800000016,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						402.16614
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "which then aggregate with germ cells and",
+					"x": 72,
+					"y": 401.35686000000004,
+					"width": 183.98623800000007,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						390.64313999999996
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "undergo a transition from mesenchyme to",
+					"x": 72,
+					"y": 412.81974,
+					"width": 184.48523400000016,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						379.18026
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "epithelia to form testicular cords. Another",
+					"x": 72,
+					"y": 424.34274000000005,
+					"width": 184.4782200000002,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						367.65725999999995
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "characteristic of the development of the testis",
+					"x": 72,
+					"y": 435.80562000000003,
+					"width": 200.7106200000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						356.19437999999997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "after the formation of cords is rapid growth",
+					"x": 72,
+					"y": 447.32862000000006,
+					"width": 187.27981200000013,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						344.67137999999994
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "compared to the analogous ovarian",
+					"x": 72,
+					"y": 458.8516200000001,
+					"width": 156.79696800000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						333.1483799999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "precursor. The peak of Sertoli cell",
+					"x": 72,
+					"y": 470.31450000000007,
+					"width": 149.49940200000012,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						321.68549999999993
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "proliferation occurs just before birth, and cell",
+					"x": 72,
+					"y": 481.8375000000001,
+					"width": 196.18759200000014,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						310.1624999999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "proliferation in the embryonic and early",
+					"x": 72,
+					"y": 493.3605000000001,
+					"width": 172.363038,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						298.6394999999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "postnatal periods is crucial for establishing",
+					"x": 72,
+					"y": 504.8233800000001,
+					"width": 187.81287599999996,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						287.1766199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the mature adult size of the testis. In addition, this proliferation is necessary for reproductive function, in",
+					"x": 72,
+					"y": 516.3463800000002,
+					"width": 459.13644,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						275.6536199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "order to maintain a sufficient population of sperm-producing Sertoli cells during adulthood.",
+					"x": 71.99999999999997,
+					"y": 527.8693800000001,
+					"width": 397.38919199999987,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99999999999997,
+						264.13061999999985
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 291.42,
+					"y": 118.86000000000001,
+					"width": 0,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						291.42,
+						673.14
+					],
+					"font": {
+						"size": 10.98,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Grant Title and Principal Investigator",
+					"x": 291.42,
+					"y": 118.86000000000001,
+					"width": 192.55296599999943,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						291.42,
+						673.14
+					],
+					"font": {
+						"size": 10.98,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 291.42,
+					"y": 136.5,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						655.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Endocrine Disruptors and Testis Development",
+					"x": 291.42,
+					"y": 136.5,
+					"width": 203.98114800000005,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						655.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Michael K. Skinner – Center for Reproductive Biology,",
+					"x": 291.42,
+					"y": 150.95885999999996,
+					"width": 238.95896399999995,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						641.04114
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Washington State University, Pullman, WA",
+					"x": 291.42,
+					"y": 162.48185999999998,
+					"width": 188.99122800000012,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						629.51814
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "EPA STAR Grant #R827405",
+					"x": 291.42,
+					"y": 179.99681999999996,
+					"width": 126.15981599999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						612.00318
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 291.42,
+					"y": 210,
+					"width": 0,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						291.42,
+						582
+					],
+					"font": {
+						"size": 10.98,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Key Findings and Implications",
+					"x": 291.42,
+					"y": 210,
+					"width": 158.9541660000004,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						291.42,
+						582
+					],
+					"font": {
+						"size": 10.98,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 291.42,
+					"y": 228.29999999999995,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						563.7
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 291.42,
+					"y": 228.29999999999995,
+					"width": 4.59918,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						563.7
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 296.01918,
+					"y": 228.29999999999995,
+					"width": 1.3370000000000024,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						296.01918,
+						563.7
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "An embryonic testis organ culture system was",
+					"x": 309.41592,
+					"y": 228.29999999999995,
+					"width": 203.49617999999992,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						563.7
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "developed to assess the effects of endocrine disruptors",
+					"x": 309.41592,
+					"y": 239.82299999999998,
+					"width": 244.59821999999997,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						552.177
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "on organ morphogenesis and tissue function. Methods",
+					"x": 309.41592,
+					"y": 251.28588000000002,
+					"width": 243.41586000000027,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						540.71412
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "also were developed to assess transforming growth",
+					"x": 309.41592,
+					"y": 262.80888000000004,
+					"width": 227.93295600000062,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						529.19112
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "factor (TGF) and neurotropin (NT) gene expression and",
+					"x": 309.41592,
+					"y": 274.33188000000007,
+					"width": 245.5972140000011,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						517.6681199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "gene product levels.",
+					"x": 309.41592,
+					"y": 285.79476000000005,
+					"width": 89.480604,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						506.20523999999995
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 291.42,
+					"y": 297.9590400000001,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						494.0409599999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 291.42,
+					"y": 297.9590400000001,
+					"width": 4.59918,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						494.0409599999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 296.01918,
+					"y": 297.9590400000001,
+					"width": 1.3370000000000024,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						296.01918,
+						494.0409599999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "Endocrine disruptors (e.g., methoxychlor [MXC] and",
+					"x": 309.41592,
+					"y": 297.9590400000001,
+					"width": 229.4920680000003,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						494.0409599999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "vinclozolin) were found to alter early embryonic testis",
+					"x": 309.41592,
+					"y": 309.4820400000001,
+					"width": 234.60427200000038,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						482.5179599999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "development when maternal exposures occurred at the",
+					"x": 309.41592,
+					"y": 321.0050400000001,
+					"width": 243.85273199999943,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						470.9949599999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "time of fetal sex determination and testis morpho-",
+					"x": 309.41592,
+					"y": 332.4679200000001,
+					"width": 218.90894399999897,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						459.5320799999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "genesis.",
+					"x": 309.41592,
+					"y": 343.99092000000013,
+					"width": 37.24834800000002,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						448.00907999999987
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 291.42,
+					"y": 356.0950800000001,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						435.9049199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "•",
+					"x": 291.42,
+					"y": 356.0950800000001,
+					"width": 4.59918,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						435.9049199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 296.01918,
+					"y": 356.0950800000001,
+					"width": 1.3370000000000024,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						296.01918,
+						435.9049199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKBDC+SymbolMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 1.00537109375,
+						"descent": -0.2197265625
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "In vivo",
+					"x": 309.41592,
+					"y": 356.0950800000001,
+					"width": 28.978842000000054,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						435.9049199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 338.39476200000007,
+					"y": 356.0950800000001,
+					"width": 0.2754999999999954,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						338.39476200000007,
+						435.9049199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "exposure of gestating rats to MXC",
+					"x": 341.155272,
+					"y": 356.0950800000001,
+					"width": 151.13767200000004,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						341.155272,
+						435.9049199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "demonstrated a heritable reduction in sperm function",
+					"x": 309.41592,
+					"y": 367.61808000000013,
+					"width": 233.46199200000007,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						424.38191999999987
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and increased spermatogenic cell apoptosis affecting",
+					"x": 309.41592,
+					"y": 379.14108000000016,
+					"width": 235.1453520000004,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						412.85891999999984
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "males in generations F1 through F4. Studies show that",
+					"x": 309.41592,
+					"y": 390.6640800000002,
+					"width": 242.3056440000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						401.3359199999998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "this heritable effect may be associated with alteration of",
+					"x": 309.41592,
+					"y": 402.12696000000017,
+					"width": 245.5511219999987,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						389.87303999999983
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "the DNA methylation patterns in male germ cell",
+					"x": 309.41592,
+					"y": 413.6499600000002,
+					"width": 208.88493599999904,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						378.3500399999998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "precursors.",
+					"x": 309.41592,
+					"y": 425.1729600000002,
+					"width": 50.079960000000064,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						309.41592,
+						366.8270399999998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Publications include ten peer reviewed articles.",
+					"x": 291.42,
+					"y": 448.13880000000023,
+					"width": 207.8669040000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						291.42,
+						343.86119999999977
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 291.42,
+					"y": 472.38,
+					"width": 0,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						291.42,
+						319.62
+					],
+					"font": {
+						"size": 10.98,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Project Period: August 1999 to July 2002",
+					"x": 291.42,
+					"y": 472.38,
+					"width": 212.6771099999995,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						291.42,
+						319.62
+					],
+					"font": {
+						"size": 10.98,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 550.7981,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						241.2019
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Preliminary research indicates that two families of paracrine growth factors directly influence testis",
+					"x": 72,
+					"y": 550.7981,
+					"width": 432.898068,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						241.2019
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "development and function. Members of the transforming growth factor family (for example, TGF-",
+					"x": 72,
+					"y": 562.3211,
+					"width": 427.4542019999987,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						229.6789
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "\"",
+					"x": 499.5533999999999,
+					"y": 562.3211,
+					"width": 6.012,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						499.5533999999999,
+						229.6789
+					],
+					"font": {
+						"size": 10.02,
+						"name": "MBKAIP+WP-GreekCourier",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.807,
+						"descent": -0.2
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": ")",
+					"x": 505.4952599999999,
+					"y": 562.3211,
+					"width": 3.33666,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						505.4952599999999,
+						229.6789
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "appear to be critical for embryonic testis growth, and at least one neurotropin (neurotropin 3 or NT3)",
+					"x": 71.99999999999994,
+					"y": 573.7839799999999,
+					"width": 441.3609600000005,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99999999999994,
+						218.21602000000001
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "appears to have a critical role in the morphogenesis of testis development. Abnormal testis development",
+					"x": 71.99999999999994,
+					"y": 585.30698,
+					"width": 463.4530559999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99999999999994,
+						206.69302000000002
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and male infertility caused by endocrine disruptors may, in part, be mediated through pathways involving",
+					"x": 71.99999999999994,
+					"y": 596.82998,
+					"width": 461.41498799999925,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99999999999994,
+						195.17002000000002
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "these factors.",
+					"x": 71.99999999999994,
+					"y": 608.29286,
+					"width": 60.075911999999995,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99999999999994,
+						183.70714000000004
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 631.3178,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						160.6822
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Thus, the hypothess initially tested under this grant was that endocrine distruptors affect locally produced",
+					"x": 72,
+					"y": 631.3178,
+					"width": 463.6544579999999,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						160.6822
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "paracrine growth factors that are essential for testicular cell growth and differentiation during embryonic",
+					"x": 72,
+					"y": 642.7806800000001,
+					"width": 455.80378800000057,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						149.21931999999998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "and postnatal development. The adverse developmental effects can later manifest themselves as",
+					"x": 72,
+					"y": 654.30368,
+					"width": 432.5593919999997,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						137.69632
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "reduced male fertility and sperm production. Experiments investigated the effects of endocrine disruptors",
+					"x": 72,
+					"y": 665.76656,
+					"width": 465.3538499999999,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						126.23343999999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "on TGFs and neurotropins during testis development effects on male fertility. Environmental agents with",
+					"x": 72,
+					"y": 677.28956,
+					"width": 464.1203879999995,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						114.71043999999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "estrogenic activity (i.e., methoxychlor [MXC], a general use organochlorine pesticide) and antiandrogenic",
+					"x": 71.99999999999997,
+					"y": 688.81256,
+					"width": 463.0342199999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99999999999997,
+						103.18744
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "activity (i.e., vinclozoline, a selective contact fungicide) were assessed using a rat embryonic testis organ",
+					"x": 71.99999999999997,
+					"y": 700.27544,
+					"width": 463.48812600000025,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99999999999997,
+						91.72456
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "culture system and a rat",
+					"x": 71.99999999999997,
+					"y": 711.79844,
+					"width": 106.76710800000005,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99999999999997,
+						80.20156
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 178.76710800000006,
+					"y": 711.79844,
+					"width": 0.27859999999998886,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						178.76710800000006,
+						80.20156
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "in vivo",
+					"x": 181.55867999999995,
+					"y": 711.79844,
+					"width": 28.362611999999984,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						181.55867999999995,
+						80.20156
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 209.9212919999999,
+					"y": 711.79844,
+					"width": 0.2768000000000007,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						209.9212919999999,
+						80.20156
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "model.",
+					"x": 212.69482799999992,
+					"y": 711.79844,
+					"width": 29.9598,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						212.69482799999992,
+						80.20156
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 321.241488,
+					"y": 753.72,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						321.241488,
+						38.28
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "1",
+					"x": 321.241488,
+					"y": 753.72,
+					"width": 5.5711200000000005,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						321.241488,
+						38.28
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Project Results and Implications",
+					"x": 72,
+					"y": 78.96000000000004,
+					"width": 185.36639999999983,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						713.04
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 103.5,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						688.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Treatment of gestating mothers had no major effect on fetal sex determination or gross testis histology at",
+					"x": 72,
+					"y": 103.5,
+					"width": 462.94303799999824,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						688.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "any time during development. However, animals exposed",
+					"x": 72,
+					"y": 114.96288000000004,
+					"width": 256.7364479999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						677.03712
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 328.7364479999998,
+					"y": 114.96288000000004,
+					"width": 0.28179161676648473,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						328.7364479999998,
+						677.03712
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "in utero",
+					"x": 331.56,
+					"y": 114.96000000000004,
+					"width": 33.386639999999815,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						331.56,
+						677.04
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 364.94663999999983,
+					"y": 114.96000000000004,
+					"width": 0.2789293413173821,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						364.94663999999983,
+						677.04
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "between embryonic day 8 (E8) and",
+					"x": 367.741512,
+					"y": 114.96000000000004,
+					"width": 155.08956000000038,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						367.741512,
+						677.04
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "E15 experienced pubertal and adult spermatogenic defects in the F1 generation. Treated animals also",
+					"x": 72.00522000000001,
+					"y": 126.48300000000006,
+					"width": 451.2086159999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00522000000001,
+						665.5169999999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "had an increase in spermatogenic cell apoptosis (programmed cell death). Similar results were observed",
+					"x": 72.00522000000001,
+					"y": 138.00600000000009,
+					"width": 464.62038600000056,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00522000000001,
+						653.9939999999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "at postnatal day 20 (P20) or P60 for MCX and vinclozoline. In addition to this decreased spermatogenic",
+					"x": 72.00522000000001,
+					"y": 149.46888000000013,
+					"width": 459.0963599999987,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00522000000001,
+						642.5311199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "cell survival, sperm motility was impaired and morphology was abnormal. Interestingly, animals exposed",
+					"x": 72.00521999999998,
+					"y": 160.99188000000015,
+					"width": 463.03522200000054,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00521999999998,
+						631.0081199999998
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 172.5,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						619.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "in utero",
+					"x": 72,
+					"y": 172.5,
+					"width": 33.38664000000001,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						619.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 105.38664,
+					"y": 172.5,
+					"width": 0.27294131736526905,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						105.38664,
+						619.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "to the same dose of endocrine disruptor later in development (E25-E20) had no spermatogenic",
+					"x": 108.121512,
+					"y": 172.5,
+					"width": 418.9382039999997,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						108.121512,
+						619.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "cell defects. This finding is consistent with the occurrence of critical processes such as germ cell DNA",
+					"x": 72.00342,
+					"y": 183.96288000000004,
+					"width": 449.0342759999997,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00342,
+						608.03712
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "remethylation, cord formation, and sex determination during the E10-E15 period, which are complete after",
+					"x": 72.00342,
+					"y": 195.48588000000007,
+					"width": 467.3808959999986,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00342,
+						596.5141199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "E15.",
+					"x": 72.00342,
+					"y": 207.0088800000001,
+					"width": 20.578074000000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00342,
+						584.9911199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.0004,
+					"y": 229.97969999999998,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.0004,
+						562.0203
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "These studies has provided insight into the mechanisms by which endocrine disruptors influence testis",
+					"x": 72.0004,
+					"y": 229.97969999999998,
+					"width": 452.30781000000025,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.0004,
+						562.0203
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "growth and function. One key observation was the transgenerational effects of a transient",
+					"x": 72.00040000000001,
+					"y": 241.5027,
+					"width": 397.51343999999966,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						550.4973
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 469.5138399999999,
+					"y": 241.5027,
+					"width": 0.27406786427146596,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						469.5138399999999,
+						550.4973
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "in utero",
+					"x": 472.26,
+					"y": 241.5,
+					"width": 33.386639999999815,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						472.26,
+						550.5
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.00440000000003,
+					"y": 252.96288000000004,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00440000000003,
+						539.03712
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "exposure to the endocrine disruptors MXC and vinclozolin on testis function and gametogenesis. In",
+					"x": 72.00440000000003,
+					"y": 252.96288000000004,
+					"width": 437.4531600000004,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00440000000003,
+						539.03712
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "particular, these studies demonstrated the ability of MXC and vinclozolin to promote a transgenerational",
+					"x": 72.00440000000003,
+					"y": 264.48588000000007,
+					"width": 458.0953620000002,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00440000000003,
+						527.5141199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "phenotype in spermatogenic cells",
+					"x": 72.00440000000003,
+					"y": 276.0088800000001,
+					"width": 148.46433599999997,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00440000000003,
+						515.9911199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72.0004,
+					"y": 298.9797,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.0004,
+						493.0203
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Additional experiments were conducted that demonstrated the effects of exposure of endocrine disruptors",
+					"x": 72.0004,
+					"y": 298.9797,
+					"width": 466.40294399999914,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.0004,
+						493.0203
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "on the F1 offspring could be passed to subsequent generations. When the male rats of the F2 generation",
+					"x": 72.00040000000001,
+					"y": 310.44257999999996,
+					"width": 466.8839039999991,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						481.55742000000004
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(derived from the animals discussed above) were examined, the same increased apoptosis rate in",
+					"x": 72.00040000000004,
+					"y": 321.96558,
+					"width": 432.91510199999885,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000004,
+						470.03442
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "spermatogenesc cells was identified as the F1 generation. Specifically, a three- to five-fold increase in",
+					"x": 72.00040000000004,
+					"y": 333.48858,
+					"width": 452.94608399999976,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000004,
+						458.51142
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "apoptosis was observed in F2 rats at maturity. Also, an approximately 20 percent decrease in sperm",
+					"x": 72.00040000000001,
+					"y": 344.95146,
+					"width": 445.59140399999967,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						447.04854
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "motility and forward movement also was observed. These experiments show that EDC exposures to a",
+					"x": 72.00040000000001,
+					"y": 356.47446,
+					"width": 453.0001919999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						435.52554
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "gestating dam at the critical period of fetal sex determination and testis morphogenesis (i.e., cord",
+					"x": 72.00040000000001,
+					"y": 367.99746000000005,
+					"width": 428.0103119999999,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						424.00253999999995
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "formation) appears to cause a germline effect, i.e., a decrease in spermatogenic capacity and sperm",
+					"x": 72.00040000000001,
+					"y": 379.46034000000003,
+					"width": 443.50724399999984,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						412.53965999999997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "viability that seems to be heritable in the male. This experiment was repeated with four different gestating",
+					"x": 72.00040000000001,
+					"y": 390.98334000000006,
+					"width": 467.46506399999845,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						401.01665999999994
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "mothers, and similar results were observed through the F4 generation. An outcross of an affected treated",
+					"x": 72.00040000000001,
+					"y": 402.5063400000001,
+					"width": 466.91195999999917,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						389.4936599999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "male with a wild type untreated female slightly reduced the magnitude of the effect, but the basic feature",
+					"x": 72.00040000000004,
+					"y": 413.96922000000006,
+					"width": 459.7737119999997,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000004,
+						378.03077999999994
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "of the phenotype (i.e., increased spermatogenic apoptosis) remained.",
+					"x": 72.00040000000001,
+					"y": 425.4922200000001,
+					"width": 307.37051400000036,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72.00040000000001,
+						366.5077799999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 71.9994,
+					"y": 448.4391,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.9994,
+						343.5609
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Researchers postulated that the transgenerational effect of maternal EDC exposures male",
+					"x": 71.9994,
+					"y": 448.4391,
+					"width": 399.13467600000007,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.9994,
+						343.5609
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "spermatogenesis arises through disruption of DNA methylation in the male germline. This hypothesis",
+					"x": 71.99939999999998,
+					"y": 459.9621,
+					"width": 448.07636399999853,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99939999999998,
+						332.0379
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "was investigated by exposing gestating dams to 100 mg/kg MXC from E8-E15, and collecting testes for",
+					"x": 71.99939999999998,
+					"y": 471.48510000000005,
+					"width": 455.8097999999992,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99939999999998,
+						320.51489999999995
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "analysis on P6. DNA was isolated and methylation state determined with methylation-sensitive restriction",
+					"x": 71.99939999999995,
+					"y": 482.94798000000003,
+					"width": 465.83380799999946,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99939999999995,
+						309.05201999999997
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "enzymes and polymerase chain reaction (PCR) methods. A number of PCR products with altered",
+					"x": 71.99939999999992,
+					"y": 494.47098000000005,
+					"width": 432.4070880000011,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99939999999992,
+						297.52901999999995
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "methylation patterns were detected in MXC-treated cells. This observation further supports the proposal",
+					"x": 71.99939999999992,
+					"y": 505.9939800000001,
+					"width": 460.8238079999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99939999999992,
+						286.0060199999999
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "that the epigenetic effects of MXC on spermatogenesis are mediated by changes in DNA methylation.",
+					"x": 71.99939999999992,
+					"y": 517.45686,
+					"width": 449.0122319999989,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						71.99939999999992,
+						274.54313999999994
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 175.26,
+					"y": 549.6599,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						175.26,
+						242.3401
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Relevance to ORD’s Multi-Year Research Plan",
+					"x": 175.26,
+					"y": 549.6599,
+					"width": 261.38760000000036,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						175.26,
+						242.3401
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 79.2,
+					"y": 561.5399,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.2,
+						230.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "This project contributes to all three of ORD’s Multi-Year Plan long-term goals (LTGs 1-3), in particular",
+					"x": 79.2,
+					"y": 561.5399,
+					"width": 447.3809760000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.2,
+						230.4601
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "(1) providing a better understanding of the science underlying the effects and assessment of",
+					"x": 79.2,
+					"y": 573.0629,
+					"width": 407.5594919999997,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.2,
+						218.93710000000002
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "endocrine disruptors, (2) determining the extent of the impact of endocrine disruptors on humans and",
+					"x": 79.19999999999999,
+					"y": 584.5257799999999,
+					"width": 446.3449079999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.19999999999999,
+						207.47422
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "wildlife, and (3) supporting EPA’s screening and testing program. More specifically, the results",
+					"x": 79.19999999999999,
+					"y": 596.04878,
+					"width": 418.4973240000007,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.19999999999999,
+						195.95122
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "address the effects of early developmental exposure to endocrine disrupting pesticides on",
+					"x": 79.20000000000005,
+					"y": 607.57178,
+					"width": 396.8881920000003,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.20000000000005,
+						184.42822
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "reproductive function in adults, toxicant-induced alterations in mammalian reproductive development,",
+					"x": 79.20000000000005,
+					"y": 619.03466,
+					"width": 445.7637479999999,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.20000000000005,
+						172.96534000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "dose response relationships, critical periods of exposure,",
+					"x": 79.20000000000005,
+					"y": 630.5576599999999,
+					"width": 251.70941400000035,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.20000000000005,
+						161.44234000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 330.9094140000003,
+					"y": 630.5576599999999,
+					"width": 0.28629999999996975,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						330.9094140000003,
+						161.44234000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "in vivo",
+					"x": 333.77814,
+					"y": 630.5576599999999,
+					"width": 28.38265199999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						333.77814,
+						161.44234000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 362.160792,
+					"y": 630.5576599999999,
+					"width": 0.27499999999999836,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						362.160792,
+						161.44234000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "tissue levels of the active toxicant,",
+					"x": 364.916292,
+					"y": 630.5576599999999,
+					"width": 151.1186339999994,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						364.916292,
+						161.44234000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 516.0349259999994,
+					"y": 630.5576599999999,
+					"width": 0.2837000000000669,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						516.0349259999994,
+						161.44234000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "in",
+					"x": 518.8776,
+					"y": 630.5576599999999,
+					"width": 7.7965619999999705,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						518.8776,
+						161.44234000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "vivo",
+					"x": 79.20000000000005,
+					"y": 642.08066,
+					"width": 17.81155199999999,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.20000000000005,
+						149.91934000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 97.01155200000005,
+					"y": 642.08066,
+					"width": 0.2767999999999993,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						97.01155200000005,
+						149.91934000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "and",
+					"x": 99.78508800000004,
+					"y": 642.08066,
+					"width": 16.715364,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						99.78508800000004,
+						149.91934000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 116.50045200000005,
+					"y": 642.08066,
+					"width": 0.27739999999999915,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						116.50045200000005,
+						149.91934000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "in vitro",
+					"x": 119.28000000000004,
+					"y": 642.08066,
+					"width": 29.44878,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						119.28000000000004,
+						149.91934000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 148.72878000000003,
+					"y": 642.08066,
+					"width": 0.2766000000000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						148.72878000000003,
+						149.91934000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "mechanisms of action, androgenic and anti-androgenic activity, the effects of",
+					"x": 151.50031200000004,
+					"y": 642.08066,
+					"width": 339.13090800000003,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						151.50031200000004,
+						149.91934000000003
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "endocrine disruptors on growth factors and receptors that control spermatogenesis and growth and",
+					"x": 79.20000000000003,
+					"y": 653.5435399999999,
+					"width": 436.8559680000005,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.20000000000003,
+						138.45646000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "development of the testis, and",
+					"x": 79.20000000000002,
+					"y": 665.0665399999999,
+					"width": 133.44535800000014,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						79.20000000000002,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 212.64535800000016,
+					"y": 665.0665399999999,
+					"width": 0.28109999999998536,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						212.64535800000016,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "in vitro",
+					"x": 215.46198,
+					"y": 665.0665399999999,
+					"width": 29.464812000000016,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						215.46198,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 244.926792,
+					"y": 665.0665399999999,
+					"width": 0.27460000000000134,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						244.926792,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "and",
+					"x": 247.67828400000002,
+					"y": 665.0665399999999,
+					"width": 16.667268000000014,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						247.67828400000002,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 264.34555200000005,
+					"y": 665.0665399999999,
+					"width": 0.27739999999999204,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						264.34555200000005,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "in vivo",
+					"x": 267.1251,
+					"y": 665.0665399999999,
+					"width": 28.37263199999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						267.1251,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 295.497732,
+					"y": 665.0665399999999,
+					"width": 0.5519999999999962,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						295.497732,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-ItalicMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "assessment methods.",
+					"x": 301.02877199999995,
+					"y": 665.0665399999999,
+					"width": 97.27416,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						301.02877199999995,
+						126.93346000000005
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 321.241488,
+					"y": 753.72,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						321.241488,
+						38.28
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "2",
+					"x": 321.241488,
+					"y": 753.72,
+					"width": 5.5711200000000005,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						321.241488,
+						38.28
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		},
+		{
+			"info": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Investigators",
+					"x": 72,
+					"y": 92.75999999999999,
+					"width": 74.71679999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						699.24
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 104.63999999999999,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						687.36
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Michael K. Skinner – Center for Reproductive Biology, Washington State University, Pullman, WA",
+					"x": 72,
+					"y": 104.63999999999999,
+					"width": 430.8028859999992,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						687.36
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 116.15999999999997,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						675.84
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Andrea S. Cupp - Center for Reproductive Biology, Washington State University, Pullman, WA",
+					"x": 72,
+					"y": 116.15999999999997,
+					"width": 416.3069520000003,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						675.84
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 127.61990000000003,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						664.3801
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Elena Levine - Center for Reproductive Biology, Washington State University, Pullman, WA",
+					"x": 72,
+					"y": 127.61990000000003,
+					"width": 402.96832800000027,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						664.3801
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 154.85990000000004,
+					"width": 0,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						637.1401
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "For More Information",
+					"x": 72,
+					"y": 154.85990000000004,
+					"width": 120.73439999999995,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						72,
+						637.1401
+					],
+					"font": {
+						"size": 12,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 166.79999999999995,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						625.2
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Center for Reproductive Biology",
+					"x": 72,
+					"y": 166.79999999999995,
+					"width": 153.98435400000008,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						625.2
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 178.26,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						613.74
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.crb.wsu.edu/3FacultyPages/Skinner.html",
+					"x": 72,
+					"y": 178.26,
+					"width": 230.7405599999999,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						613.74
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 189.77999999999997,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						602.22
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Skinner Laboratory",
+					"x": 72,
+					"y": 189.77999999999997,
+					"width": 91.78921199999998,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						602.22
+					],
+					"font": {
+						"size": 10.02,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 202.20000000000005,
+					"width": 0,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						72,
+						589.8
+					],
+					"font": {
+						"size": 10.98,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://www.skinner.wsu.edu/",
+					"x": 72,
+					"y": 202.20000000000005,
+					"width": 136.91840399999995,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						72,
+						589.8
+					],
+					"font": {
+						"size": 10.98,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 227.5199,
+					"width": 0,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						72,
+						564.4801
+					],
+					"font": {
+						"size": 10.98,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "NCER Project Abstract and Reports:",
+					"x": 72,
+					"y": 227.5199,
+					"width": 190.0879559999998,
+					"height": 10.98,
+					"transform": [
+						10.98,
+						0,
+						0,
+						10.98,
+						72,
+						564.4801
+					],
+					"font": {
+						"size": 10.98,
+						"name": "Arial-BoldMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 72,
+					"y": 239.15999999999997,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						552.84
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "http://cfpub2.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract/992/report/0",
+					"x": 72,
+					"y": 239.15999999999997,
+					"width": 448.65752399999957,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						72,
+						552.84
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 321.241488,
+					"y": 753.72,
+					"width": 0,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						321.241488,
+						38.28
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "3",
+					"x": 321.241488,
+					"y": 753.72,
+					"width": 5.5711200000000005,
+					"height": 10.02,
+					"transform": [
+						10.02,
+						0,
+						0,
+						10.02,
+						321.241488,
+						38.28
+					],
+					"font": {
+						"size": 10.02,
+						"name": "ArialMT",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.905,
+						"descent": -0.211
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			],
+			"annotations": [
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "10R",
+					"rect": [
+						72,
+						610.484,
+						302.735,
+						623.82
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": 3,
+					"url": "http://www.crb.wsu.edu/3FacultyPages/Skinner.html",
+					"unsafeUrl": "http://www.crb.wsu.edu/3FacultyPages/Skinner.html",
+					"overlaidText": "http://www.crb.wsu.edu/3FacultyPages/Skinner.html",
+					"x": 302.735,
+					"y": 623.82
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "15R",
+					"rect": [
+						72,
+						586.232,
+						208.925,
+						600.846
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": 4,
+					"url": "http://www.skinner.wsu.edu/",
+					"unsafeUrl": "http://www.skinner.wsu.edu/",
+					"overlaidText": "http://www.skinner.wsu.edu/",
+					"x": 208.925,
+					"y": 600.846
+				},
+				{
+					"annotationType": 2,
+					"annotationFlags": 0,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"borderColor": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "13R",
+					"rect": [
+						72,
+						549.583,
+						520.637,
+						562.92
+					],
+					"subtype": "Link",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": 5,
+					"url": "http://cfpub2.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract/992/report/0",
+					"unsafeUrl": "http://cfpub2.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract/992/report/0",
+					"overlaidText": "http://cfpub2.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract/992/report/0",
+					"x": 520.637,
+					"y": 562.92
+				},
+				{
+					"annotationType": 1,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						255,
+						0,
+						255
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "The tab order for this page may be inconsistent with the structure order. ",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "5R",
+					"modificationDate": "D:20060511142809-04'00'",
+					"rect": [
+						64,
+						721,
+						84,
+						739
+					],
+					"subtype": "Text",
+					"hasOwnCanvas": true,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"titleObj": {
+						"str": "BBass",
+						"dir": "ltr"
+					},
+					"creationDate": "D:20060511142810-04'00'",
+					"popupRef": "6R",
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [],
+									"value": "The tab order for this page may be inconsistent with the structure order. "
+								}
+							]
+						},
+						"str": "The tab order for this page may be inconsistent with the structure order. "
+					},
+					"name": "NoIcon",
+					"x": 84,
+					"y": 739
+				},
+				{
+					"annotationType": 16,
+					"annotationFlags": 28,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						255,
+						0,
+						255
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "The tab order for this page may be inconsistent with the structure order. ",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "6R",
+					"modificationDate": "D:20060511142809-04'00'",
+					"rect": [
+						64,
+						639,
+						264,
+						739
+					],
+					"subtype": "Popup",
+					"hasOwnCanvas": false,
+					"noRotate": true,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"parentRect": [
+						64,
+						721,
+						84,
+						739
+					],
+					"creationDate": "D:20060511142810-04'00'",
+					"titleObj": {
+						"str": "BBass",
+						"dir": "ltr"
+					},
+					"richText": {
+						"html": {
+							"name": "div",
+							"attributes": {
+								"style": {},
+								"class": [],
+								"dir": "auto"
+							},
+							"children": [
+								{
+									"name": "p",
+									"attributes": {
+										"style": {}
+									},
+									"children": [],
+									"value": "The tab order for this page may be inconsistent with the structure order. "
+								}
+							]
+						},
+						"str": "The tab order for this page may be inconsistent with the structure order. "
+					},
+					"open": true,
+					"x": 264,
+					"y": 739
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 3,
+		"fingerprints": [
+			"2764e6484311e255d44f262747aa3ef8",
+			"6de09bf58d50354ba590647d8f616d3b"
+		]
+	}
+}

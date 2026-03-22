@@ -1,0 +1,196 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.2",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Creator": "A ClibPDF program",
+			"CreationDate": "D:20010605221555",
+			"Producer": "[ClibPDF Library 2.01-r2-2] FreeBSD",
+			"Author": "User: Unprivileged user [nobody]",
+			"Title": "PDF clock CGI",
+			"Subject": "PDF clock CGI - generates PDF with analog and digital clock",
+			"Keywords": "ClibPDF"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [
+				{
+					"str": "Tue Jun 5 22:15:55 2001",
+					"x": 131.75,
+					"y": 82.79999999999995,
+					"width": 348.5,
+					"height": 34,
+					"transform": [
+						34,
+						0,
+						0,
+						34,
+						131.75,
+						709.2
+					],
+					"font": {
+						"size": 34,
+						"name": "Times-Roman",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "",
+					"x": 219.648,
+					"y": 504,
+					"width": 0,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						219.648,
+						288
+					],
+					"font": {
+						"size": 24,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "[California Time]",
+					"x": 219.648,
+					"y": 504,
+					"width": 172.704,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						219.648,
+						288
+					],
+					"font": {
+						"size": 24,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Dynamic PDF CGI Demo",
+					"x": 181.032,
+					"y": 536.4,
+					"width": 249.936,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						181.032,
+						255.6
+					],
+					"font": {
+						"size": 24,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "pad-cache2-1.cache.telstra.net",
+					"x": 157.704,
+					"y": 568.8,
+					"width": 296.59200000000004,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						157.704,
+						223.2
+					],
+					"font": {
+						"size": 24,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "165.228.129.12",
+					"x": 231,
+					"y": 601.2,
+					"width": 150,
+					"height": 24,
+					"transform": [
+						24,
+						0,
+						0,
+						24,
+						231,
+						190.8
+					],
+					"font": {
+						"size": 24,
+						"name": "Times-Italic",
+						"family": "serif",
+						"vertical": false,
+						"ascent": 0.683,
+						"descent": -0.217
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"c0b48668825e2b219b880d27c45909ec"
+		]
+	}
+}

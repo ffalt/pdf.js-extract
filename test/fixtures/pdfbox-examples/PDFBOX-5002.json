@@ -1,0 +1,164 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.27563,
+				"height": 841.8898,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.27563,
+					"maxY": 841.8898
+				}
+			},
+			"content": [
+				{
+					"str": "Title in a big font",
+					"x": 50,
+					"y": 20.000030000000038,
+					"width": 160.02,
+					"height": 20,
+					"transform": [
+						20,
+						0,
+						0,
+						20,
+						50,
+						821.88977
+					],
+					"font": {
+						"size": 20,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 210.02,
+					"y": 20.000030000000038,
+					"width": 239.98,
+					"height": 20,
+					"transform": [
+						20,
+						0,
+						0,
+						20,
+						210.02,
+						821.88977
+					],
+					"font": {
+						"size": 20,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "some text with",
+					"x": 450,
+					"y": 16.000030000000038,
+					"width": 69.45999999999995,
+					"height": 10,
+					"transform": [
+						10,
+						0,
+						0,
+						10,
+						450,
+						825.88977
+					],
+					"font": {
+						"size": 10,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "a smaller font",
+					"x": 450,
+					"y": 25.000030000000038,
+					"width": 65.01999999999995,
+					"height": 10,
+					"transform": [
+						10,
+						0,
+						0,
+						10,
+						450,
+						816.88977
+					],
+					"font": {
+						"size": 10,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "on multiple lines",
+					"x": 450,
+					"y": 34.00003000000004,
+					"width": 78.90999999999995,
+					"height": 10,
+					"transform": [
+						10,
+						0,
+						0,
+						10,
+						450,
+						807.88977
+					],
+					"font": {
+						"size": 10,
+						"name": "Helvetica-Bold",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"ede3e758a49132a45c94effe6eaa67f4"
+		]
+	}
+}

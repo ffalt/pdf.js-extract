@@ -1,0 +1,1 @@
+What follows is a PDF file embedded as a Form XObject using Apache FOP:

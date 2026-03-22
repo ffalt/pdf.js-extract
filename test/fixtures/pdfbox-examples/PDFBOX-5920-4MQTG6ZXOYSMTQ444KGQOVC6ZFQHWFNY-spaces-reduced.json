@@ -1,0 +1,65 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.276,
+				"height": 841.89,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.276,
+					"maxY": 841.89
+				}
+			},
+			"content": [
+				{
+					"str": "Ce guide va vous permettre de découvrir",
+					"x": 10,
+					"y": 141.89,
+					"width": 560.9880000000003,
+					"height": 36,
+					"transform": [
+						36,
+						0,
+						0,
+						36,
+						10,
+						700
+					],
+					"font": {
+						"size": 36,
+						"name": "OXWYKR+FreightSans-Book",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.687,
+						"descent": -0.015
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"050648a97d325fd17ed756c73943c963",
+			"96a07bcf47304c0890b336bcc50f3034"
+		]
+	}
+}

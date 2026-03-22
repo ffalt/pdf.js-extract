@@ -1,0 +1,457 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.6",
+			"IsLinearized": true,
+			"IsAcroFormPresent": true,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20210811222501+02'00'",
+			"Creator": "Adobe Acrobat Pro 11.0.23",
+			"ModDate": "D:20210811223848+02'00'",
+			"Producer": "Adobe Acrobat Pro 11.0.23"
+		},
+		"metadata": {
+			"xmp:modifydate": "2021-08-11T22:38:48+02:00",
+			"xmp:createdate": "2021-08-11T22:25:01+02:00",
+			"xmp:metadatadate": "2021-08-11T22:38:48+02:00",
+			"xmp:creatortool": "Adobe Acrobat Pro 11.0.23",
+			"dc:format": "application/pdf",
+			"xmpmm:documentid": "uuid:9d0342f8-a4d6-476e-93bb-1acfd7723b1e",
+			"xmpmm:instanceid": "uuid:5cf91834-784f-46a9-a8d9-0b4b643cf5a5",
+			"pdf:producer": "Adobe Acrobat Pro 11.0.23",
+			"adhocwf:state": "1",
+			"adhocwf:version": "1.1"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 612,
+					"maxY": 792
+				}
+			},
+			"content": [],
+			"annotations": [
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "23R",
+					"rect": [
+						70.8661,
+						745.512,
+						212.598,
+						765.354
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "CombLeft",
+					"fieldValue": "abcdefgh",
+					"defaultFieldValue": "abcdefgh",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 29360128,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 10,
+					"multiLine": false,
+					"comb": true,
+					"doNotScroll": true,
+					"textPosition": [
+						4.376681071999999,
+						5.905700727272756
+					],
+					"textContent": [
+						"a b c d e f g h"
+					],
+					"x": 212.598,
+					"y": 765.354
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "26R",
+					"rect": [
+						255.118,
+						745.512,
+						396.85,
+						765.354
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "PDFBoxCombLeft",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 29360128,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"maxLen": 10,
+					"multiLine": false,
+					"comb": true,
+					"doNotScroll": true,
+					"x": 396.85,
+					"y": 765.354
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "27R",
+					"rect": [
+						70.8661,
+						717.165,
+						212.598,
+						737.008
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "CombMiddle",
+					"fieldValue": "abcdefgh",
+					"defaultFieldValue": "abcdefgh",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 29360128,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 10,
+					"multiLine": false,
+					"comb": true,
+					"doNotScroll": true,
+					"textPosition": [
+						18.549871072000002,
+						5.905998363636386
+					],
+					"textContent": [
+						"a b c d e f g h"
+					],
+					"x": 212.598,
+					"y": 737.008
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "28R",
+					"rect": [
+						255.118,
+						717.165,
+						396.85,
+						737.008
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "PDFBoxCombMiddle",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 29360128,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 1,
+					"maxLen": 10,
+					"multiLine": false,
+					"comb": true,
+					"doNotScroll": true,
+					"x": 396.85,
+					"y": 737.008
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": true,
+					"id": "29R",
+					"rect": [
+						70.8661,
+						688.819,
+						212.598,
+						708.661
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "CombRight",
+					"fieldValue": "abcdefgh",
+					"defaultFieldValue": "abcdefgh",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 29360128,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 10,
+					"multiLine": false,
+					"comb": true,
+					"doNotScroll": true,
+					"textPosition": [
+						32.723061072,
+						5.905700727272722
+					],
+					"textContent": [
+						"a b c d e f g h"
+					],
+					"x": 212.598,
+					"y": 708.661
+				},
+				{
+					"annotationType": 20,
+					"annotationFlags": 4,
+					"borderStyle": {
+						"width": 0,
+						"rawWidth": 1,
+						"style": 1,
+						"dashArray": [
+							3
+						],
+						"horizontalCornerRadius": 0,
+						"verticalCornerRadius": 0
+					},
+					"color": [
+						0,
+						0,
+						0
+					],
+					"rotation": 0,
+					"contentsObj": {
+						"str": "",
+						"dir": "ltr"
+					},
+					"hasAppearance": false,
+					"id": "30R",
+					"rect": [
+						255.118,
+						688.819,
+						396.85,
+						708.661
+					],
+					"subtype": "Widget",
+					"hasOwnCanvas": false,
+					"noRotate": false,
+					"noHTML": false,
+					"isEditable": false,
+					"structParent": -1,
+					"fieldName": "PDFBoxCombRight",
+					"fieldValue": "",
+					"alternativeText": "",
+					"defaultAppearanceData": {
+						"fontSize": 12,
+						"fontName": "Helv",
+						"fontColor": [
+							0,
+							0,
+							0
+						]
+					},
+					"fieldType": "Tx",
+					"fieldFlags": 29360128,
+					"password": false,
+					"readOnly": false,
+					"required": false,
+					"hidden": false,
+					"textAlignment": 2,
+					"maxLen": 10,
+					"multiLine": false,
+					"comb": true,
+					"doNotScroll": true,
+					"x": 396.85,
+					"y": 708.661
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"5953b679452ed24c9d78a4ddcb4bef9e",
+			"4ecfc78391d7d84f98067d8b1eb2c098"
+		]
+	}
+}

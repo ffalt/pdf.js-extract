@@ -1,0 +1,4 @@
+Some text.
+Line 1
+Line 2 
+Not highlighted

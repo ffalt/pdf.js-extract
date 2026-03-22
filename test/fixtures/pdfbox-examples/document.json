@@ -1,0 +1,267 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.4",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"CreationDate": "D:20140213171322+01'00'",
+			"Producer": "iText® 5.5.0 ©2000-2013 iText Group NV (AGPL-version)",
+			"ModDate": "D:20140213171322+01'00'"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595,
+					"maxY": 842
+				}
+			},
+			"content": [
+				{
+					"str": "Cell with colspan 3",
+					"x": 90.3,
+					"y": 50,
+					"width": 100.03200000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.3,
+						792
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Cell with rowspan 2",
+					"x": 90.3,
+					"y": 66,
+					"width": 104.028,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						90.3,
+						776
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 194.328,
+					"y": 66,
+					"width": 35.44200000000001,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						194.328,
+						776
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "row 1; cell 1",
+					"x": 229.77,
+					"y": 66,
+					"width": 64.02000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						229.77,
+						776
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 293.7900000000001,
+					"y": 66,
+					"width": 75.43999999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						293.7900000000001,
+						776
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "row 1; cell 2",
+					"x": 369.23,
+					"y": 66,
+					"width": 64.02000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						369.23,
+						776
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "row 2; cell 1",
+					"x": 229.77,
+					"y": 82,
+					"width": 64.02000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						229.77,
+						760
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": " ",
+					"x": 293.7900000000001,
+					"y": 82,
+					"width": 75.43999999999994,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						293.7900000000001,
+						760
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "row 2; cell 2",
+					"x": 369.23,
+					"y": 82,
+					"width": 64.02000000000004,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						369.23,
+						760
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"ab63354cbe7da5db8f9b16c652d4b701"
+		]
+	}
+}

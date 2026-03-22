@@ -1,0 +1,132 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.7",
+			"Language": "en-GB",
+			"EncryptFilterName": "Standard",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Author": "Ilan Copelyn\u0000",
+			"Creator": "Microsoft® Word 2016\u0000",
+			"CreationDate": "D:20180201124627+02'00'",
+			"ModDate": "D:20180201124627+02'00'",
+			"Producer": "Microsoft® Word 2016\u0000"
+		},
+		"metadata": {
+			"pdf:producer": "Microsoft® Word 2016",
+			"dc:creator": [
+				"Ilan Copelyn"
+			],
+			"xmp:creatortool": "Microsoft® Word 2016",
+			"xmp:createdate": "2018-02-01T12:46:27+02:00",
+			"xmp:modifydate": "2018-02-01T12:46:27+02:00",
+			"xmpmm:documentid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483",
+			"xmpmm:instanceid": "uuid:E0BD222E-967D-40D0-8524-C26EEECD3483"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.32,
+				"height": 841.92,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.32,
+					"maxY": 841.92
+				}
+			},
+			"content": [
+				{
+					"str": "Hello I",
+					"x": 72.024,
+					"y": 82.43999999999994,
+					"width": 28.549440000000004,
+					"height": 11.04,
+					"transform": [
+						11.04,
+						0,
+						0,
+						11.04,
+						72.024,
+						759.48
+					],
+					"font": {
+						"size": 11.04,
+						"name": "BCDEEE+Calibri",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.75,
+						"descent": -0.25
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "’",
+					"x": 100.58,
+					"y": 82.43999999999994,
+					"width": 2.76,
+					"height": 11.04,
+					"transform": [
+						11.04,
+						0,
+						0,
+						11.04,
+						100.58,
+						759.48
+					],
+					"font": {
+						"size": 11.04,
+						"name": "BCDFEE+Calibri",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.75,
+						"descent": -0.25
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				},
+				{
+					"str": "m an encrypted pdf",
+					"x": 103.22,
+					"y": 82.43999999999994,
+					"width": 87.71807999999999,
+					"height": 11.04,
+					"transform": [
+						11.04,
+						0,
+						0,
+						11.04,
+						103.22,
+						759.48
+					],
+					"font": {
+						"size": 11.04,
+						"name": "BCDEEE+Calibri",
+						"family": "sans-serif",
+						"vertical": false,
+						"ascent": 0.75,
+						"descent": -0.25
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"2e22bde07d96d0408524c26eeecd3483"
+		]
+	}
+}
