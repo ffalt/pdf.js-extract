@@ -71,6 +71,116 @@ export interface PDFExtractOptions {
 }
 ```
 
+### Extract Specific Pages
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+
+// Extract only pages 2 through 5
+const data = await pdfExtract.extract('report.pdf', { firstPage: 2, lastPage: 5 });
+console.log(`Extracted ${data.pages.length} pages`);
+```
+
+### Password-Protected PDFs
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+
+const data = await pdfExtract.extract('secure.pdf', { password: 'my-secret' });
+console.log(data.pages[0].content.map(item => item.str).join(' '));
+```
+
+### Extract Text as Lines and Rows (Table Data)
+
+The built-in utility functions help convert raw text items into structured lines and table rows.
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('table.pdf');
+
+const page = data.pages[0];
+
+// Group text items into lines (items within 5 units of y are merged)
+const lines = PDFExtract.utils.pageToLines(page, 5);
+
+// Get plain text rows
+const rows = PDFExtract.utils.extractTextRows(lines);
+console.log(rows); // [['Name', 'Age', 'City'], ['Alice', '30', 'Berlin'], ...]
+
+// Or map to columns by x-positions with a tolerance of 10 units
+const columns = [50, 200, 350]; // x-positions of each column
+const tableRows = PDFExtract.utils.extractColumnRows(lines, columns, 10);
+console.log(tableRows);
+```
+
+### Extract All Pages as Text Rows
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('multi-page.pdf');
+
+// Get text rows for every page at once (merge items within 5 y-units)
+const allRows = PDFExtract.utils.extractAllPagesTextRows(data.pages, 5);
+allRows.forEach((pageRows, i) => {
+  console.log(`--- Page ${i + 1} ---`);
+  pageRows.forEach(row => console.log(row.join(' | ')));
+});
+```
+
+### Extract Links
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf');
+
+data.pages.forEach((page) => {
+  if (!page.annotations) return;
+
+  const links = page.annotations.filter(a => a.subtype === 'Link' && a.url);
+  links.forEach(link => {
+    console.log(`Page ${page.info.num}: ${link.overlaidText || 'link'} -> ${link.url}`);
+  });
+});
+```
+
+### Extract Attachments
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+import fs from 'node:fs';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf', { includeAttachments: true });
+
+if (data.attachments) {
+  data.attachments.forEach(att => {
+    if (att.base64data) {
+      const buffer = Buffer.from(att.base64data, 'base64');
+      fs.writeFileSync(att.filename || 'attachment.bin', buffer);
+      console.log(`Saved ${att.filename} (${buffer.length} bytes)`);
+    }
+  });
+}
+```
+
+### Collect All Text from a PDF
+
+```javascript
+import { PDFExtract } from 'pdf.js-extract';
+const pdfExtract = new PDFExtract();
+const data = await pdfExtract.extract('document.pdf', { normalizeWhitespace: true });
+
+const fullText = data.pages
+  .map(page => page.content.map(item => item.str).join(' '))
+  .join('\n\n');
+
+console.log(fullText);
+```
+
 ### Basic Image Extraction
 
 ```javascript
