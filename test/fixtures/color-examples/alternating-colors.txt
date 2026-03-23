@@ -1,0 +1,5 @@
+Line 0 with color #ff0000
+Line 1 with color #00ff00
+Line 2 with color #0000ff
+Line 3 with color #ff00ff
+Line 4 with color #00ffff

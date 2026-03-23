@@ -46,6 +46,7 @@
 						"size": 36.000000000000036,
 						"name": "BCDFEE+Calibri",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25
@@ -71,6 +72,7 @@
 						"size": 36,
 						"name": "BCDFEE+Calibri",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25
@@ -96,6 +98,7 @@
 						"size": 36,
 						"name": "BCDFEE+Calibri",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25

@@ -35,6 +35,7 @@ declare module "pdf.js-extract" {
     disableCombineTextItems?: boolean; // do not attempt to combine  same line {@link TextItem}'s. The default value is `false`.
     includeAttachments?: boolean; // include attachments as base64. The default value is `false`.
     includeImages?: boolean; // include images as base64. The default value is `false`.
+    includeColors?: boolean; // include font color in text content items. The default value is `false`.
   }
 
   export interface PDFExtractResult {
@@ -133,6 +134,7 @@ declare module "pdf.js-extract" {
     name: string;
     family: string;
     size: number;
+    color?: string;
     vertical?: boolean;
     ascent?: number;
     descent?: number;
@@ -333,7 +335,7 @@ declare module "pdf.js-extract" {
   export interface PDFExtractAnnotDefaultAppearanceData {
     fontSize: number;
     fontName: string;
-    fontColor?: Uint8ClampedArray;
+    fontColor?: string;
   }
 
   export const enum PDFExtractAnnotFieldFlag {
@@ -384,10 +386,10 @@ declare module "pdf.js-extract" {
     x?: number;
     y?: number;
     annotationFlags: PDFExtractAnnotFlag;
-    color?: Uint8ClampedArray;
-    backgroundColor?: Uint8ClampedArray;
+    color?: string;
+    backgroundColor?: string;
     borderStyle: PDFExtractAnnotBorderStyle;
-    borderColor?: Uint8ClampedArray;
+    borderColor?: string;
     rotation: number;
     contentsObj: PDFExtractBidiText;
     richText?: PDFExtractAnnotRichText;

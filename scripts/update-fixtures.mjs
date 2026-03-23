@@ -33,7 +33,7 @@ const extract = new PDFExtract();
 const pdfFiles = findPdfs(pdfDirectory);
 
 for (const file of pdfFiles) {
-	const options = { includeImages: true, includeAttachments: true };
+	const options = { includeImages: true, includeAttachments: true, includeColors: true };
 	const password = passwords[file.replaceAll(path.sep, "/")];
 	if (password) {
 		options.password = password;

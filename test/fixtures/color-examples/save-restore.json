@@ -1,0 +1,120 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Producer": "PDFKit",
+			"Creator": "PDFKit",
+			"CreationDate": "D:20260323143126Z"
+		}
+	},
+	"pages": [
+		{
+			"info": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595.28,
+				"height": 841.89,
+				"view": {
+					"minX": 0,
+					"minY": 0,
+					"maxX": 595.28,
+					"maxY": 841.89
+				}
+			},
+			"content": [
+				{
+					"str": "Red before save",
+					"x": 50,
+					"y": 58.615999999999985,
+					"width": 87.14399999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						50,
+						783.274
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"color": "#ff0000",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Blue inside save",
+					"x": 50,
+					"y": 72.48799999999994,
+					"width": 86.83199999999998,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						50,
+						769.402
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"color": "#0000ff",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": true
+				},
+				{
+					"str": "Should be red again after restore",
+					"x": 50,
+					"y": 86.36000000000001,
+					"width": 175.42800000000003,
+					"height": 12,
+					"transform": [
+						12,
+						0,
+						0,
+						12,
+						50,
+						755.53
+					],
+					"font": {
+						"size": 12,
+						"name": "Helvetica",
+						"family": "sans-serif",
+						"color": "#ff0000",
+						"vertical": false,
+						"ascent": 0.718,
+						"descent": -0.207
+					},
+					"dir": "ltr",
+					"hasEOL": false
+				}
+			]
+		}
+	],
+	"info": {
+		"numPages": 1,
+		"fingerprints": [
+			"3fdf0123090eb76e40c58179407b28fb"
+		]
+	}
+}

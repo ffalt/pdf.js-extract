@@ -45,6 +45,7 @@
 						"size": 25,
 						"name": "Courier New",
 						"family": "monospace",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.613,
 						"descent": -0.188

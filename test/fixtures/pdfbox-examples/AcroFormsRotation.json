@@ -57,16 +57,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -92,11 +84,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -124,16 +112,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 270,
 					"contentsObj": {
 						"str": "",
@@ -159,11 +139,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -191,16 +167,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 90,
 					"contentsObj": {
 						"str": "",
@@ -226,11 +194,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -258,16 +222,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -293,11 +249,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -325,16 +277,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 90,
 					"contentsObj": {
 						"str": "",
@@ -360,11 +304,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -392,16 +332,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 180,
 					"contentsObj": {
 						"str": "",
@@ -427,11 +359,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -459,16 +387,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 180,
 					"contentsObj": {
 						"str": "",
@@ -494,11 +414,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -526,16 +442,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 270,
 					"contentsObj": {
 						"str": "",
@@ -561,11 +469,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -593,16 +497,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -629,11 +525,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -668,16 +560,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 270,
 					"contentsObj": {
 						"str": "",
@@ -704,11 +588,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -743,16 +623,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 90,
 					"contentsObj": {
 						"str": "",
@@ -779,11 +651,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -818,16 +686,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -854,11 +714,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -893,16 +749,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 90,
 					"contentsObj": {
 						"str": "",
@@ -929,11 +777,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -975,16 +819,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 180,
 					"contentsObj": {
 						"str": "",
@@ -1011,11 +847,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1050,16 +882,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 180,
 					"contentsObj": {
 						"str": "",
@@ -1086,11 +910,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -1125,16 +945,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 270,
 					"contentsObj": {
 						"str": "",
@@ -1161,11 +973,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -1227,16 +1035,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 180,
 					"contentsObj": {
 						"str": "",
@@ -1263,11 +1063,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1302,16 +1098,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 270,
 					"contentsObj": {
 						"str": "",
@@ -1338,11 +1126,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1377,16 +1161,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 90,
 					"contentsObj": {
 						"str": "",
@@ -1413,11 +1189,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1452,16 +1224,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1488,11 +1252,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1527,16 +1287,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 180,
 					"contentsObj": {
 						"str": "",
@@ -1563,11 +1315,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -1602,16 +1350,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1638,11 +1378,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -1677,16 +1413,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 270,
 					"contentsObj": {
 						"str": "",
@@ -1713,11 +1441,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -1759,16 +1483,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 90,
 					"contentsObj": {
 						"str": "",
@@ -1795,11 +1511,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -1841,16 +1553,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 180,
 					"contentsObj": {
 						"str": "",
@@ -1876,11 +1580,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1908,16 +1608,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 270,
 					"contentsObj": {
 						"str": "",
@@ -1943,11 +1635,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1975,16 +1663,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 90,
 					"contentsObj": {
 						"str": "",
@@ -2010,11 +1690,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -2042,16 +1718,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -2077,11 +1745,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -2109,16 +1773,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 180,
 					"contentsObj": {
 						"str": "",
@@ -2144,11 +1800,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -2176,16 +1828,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -2211,11 +1855,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -2243,16 +1883,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 270,
 					"contentsObj": {
 						"str": "",
@@ -2278,11 +1910,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,
@@ -2310,16 +1938,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 90,
 					"contentsObj": {
 						"str": "",
@@ -2345,11 +1965,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 8,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,

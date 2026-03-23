@@ -63,6 +63,7 @@
 						"size": 11.04,
 						"name": "BCDEEE+Calibri",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25
@@ -88,6 +89,7 @@
 						"size": 11.04,
 						"name": "BCDFEE+Calibri",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25
@@ -113,6 +115,7 @@
 						"size": 11.04,
 						"name": "BCDEEE+Calibri",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25

@@ -76,6 +76,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -101,6 +102,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -126,6 +128,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -151,6 +154,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -176,6 +180,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -201,6 +206,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -226,6 +232,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -251,6 +258,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -276,6 +284,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -301,6 +310,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -326,6 +336,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -351,6 +362,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -376,6 +388,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -401,6 +414,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -426,6 +440,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -451,6 +466,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -476,6 +492,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -501,6 +518,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -526,6 +544,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -551,6 +570,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -576,6 +596,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -598,16 +619,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -656,16 +669,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -714,16 +719,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -772,16 +769,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -830,16 +819,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -912,6 +893,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -937,6 +919,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -962,6 +945,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -987,6 +971,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1012,6 +997,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1037,6 +1023,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1062,6 +1049,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1087,6 +1075,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1112,6 +1101,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1137,6 +1127,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1162,6 +1153,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1187,6 +1179,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1212,6 +1205,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1237,6 +1231,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1262,6 +1257,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1287,6 +1283,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1312,6 +1309,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1337,6 +1335,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1362,6 +1361,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1387,6 +1387,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1412,6 +1413,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1437,6 +1439,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1462,6 +1465,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1487,6 +1491,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1512,6 +1517,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1537,6 +1543,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1562,6 +1569,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1587,6 +1595,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1612,6 +1621,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1637,6 +1647,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1662,6 +1673,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1687,6 +1699,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1712,6 +1725,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1737,6 +1751,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1762,6 +1777,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1787,6 +1803,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1812,6 +1829,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1837,6 +1855,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1862,6 +1881,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1887,6 +1907,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1912,6 +1933,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1937,6 +1959,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1962,6 +1985,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -1987,6 +2011,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2012,6 +2037,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2037,6 +2063,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2062,6 +2089,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2087,6 +2115,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2112,6 +2141,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2137,6 +2167,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2162,6 +2193,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2187,6 +2219,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2212,6 +2245,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2237,6 +2271,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2262,6 +2297,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2287,6 +2323,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2312,6 +2349,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2337,6 +2375,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2362,6 +2401,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2387,6 +2427,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2412,6 +2453,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2437,6 +2479,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2462,6 +2505,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2487,6 +2531,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2512,6 +2557,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2537,6 +2583,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2562,6 +2609,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2587,6 +2635,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2612,6 +2661,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2637,6 +2687,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2681,6 +2732,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2706,6 +2758,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2731,6 +2784,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2756,6 +2810,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2781,6 +2836,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2806,6 +2862,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2831,6 +2888,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2856,6 +2914,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2881,6 +2940,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2906,6 +2966,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2931,6 +2992,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2956,6 +3018,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -2981,6 +3044,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3006,6 +3070,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3031,6 +3096,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3056,6 +3122,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3081,6 +3148,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3106,6 +3174,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3131,6 +3200,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3156,6 +3226,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3181,6 +3252,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3206,6 +3278,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3231,6 +3304,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3256,6 +3330,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3281,6 +3356,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3306,6 +3382,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3331,6 +3408,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3356,6 +3434,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3381,6 +3460,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3406,6 +3486,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3431,6 +3512,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3456,6 +3538,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3481,6 +3564,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3506,6 +3590,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3531,6 +3616,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3556,6 +3642,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3581,6 +3668,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3606,6 +3694,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3631,6 +3720,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3656,6 +3746,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3681,6 +3772,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3706,6 +3798,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3731,6 +3824,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3756,6 +3850,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3781,6 +3876,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3806,6 +3902,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3831,6 +3928,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3856,6 +3954,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3881,6 +3980,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3906,6 +4006,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3931,6 +4032,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3956,6 +4058,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -3981,6 +4084,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4006,6 +4110,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4031,6 +4136,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4056,6 +4162,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4081,6 +4188,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4106,6 +4214,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4131,6 +4240,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4156,6 +4266,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4181,6 +4292,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4206,6 +4318,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4231,6 +4344,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4256,6 +4370,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4281,6 +4396,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4306,6 +4422,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4331,6 +4448,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4356,6 +4474,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4381,6 +4500,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4406,6 +4526,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4431,6 +4552,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4456,6 +4578,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4481,6 +4604,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4506,6 +4630,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4531,6 +4656,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4556,6 +4682,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4581,6 +4708,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4606,6 +4734,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4631,6 +4760,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4656,6 +4786,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4681,6 +4812,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4706,6 +4838,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4731,6 +4864,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4756,6 +4890,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4781,6 +4916,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4806,6 +4942,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4831,6 +4968,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4875,6 +5013,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4900,6 +5039,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4925,6 +5065,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4950,6 +5091,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -4975,6 +5117,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5000,6 +5143,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5025,6 +5169,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5050,6 +5195,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5075,6 +5221,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5100,6 +5247,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5125,6 +5273,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5150,6 +5299,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5175,6 +5325,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5200,6 +5351,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5225,6 +5377,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5250,6 +5403,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5275,6 +5429,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5300,6 +5455,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5325,6 +5481,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5350,6 +5507,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5375,6 +5533,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5400,6 +5559,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5425,6 +5585,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5450,6 +5611,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5475,6 +5637,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5500,6 +5663,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5525,6 +5689,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5550,6 +5715,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5575,6 +5741,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5600,6 +5767,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5625,6 +5793,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5650,6 +5819,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5675,6 +5845,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5700,6 +5871,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5725,6 +5897,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5750,6 +5923,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5775,6 +5949,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5800,6 +5975,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5825,6 +6001,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5850,6 +6027,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5875,6 +6053,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5900,6 +6079,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5925,6 +6105,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5950,6 +6131,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -5975,6 +6157,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6000,6 +6183,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6025,6 +6209,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6050,6 +6235,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6075,6 +6261,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6100,6 +6287,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6125,6 +6313,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6150,6 +6339,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6175,6 +6365,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6200,6 +6391,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6225,6 +6417,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6250,6 +6443,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6275,6 +6469,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6300,6 +6495,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6325,6 +6521,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6350,6 +6547,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6375,6 +6573,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6400,6 +6599,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6425,6 +6625,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6450,6 +6651,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6475,6 +6677,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6500,6 +6703,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6525,6 +6729,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6550,6 +6755,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6575,6 +6781,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6600,6 +6807,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6625,6 +6833,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6650,6 +6859,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6675,6 +6885,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6700,6 +6911,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6725,6 +6937,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6750,6 +6963,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6775,6 +6989,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6800,6 +7015,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6825,6 +7041,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6850,6 +7067,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6875,6 +7093,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6919,6 +7138,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6944,6 +7164,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6969,6 +7190,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -6994,6 +7216,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7019,6 +7242,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7044,6 +7268,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7069,6 +7294,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7094,6 +7320,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7119,6 +7346,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7144,6 +7372,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7169,6 +7398,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7194,6 +7424,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7219,6 +7450,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7244,6 +7476,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7269,6 +7502,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7294,6 +7528,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7319,6 +7554,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7344,6 +7580,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7369,6 +7606,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7394,6 +7632,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7419,6 +7658,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7444,6 +7684,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7469,6 +7710,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7494,6 +7736,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7519,6 +7762,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7544,6 +7788,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7569,6 +7814,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7594,6 +7840,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7619,6 +7866,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7644,6 +7892,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7669,6 +7918,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7694,6 +7944,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7719,6 +7970,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7744,6 +7996,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7769,6 +8022,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7794,6 +8048,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7819,6 +8074,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7844,6 +8100,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7869,6 +8126,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7894,6 +8152,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7919,6 +8178,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7944,6 +8204,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7969,6 +8230,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -7994,6 +8256,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8019,6 +8282,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8044,6 +8308,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8069,6 +8334,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8094,6 +8360,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8119,6 +8386,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8144,6 +8412,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8169,6 +8438,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8194,6 +8464,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8219,6 +8490,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8244,6 +8516,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8269,6 +8542,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8294,6 +8568,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8319,6 +8594,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8344,6 +8620,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8369,6 +8646,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8394,6 +8672,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8419,6 +8698,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8463,6 +8743,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8488,6 +8769,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8513,6 +8795,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8538,6 +8821,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8563,6 +8847,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8588,6 +8873,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8613,6 +8899,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8638,6 +8925,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8663,6 +8951,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8688,6 +8977,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8713,6 +9003,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8738,6 +9029,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8763,6 +9055,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8788,6 +9081,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8813,6 +9107,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8838,6 +9133,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8863,6 +9159,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8888,6 +9185,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8913,6 +9211,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8938,6 +9237,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8963,6 +9263,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -8988,6 +9289,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9013,6 +9315,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9038,6 +9341,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9063,6 +9367,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9088,6 +9393,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9113,6 +9419,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-ItalicMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9138,6 +9445,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9163,6 +9471,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9188,6 +9497,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9213,6 +9523,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9238,6 +9549,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9263,6 +9575,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9288,6 +9601,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9313,6 +9627,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9338,6 +9653,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9363,6 +9679,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9388,6 +9705,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9413,6 +9731,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9438,6 +9757,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9463,6 +9783,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9488,6 +9809,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9513,6 +9835,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9538,6 +9861,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9563,6 +9887,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9588,6 +9913,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9613,6 +9939,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9638,6 +9965,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9663,6 +9991,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9688,6 +10017,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9713,6 +10043,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9738,6 +10069,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9763,6 +10095,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9788,6 +10121,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9832,6 +10166,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9857,6 +10192,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9882,6 +10218,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPS-BoldMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9907,6 +10244,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9932,6 +10270,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9957,6 +10296,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -9982,6 +10322,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10007,6 +10348,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10032,6 +10374,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10057,6 +10400,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10082,6 +10426,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10107,6 +10452,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10132,6 +10478,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10157,6 +10504,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10182,6 +10530,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -10226,6 +10575,7 @@
 						"size": 10.02,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216

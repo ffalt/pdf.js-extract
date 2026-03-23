@@ -51,6 +51,7 @@
 						"size": 43.99999847643705,
 						"name": "URXOFB+CMR10",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25
@@ -73,11 +74,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -143,11 +140,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 19.98828,
 						"fontName": "Helvetica",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						2.9987999776562493,

@@ -59,6 +59,7 @@
 						"size": 10.02,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -84,6 +85,7 @@
 						"size": 10.02,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -109,6 +111,7 @@
 						"size": 10.02,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -134,6 +137,7 @@
 						"size": 10.02,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -159,6 +163,7 @@
 						"size": 10.02,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -184,6 +189,7 @@
 						"size": 24,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -209,6 +215,7 @@
 						"size": 24,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -234,6 +241,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -259,6 +267,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -284,6 +293,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -309,6 +319,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -334,6 +345,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -359,6 +371,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -384,6 +397,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -409,6 +423,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -434,6 +449,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -459,6 +475,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -484,6 +501,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -509,6 +527,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -534,6 +553,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -559,6 +579,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -584,6 +605,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -609,6 +631,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -634,6 +657,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -659,6 +683,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -684,6 +709,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -709,6 +735,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -734,6 +761,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -759,6 +787,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -784,6 +813,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -809,6 +839,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -834,6 +865,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -859,6 +891,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -884,6 +917,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -909,6 +943,7 @@
 						"size": 12,
 						"name": "DHMJBP+Century-Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.682,
 						"descent": -0.174
@@ -934,6 +969,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -959,6 +995,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -984,6 +1021,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1009,6 +1047,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1034,6 +1073,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1059,6 +1099,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1084,6 +1125,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1109,6 +1151,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1134,6 +1177,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1159,6 +1203,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1184,6 +1229,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1209,6 +1255,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1234,6 +1281,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1259,6 +1307,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1284,6 +1333,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1309,6 +1359,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1334,6 +1385,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1359,6 +1411,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1384,6 +1437,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1409,6 +1463,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1472,6 +1527,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1497,6 +1553,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1522,6 +1579,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1547,6 +1605,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1572,6 +1631,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1597,6 +1657,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1622,6 +1683,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1647,6 +1709,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1672,6 +1735,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1697,6 +1761,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1722,6 +1787,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1747,6 +1813,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1772,6 +1839,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1797,6 +1865,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1822,6 +1891,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1847,6 +1917,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1872,6 +1943,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1897,6 +1969,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1922,6 +1995,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1947,6 +2021,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1972,6 +2047,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -1997,6 +2073,7 @@
 						"size": 6,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2022,6 +2099,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2047,6 +2125,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2072,6 +2151,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2097,6 +2177,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2122,6 +2203,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2147,6 +2229,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2172,6 +2255,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2197,6 +2281,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2222,6 +2307,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2247,6 +2333,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2272,6 +2359,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2297,6 +2385,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2322,6 +2411,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2347,6 +2437,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2372,6 +2463,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2397,6 +2489,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2422,6 +2515,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2447,6 +2541,7 @@
 						"size": 6,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2472,6 +2567,7 @@
 						"size": 6,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2497,6 +2593,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2522,6 +2619,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2547,6 +2645,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2572,6 +2671,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2597,6 +2697,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2622,6 +2723,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2647,6 +2749,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2672,6 +2775,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2697,6 +2801,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2719,16 +2824,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -2801,6 +2898,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2826,6 +2924,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2851,6 +2950,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2876,6 +2976,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2901,6 +3002,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2926,6 +3028,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2951,6 +3054,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -2976,6 +3080,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3001,6 +3106,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3026,6 +3132,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3051,6 +3158,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3076,6 +3184,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3101,6 +3210,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3126,6 +3236,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3151,6 +3262,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3176,6 +3288,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3201,6 +3314,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3226,6 +3340,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3251,6 +3366,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3276,6 +3392,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3301,6 +3418,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3326,6 +3444,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3351,6 +3470,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3376,6 +3496,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3401,6 +3522,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3426,6 +3548,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3451,6 +3574,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3476,6 +3600,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3501,6 +3626,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3526,6 +3652,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3551,6 +3678,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3576,6 +3704,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3601,6 +3730,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3626,6 +3756,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3651,6 +3782,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3676,6 +3808,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3701,6 +3834,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3726,6 +3860,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3751,6 +3886,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3776,6 +3912,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3801,6 +3938,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3826,6 +3964,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3851,6 +3990,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3876,6 +4016,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3901,6 +4042,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3926,6 +4068,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3951,6 +4094,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -3976,6 +4120,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4001,6 +4146,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4026,6 +4172,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4051,6 +4198,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4076,6 +4224,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4101,6 +4250,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4126,6 +4276,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4151,6 +4302,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4176,6 +4328,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4201,6 +4354,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4245,6 +4399,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4270,6 +4425,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4295,6 +4451,7 @@
 						"size": 10.02,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4320,6 +4477,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4345,6 +4503,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4370,6 +4529,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4395,6 +4555,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4420,6 +4581,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4445,6 +4607,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4470,6 +4633,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4495,6 +4659,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4520,6 +4685,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4545,6 +4711,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4570,6 +4737,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4595,6 +4763,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4620,6 +4789,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4645,6 +4815,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4670,6 +4841,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4695,6 +4867,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4720,6 +4893,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4745,6 +4919,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4770,6 +4945,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4795,6 +4971,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4820,6 +4997,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4845,6 +5023,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4870,6 +5049,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4895,6 +5075,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4920,6 +5101,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4945,6 +5127,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4970,6 +5153,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -4995,6 +5179,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5020,6 +5205,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5045,6 +5231,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5070,6 +5257,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5095,6 +5283,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5120,6 +5309,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5145,6 +5335,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5170,6 +5361,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5195,6 +5387,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5220,6 +5413,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5245,6 +5439,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5270,6 +5465,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5295,6 +5491,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5320,6 +5517,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5345,6 +5543,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5370,6 +5569,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5395,6 +5595,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5420,6 +5621,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5445,6 +5647,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5470,6 +5673,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5495,6 +5699,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182
@@ -5520,6 +5725,7 @@
 						"size": 12,
 						"name": "DHMIKG+Century-Book",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.688,
 						"descent": -0.182

@@ -66,6 +66,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -88,11 +89,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -118,11 +115,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "F1",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 4096,

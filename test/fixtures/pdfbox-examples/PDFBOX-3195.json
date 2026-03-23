@@ -45,6 +45,7 @@
 						"size": 20,
 						"name": "Arial",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.21
@@ -70,6 +71,7 @@
 						"size": 20,
 						"name": "Arial",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.21

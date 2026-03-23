@@ -41,11 +41,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						0,
-						0
-					],
+					"color": "#ff0000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "Square Annotation",

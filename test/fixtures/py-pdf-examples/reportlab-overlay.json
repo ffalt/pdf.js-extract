@@ -49,6 +49,7 @@
 						"size": 9,
 						"name": "AAAAAA+Roboto-Regular",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.927734375,
 						"descent": -0.244140625
@@ -74,6 +75,7 @@
 						"size": 9,
 						"name": "AAAAAA+Roboto-Regular",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.927734375,
 						"descent": -0.244140625
@@ -99,6 +101,7 @@
 						"size": 9,
 						"name": "AAAAAA+Roboto-Regular",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.927734375,
 						"descent": -0.244140625

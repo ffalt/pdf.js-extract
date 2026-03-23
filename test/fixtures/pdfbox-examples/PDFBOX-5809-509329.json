@@ -84,6 +84,7 @@
 						"size": 16.02,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -109,6 +110,7 @@
 						"size": 12,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -134,6 +136,7 @@
 						"size": 12,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -159,6 +162,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -184,6 +188,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -209,6 +214,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -234,6 +240,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -259,6 +266,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -284,6 +292,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -309,6 +318,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -334,6 +344,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -359,6 +370,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -384,6 +396,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -409,6 +422,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -434,6 +448,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -459,6 +474,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -484,6 +500,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -509,6 +526,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -534,6 +552,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -559,6 +578,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -584,6 +604,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -609,6 +630,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -634,6 +656,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -659,6 +682,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -684,6 +708,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -709,6 +734,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -734,6 +760,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -759,6 +786,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -784,6 +812,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -809,6 +838,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -834,6 +864,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -859,6 +890,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -884,6 +916,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -909,6 +942,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -934,6 +968,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -959,6 +994,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -984,6 +1020,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1009,6 +1046,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1034,6 +1072,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1059,6 +1098,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1084,6 +1124,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1109,6 +1150,7 @@
 						"size": 10.98,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1134,6 +1176,7 @@
 						"size": 10.98,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1159,6 +1202,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1184,6 +1228,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1209,6 +1254,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1234,6 +1280,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1259,6 +1306,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1284,6 +1332,7 @@
 						"size": 10.98,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1309,6 +1358,7 @@
 						"size": 10.98,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1334,6 +1384,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1359,6 +1410,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1384,6 +1436,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1409,6 +1462,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1434,6 +1488,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1459,6 +1514,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1484,6 +1540,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1509,6 +1566,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1534,6 +1592,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1559,6 +1618,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1584,6 +1644,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1609,6 +1670,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1634,6 +1696,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1659,6 +1722,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1684,6 +1748,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1709,6 +1774,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1734,6 +1800,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1759,6 +1826,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1784,6 +1852,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1809,6 +1878,7 @@
 						"size": 10.02,
 						"name": "MBKBDC+SymbolMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.00537109375,
 						"descent": -0.2197265625
@@ -1834,6 +1904,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1859,6 +1930,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1884,6 +1956,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1909,6 +1982,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1934,6 +2008,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1959,6 +2034,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -1984,6 +2060,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2009,6 +2086,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2034,6 +2112,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2059,6 +2138,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2084,6 +2164,7 @@
 						"size": 10.98,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2109,6 +2190,7 @@
 						"size": 10.98,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2134,6 +2216,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2159,6 +2242,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2184,6 +2268,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2209,6 +2294,7 @@
 						"size": 10.02,
 						"name": "MBKAIP+WP-GreekCourier",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.807,
 						"descent": -0.2
@@ -2234,6 +2320,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2259,6 +2346,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2284,6 +2372,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2309,6 +2398,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2334,6 +2424,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2359,6 +2450,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2384,6 +2476,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2409,6 +2502,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2434,6 +2528,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2459,6 +2554,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2484,6 +2580,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2509,6 +2606,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2534,6 +2632,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2559,6 +2658,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2584,6 +2684,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2609,6 +2710,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2634,6 +2736,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2659,6 +2762,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2684,6 +2788,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2709,6 +2814,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2753,6 +2859,7 @@
 						"size": 12,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2778,6 +2885,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2803,6 +2911,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2828,6 +2937,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2853,6 +2963,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2878,6 +2989,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2903,6 +3015,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2928,6 +3041,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2953,6 +3067,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -2978,6 +3093,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3003,6 +3119,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3028,6 +3145,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3053,6 +3171,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3078,6 +3197,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3103,6 +3223,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3128,6 +3249,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3153,6 +3275,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3178,6 +3301,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3203,6 +3327,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3228,6 +3353,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3253,6 +3379,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3278,6 +3405,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3303,6 +3431,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3328,6 +3457,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3353,6 +3483,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3378,6 +3509,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3403,6 +3535,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3428,6 +3561,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3453,6 +3587,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3478,6 +3613,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3503,6 +3639,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3528,6 +3665,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3553,6 +3691,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3578,6 +3717,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3603,6 +3743,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3628,6 +3769,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3653,6 +3795,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3678,6 +3821,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3703,6 +3847,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3728,6 +3873,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3753,6 +3899,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3778,6 +3925,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3803,6 +3951,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3828,6 +3977,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3853,6 +4003,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3878,6 +4029,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3903,6 +4055,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3928,6 +4081,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3953,6 +4107,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -3978,6 +4133,7 @@
 						"size": 12,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4003,6 +4159,7 @@
 						"size": 12,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4028,6 +4185,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4053,6 +4211,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4078,6 +4237,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4103,6 +4263,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4128,6 +4289,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4153,6 +4315,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4178,6 +4341,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4203,6 +4367,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4228,6 +4393,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4253,6 +4419,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4278,6 +4445,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4303,6 +4471,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4328,6 +4497,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4353,6 +4523,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4378,6 +4549,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4403,6 +4575,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4428,6 +4601,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4453,6 +4627,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4478,6 +4653,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4503,6 +4679,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4528,6 +4705,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4553,6 +4731,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4578,6 +4757,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4603,6 +4783,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4628,6 +4809,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4653,6 +4835,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4678,6 +4861,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4703,6 +4887,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4728,6 +4913,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4753,6 +4939,7 @@
 						"size": 10.02,
 						"name": "Arial-ItalicMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4778,6 +4965,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4803,6 +4991,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4828,6 +5017,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4872,6 +5062,7 @@
 						"size": 12,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4897,6 +5088,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4922,6 +5114,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4947,6 +5140,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4972,6 +5166,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -4997,6 +5192,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5022,6 +5218,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5047,6 +5244,7 @@
 						"size": 12,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5072,6 +5270,7 @@
 						"size": 12,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5097,6 +5296,7 @@
 						"size": 10.02,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5122,6 +5322,7 @@
 						"size": 10.02,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5147,6 +5348,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5172,6 +5374,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#0000ff",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5197,6 +5400,7 @@
 						"size": 10.02,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#0000ff",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5222,6 +5426,7 @@
 						"size": 10.02,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5247,6 +5452,7 @@
 						"size": 10.98,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5272,6 +5478,7 @@
 						"size": 10.98,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#0000ff",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5297,6 +5504,7 @@
 						"size": 10.98,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#0000ff",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5322,6 +5530,7 @@
 						"size": 10.98,
 						"name": "Arial-BoldMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5347,6 +5556,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5372,6 +5582,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#0000ff",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5397,6 +5608,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#0000ff",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5422,6 +5634,7 @@
 						"size": 10.02,
 						"name": "ArialMT",
 						"family": "sans-serif",
+						"color": "#0000ff",
 						"vertical": false,
 						"ascent": 0.905,
 						"descent": -0.211
@@ -5444,16 +5657,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5492,16 +5697,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5540,16 +5737,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5588,11 +5777,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						0,
-						255
-					],
+					"color": "#ff00ff",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "The tab order for this page may be inconsistent with the structure order. ",
@@ -5657,11 +5842,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						0,
-						255
-					],
+					"color": "#ff00ff",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "The tab order for this page may be inconsistent with the structure order. ",

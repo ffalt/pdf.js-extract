@@ -50,6 +50,7 @@
 						"size": 12.96,
 						"name": "BZLOCL+CGTimes,BoldItalic",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.704,
 						"descent": -0.208
@@ -75,6 +76,7 @@
 						"size": 12.96,
 						"name": "RTTXDA+CGTimes,Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.687,
 						"descent": -0.208
@@ -100,6 +102,7 @@
 						"size": 12.96,
 						"name": "RTTXDA+CGTimes,Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.687,
 						"descent": -0.208
@@ -125,6 +128,7 @@
 						"size": 12.96,
 						"name": "RTTXDA+CGTimes,Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.687,
 						"descent": -0.208
@@ -150,6 +154,7 @@
 						"size": 12.96,
 						"name": "RTTXDA+CGTimes,Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.687,
 						"descent": -0.208
@@ -175,6 +180,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -200,6 +206,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -225,6 +232,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -250,6 +258,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -275,6 +284,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -300,6 +310,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -325,6 +336,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -350,6 +362,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -375,6 +388,7 @@
 						"size": 12.96,
 						"name": "RTTXDA+CGTimes,Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.687,
 						"descent": -0.208
@@ -400,6 +414,7 @@
 						"size": 12.96,
 						"name": "RTTXDA+CGTimes,Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.687,
 						"descent": -0.208
@@ -425,6 +440,7 @@
 						"size": 12.96,
 						"name": "RTTXDA+CGTimes,Bold",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.687,
 						"descent": -0.208
@@ -450,6 +466,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -475,6 +492,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -500,6 +518,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -525,6 +544,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -550,6 +570,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -575,6 +596,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -600,6 +622,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -625,6 +648,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -650,6 +674,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -675,6 +700,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -700,6 +726,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -725,6 +752,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -750,6 +778,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -775,6 +804,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -800,6 +830,7 @@
 						"size": 12.96,
 						"name": "HSIXIF+CGTimes,Italic",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -825,6 +856,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -850,6 +882,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -875,6 +908,7 @@
 						"size": 12.96,
 						"name": "HSIXIF+CGTimes,Italic",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -900,6 +934,7 @@
 						"size": 12.96,
 						"name": "HSIXIF+CGTimes,Italic",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -925,6 +960,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -950,6 +986,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -975,6 +1012,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -1000,6 +1038,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -1025,6 +1064,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215
@@ -1050,6 +1090,7 @@
 						"size": 12.96,
 						"name": "GUCCBR+CGTimes",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.695,
 						"descent": -0.215

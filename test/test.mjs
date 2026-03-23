@@ -91,7 +91,8 @@ describe("PDFExtract", () => {
 	describe.each(loadedTestCases)("#extractBuffer() for $file", testCase => {
 		const options = {
 			includeImages: true,
-			includeAttachments: true
+			includeAttachments: true,
+			includeColors: true
 		};
 		if (testCase.password) {
 			options.password = testCase.password;
@@ -148,7 +149,8 @@ describe("PDFExtract", () => {
 	describe.each(loadedTestCases)("#extract() for $file", testCase => {
 		const options = {
 			includeImages: true,
-			includeAttachments: true
+			includeAttachments: true,
+			includeColors: true
 		};
 		if (testCase.password) {
 			options.password = testCase.password;
@@ -189,7 +191,8 @@ describe("PDFExtract.tools", () => {
 	describe.each(loadedTestCases)("pageToLines for $file", testCase => {
 		const options = {
 			includeImages: false,
-			includeAttachments: false
+			includeAttachments: false,
+			includeColors: false
 		};
 		if (testCase.password) {
 			options.password = testCase.password;
@@ -217,7 +220,8 @@ describe("PDFExtract.tools", () => {
 	describe.each(loadedTestCases)("extractAllPagesTextRows for $file", testCase => {
 		const options = {
 			includeImages: false,
-			includeAttachments: false
+			includeAttachments: false,
+			includeColors: false
 		};
 		if (testCase.password) {
 			options.password = testCase.password;

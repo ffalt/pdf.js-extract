@@ -45,6 +45,7 @@
 						"size": 18,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -70,6 +71,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -95,6 +97,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -120,6 +123,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -145,6 +149,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -170,6 +175,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -195,6 +201,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -220,6 +227,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -245,6 +253,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -270,6 +279,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -295,6 +305,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -320,6 +331,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -345,6 +357,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -370,6 +383,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -395,6 +409,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -420,6 +435,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -445,6 +461,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -470,6 +487,7 @@
 						"size": 48,
 						"name": "YRCMQU+ACaslonPro-Regular",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.002,
 						"descent": -0.7
@@ -495,6 +513,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274
@@ -520,6 +539,7 @@
 						"size": 24,
 						"name": "ZZMSES+GoudySans-Medium",
 						"family": "serif",
+						"color": "#c02427",
 						"vertical": false,
 						"ascent": 0.896,
 						"descent": -0.274

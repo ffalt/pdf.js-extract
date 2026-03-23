@@ -60,6 +60,7 @@
 						"size": 20.001,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -85,6 +86,7 @@
 						"size": 20.001,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -110,6 +112,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -135,6 +138,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -160,6 +164,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -185,6 +190,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -248,6 +254,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -273,6 +280,7 @@
 						"size": 11.99928,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -298,6 +306,7 @@
 						"size": 11.99928,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -387,11 +396,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.4999979246159114,
@@ -483,11 +488,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.5000056152674119,
@@ -651,11 +652,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.49999731475239173,
@@ -713,11 +710,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 10,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"x": 385.5249938965,
 					"y": 523.9780273438
@@ -735,11 +728,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						0,
-						0
-					],
+					"color": "#ff0000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -782,11 +771,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						0,
-						0
-					],
+					"color": "#ff0000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -829,11 +814,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						0,
-						0
-					],
+					"color": "#ff0000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -882,11 +863,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						0,
-						0
-					],
+					"color": "#ff0000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -959,6 +936,7 @@
 						"size": 20.001,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -984,6 +962,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1009,6 +988,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1034,6 +1014,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1059,6 +1040,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1084,6 +1066,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1109,6 +1092,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1134,6 +1118,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1159,6 +1144,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1184,6 +1170,7 @@
 						"size": 10.997,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1209,6 +1196,7 @@
 						"size": 10.997,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1234,6 +1222,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1259,6 +1248,7 @@
 						"size": 9.004,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1284,6 +1274,7 @@
 						"size": 11.982,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1309,6 +1300,7 @@
 						"size": 11.982,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1334,6 +1326,7 @@
 						"size": 7.996,
 						"name": "HVVLHF+Arial",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1359,6 +1352,7 @@
 						"size": 7.996,
 						"name": "HVVLHF+Arial",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1384,6 +1378,7 @@
 						"size": 7.996,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1409,6 +1404,7 @@
 						"size": 7.996,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1434,6 +1430,7 @@
 						"size": 7.996,
 						"name": "HVVLHF+Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -1459,6 +1456,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000080",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1484,6 +1482,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1509,6 +1508,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1534,6 +1534,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1559,6 +1560,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1584,6 +1586,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1647,6 +1650,7 @@
 						"size": 12,
 						"name": "TimesNewRoman",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 1.007,
 						"descent": -0.307
@@ -1672,6 +1676,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1697,6 +1702,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1722,6 +1728,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1747,6 +1754,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1772,6 +1780,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1797,6 +1806,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1886,11 +1896,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.4999979246159114,
@@ -1982,11 +1988,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.5000056152674119,
@@ -2150,11 +2152,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.49999731475239173,
@@ -2212,11 +2210,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 10,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"x": 385.5249938965,
 					"y": 523.9780273438

@@ -32,6 +32,7 @@ export interface PDFExtractOptions {
   disableCombineTextItems?: boolean; // default:`false` - do not attempt to combine  same line {@link TextItem}'s.
   includeAttachments?: boolean; // include attachments as base64. The default value is `false`.
   includeImages?: boolean; // include images as base64. The default value is `false`.
+  includeColors?: boolean; // default:`false` - include font fill color (best effort, possibly incomplete).
 }
 ```
 
@@ -281,8 +282,8 @@ interface PDFExtractImage {
             "horizontalCornerRadius": 0,
             "verticalCornerRadius": 0
           },
-          "color": [0, 0, 0],
-          "borderColor": [0, 0, 0],
+          "color": "#000000",
+          "borderColor": "#000000",
           "rotation": 0,
           "contentsObj": {
             "str": "",
@@ -312,7 +313,17 @@ interface PDFExtractImage {
           "dir": "ltr",
           "width": 64.656,
           "height": 12,
-          "fontName": "Times"
+          "transform": [12, 0, 0, 12, 70, 50],
+          "font": {
+            "size": 12,
+            "name": "TimesNewRomanPSMT",
+            "color": "#000000",
+            "family": "serif",
+            "vertical": false,
+            "ascent": 0.891,
+            "descent": -0.216
+          },
+          "hasEOL": false
         }
       ],
       "images": [
@@ -340,3 +351,14 @@ interface PDFExtractImage {
 ```
 
 Note: The `images` and `attachments` arrays are optional and only included when they are detected in the PDF. 
+
+## Limitations
+
+### Font Color
+
+Font color extraction is enabled by setting `includeColors: true`.
+The `font.color` value is extracted with best effort by correlating the rendering operator list with the text content items using position matching.
+When pdf.js merges adjacent text runs with different colors into a single content item (e.g. differently colored words on the same line), 
+only the first color is reported.
+This is an inherent limitation of how pdf.js combines text during extraction and cannot be resolved without upstream changes to pdf.js.
+
