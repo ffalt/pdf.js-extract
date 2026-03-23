@@ -49,16 +49,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						1,
-						87,
-						155
-					],
+					"color": "#000000",
+					"borderColor": "#01579b",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -84,11 +76,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,

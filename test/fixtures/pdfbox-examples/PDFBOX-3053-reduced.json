@@ -49,7 +49,8 @@
 					"font": {
 						"size": 10.571899007999999,
 						"name": "Type3",
-						"family": "sans-serif"
+						"family": "sans-serif",
+						"color": "#000000"
 					},
 					"dir": "ltr",
 					"hasEOL": false

@@ -64,6 +64,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -89,6 +90,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -133,6 +135,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216
@@ -158,6 +161,7 @@
 						"size": 12,
 						"name": "TimesNewRomanPSMT",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.891,
 						"descent": -0.216

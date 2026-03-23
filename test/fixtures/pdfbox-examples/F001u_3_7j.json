@@ -45,6 +45,7 @@
 						"size": 6.72,
 						"name": "ABZDRX+Calibri",
 						"family": "sans-serif",
+						"color": "#376091",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25
@@ -70,6 +71,7 @@
 						"size": 6.72,
 						"name": "ABZDRX+Calibri",
 						"family": "sans-serif",
+						"color": "#376091",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25
@@ -95,6 +97,7 @@
 						"size": 6.72,
 						"name": "ABZDSA+Tahoma",
 						"family": "sans-serif",
+						"color": "#376091",
 						"vertical": false,
 						"ascent": 1.00048828125,
 						"descent": -0.20654296875

@@ -64,6 +64,7 @@
 						"size": 10.98,
 						"name": "BCDEEE+Calibri",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25

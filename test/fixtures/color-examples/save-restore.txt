@@ -1,0 +1,3 @@
+Red before save
+Blue inside save
+Should be red again after restore

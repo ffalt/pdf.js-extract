@@ -56,11 +56,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -86,11 +82,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -118,11 +110,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -148,11 +136,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -180,21 +164,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -221,11 +193,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -254,21 +222,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -295,11 +251,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -328,21 +280,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -369,11 +309,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -402,21 +338,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -443,11 +367,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -476,21 +396,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -516,11 +424,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
@@ -549,21 +453,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -589,11 +481,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
@@ -622,16 +510,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -660,11 +540,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Ch",
 					"fieldFlags": 131072,
@@ -704,21 +580,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -744,11 +608,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
@@ -777,21 +637,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -817,11 +665,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
@@ -850,16 +694,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -888,11 +724,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Ch",
 					"fieldFlags": 131072,
@@ -952,11 +784,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -982,11 +810,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1014,11 +838,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1044,11 +864,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -1076,21 +892,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1117,11 +921,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -1150,21 +950,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1191,11 +979,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -1224,21 +1008,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1265,11 +1037,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -1298,21 +1066,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1339,11 +1095,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -1372,21 +1124,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1412,11 +1152,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
@@ -1445,21 +1181,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1485,11 +1209,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
@@ -1518,21 +1238,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1558,11 +1266,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
@@ -1591,21 +1295,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1631,11 +1323,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 0,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 49152,
@@ -1664,16 +1352,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1702,11 +1382,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Ch",
 					"fieldFlags": 131072,
@@ -1746,16 +1422,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -1784,11 +1452,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Ch",
 					"fieldFlags": 131072,

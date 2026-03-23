@@ -41,11 +41,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						255,
-						0
-					],
+					"color": "#ffff00",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "Accepted set by Azd9",
@@ -112,11 +108,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						255,
-						0
-					],
+					"color": "#ffff00",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "Accepted set by Azd9",

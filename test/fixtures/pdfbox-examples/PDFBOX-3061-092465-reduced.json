@@ -51,6 +51,7 @@
 						"size": 10.4999,
 						"name": "ICLFEE+Palatino-Roman",
 						"family": "serif",
+						"color": "#2c2e35",
 						"vertical": false,
 						"ascent": 0.94970703125,
 						"descent": -0.291015625
@@ -73,16 +74,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",

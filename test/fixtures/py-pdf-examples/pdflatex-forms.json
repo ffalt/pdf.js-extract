@@ -59,6 +59,7 @@
 						"size": 9.9626,
 						"name": "YUGTWE+CMR10",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.694,
 						"descent": -0.194
@@ -84,6 +85,7 @@
 						"size": 9.9626,
 						"name": "YUGTWE+CMR10",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.694,
 						"descent": -0.194
@@ -109,6 +111,7 @@
 						"size": 9.9626,
 						"name": "YUGTWE+CMR10",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.694,
 						"descent": -0.194
@@ -134,6 +137,7 @@
 						"size": 9.9626,
 						"name": "YUGTWE+CMR10",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.694,
 						"descent": -0.194
@@ -156,21 +160,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						255,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#ff0000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -197,11 +189,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 10,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 0,
@@ -230,21 +218,9 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"backgroundColor": [
-						255,
-						255,
-						255
-					],
-					"borderColor": [
-						255,
-						0,
-						0
-					],
+					"color": "#000000",
+					"backgroundColor": "#ffffff",
+					"borderColor": "#ff0000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -271,11 +247,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 10,
 						"fontName": "ZaDb",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 0,
@@ -304,16 +276,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						255,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#ff0000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -338,11 +302,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 10,
 						"fontName": "Helv",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Btn",
 					"fieldFlags": 65540,

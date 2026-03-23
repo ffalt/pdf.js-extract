@@ -45,6 +45,7 @@
 						"size": 100,
 						"name": "Calibri",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.75,
 						"descent": -0.25

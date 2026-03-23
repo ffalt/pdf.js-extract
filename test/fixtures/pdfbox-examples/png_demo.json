@@ -46,6 +46,7 @@
 						"size": 20,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -71,6 +72,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -96,6 +98,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -121,6 +124,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -146,6 +150,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -171,6 +176,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -196,6 +202,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -221,6 +228,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -246,6 +254,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -271,6 +280,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -296,6 +306,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -321,6 +332,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -346,6 +358,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -371,6 +384,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -396,6 +410,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -421,6 +436,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -446,6 +462,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -471,6 +488,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -496,6 +514,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -521,6 +540,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -546,6 +566,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -571,6 +592,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -596,6 +618,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -621,6 +644,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -646,6 +670,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -671,6 +696,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -696,6 +722,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -721,6 +748,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -746,6 +774,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -771,6 +800,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -796,6 +826,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -821,6 +852,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -846,6 +878,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -871,6 +904,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -896,6 +930,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -921,6 +956,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -946,6 +982,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -971,6 +1008,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -996,6 +1034,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1021,6 +1060,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1046,6 +1086,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1071,6 +1112,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -1096,6 +1138,7 @@
 						"size": 12,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207

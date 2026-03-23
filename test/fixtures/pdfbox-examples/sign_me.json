@@ -53,6 +53,7 @@
 						"size": 23,
 						"name": "MJUKEC+HelveticaNeue-Medium",
 						"family": "sans-serif",
+						"color": "#68d6ff",
 						"vertical": false,
 						"ascent": 0.975,
 						"descent": -0.217
@@ -78,6 +79,7 @@
 						"size": 23,
 						"name": "MJUKEC+HelveticaNeue-Medium",
 						"family": "sans-serif",
+						"color": "#68d6ff",
 						"vertical": false,
 						"ascent": 0.975,
 						"descent": -0.217
@@ -103,6 +105,7 @@
 						"size": 76,
 						"name": "QIDALC+HelveticaNeue-Bold",
 						"family": "sans-serif",
+						"color": "#68d6ff",
 						"vertical": false,
 						"ascent": 0.975,
 						"descent": -0.217
@@ -128,6 +131,7 @@
 						"size": 76,
 						"name": "QIDALC+HelveticaNeue-Bold",
 						"family": "sans-serif",
+						"color": "#ffffff",
 						"vertical": false,
 						"ascent": 0.975,
 						"descent": -0.217
@@ -153,6 +157,7 @@
 						"size": 76,
 						"name": "QIDALC+HelveticaNeue-Bold",
 						"family": "sans-serif",
+						"color": "#ffffff",
 						"vertical": false,
 						"ascent": 0.975,
 						"descent": -0.217
@@ -178,6 +183,7 @@
 						"size": 76,
 						"name": "QIDALC+HelveticaNeue-Bold",
 						"family": "sans-serif",
+						"color": "#68d6ff",
 						"vertical": false,
 						"ascent": 0.975,
 						"descent": -0.217
@@ -203,6 +209,7 @@
 						"size": 76,
 						"name": "QIDALC+HelveticaNeue-Bold",
 						"family": "sans-serif",
+						"color": "#68d6ff",
 						"vertical": false,
 						"ascent": 0.975,
 						"descent": -0.217

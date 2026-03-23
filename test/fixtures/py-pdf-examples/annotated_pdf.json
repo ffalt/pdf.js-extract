@@ -49,6 +49,7 @@
 						"size": 24,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -74,6 +75,7 @@
 						"size": 24,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -99,6 +101,7 @@
 						"size": 24,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -124,6 +127,7 @@
 						"size": 24,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -149,6 +153,7 @@
 						"size": 24,
 						"name": "Helvetica",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.718,
 						"descent": -0.207
@@ -211,11 +216,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						255,
-						0
-					],
+					"color": "#ffff00",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "Highlight comment",
@@ -296,11 +297,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						255,
-						255,
-						0
-					],
+					"color": "#ffff00",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "Hello world!",

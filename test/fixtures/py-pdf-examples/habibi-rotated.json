@@ -46,6 +46,7 @@
 						"size": 12,
 						"name": "XGBNKK+DejaVuSerif",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.92822265625,
 						"descent": -0.23583984375
@@ -71,6 +72,7 @@
 						"size": 12,
 						"name": "DWGDXP+TimesNewRoman",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.89111328125,
 						"descent": -0.21630859375
@@ -115,6 +117,7 @@
 						"size": 12,
 						"name": "XGBNKK+DejaVuSerif",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.92822265625,
 						"descent": -0.23583984375
@@ -140,6 +143,7 @@
 						"size": 12,
 						"name": "DWGDXP+TimesNewRoman",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.89111328125,
 						"descent": -0.21630859375
@@ -184,6 +188,7 @@
 						"size": 12,
 						"name": "XGBNKK+DejaVuSerif",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.92822265625,
 						"descent": -0.23583984375
@@ -209,6 +214,7 @@
 						"size": 12,
 						"name": "DWGDXP+TimesNewRoman",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.89111328125,
 						"descent": -0.21630859375
@@ -253,6 +259,7 @@
 						"size": 12,
 						"name": "XGBNKK+DejaVuSerif",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.92822265625,
 						"descent": -0.23583984375
@@ -278,6 +285,7 @@
 						"size": 12,
 						"name": "DWGDXP+TimesNewRoman",
 						"family": "serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.89111328125,
 						"descent": -0.21630859375

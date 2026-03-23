@@ -61,6 +61,7 @@
 						"size": 8,
 						"name": "Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -86,6 +87,7 @@
 						"size": 8,
 						"name": "Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -111,6 +113,7 @@
 						"size": 8,
 						"name": "Arial,Bold",
 						"family": "sans-serif",
+						"color": "#000000",
 						"vertical": false,
 						"ascent": 0.9052734375,
 						"descent": -0.2119140625
@@ -200,11 +203,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.0003995958095188712,
@@ -296,11 +295,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.00014036708245868112,
@@ -392,11 +387,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.0001624839627893948,
@@ -488,11 +479,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.0001345036566675617,
@@ -584,11 +571,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						3.450352892286901e-7,
@@ -680,11 +663,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.0000066247854419998475,
@@ -776,11 +755,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.000006304672240275977,
@@ -872,11 +847,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000009650847061948298,
@@ -968,11 +939,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000009649732533034694,
@@ -1064,11 +1031,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.00018904453456514148,
@@ -1160,11 +1123,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000009650847061948298,
@@ -1256,11 +1215,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.0000017550709543456833,
@@ -1352,11 +1307,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.0000012858752711508714,
@@ -1448,11 +1399,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-1.5864540614529687e-7,
@@ -1544,11 +1491,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000005781037913266118,
@@ -1640,11 +1583,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						9.723237894831982e-7,
@@ -1736,11 +1675,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000005643989538839378,
@@ -1832,11 +1767,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.000005565649104255499,
@@ -1928,11 +1859,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.000002240063508907042,
@@ -2024,11 +1951,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-2.7636895083560375e-7,
@@ -2120,11 +2043,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000010049735806205717,
@@ -2216,11 +2135,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.0000016938402040977962,
@@ -2312,11 +2227,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.00000982028467433338,
@@ -2408,11 +2319,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.000008697116072653444,
@@ -2504,11 +2411,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						2.4317330371559365e-7,
@@ -2600,11 +2503,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.0000046684612584613205,
@@ -2696,11 +2595,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.0000044414682065507805,
@@ -2792,11 +2687,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000006800915429039378,
@@ -2888,11 +2779,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000006950277111172909,
@@ -2984,11 +2871,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.0000055677273280707595,
@@ -3080,11 +2963,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						4.235910751049232e-7,
@@ -3176,11 +3055,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000008132139896588342,
@@ -3272,11 +3147,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.000007736733380170335,
@@ -3368,11 +3239,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000011846729023545777,
@@ -3464,11 +3331,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						0.000011846729023545777,
@@ -3560,11 +3423,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 6,
 						"fontName": "Cour",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"textPosition": [
 						-0.000008699753209384653,
@@ -3589,11 +3448,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -3619,11 +3474,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -3651,11 +3502,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -3681,11 +3528,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -3714,11 +3557,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -3744,11 +3583,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -3777,16 +3612,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -3812,11 +3639,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -3844,16 +3667,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -3879,11 +3694,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -3912,16 +3723,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -3947,11 +3750,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -3980,16 +3779,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4015,11 +3806,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4047,16 +3834,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4082,11 +3861,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4115,16 +3890,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4150,11 +3917,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4183,16 +3946,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4218,11 +3973,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4250,16 +4001,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4285,11 +4028,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4318,16 +4057,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4353,11 +4084,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4386,16 +4113,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4421,11 +4140,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 22,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4453,16 +4168,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4488,11 +4195,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 22,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4521,16 +4224,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4556,11 +4251,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 22,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4589,16 +4280,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4624,11 +4307,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 24,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4657,16 +4336,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4692,11 +4363,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 24,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4724,11 +4391,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4755,11 +4418,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4794,16 +4453,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4830,11 +4481,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4869,16 +4516,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4905,11 +4544,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -4944,16 +4579,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -4980,11 +4607,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5019,16 +4642,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5055,11 +4670,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 22,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5094,16 +4705,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5130,11 +4733,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 24,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5169,16 +4768,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5204,11 +4795,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 24,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5237,11 +4824,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5268,11 +4851,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5308,11 +4887,7 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5339,11 +4914,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5379,16 +4950,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5415,11 +4978,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5455,16 +5014,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5491,11 +5042,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5531,16 +5078,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5567,11 +5106,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5607,16 +5142,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5643,11 +5170,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5683,16 +5206,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5719,11 +5234,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5759,16 +5270,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5795,11 +5298,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 12,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5835,16 +5334,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5871,11 +5362,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 22,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5911,16 +5398,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -5947,11 +5426,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 22,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -5987,16 +5462,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -6023,11 +5490,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 24,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
@@ -6063,16 +5526,8 @@
 						"horizontalCornerRadius": 0,
 						"verticalCornerRadius": 0
 					},
-					"color": [
-						0,
-						0,
-						0
-					],
-					"borderColor": [
-						0,
-						0,
-						0
-					],
+					"color": "#000000",
+					"borderColor": "#000000",
 					"rotation": 0,
 					"contentsObj": {
 						"str": "",
@@ -6099,11 +5554,7 @@
 					"defaultAppearanceData": {
 						"fontSize": 24,
 						"fontName": "Arial",
-						"fontColor": [
-							0,
-							0,
-							0
-						]
+						"fontColor": "#000000"
 					},
 					"fieldType": "Tx",
 					"fieldFlags": 12582912,
