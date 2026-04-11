@@ -5,6 +5,8 @@ coverage
 .git
 node_modules
 README.md
+MIGRATION.md
+CHANGELOG.md
 .gitignore
 .gitattributes
 test

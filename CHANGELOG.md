@@ -1,13 +1,17 @@
-## unrelease (2026/04/01)
+# Changelog
+
+## 1.0.0 (2026/04/11)
 
 ### Features
 * pdf.js version 5.5.207
-* option to extract attachments
-* option to extract images
+* option to extract attachments (`includeAttachments`)
+* option to extract images (`includeImages`)
+* option to include font colors in text items (`includeColors`)
 * full extraction of annotations (including links)
+* package modernized to ESM; CJS entry point still available via `require()`
 
 ### BREAKING
-* various changes to the result format (most are additive, but some are breaking)
+* various changes to the result format (most are additive, but some are breaking), see MIGRATION.md for details
 * node 20 is minimum version
 
 ## 0.2.1 (2022/11/07)
