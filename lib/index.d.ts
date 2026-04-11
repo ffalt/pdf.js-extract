@@ -1,5 +1,7 @@
 declare module "pdf.js-extract" {
   export class PDFExtract {
+    static utils: PDFExtractUtils;
+
     extract(
       filename: string,
       options: PDFExtractOptions,
@@ -42,7 +44,7 @@ declare module "pdf.js-extract" {
     meta: PDFExtractMeta;
     pages: Array<PDFExtractPage>;
     attachments?: Array<PDFExtractAttachment>;
-    info?: PDFExtractInfo;
+    info: PDFExtractInfo;
   }
 
   export type PDFExtractBidiDir = "ltr" | "rtl" | "ttb";
@@ -106,12 +108,13 @@ declare module "pdf.js-extract" {
 
   export interface PDFExtractImage {
     index: number;
-    x: number;
-    y: number;
+    x?: number;
+    y?: number;
     width: number;
     height: number;
     kind: number;
     transform?: number[];
+    positions?: number[];
     base64data?: string;
     colorSpace?: string;
     bitsPerComponent?: number;
@@ -131,8 +134,8 @@ declare module "pdf.js-extract" {
   }
 
   export interface PDFExtractFont {
-    name: string;
-    family: string;
+    name?: string;
+    family?: string;
     size: number;
     color?: string;
     vertical?: boolean;
@@ -430,9 +433,7 @@ declare module "pdf.js-extract" {
     readOnly?: boolean;
     hidden?: boolean;
     password?: boolean;
-
     required?: boolean;
-    /* ~ */
 
     /* TextWidgetAnnotation */
     textAlignment?: number;
@@ -440,7 +441,6 @@ declare module "pdf.js-extract" {
     multiLine?: boolean;
     comb?: boolean;
     doNotScroll?: boolean;
-    /* ~ */
 
     /* ButtonWidgetAnnotation */
     checkBox?: boolean;
@@ -449,7 +449,6 @@ declare module "pdf.js-extract" {
     isTooltipOnly?: boolean;
     exportValue?: string;
     buttonValue?: string;
-    /* ~ */
 
     /* ChoiceWidgetAnnotation */
     options?: {
@@ -458,7 +457,6 @@ declare module "pdf.js-extract" {
     }[];
     combo?: boolean;
     multiSelect?: boolean;
-    /* ~ */
 
     /* MarkupAnnotation */
     inReplyTo?: string;
@@ -466,35 +464,30 @@ declare module "pdf.js-extract" {
     titleObj?: PDFExtractBidiText;
     creationDate?: string;
     popupRef?: string;
-    /* ~ */
 
+    /* LineAnnotation, PolylineAnnotation */
     lineCoordinates?: PDFExtractAnnotRect; /* LineAnnotation */
-
     vertices?: PDFExtractAnnotPoint[]; /* PolylineAnnotation */
-
     lineEndings?: [
       PDFExtractAnnotLineEndingStr_,
       PDFExtractAnnotLineEndingStr_,
-    ]; /* LineAnnotation, PolylineAnnotation */
+    ];
 
-    inkLists?: PDFExtractAnnotPoint[][]; /* InkAnnotation */
+    /* InkAnnotation */
+    inkLists?: PDFExtractAnnotPoint[][];
 
-    overlaidText?: string; /* MarkupAnnotation */
-
-    //
+    /* MarkupAnnotation */
+    overlaidText?: string;
 
     /* FileAttachmentAnnotation */
     file?: PDFExtractAttachment;
     fillAlpha?: number;
-    /* ~ */
 
     /* PopupAnnotation */
     parentType?: string;
     parentId?: string;
     parentRect?: PDFExtractAnnotRect;
     open?: boolean;
-    /* ~ */
-
     textPosition?: PDFExtractAnnotDot;
     textContent?: string[];
   }
@@ -504,4 +497,13 @@ declare module "pdf.js-extract" {
     y: number;
   }
 
+  export interface PDFExtractUtils {
+    lineStartWithStrings(line: PDFExtractText[], strings: string[]): boolean;
+    extractTextRows(lines: PDFExtractText[][]): Array<Array<string | null>>;
+    extractColumnLines(lines: PDFExtractText[][], columns: number[], maxdiff: number): Array<Array<PDFExtractText | null>>;
+    extractColumnRows(lines: PDFExtractText[][], columns: number[], maxdiff: number): Array<Array<string | null>>;
+    extractLines(lines: PDFExtractText[][], startStrings: string[], endStrings: string[]): PDFExtractText[][];
+    pageToLines(page: PDFExtractPage, maxDiff: number): PDFExtractText[][];
+    extractAllPagesTextRows(pages: PDFExtractPage[], maxDiff: number): Array<Array<Array<string | null>>>;
+  }
 }
