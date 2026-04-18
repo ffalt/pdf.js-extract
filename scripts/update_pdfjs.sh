@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd scripts || exit
+
 # Clone repo
 git clone https://github.com/mozilla/pdf.js pdfjs-temp
 
@@ -22,8 +24,8 @@ npm install
 ./node_modules/.bin/gulp --gulpfile gulpfile.mjs dist || exit
 
 # Copy Built PDF.js files to the library folder (Change VerbosityLevel to ERRORS )
-node scripts/patch.mjs ./build/generic-legacy/build pdf.mjs
-node scripts/patch.mjs ./build/generic-legacy/build pdf.worker.mjs
+node ../patch.mjs ./build/generic-legacy/build pdf.mjs
+node ../patch.mjs ./build/generic-legacy/build pdf.worker.mjs
 
 # Copy License and Version to library
 cp ./build/version.json ../../lib/pdfjs/version.json
@@ -31,6 +33,6 @@ cp ./LICENSE ../../lib/pdfjs/LICENSE
 echo Used version
 tail ../../lib/pdfjs/version.json
 
-# cleanup unused build files
+# cleanup build files
 cd .. || exit
 rm -Rf pdfjs-temp
