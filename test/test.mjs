@@ -44,7 +44,7 @@ const loadedTestCases = testCases.map(file => {
 	}
 	let expectedText = ["not generated"];
 	if (fs.existsSync(path.join(pdfDirectory, textFile))) {
-		expectedText = fs.readFileSync(path.join(pdfDirectory, textFile)).toString().trim().split('\n');
+		expectedText = fs.readFileSync(path.join(pdfDirectory, textFile)).toString().trim().split(/\r?\n/);
 	}
 	return {
 		file,
