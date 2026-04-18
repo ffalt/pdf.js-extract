@@ -8,13 +8,26 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         node-version: [20.x, 21.x, 22.x, 23.x, 24.x, 25.x]
+    steps:
+    - uses: actions/checkout@v6
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v6
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm ci
+    - run: npm test
+      env:
+        CI: true
 
+  build-windows:
+    runs-on: windows-latest
+    strategy:
+      matrix:
+        node-version: [20.x, 22.x, 24.x]
     steps:
     - uses: actions/checkout@v6
     - name: Use Node.js ${{ matrix.node-version }}
