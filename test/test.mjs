@@ -24,7 +24,7 @@ function findPdfs(dir, base = dir) {
 		if (entry.isDirectory()) {
 			files.push(...findPdfs(full, base));
 		} else if (entry.isFile() && entry.name.toLowerCase().endsWith(".pdf")) {
-			files.push(path.relative(base, full));
+			files.push(path.relative(base, full).replaceAll('\\', '/'));
 		}
 	}
 	return files.sort();
