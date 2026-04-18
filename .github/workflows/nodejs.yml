@@ -35,6 +35,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
-    - run: npm test
+    - run: npm run jest
       env:
         CI: true
+        NODE_OPTIONS: --experimental-vm-modules
