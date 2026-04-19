@@ -51,7 +51,9 @@
   "scripts": {
     "lint": "eslint --ext .cjs,.mjs .",
     "test": "NODE_OPTIONS=\"--experimental-vm-modules\" jest",
-    "fixtures": "node ./scripts/update-fixtures.mjs"
+    "jest": "jest",
+    "fixtures": "node ./scripts/update-fixtures.mjs",
+    "update:pdfjs": "./scripts/update_pdfjs.sh"
   },
   "dependencies": {
     "dommatrix": "0.1.1"
