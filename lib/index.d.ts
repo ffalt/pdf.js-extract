@@ -497,13 +497,37 @@ declare module "pdf.js-extract" {
     y: number;
   }
 
+  export type PDFExtractBinaryData = string | ArrayBufferLike | ArrayBufferView;
+
+  export interface PDFExtractXStat {
+    x: string;
+    val: number;
+  }
+
+  export interface PDFExtractTextColumnCell extends PDFExtractText {
+    merged?: boolean;
+  }
+
+  type PDFExtractNumericKeyObject<T = unknown> = Record<number, T>;
+
+  export type PDFExtractCompacted<T> =
+    T extends null | undefined ? undefined
+    : T extends ArrayBufferView ? number[]
+    : T extends readonly (infer U)[] ? Array<PDFExtractCompacted<U>>
+    : T extends PDFExtractNumericKeyObject<infer U> ? Array<PDFExtractCompacted<U>>
+    : T extends object ? { [K in keyof T]?: PDFExtractCompacted<Exclude<T[K], null | undefined>> }
+    : T;
+
   export interface PDFExtractUtils {
+    toBase64(data: PDFExtractBinaryData | null | undefined): string | undefined;
+    xStats(page: PDFExtractPage): PDFExtractXStat[];
     lineStartWithStrings(line: PDFExtractText[], strings: string[]): boolean;
-    extractTextRows(lines: PDFExtractText[][]): Array<Array<string | null>>;
-    extractColumnLines(lines: PDFExtractText[][], columns: number[], maxdiff: number): Array<Array<PDFExtractText | null>>;
+    extractTextRows(lines: Array<Array<PDFExtractText | null>>): Array<Array<string | null>>;
+    extractColumnLines(lines: PDFExtractText[][], columns: number[], maxdiff: number): Array<Array<PDFExtractTextColumnCell | null>>;
     extractColumnRows(lines: PDFExtractText[][], columns: number[], maxdiff: number): Array<Array<string | null>>;
     extractLines(lines: PDFExtractText[][], startStrings: string[], endStrings: string[]): PDFExtractText[][];
     pageToLines(page: PDFExtractPage, maxDiff: number): PDFExtractText[][];
     extractAllPagesTextRows(pages: PDFExtractPage[], maxDiff: number): Array<Array<Array<string | null>>>;
+    compactObj<T extends object>(obj: T | null | undefined): PDFExtractCompacted<T>;
   }
 }
